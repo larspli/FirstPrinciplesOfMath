@@ -1,0 +1,208 @@
+\input{../doc}
+\input{../preamb}
+
+
+\begin{document}
+
+\newpage
+\section{\fintro}
+Variabler er verdier som forandrar seg. En verdi som forandrar seg i takt med at en variabel forandrar seg, kaller vi en \textit{funksjon}\index{funksjon}.\vsk
+\fig{funk1}
+I figurene over forandrer antallet ruter seg etter et bestemt mønster. Matematisk kan vi skildre dette mønsteret slik:
+\alg{
+\text{Antal ruter i \textsl{Figur \color{blue}1}}= 2\cdot {\color{blue}1}+1=3 \\ 
+\text{Antal ruter i \textsl{Figur \color{blue}2}}= 2\cdot {\color{blue}2}+1=5 \\ 
+\text{Antal ruter i \textsl{Figur \color{blue}3}}= 2\cdot {\color{blue}3}+1=7 \\ 
+\text{Antal ruter i \textsl{Figur \color{blue}4}}= 2\cdot {\color{blue}4}+1=9
+}
+For en figur med et vilkårlig nummer $ x $ har vi at
+\[ \text{Antal ruter i \textsl{Figur }}{\color{blue}x}=2{\color{blue}x}+1 \]
+Antall ruter forandrar seg altså i takt med at $ x $ forandrer seg, og da sier vi at\regv
+\st{\text{''Antall ruter i \textsl{Figur }$ x $'' er en funksjon av $ x $}}\regv
+
+\st{$ {2x+1} $\text{ er \textit{funksjonsuttrykket}\index{funksjonsuttrykk} til funksjonen ''Antall ruter i \textsl{Figur }$ x $''}}
+\newpage
+\textbf{Generelle uttrykk} \\
+Skulle vi jobbet videre med funskjonen vi akkurat har sett på, ville det blitt tungvint å heile tiden måtte skrive ''Antall ruter i \textsl{Figur }$ x $''. Det er vanleg å kalle også funksjoner bare for en bokstav, og i tillegg skrive variabelen funskjonen er avhengig av i parantes. La oss nå omdøpe funksjonen ''Antal ruter i \textsl{Figur} $ x $'' til $ a(x) $. Da har vi at
+\[ \text{Antall ruter i \textsl{Figur }}x=a(x)=2x+1 \]
+Hvis vi skriver $ a(x) $, men erstatter $ x $ med et bestemt tall, betyr det at vi skal erstatte $ x $ med dette talet i funksjonsuttrykket vårt:
+\alg{
+a({\color{blue}1})&=2\cdot{\color{blue}1} +1=3 \\
+a({\color{blue}2})&=2\cdot{\color{blue}2}+1=5 \\
+a({\color{blue}3})&=2\cdot{\color{blue}3}+1=7\\
+a({\color{blue}4})&=2\cdot{\color{blue}4}+1=9
+}
+\fig{funk1a}
+\newpage
+\eks{
+La antall ruter i mønsteret under være gitt av funksjonen $ a(x) $.
+\fig{funk2}
+\textbf{a)} Finn uttrykket for $ a(x) $.\bs
+\textbf{b)} Hvor mange ruter er det når $ x=10 $? \bs
+\textbf{c)} Hva er verdien til $ x $ når $ a(x)=628 $?
+
+\sv
+\textbf{a)} Vi legger merke til at
+\begin{itemize}
+	\item Når $ x=1 $, er det $ 1\cdot1+3=4 $ ruter.
+	\item Når $ x=2 $, er det $ 2\cdot2+3=7 $ ruter.
+	\item Når $ x=3 $, er det $ 3\cdot3+3=12 $ ruter.
+	\item Når $ x=4 $, er det $ 4\cdot4+3=17 $ ruter.
+\end{itemize} 
+Altså er
+\[ a(x)=x\cdot x +3 =x^2+3 \]
+\textbf{b)}
+\[ a(10)=10^2+3=100+3=1035 \]
+Når $ x=10 $, er det 103 ruter.\vsk
+
+\textbf{c)} Vi har likningen
+\algv{
+x^2+3&=628 \\
+x^2&=625
+}	
+Altså er
+\[ x=15\qquad\vee\qquad x=-15 \]
+Siden vi søker en positiv verdi for $ x $, er $ x=15 $.	
+}
+\section{\lingraf}
+Når vi har en variabel $ x $ og en funksjon $ f(x) $, har vi to verdier; verdien til $ x $ og den tilhørende verdien til $ f(x) $. Disse parene av verdier kan vi sette inn i et koordinatsystem\footnote{Se \hrs{Koord}{seksjon}.}, og da får vi \textit{grafen}\index{funksjon!grafen til} til $ f(x) $. \vsk
+
+La oss bruke funksjonen 
+\[ f(x)=2x-1 \]
+som eksempel. Vi har at
+\alg{
+f(0)&=2\cdot0-1=-1 \vn
+f(1)&=2\cdot1-1=1 \vn
+f(2)&=2\cdot2-1=3 \vn
+f(3)&=2\cdot3-1=5
+} 
+Disse parene av verdiar kan vi sette opp i en tabell:
+	\begin{center}
+	\begin{tabular}{c | c |c |c|c}
+		$ x $ & 0 & 1 & 2 & 3 \\ \hline
+		$ f(x) $ &$  -1 $ & 1&3 &5
+	\end{tabular}
+\end{center}
+Tabellen over gir punkta
+\[ (0, -1)\quad\quad(1, 1)\quad\quad(2, 3)\quad\quad(3, 5) \]
+Vi plasserer nå punktene i et koordinatsystem (se figur på side \pageref{funkfig}). I samband med funksjoner er det vanlig å kalle horisontalaksen og vertikalaksen for henholdsvis $ x $-aksen og $ y $-aksen. 
+Grafen til $ f(x) $ er nå en tenkt strek som går gjennom alle de uendelig mange punktene vi kan lage av $ x$-verdier og de tilhørende $ f(x) $-verdiane. Vår funksjon er en \textit{lineær}\index{funksjon!lineær} funksjon, noe som betyr at grafen er ei rett linje. Altså kan grafen tegnes ved å tegne linja som går gjennom punktene vi har funnet.\vsk
+
+Som vi har vært inne på før, kan vi aldri tegne ei hel linje, bare et utklipp av henne. Dette gjelder som regel også for grafer. I figuren på side \pageref{funkfig} har vi tegnet grafen til $ f(x) $ for $ x $-verdiar mellom $ -2 $ og $ 4 $. At $ x $ er i dette \textit{intervallet}\index{intervall} kan vi skrive som\footnote{Se symbolforklaringer på side \pageref{Symbol}.} $ -2\leq x\leq 4 $ eller $ x\in[-2, 4] $.
+\fig{funk3} \label{funkfig}
+
+\reg[\funklin \label{funklin}]{
+	En funksjon på forma \vs
+	\[ f(x)=ax+b \]
+	er en \textit{lineær} funksjon med \textit{stigningstall}\index{stigningstall} $ a $ og \textit{konstantledd}\index{konstantledd} $ b $. \vsk 
+	
+	Grafen til en lineær funksjon er ei rett linje som går gjennom punktet $ (0, b) $. \vsk
+	
+	For to forskjellige $ x $-verdier $ x_1 $ og $ x_2 $ er
+	\[ a=\frac{f(x_2)-f(x_1)}{x_2-x_1} \]
+	\fig{funk6}
+}
+\newpage
+\eks[1]{Finn stigningstaletl og konstantleddet til funksjonene.
+	\alg{
+		f(x)&=2x+1 \vn
+		g(x)&=-3+\frac{7}{2}	\vn
+		h(x)&=\frac{1}{4}x-\frac{5}{6}\vn
+		j(x)&=4-\frac{1}{2}x
+	}
+	\sv \vs \vs
+	\begin{itemize}
+		\item $ f(x) $ har stigningstall 2 og konstantledd 1.
+		\item $ g(x) $ har stigningstall $ -3 $ og konstantledd $ \frac{7}{2} $.
+		\item $ h(x) $ har stigningstall $ \frac{1}{4} $ og konstantledd $ -\frac{5}{6} $.
+		\item $ j(x) $ har stigningstall $ -\frac{1}{2} $ og konstantledd 4.		
+	\end{itemize}	
+}
+\newpage
+\eks[2]{
+	Tegn grafen til
+	\[ f(x)=\dfrac{3}{4}x-2 \]
+	 for $ x\in[-5, 6] $.
+	
+	\sv
+	For å tegne grafen til ein lineær funksjon trenger vi bare å finne to punkt som ligger på grafen. Hvilke to punkt dette er, er det fritt å velge, så for enklest mulig utregning starter vi med å finne punktet der $ x=0 $:
+	\[ f(0)=\frac{3}{4}\cdot0-2=-2 \] 
+	Videre velger vi $ {x=4} $, siden dette også gir oss en enkel utregning:
+	\[ f(4)=\frac{3}{4}\cdot4-2=1 \]
+	Nå har vi informasjonen vi trenger, og for ordens skyld setter vi den inn i en tabell:
+	\begin{center}
+		\begin{tabular}{c | c |c }
+			$ x $ & 0 & 4 \\ \hline
+			$ f(x) $ &$  -2 $ & 1
+		\end{tabular}
+	\end{center}
+Vi tegner punktene og trekker ei linje gjennom dem:
+	\begin{figure}
+		\centering
+		\fig{funk4}
+	\end{figure}
+}
+\eks[3]{
+Finn funksjonsuttrykka til $ f(x) $ og $ g(x) $.	
+\fig{funk5} \vs
+\sv
+Vi starter med å finne funksjonsuttrykket til $ f(x) $. Punktet $ (0, 3) $ ligger på grafen til $ f(x) $ (se også figur på neste side). Da vet vi at $ {f(0)=3} $, og dette må bety at $ 3 $ er konstantleddet til $ f(x) $. Videre ser vi at punktet $ (1, 2) $ også ligger på grafen til $ f(x) $. Stigningstallet til $ f(x) $ er da gitt ved brøken
+\[ \frac{2-3}{1-0}=-1 \] 
+Altså er 
+\[  f(x)=-x+3 \]
+\newpage
+\fig{funk5a}
+Vi går så over til å finne uttrykket til $ g(x) $. Punktet $ (0, -1) $ ligger på grafen til $ g(x) $. Da vet vi at $ {f(0)=-1} $, og dette må bety at $ -1 $ er konstantleddet til $ g(x) $. Videre ser vi at punktet $ (5, 2) $ også ligger på grafen til $ g(x) $. Stigningstallet til $ g(x) $ er da gitt ved brøken
+\[ \frac{2-(-1)}{5-0}=\frac{3}{5} \]
+Altså er
+\[ g(x)=\frac{3}{5}x+1 \]
+}
+
+\newpage
+\fork{\ref{funklin} \funklin}{
+\textbf{Uttrykk for $ \bm a$}\os	
+Gitt en lineær funksjon
+\[ f(x)=ax+b \]
+For to forskjellige $ x $-verdier $ x_1 $ og $ x_2 $ har vi at
+\alg{
+f(x_1)&=ax_1+b \label{funkfork} \vn
+f(x_2)&=ax_2+b\label{funkfork1}
+}
+Vi trekker \eqref{funkfork} fra \eqref{funkfork1}, og får at 
+\alg{
+f(x_2)-f(x_1)&=ax_2+b-(ax_1+b) \br
+f(x_2)-f(x_1)&=ax_2-ax_1\\
+f(x_2)-f(x_1)&=a(x_2-x_1) \\
+\frac{f(x_2)-f(x_1)}{x_2-x_1}&=a \label{funka}
+}\vsk
+
+\textbf{Grafen til ein lineær funksjon er ei rett linje}\os
+
+Gitt ein lineær funksjon $ f(x)=ax+b $ og to forskjellige $ x $-verdiar $ x_1 $ og $ x_2 $. I figuren som viser grafen til $ f(x) $ let vi $ {A=(x_1, b)} $, $ B=(x_2, b) $, $ C=(b, f(x_1)) $, $ D=(0, f(x_2)) $ og $ E=(0, b) $.
+\fig{funk6a}
+Av \eqref{funka} har vi at
+\alg{
+\frac{f(x_1)-f(0)}{x_1-0}&=a\br
+\frac{ax_1+b-b}{x_1}&=a\br
+\frac{ax_1}{x_1}=a \label{funkx1}
+}
+Tilsvarende er 
+\begin{equation} \label{funkx2}
+\frac{ax_2}{x_2}=a 
+\end{equation}
+Videre har vi at
+\alg{
+AC&=f(x_1)-b = ax_1 \vn
+BD&=f(x_2)-b = ax_2 \vn
+EA&= x_1 \vn
+EB&= x_2
+}
+Av \eqref{funkx1} og \eqref{funkx2} har vi at
+\[ \frac{ax_1}{x_1}=\frac{ax_2}{x_2} \]
+Dette betyr at
+\[ \frac{AC}{BD}=\frac{EA}{EB} \]
+I tillegg er $ {\angle A=\angle B} $, altså oppfyller $ \triangle EAC $ og $ \triangle EBD $ vilkår iii fra \rref{vilkform}, og dermed er trekantane formlike. Dette betyr at $ C $ og $ D $ ligger på linje, og denne linja må vere grafen til $ f(x) $.
+}
+
+
+\end{document}

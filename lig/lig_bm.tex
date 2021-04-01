@@ -1,0 +1,313 @@
+\input{../doc}
+\input{../preamb}
+\begin{document}
+
+\section{I\ligintro}
+Ethvert matematisk uttrykk som inneholder \sym{$=$} er en \textit{likning}\index{likning}, likevel er ordet likning tradisjonelt knytt til at vi har et \textit{ukjent} tall.\vsk
+
+Si at vi ønsker å finne et tall som er slik at hvis vi legger til $4$, så får vi $7$. Dette talet kan vi kalle for kva som helst, men det vanligste er å kalle det for $ x $, som altså er det ukjente talet vårt. Likningen vår kan nå skrives slik:
+\[ x+4=7 \]
+$ x $-verdien\footnote{I andre tilfeller kan det være flere verdier.} som gjør at det blir samme verdi på begge sider av likhetstegnet kalles \textit{løsningen} av likningen.
+Det er alltids lov til å se eller prøve seg fram for å finne verdien til $ x $. Kanskje har du allerede merket at $ {x=3} $ er løningen av likningen, siden
+\[ 3+4=7 \]
+Men de fleste likninger er det vanskelig å se eller gjette seg fram til svaret på, og da må vi ty til mer generelle løsningsmetodar. Egentlig er det bare ett prinsipp vi følger: \regv
+\st{Vi kan alltid utføre en matematisk operasjon på den ene siden av likhetstegnet, så lenge vi utfører den også på den andre siden.}
+De matematiske operasjonane vi har presentert i denne boka er de fire rekneartene. Med disse lyder prinsippet slik:\regv
+\st{Vi kan alltid legge til, trekke ifra, gange eller dele med et tall på den ene siden av likhetstegnet, så lenge vi gjør det også på den andre siden.}\regv
+Prinsippet følger av betydningen til \sym{$=$}. Når to uttrykk har samme verdi, må de nødvendigvis fortsette å ha lik verdi, så lenge vi utfører de samme matematiske operasjonane på dem. I kommende seksjon skal vi likevel konkretisere dette prinsippet for hver enkelt rekneoperasjon, men hvis du føler dette allerede gir god meining kan du med fordel hoppe til \hrs{ligsaml}{seksjon}.
+\section{\liglos \label{likloysfire}}
+\textit{I figurene til denne seksjonen skal vi forstå likninger ut ifra et vektprinsipp. \sym{$=$} vil da indikere\footnote{\sym{$\neq$} er symbolet for ''er \textsl{ikkje} lik''.} at det er like mykje vekt (lik verdi) på venstre side som på høyre side.} \vspace{-5pt}
+\begin{figure}
+	\centering
+	\includegraphics[]{\asym{lig}}\qquad
+	\includegraphics[]{\asym{lig1}}
+\end{figure}
+\subsection*{Addisjon og subtraksjon; tall som skifter side}
+\subsubsection*{Første eksempel}
+Vi har allerede funnet løsningen på denne likningen, men la oss løse den på en annen måte\footnote{\textsl{Merk:} I tidligere figurer har det vært samsvar mellom størrelsen på rutene og (tall)verdien til tallet de symboliserer. Dette gjelder ikke rutene som representerer $ x $.}: \vspace{-3pt}
+\[ x+4=7 \]
+\fig{lig2}
+Det blir tydelig hva verdien til $ x $ er hvis $ x $ står alene på en av sidene, og $ x $ blir isolert på venstresiden hvis vi tar bort 4. Men skal vi ta bort 4 fra venstresiden, må vi ta bort 4 fra høyresiden også, skal begge sidene ha samme verdi. \vs
+\[ x+4-{\color{red}4}=7-{\color{red}4}  \]
+\fig{lig2b}
+Siden $ 4-{\color{red}4}=0 $ og $ 7-{\color{red}4}=3 $, får vi at \vspace{-3pt}
+\[ x=3 \]
+\fig{lig2c}
+Dette kunne vi ha skrevet noe mer kortfattet slik:
+
+\prbxl{0.5}{
+	\alg{
+		x+4 &= 7 \\
+		x&= 7-4 \\
+		x &= 3
+}}
+\prbxr{0.5}{Mellom første og andre linje er det vanlig å si at \textsl{4 har skiftet side, og derfor også fortegn (fra $ + $ til $ - $).}}
+\textbf{Andre eksempel}\os
+La oss gå videre til å se på en litt vanskeligere likning\footnote{Legg merke til at figuren illustrerer $ {4x+(-2)} $ (se \hrs{negmeng}{seksjon}) på venstre side. Men  $ {4x+(-2)} $ er det samme som $ {4x-2} $ (se \hrs{rekmneg}{seksjon}).}:
+\[ 4x-2=3x+5 \]
+\fig{lig4}
+For å skaffe et uttrykk med $ x $ bare på én side, tar vi vekk $ 3x $ på begge sider:
+\[ 4x-2-{\color{red}3x}=3x+5-{\color{red}3x} \]
+\fig{lig5}
+Da får vi at
+\[ x-2=5 \]
+\fig{lig5b}
+For å isolere $ x $, legger vi til 2 på venstre side. Da må vi også legge til $ 2 $ på høyre side:
+\[ x-2+{\color{blue}2}=5+{\color{blue}2} \]
+\fig{lig6}
+\newpage
+Da får vi at
+\[ x=7 \]
+\fig{lig7}
+Stegene vi har tatt kan oppsummeres slik:
+\begin{flalign*}
+&& 4x-2&=3x+5 && \llap{1. figur} \\
+&& 4x-{\color{red}3x}-2&=3x-{\color{red}3x}+5 &&  \llap{2. figur} \\
+&& x -2 &= 5 &&\llap{3. figur}\\
+&& x-2+\color{blue}2&=  5+\color{blue}2 &&\llap{4. figur}\\
+&& x &= 7 &&\llap{5. figur}
+\end{flalign*}
+Dette kan vi på en forenklet måte skrive slik:
+\alg{
+4x-2&=3x+5 \\
+4x-{\color{red}3x}&=5+\color{blue}2\\
+x &= 7
+}
+
+\reg[Flytting av tall over likhetstegnet \label{bytt}]{I en likning ønsker vi å samle alle $x$-ledd og alle kjente ledd på hver sin side av likhetstegnet. Skifter et ledd side, skifter det fortegn.}
+
+\eks[1]{Løs likningen
+\[ 3x+3 =2x+5 \]
+\sv	
+	 \vs \vs \vs \vs
+	\begin{align*}
+	3x-2x &=5-3 \\
+	x &=2
+	\end{align*}  \vspace{-20pt}}
+\eks[2]{Løs likningen
+\[ -4x-3 =-5x+12 \\ \]	
+\sv
+	 \vs \vs \vs \vs
+	\begin{align*}
+	-4x+5x &=12+3 \\
+	x &=15
+	\end{align*}}
+\subsection*{Ganging og deling}	
+\subsubsection{Deling}
+Hittil har vi sett på likninger der vi endte opp med én $x $ på den ene siden av likhetstegnet. Ofte har vi flere $ x $-er, som for eksempel i likningen
+\[ 3x=6 \]
+\fig{lig8}
+Deler vi venstresiden vår i tre like grupper, får vi én $ x $ i hver gruppe. Deler vi også høyresiden inn i tre like grupper, må alle gruppene ha den samme verdien
+\[ \frac{3x}{3}=\frac{6}{3} \]
+\fig{lig9}
+Altså er
+\[ x=2 \]
+\fig{lig10}
+La oss oppsummere utregningen vår:\\ 
+\prbxl{0.6}{\begin{flalign*}
+	&& 3x&=6 && \llap{1. figur} \br
+	&& \frac{3x}{3}&=\frac{6}{3} && \llap{2. figur} \br
+	&& x&=2 && \llap{3. figur}
+	\end{flalign*}}\qquad\qquad
+\prbxr{0.25}{Du husker kanskje at vi gjerne skriver
+\[ \frac{\cancel{3}x}{\cancel{3}} \] 
+}
+\newpage
+\reg[Deling på begge sider av en likning \label{ligdel}]{Vi kan dele begge sider av en likning med det samme tallet.}
+\eks[1]{ Løs likningen\vspace{-3pt}
+	\[ 	4x = 20  \]
+	\sv \vs \vs \vsb
+	\begin{align*}
+	\frac{\cancel{4}x}{\cancel{4}}&=\frac{20}{4} \\
+	x &=5
+	\end{align*}
+	\vspace{-20 pt}
+	}
+	
+\eks[2]{Løs likningen \vspace{-3pt}
+	\[2x+6 =3x-2 \]
+\sv \vs \vs \vs \vs
+	\begin{flalign*}
+	&& 2x-3x &= -2-6 &&\\
+	&&-x &= -8&& \\
+	&& \frac{\cancel{-1}x}{\cancel{-1}} &= \frac{-8}{-1} &&\cm{($-x=-1x$)}\\
+	&& x &= 8&&
+	\end{flalign*}}
+
+\subsection*{Ganging}
+Det siste tilfellet vi skal se på er når likninger inneholder brøkdeler av den ukjente, som for eksempel i likningen
+\[ \frac{x}{3}=4 \]
+\fig{lig11}
+Vi kan få én $ x $ på venstresiden hvis vi legger til to eksemplar av $ \frac{x}{3} $. Likningen forteller oss at $ \frac{x}{3} $ har samme verdi som 4. Dette betyr at 
+for hver $ \frac{x}{3} $ vi legger til på venstresiden, må vi legge til 4 på høyresiden, skal sidene ha samme verdi.
+\[ \frac{x}{3}+\frac{x}{3}+\frac{x}{3}=4+4+4 \]
+\fig{lig12}
+Vi legger nå merke til at \y{\frac{x}{3}+\frac{x}{3}+\frac{x}{3}=\frac{x}{3}\cdot3} og at \y{4+4+4=4\cdot3}:
+\[ \frac{x}{3}\cdot 3 = 4\cdot 3 \]
+\fig{lig12b}
+Og da $ \frac{x}{3}\cdot3=x $ og $ 4\cdot3=12 $, har vi at
+\[ x=12 \]
+\fig{lig13}
+En oppsummering av stegene våre kan vi skrive slik:
+\begin{flalign*}
+&& \frac{x}{3}&=4 && \llap{1. figur} \br 
+&& \frac{x}{3}+\frac{x}{3}+\frac{x}{3} &= 4+4+4  &&\llap{2. figur} \br
+&& \frac{x}{3}\cdot 3&=4\cdot3 && \llap{3. figur} \\
+&& x&=12 && \llap{4. figur}
+\end{flalign*}
+Dette kan vi kortere skrive som
+\alg{
+\frac{x}{3}&= 4 \br 
+\frac{x}{\cancel{3}}\cdot \cancel{3} &= 4\cdot 3 \br
+x &= 12
+}
+\newpage
+\reg[Ganging på begge sider av en likning]{
+Vi kan gange begge sider av en likning med det samme talet.
+}
+\eks[1]{
+Løs likningen
+\[ \frac{x}{5}=2 \]
+\sv \vsb \vs
+
+\algv{
+\frac{x}{\cancel{5}}\cdot\cancel{5}&=2\cdot5 \\
+x &= 10
+}
+}
+\eks[2]{
+Løs likningen 
+\[ \frac{7x}{10}-5=13+\frac{x}{10} \]
+\sv \vsb \vs
+
+\algv{
+\frac{7x}{10}-\frac{x}{10}&=13+5\br
+\frac{6x}{10}&=18 \br
+\frac{6x}{\cancel{10}}\cdot \cancel{10}&=18\cdot10 \\
+6x&=180 \br
+\frac{\cancel{6}x}{\cancel{6}}&=\frac{180}{6}\br
+x&=30
+}
+}
+\newpage
+\section{\ligloso \label{ligsaml}}
+\reg[Løysningsmetoder for likninger \label{lsmlig}]{
+Vi kan alltid
+\begin{itemize}
+\item addere eller subtrahere begge sider av en likning med det samme tallet. 
+Dette er ekvivalent til å flytte et ledd fra den ene siden av likningen til den andre, så lenge vi også skifter fortegn på leddet.
+\item gange eller dele begge sider av en likning med det samme tallet.
+\end{itemize}
+}
+\eks[1]{
+Løs likningen 
+\[ 3x-4=6+2x \]
+
+\sv \vs \vs
+
+\algv{
+3x-2x&=6+4 \\
+x&=10
+}
+}
+\eks[2]{
+Løs likningen
+\[ 9-7x=8x+3 \]
+\sv \vs \vs
+\algv{
+ 9-7x&=-8x+3 \\
+  8x-7x&=3-9 \\
+  x&=-6
+}
+}
+\newpage
+\eks[3]{
+	Løs likningen
+	\[ 10x-20=7x-5 \]
+	\sv \vs \vs
+	\algv{
+		10x-20&=7x-5 \\
+		10x-7x&=20-5 \\
+		3x&=15 \\
+		\frac{\cancel{3}x}{\cancel{3}}&=\frac{15}{3} \\
+		x&=5
+	}
+}
+\eks[4]{
+Løy likningen
+\[ 15-4x=x+5 \]
+
+\sv \vs \vsb
+\alg{
+15-5&=x+4x \\
+10&=5x\\
+\frac{10}{5}&=\frac{\cancel{5}x}{\cancel{5}}\\
+2&=x
+}
+}	
+
+\eks[5]{
+Løs likningen
+\[ \frac{4x}{9}-20=8-\frac{3x}{9} \]
+
+\sv \vs \vsb
+\alg{
+\frac{4x}{9}+\frac{3x}{9}&=20+8 \\
+\frac{\cancel{7}x}{9\cdot \cancel{7}}&=\frac{28}{7} \br
+\frac{x}{\cancel{9}}\cdot \cancel{9}&=4\cdot 9\\
+x&=36
+}
+}
+
+\newpage
+\eks[6]{ Løs likningen
+	\[ \frac{1}{3}x+\frac{1}{6}=\frac{5}{12}x+2  \vs\]	
+	
+	\sv
+	Får å unngå brøker, ganger vi begge sider med fellesnevneren 12:
+	\begin{align}
+	\left(\frac{1}{3}x+\frac{1}{6}\right)12&=\left(\frac{5}{12}x+2\right)12 \br	
+	\frac{1}{3}x\cdot12+\frac{1}{6}\cdot12&=\frac{5}{12}x\cdot12+2\cdot12 \tag{$ \ast $}\br	
+	4x+2 &= 5x+24 \\
+	4x-5x &= 24-2 \\
+	-x &= 22 \\
+	\frac{\cancel{-1}\,x}{\cancel{-1}} &= \frac{22}{-1} \\
+	x &= -22
+	\end{align} 
+}
+\info{Tips}{
+	Mange liker å lage seg ein regel om at ''{vi kan gange eller dele alle ledd med det samme tallet}''. I eksempelet over kunne vi da hoppet direkte til andre linje i utrekningen.
+}
+\eks[7]{
+Løs likningen
+\[ 3-\frac{6}{x}= 2+\frac{5}{2x} \vs\]
+
+\sv
+Vi ganger begge sider med fellesnevneren $ 2x $:
+\alg{
+	 2x\left(3-\frac{6}{x}\right)&= 2x\left(2+\frac{5}{2x}\right) \br
+6x -12 &= 4x+5\\
+6x-4x &= 5+12\\
+2x &= 17\\
+x&=\frac{17}{2}
+}
+}
+\begin{comment}
+\eks[]{
+Gitt eit trapes med to parallelle sider $ a $ og $ b $ og høgde $ h $. Da er arealet $ A $ gitt som
+\[ A=\frac{(a+b)h}{2} \]
+Løys likninga med hensyn på $ b $.
+
+\sv \vs \vsb
+\alg{
+ A&=\frac{(a+b)h}{2} \br
+ 2A&=(a+b)h \\
+ 2A&=ah+bh \\
+ 2A-ah&=bh \\
+ \frac{2A-ah}{h}&=b
+}
+}
+\end{comment}
+\end{document}
+
+

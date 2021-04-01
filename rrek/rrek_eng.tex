@@ -1,0 +1,186 @@
+\input{../doc}
+\input{../preamb_eng}
+
+\begin{document}
+%\newpage
+\section{\rrek}
+\subsection*{Priority of the operations}
+Look at the following calculation:
+\[ 2+3\cdot4 \]
+This \textsl{could} have been interpreted in two ways:
+\begin{enumerate}
+	\item ''2 plus 3 equals 5. 5 times 4 equals 20. The answer is 20.''
+	\item ''3 times 4 equals 12. 2 plus 12 equals 14. The answer is.''
+\end{enumerate}
+But the answers are not the same! This points out the need of having rules for what to calculate first. One of these rules is that multiplication and division is to be calculated \textsl{before} addition or subtraction, which means that \regv
+\st{ \vs
+\alg{
+	2+3\cdot 4&=\text{''Calculate }3\cdot4\text{, then add 2''}  \\
+	&= 2+12 \\
+	&= 14
+}
+}
+But what if we wanted to add $ 2 $ with $ 3 $ first, and then multiplying the sum by 4? We use parentheses to tell that something is to be calculeted first: \regv
+\st{\vs
+\alg{
+(2+3)\cdot4&=\text{''Add 2 with 3, multiply by 4 afterwards''} \\
+&= 5\cdot 4 \\
+&= 20
+}
+}\regv
+
+\reg[Order of operations \label{rrek}]{ \vspace{-5pt}
+\begin{enumerate}
+	\item Expressions with parenthesis
+	\item Multiplication or division
+	\item Addition or subtraction
+\end{enumerate}
+} 
+\newpage
+\eks[1]{
+Rekn ut
+\[ 23-(3+9)+4\cdot 7 \]
+\sv \vs \vs
+\algv{
+&& 23-(3+9)+4\cdot 7&=23-12+4\cdot7 &&\text{Paranthesis} \\
+&&&=23-12+28 &&\text{Multiplication} \\
+&&&=39 &&\text{Addition and subtraction}
+}
+}
+\eks[2]{
+	Calculate
+	\[ 18:(7-5)-3 \]
+	\sv \vs \vs
+	\algv{
+		&& 18:(7-5)&=18:2-3 &&\text{Paranthesis} \\
+		&&&=9-3 &&\text{Division} \\
+		&&&=6 &&\text{Addition and subtraction}
+	}
+}
+\subsection*{Multiplication including paranthesis}
+How many boxes are present in the figure below?
+\fig{gang}
+To ways of thinking are these:
+\begin{enumerate}
+	\item It is $ 2\cdot4 =8 $ purple boxes and $ 3\cdot4=12 $ green boxes. In total there are $ 8+12 =20 $ boxes. This we can write as
+\[ 2\cdot 4 + 3\cdot 4 = 20  \]
+	\item It is $ 2+3=5 $ boxes horizontally and 4 boxes vertically, so there are $ 5\cdot4 =20 $ boxes in total. This we can write as
+	\[ (2+3)\cdot 4 = 20 \]
+\end{enumerate}
+From these two calculations it follows that
+\[ (2+3)\cdot4 = 2\cdot 4+ 3\cdot4 \]
+\reg[\gangpar \label{gangpar}]{
+When an expression enclosed by a parenthesis is a factor, we can multiply the other factors with each term inside the parenthesis.	 
+%\fig{gang1}
+}
+\eks[1]{
+\vs
+\[ ({\color{orange}4}+{\color{ForestGreen}7})\cdot {\color{blue}8}={\color{orange}4}\cdot{\color{blue}8}+{\color{ForestGreen}7}\cdot{\color{blue}8} \]	
+}
+\eks[2]{ \vsb \vs
+\alg{
+(10-7)\cdot2 &= 10\cdot 2-7\cdot2\\
+&=20-14 \\
+&=6
+}	
+\mer Obviously, it would be easier calculate like this:
+\[ (10-7)\cdot 2=3\cdot 2 =6 \]
+}
+\eks[2]{
+Calculate $ 12\cdot 3 $.
+
+\sv
+\vsb \vsb
+\alg{
+12\cdot 3&= (10+2)\cdot 3 \\
+&=10\cdot 3 +2\cdot 3 \\
+&=30 +6 \\
+&=36
+}	
+}
+\info{\merk}{
+We introduced parenthesis as an indicator of what to calculate first, but \rref{gangpar} gives an alternative and equivalent interpretation of parenthesis . The rule is especially useful when working on algebra (see \hrs{Del2}{Part}).
+}
+\newpage
+\subsubsection{Multiplying by 0}
+Earlier whe have seen that 0 can be expressed as the difference between two numbers and this can help us calculate when multiplying by 0. Let's look at the calculation
+\[ (2-2)\cdot3 \]
+By \rref{gangpar}, we get
+\alg{
+ (2-2)\cdot3 &= 2\cdot3-2\cdot3\\&=6-6\\&=0
+}
+Since $ 0=2-2 $, this means that
+\[ 0\cdot3=0 \]
+
+\reg[Multiplication by 0]{
+	If 0 is a factor,the product equals 0.
+}
+\eks[1]{ \vsb \vs
+	\alg{
+		7\cdot0&=0\vn
+		0\cdot219 &=0
+	}
+}
+
+\subsection*{Associative laws}
+\reg[Associative ved addisjon]{
+Placement of parenthesis between terms have no impact on the sum.
+}
+\eks[]{ \vsb \vs
+\alg{
+(2+3)+4&=8 \vn
+2+(3+4)&=8
+}
+\fig{asso0}
+}
+\vsk \vsk
+
+\reg[Assosiativ lov ved multiplikasjon]{
+Placement of parenthesis between factors have no impact on the product.
+}
+\eks[]{ \vsb \vs
+\alg{
+(2\cdot3)\cdot4 &=6\cdot 4=24 \vn
+2\cdot(3\cdot4)&=2\cdot 12 =24
+}
+\fig{asso1}
+}  \vsk
+
+Opposite to addition and multiplication, neither subtraction nor divison is associative:
+\alg{
+(12-5)-4&=7-4=3 \\
+12-(5-4)&=12-1=11
+}
+\alg{
+	(80:10):2&=8:2=4 \\
+	80:(10:2)&=80:5=16
+}
+We have seen how parentheses hjelps indicating the \textsl{priority} of operations, but the fact that subtraction and divison is non-associative brings the need of having a rule of in which \textsl{direction} to calculate. \regv
+
+\reg[Direction of calculations \label{rret}]{
+Operations which by \rref{rrek} have equal priority is to be calculated from left to the right.
+}
+\eks[1]{ \vsb \vsb
+	\alg{
+		12-5-4&=(12-5)-4 \\
+		&=7-4\\
+		&=3
+	}
+}
+\eks[2]{ \vsb \vsb
+	\alg{
+		80:10:2&=(80:10):2 \\
+		&=8:2 \\
+		&=4
+	}
+}
+\eks[3]{ \vsb \vs
+	\alg{
+		6: 3\cdot 4 &= (6:3)\cdot4\\ 
+		&=2\cdot4 \\
+		&= 8
+	}
+}
+
+\end{document}
+

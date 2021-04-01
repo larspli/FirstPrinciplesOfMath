@@ -1,0 +1,241 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{lmodern} % load a font with all the characters
+\usepackage{geometry}
+\geometry{verbose,paperwidth=16.1 cm, paperheight=24 cm, inner=2.3cm, outer=1.8 cm, bmargin=2cm, tmargin=1.8cm}
+\setlength{\parindent}{0bp}
+\usepackage{import}
+\usepackage[subpreambles=false]{standalone}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{esint}
+\usepackage{babel}
+\usepackage{tabu}
+\makeatother
+\makeatletter
+
+\usepackage{titlesec}
+\usepackage{ragged2e}
+\RaggedRight
+\raggedbottom
+\frenchspacing
+
+% Norwegian names of figures, chapters, parts and content
+\addto\captionsenglish{\renewcommand{\figurename}{Figur}}
+\makeatletter
+\addto\captionsenglish{\renewcommand{\chaptername}{Kapittel}}
+\addto\captionsenglish{\renewcommand{\partname}{Del}}
+
+\addto\captionsenglish{\renewcommand{\contentsname}{Innhold}}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subfig}
+\usepackage{placeins}
+\usepackage{cancel}
+\usepackage{framed}
+\usepackage{wrapfig}
+\usepackage[subfigure]{tocloft}
+\usepackage[font=footnotesize,labelfont=sl]{caption} % Figure caption
+\usepackage{bm}
+\usepackage[dvipsnames, table]{xcolor}
+\definecolor{shadecolor}{rgb}{0.105469, 0.613281, 1}
+\colorlet{shadecolor}{Emerald!15} 
+\usepackage{icomma}
+\makeatother
+\usepackage[many]{tcolorbox}
+\usepackage{multicol}
+\usepackage{stackengine}
+
+% For tabular
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{longtable} %breakable table
+
+% Ligningsreferanser
+\usepackage{mathtools}
+\mathtoolsset{showonlyrefs}
+
+% index
+\usepackage{imakeidx}
+\makeindex[title=Indeks]
+
+%Footnote:
+\usepackage[bottom, hang, flushmargin]{footmisc}
+\usepackage{perpage} 
+\MakePerPage{footnote}
+\addtolength{\footnotesep}{2mm}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\renewcommand\footnoterule{\rule{\linewidth}{0.4pt}}
+\renewcommand{\thempfootnote}{\arabic{mpfootnote}}
+
+%colors
+\definecolor{c1}{cmyk}{0,0.5,1,0}
+\definecolor{c2}{cmyk}{1,0.25,1,0}
+\definecolor{n3}{cmyk}{1,0.,1,0}
+\definecolor{neg}{cmyk}{1,0.,0.,0}
+
+% Lister med bokstavar
+\usepackage{enumitem}
+
+\newcounter{rg}
+\numberwithin{rg}{chapter}
+\newcommand{\reg}[2][]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,colback=blue!3] {\refstepcounter{rg}\phantomsection \large \textbf{\therg \;#1} \vspace{5 pt}}\newline #2  \end{tcolorbox}\vspace{-5pt}}
+
+\newcommand\alg[1]{\begin{align} #1 \end{align}}
+
+\newcommand\eks[2][]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,enhanced jigsaw,breakable,colback=green!3] {\large \textbf{Eksempel #1} \vspace{5 pt}\\} #2 \end{tcolorbox}\vspace{-5pt} }
+
+\newcommand{\st}[1]{\begin{tcolorbox}[boxrule=0.0 mm,arc=0mm,enhanced jigsaw,breakable,colback=yellow!12]{ #1} \end{tcolorbox}}
+
+\newcommand{\spr}[1]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,enhanced jigsaw,breakable,colback=yellow!7] {\large \textbf{Språkboksen} \vspace{5 pt}\\} #1 \end{tcolorbox}\vspace{-5pt} }
+
+\newcommand{\sym}[1]{\colorbox{blue!15}{#1}}
+
+\newcommand{\info}[2]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,enhanced jigsaw,breakable,colback=cyan!6] {\large \textbf{#1} \vspace{5 pt}\\} #2 \end{tcolorbox}\vspace{-5pt} }
+
+\newcommand\algv[1]{\vspace{-11 pt}\begin{align*} #1 \end{align*}}
+
+\newcommand{\regv}{\vspace{5pt}}
+\newcommand{\mer}{\textsl{Merk}: }
+\newcommand\vsk{\vspace{11pt}}
+\newcommand\vs{\vspace{-11pt}}
+\newcommand\vsb{\vspace{-16pt}}
+\newcommand\sv{\vsk \textbf{Svar:} \vspace{4 pt}\\}
+\newcommand\br{\\[5 pt]}
+\newcommand{\asym}[1]{../fig/#1}
+\newcommand\algvv[1]{\vs\vs\begin{align*} #1 \end{align*}}
+\newcommand{\y}[1]{$ {#1} $}
+\newcommand{\os}{\\[5 pt]}
+\newcommand{\prbxl}[2]{
+\parbox[l][][l]{#1\linewidth}{#2
+	}}
+\newcommand{\prbxr}[2]{\parbox[r][][l]{#1\linewidth}{
+		\setlength{\abovedisplayskip}{5pt}
+		\setlength{\belowdisplayskip}{5pt}	
+		\setlength{\abovedisplayshortskip}{0pt}
+		\setlength{\belowdisplayshortskip}{0pt} 
+		\begin{shaded}
+			\footnotesize	#2 \end{shaded}}}
+
+\renewcommand{\cfttoctitlefont}{\Large\bfseries}
+\setlength{\cftaftertoctitleskip}{0 pt}
+\setlength{\cftbeforetoctitleskip}{0 pt}
+
+\newcommand{\bs}{\\[3pt]}
+\newcommand{\vn}{\\[6pt]}
+\newcommand{\fig}[1]{\begin{figure}
+		\centering
+		\includegraphics[]{\asym{#1}}
+\end{figure}}
+\newcommand{\net}[2]{{\color{blue}\href{#1}{#2}}}
+
+\newcommand{\hrs}[2]{\hyperref[#1]{\color{blue}\textsl{#2 \ref*{#1}}}}
+\newcommand{\rref}[1]{\hyperref[#1]{\color{blue}\textsl{Regel \ref*{#1}}}}
+
+\newcommand{\sectionbreak}{\clearpage} % New page on each section
+
+% Equation comments
+\newcommand{\cm}[1]{\llap{\color{blue} #1}}
+
+\newcommand\fork[2]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,enhanced jigsaw,breakable,colback=yellow!7] {\large \textbf{#1 (forklaring)} \vspace{5 pt}\\} #2 \end{tcolorbox}\vspace{-5pt} }
+
+
+%%% SECTION HEADLINES %%%
+
+% Our numbers
+\newcommand{\likteikn}{Likhetstegnet}
+\newcommand{\talsifverd}{Tall, siffer og verdi}
+\newcommand{\koordsys}{Koordinatsystem}
+
+% Calculations
+\newcommand{\adi}{Addisjon}
+\newcommand{\sub}{Subtraksjon}
+\newcommand{\gong}{Multiplikasjon (Gonging)}
+\newcommand{\del}{Divisjon (deling)}
+
+%Factorization and order of operations
+\newcommand{\fak}{Faktorisering}
+\newcommand{\rrek}{Regnerekkefølge}
+
+%Fractions
+\newcommand{\brgrpr}{Introduksjon}
+\newcommand{\brvu}{Verdi, utviding og forkorting av brøk}
+\newcommand{\bradsub}{Addisjon og subtraksjon}
+\newcommand{\brgngheil}{Brøk ganget med heltall}
+\newcommand{\brdelheil}{Brøk delt med heltall}
+\newcommand{\brgngbr}{Brøk ganget med brøk}
+\newcommand{\brkans}{Kansellering av faktorer}
+\newcommand{\brdelmbr}{Deling med brøk}
+\newcommand{\Rasjtal}{Rasjonale tall}
+
+%Negative numbers
+\newcommand{\negintro}{Introduksjon}
+\newcommand{\negrekn}{De fire regneartane med negative tall}
+\newcommand{\negmeng}{Negative tall som mengde}
+
+% Geometry 1
+\newcommand{\omgr}{Begrep}
+\newcommand{\eignsk}{Egenskaper for trekanter og firkanter}
+\newcommand{\omkr}{Omkrets}
+\newcommand{\area}{Areal}
+
+%Algebra 
+\newcommand{\algintro}{Introduksjon}
+\newcommand{\pot}{Potenser}
+\newcommand{\irrasj}{Irrasjonale tall}
+
+%Equations
+\newcommand{\ligintro}{Introduksjon}
+\newcommand{\liglos}{Løsing ved de fire regneartene}
+\newcommand{\ligloso}{Løsingsmetodene oppsummert}
+
+%Functions
+\newcommand{\fintro}{Introduksjon}
+\newcommand{\lingraf}{Lineære funksjoner og grafer}
+
+%Geometry 2
+\newcommand{\geoform}{Formler for areal og omkrets}
+\newcommand{\kongogsim}{Kongruente og formlike trekanter}
+\newcommand{\geofork}{Forklaringar}
+
+% Names of rules
+\newcommand{\adkom}{Addisjon er kommutativ}
+\newcommand{\gangkom}{Multiplikasjon er kommutativ}
+\newcommand{\brdef}{Brøk som omskriving av delestykke}
+\newcommand{\brtbr}{Brøk ganget med brøk}
+\newcommand{\delmbr}{Brøk delt på brøk}
+\newcommand{\gangpar}{Ganging med parantes (distributiv lov)}
+\newcommand{\gangparsam}{Paranteser ganget sammen}
+\newcommand{\gangmnegto}{Multiplikasjon med negative tall I}
+\newcommand{\gangmnegtre}{Multiplikasjon med negative tall II}
+\newcommand{\konsttre}{Konstruksjon av trekanter}
+\newcommand{\kongtre}{Kongruente trekanter}
+\newcommand{\topv}{Toppvinkler}
+\newcommand{\trisum}{Summen av vinklene i en trekant}
+\newcommand{\firsum}{Summen av vinklene i en firkant}
+\newcommand{\potgang}{Multiplikasjon av potenser}
+\newcommand{\potdivpot}{Divisjon med potenser}
+\newcommand{\potanull}{Spesialtilfellet \boldmath $a^0$}
+\newcommand{\potneg}{Potens med negativ eksponent}
+\newcommand{\potbr}{Brøk som grunntall}
+\newcommand{\faktgr}{Faktorer som grunntall}
+\newcommand{\potsomgrunn}{Potens som grunntall}
+\newcommand{\arsirk}{Arealet til en sirkel}
+\newcommand{\artrap}{Arealet til et trapes}
+\newcommand{\arpar}{Arealet til et parallellogram}
+\newcommand{\pyt}{Pytagoras' setning}
+\newcommand{\forform}{Forhold i formlike trekanter}
+\newcommand{\vilkform}{Vilkår i formlike trekanter}
+\newcommand{\omkrsirk}{Omkretsen til en sirkel (og $ \bm \pi $)}
+\newcommand{\artri}{Arealet til en trekant}
+\newcommand{\arrekt}{Arealet til et rektangel}
+\newcommand{\liknflyt}{Flytting av ledd over likhetstegnet}
+\newcommand{\funklin}{Lineære funksjoner}
+
+%License
+\newcommand{\lic}{\textit{Matematikken sine byggesteinar by Sindre Sogge Heggen is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit\\ 
+		\net{http://creativecommons.org/licenses/by-nc-sa/4.0/}{http://creativecommons.org/licenses/by-nc-sa/4.0/}}}
+
+\usepackage{datetime2}
+\usepackage[]{hyperref}
