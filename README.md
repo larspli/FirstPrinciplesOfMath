@@ -19,20 +19,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  
   <h3 align="center">First Principles of Math</h3>
-
   <p align="center">
     A free introduction to mathematics.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
