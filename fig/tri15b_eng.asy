@@ -24,7 +24,7 @@ pair Ep = t.C-d*t.AC;
 mksq2(Ep,t.C);
 draw(Ep--t.B,dotted,L=rotate(t.vA)*Label("height", position=Relative(0.5)));
 
-label(rotate(t.vA)*Label("grunnlinje"),t.C+1/2*(t.A-t.C),N);
+label(rotate(t.vA)*Label("base"),t.C+1/2*(t.A-t.C),N);
 
 
 t.rors(0,(0,-3));
@@ -44,7 +44,7 @@ mksq2(Ep,t.A);
 draw(Ep--t.A,dotted,L=rotate(90-t.vB)*Label("height", position=Relative(0.5),align=SW));
 draw(Ep--t.C,dotted);
 
-label(rotate(180-t.vB)*Label("grunnlinje"),t.B+1/2*(t.C-t.B),1.5SE);
+label(rotate(180-t.vB)*Label("base"),t.B+1/2*(t.C-t.B),1.5SE);
 
 
 

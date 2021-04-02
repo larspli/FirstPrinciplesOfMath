@@ -293,6 +293,57 @@ Vi gongar begge sider med fellesnemnaren $ 2x $:
 x&=\frac{17}{2}
 }
 }
+\section{Power equations}
+Let's solve the equation
+\[ x^2=9 \]
+This is called a \textit{power equation}\index{power equation}. In general, power equations are difficult to solve applying the four elementary operations only. Regarding power equations, we can raise both sides to the inverse power of the exponent associated with $ x $:
+\[ \left(x^2\right)^\frac{1}{2}=9^\frac{1}{2} \]
+By \rref{potsomgrunn}, we have
+\alg{
+	x^{2\cdot\frac{1}{2}}&=9^\frac{1}{2} \\
+	x&=9^\frac{1}{2}
+}
+Since $ 3^2=9 $, we have $ 9^\frac{1}{2}=3 $. Now observe this: \vsk
+
+\textit{The principle stated on page \pageref{principle} says we can, like we just did, carry out a mathematical operation on both sides of an equation. However, sticking to this principle does not guarantee that all solutions are found.} \\ \vsk
+
+Concerning our equation, we know that $ {x=3} $ is a solution. For the sake of it, we can confirm this by the calculation
+\[ 3^2=3\cdot3=9 \]
+But we also have
+\[ (-3)^2=(-3)(-3)=9 \]
+Hence, $ -3 $ is also a solution of our original equation!
+
+\reg[Power equations]{
+	An eqation which can be written as
+	\[ x^a=b \]
+	where $ a $ and $ b $ are constants,
+	is a \textit{power} equation.
+} 
+\newpage
+\eks[1]{
+	Solve the equation 
+	\[ x^2+5= 21\]
+	\sv \vs \vs \vs
+	\algv{
+		x^2+5&= 21\\
+		x^2 &= 21-5\\
+		x^2 &= 16
+	}
+	Since $ {4\cdot4 =16} $ og $ {(-4)\cdot(-4)=16} $, er både $ {x=4} $ og ${ x=-4} $ løsninger av likninga.
+}
+\eks[2]{
+	Løys likninga:
+	\[ 5x^3 -35 = 4x^3-8 \]
+	\sv \vs \vs
+	\algv{
+		5x^3 -35 &= 4x^3-8 \\
+		5x^3-4x^3 &= -8+35 \\
+		x^3 &= 27 
+	}
+	Siden $ {3\cdot3\cdot3=27} $, er $ {x=3} $ løsningen av likninga.
+}
+\end{document}
+
 \begin{comment}
 \eks[]{
 Gitt eit trapes med to parallelle sider $ a $ og $ b $ og høgde $ h $. Da er arealet $ A $ gitt som

@@ -45,8 +45,8 @@
 \contentsline {section}{\numberline {6.2}Attrributes of triangles and quadrilaterals}{78}{section.6.2}
 \contentsline {section}{\numberline {6.3}Perimeter}{82}{section.6.3}
 \contentsline {section}{\numberline {6.4}Area}{83}{section.6.4}
-\contentsline {subsubsection}{The area of a rectangel}{83}{subsubsection*.55}
-\contentsline {subsubsection}{The areaa of a triangle}{85}{subsubsection*.57}
+\contentsline {subsubsection}{The area of a rectangle}{83}{subsubsection*.55}
+\contentsline {subsubsection}{The area of a triangle}{85}{subsubsection*.57}
 \newpage 
 \contentsline {part}{II\hspace {1em}Algebra and geometry }{90}{part.2}
 \mbox {}\hrulefill \par 
@@ -56,15 +56,16 @@
 \contentsline {section}{\numberline {7.3}Irrational numbers}{105}{section.7.3}
 \contentsline {chapter}{\numberline {8}Equations }{108}{chapter.8}
 \contentsline {section}{\numberline {8.1}Introduction}{109}{section.8.1}
-\contentsline {section}{\numberline {8.2}Solving by the four operations}{110}{section.8.2}
-\contentsline {subsubsection}{Divisjon}{113}{subsubsection*.84}
-\contentsline {section}{\numberline {8.3}Solving methods summarized}{117}{section.8.3}
-\contentsline {chapter}{\numberline {9}Functions }{121}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{122}{section.9.1}
-\contentsline {section}{\numberline {9.2}Linear functions and graphs}{125}{section.9.2}
-\contentsline {chapter}{\numberline {10}Geometry}{133}{chapter.10}
-\contentsline {section}{\numberline {10.1}Formulas of area and perimeter}{134}{section.10.1}
-\contentsline {section}{\numberline {10.2}Congruent and similar triangles}{144}{section.10.2}
-\contentsline {section}{\numberline {10.3}Explenation}{149}{section.10.3}
+\contentsline {section}{\numberline {8.2}Solving with the elementary operations}{110}{section.8.2}
+\contentsline {subsubsection}{Division}{113}{subsubsection*.84}
+\contentsline {section}{\numberline {8.3}Solving with elementary operations summarized}{117}{section.8.3}
+\contentsline {section}{\numberline {8.4}Power equations}{121}{section.8.4}
+\contentsline {chapter}{\numberline {9}Functions }{123}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{124}{section.9.1}
+\contentsline {section}{\numberline {9.2}Linear functions and graphs}{127}{section.9.2}
+\contentsline {chapter}{\numberline {10}Geometry}{135}{chapter.10}
+\contentsline {section}{\numberline {10.1}Formulas of area and perimeter}{136}{section.10.1}
+\contentsline {section}{\numberline {10.2}Congruent and similar triangles}{146}{section.10.2}
+\contentsline {section}{\numberline {10.3}Explenation}{151}{section.10.3}
 
-\contentsline {chapter}{Indeks}{165}{chapter*.102}
+\contentsline {chapter}{Indeks}{167}{chapter*.103}

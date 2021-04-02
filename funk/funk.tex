@@ -52,7 +52,7 @@ Lat antal ruter i mønsteret under vere gitt av funksjonen $ a(x) $.
 Altså er
 \[ a(x)=x\cdot x +3 =x^2+3 \]
 \textbf{b)}
-\[ a(10)=10^2+3=100+3=1035 \]
+\[ a(10)=10^2+3=100+3=103 \]
 Når $ x=10 $, er det 103 ruter.\vsk
 
 \textbf{c)} Vi har likninga
@@ -91,18 +91,19 @@ Grafen til $ f(x) $ er no ein tenkt strek som går gjennom alle dei uendeleg man
 Som vi har vore inne på før, kan vi aldri teikne ei heil linje, berre eit utklipp av ho. Dette gjeld som regel også for grafar. I figuren på side \pageref{funkfig} har vi teikna grafen til $ f(x) $ for $ x $-verdiar mellom $ -2 $ og $ 4 $. At $ x $ er i dette \textit{intervallet}\index{intervall} kan vi skrive som\footnote{Sjå symbolforklaringar på side \pageref{Symbol}.} $ -2\leq x\leq 4 $ eller $ x\in[-2, 4] $.
 \fig{funk3} \label{funkfig}
 
+\newpage
 \reg[\funklin \label{funklin}]{
 	Ein funksjon på forma \vs
 	\[ f(x)=ax+b \]
+	der $ a $ og $ b $ er konstantar,
 	er ein \textit{lineær} funksjon med \textit{stigingstal}\index{stigingstal} $ a $ og \textit{konstantledd}\index{konstantledd} $ b $. \vsk 
 	
 	Grafen til ein lineær funksjon er ei rett linje som går gjennom punktet $ (0, b) $. \vsk
 	
-	For to forskjellige $ x $-verdiar $ x_1 $ og $ x_2 $ er
+	For to forskjellige $ x $-verdiar, $ x_1 $ og $ x_2 $, er
 	\[ a=\frac{f(x_2)-f(x_1)}{x_2-x_1} \]
 	\fig{funk6}
 }
-\newpage
 \eks[1]{Finn stigingstalet og konstantleddet til funksjonane.
 	\alg{
 		f(x)&=2x+1 \vn
@@ -163,11 +164,13 @@ Altså er
 \textbf{Uttrykk for $ \bm a$}\os	
 Gitt ein lineær funksjon
 \[ f(x)=ax+b \]
-For to forskjellige $ x $-verdier $ x_1 $ og $ x_2 $ har vi at
-\alg{
-f(x_1)&=ax_1+b \label{funkfork} \vn
-f(x_2)&=ax_2+b\label{funkfork1}
-}
+For to forskjellige $ x $-verdiar, $ x_1 $ og $ x_2 $, har vi at
+\begin{equation}
+f(x_1)=ax_1+b \label{funkfork}
+\end{equation}
+\begin{equation}
+f(x_2)=ax_2+b \label{funkfork1}
+\end{equation}
 Vi trekk \eqref{funkfork} fra \eqref{funkfork1}, og får at 
 \alg{
 f(x_2)-f(x_1)&=ax_2+b-(ax_1+b) \br
@@ -177,7 +180,7 @@ f(x_2)-f(x_1)&=a(x_2-x_1) \\
 }\vsk
 
 \textbf{Grafen til ein lineær funksjon er ei rett linje}\os
-Gitt ein lineær funksjon $ f(x)=ax+b $ og to forskjellige $ x $-verdiar $ x_1 $ og $ x_2 $. I figuren som viser grafen til $ f(x) $ let vi $ {A=(x_1, b)} $, $ B=(x_2, b) $, $ C=(b, f(x_1)) $, $ D=(0, f(x_2)) $ og $ E=(0, b) $.
+Gitt ein lineær funksjon $ f(x)=ax+b $ og to forskjellige $ x $-verdiar $ x_1 $ og $ x_2 $. Vi set $ {A=(x_1, b)} $, $ {B=(x_2, b)} $, $ {C=(b, f(x_1))} $, $ D=(0, f(x_2)) $ og $ E=(0, b) $.
 \fig{funk6a}
 Av \eqref{funka} har vi at
 \alg{

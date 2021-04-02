@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  30 MAR 2021 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1874,8 +1874,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\T1/lmr/m/n/10.95 ag-o-nals, cre-ate two tri-an-gles which both have base $\OML
-/lmm/m/it/10.95 g$ \T1/lmr/m/n/10.95 and height
+\T1/lmr/m/n/10.95 ag-o-nals, form two tri-an-gles which both have base $\OML/lm
+m/m/it/10.95 g$ \T1/lmr/m/n/10.95 and height
  []
 
 <../fig/tri21c.pdf, id=97, 114.3171pt x 68.69666pt>
@@ -1920,26 +1920,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\T1/lmr/m/n/10.95 a par-al-lel-o-gram will also re-sult in an ex-pres-sion equa
-l to $\OML/lmm/m/it/10.95 gh$\T1/lmr/m/n/10.95 .
+\T1/lmr/m/n/10.95 a par-al-lel-o-gram also re-sults in an ex-pres-sion equal to
+ $\OML/lmm/m/it/10.95 gh$\T1/lmr/m/n/10.95 . This
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\T1/lmr/m/n/10.95 This fol-lows from the fact that a par-al-lel-o-gram is just 
-a spe-cial
+\T1/lmr/m/n/10.95 fol-lows from the fact that a par-al-lel-o-gram is just a spe
+-cial case
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\T1/lmr/m/n/10.95 case of a trape-zoid (and a rect-an-gle is just a spe-cial ca
-se of a
+\T1/lmr/m/n/10.95 of a trape-zoid (and a rect-an-gle is just a spe-cial case of
+ a par-al-
  []
 
 [4 <../fig/tri21a.pdf> <../fig/tri21e.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/lmr/m/n/10.95 Also in a trape-zoid we can, by draw-ing one of the di-ag-o
--nals,
+[]\T1/lmr/m/n/10.95 In a trape-zoid, we can, by draw-ing one of the di-ag-o-nal
+s, cre-ate
  []
 
 <../fig/tri21d.pdf, id=141, 142.76335pt x 78.62373pt>
@@ -1973,8 +1973,8 @@ Package pdftex.def Info: ../fig/tri22c.pdf  used on input line 141.
  [6 <../fig/tri22.pdf> <../fig/tri22b.pdf>] [7 <../fig/tri22a.pdf> <../fig/tri2
 2c.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-[]\T1/lmr/m/n/10.95 In the fig-ure be-low we have seper-ated a cir-cle into 4, 
-10 and 50
+[]\T1/lmr/m/n/10.95 In the be-low fig-ure, we have di-vided a cir-cle into 4, 1
+0 and 50
  []
 
 <../fig/tri19.pdf, id=190, 215.78616pt x 74.17712pt>
@@ -1994,32 +1994,33 @@ Package pdftex.def Info: ../fig/tri19b.pdf  used on input line 154.
 (pdftex.def)             Requested size: 227.28859pt x 74.17693pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 In each case the small arcs makes up the the cir-cum-fer-ence
- of
+\T1/lmr/m/n/10.95 In each case, the arcs makes up the cir-cum-fer-ence of the c
+ir-cle.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 the cir-cle. If the cir-cle has ra-dius $\OML/lmm/m/it/10.95 
-r$\T1/lmr/m/n/10.95 , this means that the sum of
+\T1/lmr/m/n/10.95 If the cir-cle has ra-dius $\OML/lmm/m/it/10.95 r$\T1/lmr/m/n
+/10.95 , the sum of the arcs equals $\OT1/lmr/m/n/10.95 2\OML/lmm/m/it/10.95 ^^
+Yr$\T1/lmr/m/n/10.95 . And
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 the arcs equals $\OT1/lmr/m/n/10.95 2\OML/lmm/m/it/10.95 ^^Yr
-$\T1/lmr/m/n/10.95 . And when there are equally many pieces
+\T1/lmr/m/n/10.95 when there are equally many sec-tors turned up-wards as down-
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 turned up-wards as down-wards, the to-tal length equals $\OML
-/lmm/m/it/10.95 ^^Yr$ \T1/lmr/m/n/10.95 on
+\T1/lmr/m/n/10.95 wards, the to-tal length of the arcs equals $\OML/lmm/m/it/10
+.95 ^^Yr$ \T1/lmr/m/n/10.95 on both the bot-tom
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-[]\T1/lmr/m/n/10.95 The more pieces the cir-cle is sep-a-rated into, the more t
-he com-
+[]\T1/lmr/m/n/10.95 The more sec-tors the cir-cle is di-vided into, the more th
+e com-
  []
 
 
@@ -2030,8 +2031,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 are 100 pieces). The base $\OML/lmm/m/it/10.95 g$ \T1/lmr/m/n
-/10.95 of this ''rect-an-gle'' ap-prox-i-mately
+\T1/lmr/m/n/10.95 are 100 sec-tors). The base $\OML/lmm/m/it/10.95 g$ \T1/lmr/m
+/n/10.95 of this ''rect-an-gle'' ap-prox-i-mately
  []
 
 <../fig/tri19c.pdf, id=193, 149.04684pt x 49.74585pt>
@@ -2069,40 +2070,40 @@ Package pdftex.def Info: ../fig/tri26j.pdf  used on input line 162.
 <../fig/tri26h.pdf, id=196, 67.33156pt x 54.6843pt>
 File: ../fig/tri26h.pdf Graphic file (type pdf)
 <use ../fig/tri26h.pdf>
-Package pdftex.def Info: ../fig/tri26h.pdf  used on input line 176.
+Package pdftex.def Info: ../fig/tri26h.pdf  used on input line 178.
 (pdftex.def)             Requested size: 67.33138pt x 54.68414pt.
 [8 <../fig/tri19.pdf> <../fig/tri19a.pdf> <../fig/tri19b.pdf> <../fig/tri19c.pd
 f>] [9 <../fig/tri26g.pdf> <../fig/tri26j.pdf> <../fig/tri26h.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[]\T1/lmr/m/n/10.95 The be-low fig-ure shows equal-sized squares sep-a-rated in
-to dif-fer-
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]\T1/lmr/m/n/10.95 The be-low fig-ure shows equal-sized squares di-vided into 
+dif-fer-ent
  []
 
 <../fig/tri26d.pdf, id=251, 251.4494pt x 122.76866pt>
 File: ../fig/tri26d.pdf Graphic file (type pdf)
 <use ../fig/tri26d.pdf>
-Package pdftex.def Info: ../fig/tri26d.pdf  used on input line 194.
+Package pdftex.def Info: ../fig/tri26d.pdf  used on input line 196.
 (pdftex.def)             Requested size: 251.44878pt x 122.76834pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 The area of the red square is $\OML/lmm/m/it/10.95 a[]$\T1/
 lmr/m/n/10.95 , the area of the pur-ple
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 The area of an or-ange square is $\OML/lmm/m/it/10.95 ab$ \
 T1/lmr/m/n/10.95 and the area of a green
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 If we re-move the two or-ange rect-an-gles and the four gre
 en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \T1/lmr/m/n/10.95 tri-an-gles, the re-main-ing area to the left equals the re-m
 ain-
  []
@@ -2110,46 +2111,46 @@ ain-
 <../fig/tri26e.pdf, id=252, 230.97292pt x 98.66862pt>
 File: ../fig/tri26e.pdf Graphic file (type pdf)
 <use ../fig/tri26e.pdf>
-Package pdftex.def Info: ../fig/tri26e.pdf  used on input line 194.
+Package pdftex.def Info: ../fig/tri26e.pdf  used on input line 196.
 (pdftex.def)             Requested size: 230.97234pt x 98.66838pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \T1/lmr/m/n/10.95 Given a tri-an-gle with sides of length $\OML/lmm/m/it/10.95 
 a; b$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 c$\T1/lmr/m/n/10.95 , of which
- $\OML/lmm/m/it/10.95 c$ \T1/lmr/m/n/10.95 is the
+ $\OML/lmm/m/it/10.95 c$ \T1/lmr/m/n/10.95 is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-\T1/lmr/m/n/10.95 longest length. As long as the tri-an-gle is right, we can al
--ways
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/lmr/m/n/10.95 the longest. As long as the tri-an-gle is right, we can al-wa
+ys form
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-\T1/lmr/m/n/10.95 form two squares with sides of length $[]$, as in the ini-tia
-l
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/lmr/m/n/10.95 two squares with sides of length $[]$, as in the ini-tial fig
+-ure.
  []
 
 [10 <../fig/tri26d.pdf> <../fig/tri26e.pdf>]
 <../fig/geo13.pdf, id=281, 113.81522pt x 72.61127pt>
 File: ../fig/geo13.pdf Graphic file (type pdf)
 <use ../fig/geo13.pdf>
-Package pdftex.def Info: ../fig/geo13.pdf  used on input line 208.
+Package pdftex.def Info: ../fig/geo13.pdf  used on input line 210.
 (pdftex.def)             Requested size: 113.81493pt x 72.61108pt.
 
-Overfull \hbox (20.43202pt too wide) in paragraph at lines 208--208
+Overfull \hbox (20.43202pt too wide) in paragraph at lines 210--210
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 []\T1/lmr/m/n/10.95 A tri-an-gle $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$
 \T1/lmr/m/n/10.95 , as shown in the be-low fig-ure, can be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 \T1/lmr/m/n/10.95 uniquely con-structed if one of the fol-low-ing terms are sat
 -is-fied:
  []
@@ -2157,12 +2158,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--208
 <../fig/geo14.pdf, id=282, 227.62039pt x 65.40436pt>
 File: ../fig/geo14.pdf Graphic file (type pdf)
 <use ../fig/geo14.pdf>
-Package pdftex.def Info: ../fig/geo14.pdf  used on input line 214.
+Package pdftex.def Info: ../fig/geo14.pdf  used on input line 216.
 (pdftex.def)             Requested size: 227.61983pt x 65.40417pt.
 <../fig/geo8.pdf, id=283, 308.92413pt x 66.649pt>
 File: ../fig/geo8.pdf Graphic file (type pdf)
 <use ../fig/geo8.pdf>
-Package pdftex.def Info: ../fig/geo8.pdf  used on input line 219.
+Package pdftex.def Info: ../fig/geo8.pdf  used on input line 221.
 (pdftex.def)             Requested size: 308.92337pt x 66.64882pt.
 [11
 
@@ -2170,28 +2171,28 @@ Package pdftex.def Info: ../fig/geo8.pdf  used on input line 219.
 <../fig/tri1.pdf, id=310, 270.46045pt x 85.5998pt>
 File: ../fig/tri1.pdf Graphic file (type pdf)
 <use ../fig/tri1.pdf>
-Package pdftex.def Info: ../fig/tri1.pdf  used on input line 223.
+Package pdftex.def Info: ../fig/tri1.pdf  used on input line 225.
 (pdftex.def)             Requested size: 270.45978pt x 85.59958pt.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 228.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 230.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 228.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 230.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 251.
+(Font)              <9> on input line 253.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 251.
+(Font)              <5> on input line 253.
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
-[][][][]\T1/lmr/m/n/9 Here we take it for granted that the cor-re-spond-ing sid
-es are ap-par-ent from
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[][][][]\T1/lmr/m/n/9 Here, we take it for granted that cor-re-spond-ing sides 
+are ap-par-ent from the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 []\T1/lmr/m/n/10.95 If two tri-an-gles are sim-i-lar, the ra-tios of cor-re-spo
 nd-ing sides are
  []
@@ -2199,28 +2200,29 @@ nd-ing sides are
 <../fig/geo8b.pdf, id=312, 308.92413pt x 66.649pt>
 File: ../fig/geo8b.pdf Graphic file (type pdf)
 <use ../fig/geo8b.pdf>
-Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 251.
+Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 253.
 (pdftex.def)             Requested size: 308.92337pt x 66.64882pt.
-<../fig/tri3a.pdf, id=313, 124.12373pt x 71.738pt>
+[12 <../fig/tri1.pdf> <../fig/geo8b.pdf>]
+<../fig/tri3a.pdf, id=332, 124.12373pt x 71.738pt>
 File: ../fig/tri3a.pdf Graphic file (type pdf)
 <use ../fig/tri3a.pdf>
-Package pdftex.def Info: ../fig/tri3a.pdf  used on input line 267.
+Package pdftex.def Info: ../fig/tri3a.pdf  used on input line 274.
 (pdftex.def)             Requested size: 124.12341pt x 71.73782pt.
-<../fig/tri3b.pdf, id=314, 196.27327pt x 105.88559pt>
+<../fig/tri3b.pdf, id=333, 196.27327pt x 105.88559pt>
 File: ../fig/tri3b.pdf Graphic file (type pdf)
 <use ../fig/tri3b.pdf>
-Package pdftex.def Info: ../fig/tri3b.pdf  used on input line 267.
+Package pdftex.def Info: ../fig/tri3b.pdf  used on input line 274.
 (pdftex.def)             Requested size: 196.27278pt x 105.88533pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 []\T1/lmr/m/n/10.95 We ob-ser-vere that $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10
 .95 cor-re-sponds to $\OML/lmm/m/it/10.95 DE$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it
 /10.95 BC$ \T1/lmr/m/n/10.95 to $\OML/lmm/m/it/10.95 EF$ \T1/lmr/m/n/10.95 and 
 $\OML/lmm/m/it/10.95 AC$
  []
 
-[12 <../fig/tri1.pdf> <../fig/geo8b.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 281--281
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []\T1/lmr/m/n/10.95 Two tri-anlges $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 AB
 C$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr
 /m/n/10.95 are sim-i-lar if one of these
@@ -2228,22 +2230,22 @@ C$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr
 
 File: ../fig/geo8b.pdf Graphic file (type pdf)
 <use ../fig/geo8b.pdf>
-Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 281.
+Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 285.
 (pdftex.def)             Requested size: 308.92337pt x 66.64882pt.
 <../fig/geo15.pdf, id=334, 199.1741pt x 76.75676pt>
 File: ../fig/geo15.pdf Graphic file (type pdf)
 <use ../fig/geo15.pdf>
-Package pdftex.def Info: ../fig/geo15.pdf  used on input line 290.
+Package pdftex.def Info: ../fig/geo15.pdf  used on input line 294.
 (pdftex.def)             Requested size: 199.17361pt x 76.75656pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
 []$\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 and $\OMS/lm
 sy/m/n/10.95 4\OML/lmm/m/it/10.95 ACD$ \T1/lmr/m/n/10.95 are both right and the
 y have $\U/msa/m/n/10.95 \\OML/lmm/m/it/10.95 DAC$ \T1/lmr/m/n/10.95 in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
 \T1/lmr/m/n/10.95 com-mon. Hence, the tri-an-gles sat-isfy term \T1/lmr/m/sl/10
 .95 i \T1/lmr/m/n/10.95 from [][]\T1/lmr/m/sl/10.95 Rule 0.12[][][]\T1/lmr/m/n/
 10.95 , and
@@ -2253,53 +2255,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--290
 <../fig/geo15a.pdf, id=368, 304.09608pt x 72.73172pt>
 File: ../fig/geo15a.pdf Graphic file (type pdf)
 <use ../fig/geo15a.pdf>
-Package pdftex.def Info: ../fig/geo15a.pdf  used on input line 304.
+Package pdftex.def Info: ../fig/geo15a.pdf  used on input line 308.
 (pdftex.def)             Requested size: 304.09534pt x 72.73152pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 \T1/lmr/m/n/10.95 Hence, $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr
 /m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 GHI$ \T1/lmr/m/n/10.95
  sat-isfy term \T1/lmr/m/sl/10.95 ii \T1/lmr/m/n/10.95 from [][]\T1/lmr/m/sl/10
 .95 Rule 0.12[][][]\T1/lmr/m/n/10.95 , and
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+\T1/lmr/m/n/10.95 there-fore they are sim-i-lar. (Hence, $\OMS/lmsy/m/n/10.95 4
+\OML/lmm/m/it/10.95 GHI$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m
+/it/10.95 FED$ \T1/lmr/m/n/10.95 are not
+ []
+
 <../fig/geo15b.pdf, id=370, 323.80975pt x 80.84203pt>
 File: ../fig/geo15b.pdf Graphic file (type pdf)
 <use ../fig/geo15b.pdf>
-Package pdftex.def Info: ../fig/geo15b.pdf  used on input line 312.
+Package pdftex.def Info: ../fig/geo15b.pdf  used on input line 316.
 (pdftex.def)             Requested size: 323.80894pt x 80.84181pt.
 
-Overfull \hbox (12.53572pt too wide) in paragraph at lines 312--312
+Overfull \hbox (12.53572pt too wide) in paragraph at lines 316--316
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
 \T1/lmr/m/n/10.95 Hence, term \T1/lmr/m/sl/10.95 iii \T1/lmr/m/n/10.95 from [][
 ]\T1/lmr/m/sl/10.95 Rule 0.12[][][] \T1/lmr/m/n/10.95 is sat-is-fied, and there
 -fore the
  []
 
 [15 <../fig/geo15a.pdf> <../fig/geo15b.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[][]\T1/lmr/bx/n/12 0.5[] The perime-ter of a cir-cle (and the value of $\OML/l
+mm/b/it/12 ^^Y$\T1/lmr/bx/n/12 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/it/10.95 Here we shall use reg-u-lar poly-gongs along the path to o
 ur wanted
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 re-sult. In reg-u-lar poly-gons, all sides are of equal leng
 th. Since all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 poly-gons here to be men-tioned are reg-u-lar, we'll men-tio
 n them
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 We'll start off by ex-am-in-ing some ap-prox-i-ma-tions of 
 the cir-cum-
  []
@@ -2307,90 +2322,91 @@ the cir-cum-
 <../fig/geo9l.pdf, id=394, 114.3171pt x 114.3171pt>
 File: ../fig/geo9l.pdf Graphic file (type pdf)
 <use ../fig/geo9l.pdf>
-Package pdftex.def Info: ../fig/geo9l.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9l.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-[]\T1/lmr/m/n/10.95 When seek-ing a value, it is a good habit to ask if one can
- con-
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\T1/lmr/m/n/10.95 When seek-ing a value, it is a good habit to con-clude how 
+large
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 clude how large or small one \T1/lmr/m/sl/10.95 ex-pects \T1/
-lmr/m/n/10.95 it to be. With this tar-get,
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 or small you \T1/lmr/m/sl/10.95 ex-pect \T1/lmr/m/n/10.95 it 
+to be. With this tar-get, we en-close the
  []
 
 <../fig/geo9c.pdf, id=395, 114.3171pt x 114.3171pt>
 File: ../fig/geo9c.pdf Graphic file (type pdf)
 <use ../fig/geo9c.pdf>
-Package pdftex.def Info: ../fig/geo9c.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9c.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 Apparently, the cir-cum-fer-ence of the cir-cle must be small
-er then
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 Clearly, the cir-cum-fer-ence of the cir-cle is smaller then 
+the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 Now we in-scribe a 6-gon (hexagon). The hexagon can be split
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 Now we in-scribe a 6-gon (hexagon). The hexagon can be di-vid
+ed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 into 6 equi-lat-eral tri-an-gles with, nec-es-sar-ily, sides 
 of length 1.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 The cir-cum-fer-ence of the cir-cle must be larger then 6 sid
-e-leng-
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 The cir-cum-fer-ence of the cir-cle must be larger than the p
+erime-
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9.pdf, id=396, 114.3171pt x 114.3171pt>
 File: ../fig/geo9.pdf Graphic file (type pdf)
 <use ../fig/geo9.pdf>
-Package pdftex.def Info: ../fig/geo9.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9d2.pdf, id=397, 114.3171pt x 114.3171pt>
 File: ../fig/geo9d2.pdf Graphic file (type pdf)
 <use ../fig/geo9d2.pdf>
-Package pdftex.def Info: ../fig/geo9d2.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9d2.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Now ad-vanc-ing to a more so-phis-ti-cated hunt for the cir-c
 um-fer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 The idea of in-scrib-ing poly-gons car-ries on. We let the 
 be-low
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 fig-ures work as a suf-fi-cient prove of the fact that the mo
 re sides
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 of the poly-gon, the bet-ter es-ti-mate its perime-ter makes 
 of the
  []
@@ -2399,37 +2415,37 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 File: ../fig/geo9.pdf Graphic file (type pdf)
 <use ../fig/geo9.pdf>
-Package pdftex.def Info: ../fig/geo9.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9a.pdf, id=398, 114.3171pt x 114.3171pt>
 File: ../fig/geo9a.pdf Graphic file (type pdf)
 <use ../fig/geo9a.pdf>
-Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Since a 6-gon has sides of length 1, it is tempt-ing to ex-am
 -ine if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 this can help us find the side lengths of other poly-gons. By
  in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 scrib-ing both a 6-gon and a 12-gon (and also draw-ing a tri-
 an-gle)
  []
@@ -2438,25 +2454,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9g.pdf, id=399, 114.3171pt x 114.3171pt>
 File: ../fig/geo9g.pdf Graphic file (type pdf)
 <use ../fig/geo9g.pdf>
-Package pdftex.def Info: ../fig/geo9g.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9g.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/sl/9 (a) |\T1/lmr/m/n/9 A 6-gon and a 12-gon
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/9 to-gether with a tri-an-gle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/9 formed by the cir-cle cen-ter
  []
 
@@ -2464,138 +2480,132 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9h.pdf, id=400, 104.83165pt x 81.51454pt>
 File: ../fig/geo9h.pdf Graphic file (type pdf)
 <use ../fig/geo9h.pdf>
-Package pdftex.def Info: ../fig/geo9h.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9h.pdf  used on input line 465.
 (pdftex.def)             Requested size: 104.83139pt x 81.51433pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/sl/9 (b) |\T1/lmr/m/n/9 The tri-an-gle from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Let $\OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 and $\OML/lmm
 /m/it/10.95 s[]$ \T1/lmr/m/n/10.95 de-note the side lengths of the 12-gon and t
 he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 6-gon, re-spec-tively. More-over, we ob-serve that both $\OML
 /lmm/m/it/10.95 A$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 C$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 lies on the cir-cu-lar arc and that both $\OMS/lmsy/m/n/10.95
  4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm
 /m/it/10.95 BSC$ \T1/lmr/m/n/10.95 are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 To find $\OML/lmm/m/it/10.95 s[]$\T1/lmr/m/n/10.95 , we need 
 to know $\OML/lmm/m/it/10.95 BA$\T1/lmr/m/n/10.95 , and to find $\OML/lmm/m/it/
 10.95 BA$ \T1/lmr/m/n/10.95 we need to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 know $\OML/lmm/m/it/10.95 SB$\T1/lmr/m/n/10.95 . Hence, we st
-art with find-ing $\OML/lmm/m/it/10.95 SB$\T1/lmr/m/n/10.95 . Since $[]$ and
+art off find-ing $\OML/lmm/m/it/10.95 SB$\T1/lmr/m/n/10.95 . Since $[]$ and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 At first, it looks like the ex-pres-sion to the right can-not
  be sim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 pli-fied, but a small op-er-a-tion can change this. If $\OMS/
 lmsy/m/n/10.95 ^^@\OT1/lmr/m/n/10.95 1$ \T1/lmr/m/n/10.95 was a term
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 present, we could have com-bined $\OMS/lmsy/m/n/10.95 ^^@\OT1
 /lmr/m/n/10.95 1$ \T1/lmr/m/n/10.95 and $[]$ to be-come $\OMS/lmsy/m/n/10.95 ^^
 @\OML/lmm/m/it/10.95 SB[]$\T1/lmr/m/n/10.95 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 We ob-tain $\OMS/lmsy/m/n/10.95 ^^@\OT1/lmr/m/n/10.95 1$ \T1/
 lmr/m/n/10.95 by both adding and sub-tract-ing it on the right
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Even though we have de-rived a re-la-tion be-tween the side l
 engths
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 s[]$\T1/lmr
 /m/n/10.95 , this re-la-tion is valid for all pairs of side lengths
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 where one is the side length of a poly-gon with twice as many
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 sides as the oter. Now let $\OML/lmm/m/it/10.95 s[]$ \T1/lmr/
-m/n/10.95 and $\OML/lmm/m/it/10.95 s[]$\T1/lmr/m/n/10.95 , re-spec-tively, de-n
-ote the
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 sides as the other. Now let $\OML/lmm/m/it/10.95 s[]$ \T1/lmr
+/m/n/10.95 and $\OML/lmm/m/it/10.95 s[]$\T1/lmr/m/n/10.95 , re-spec-tively, de-
+note the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 side lengths of a poly-gon and a poly-gon with twice as many
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 When the side length of a poly-gon is known, the es-ti-mate o
-f the
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 The perime-ter of a poly-gon in-scribed in the cir-cle is an 
+es-ti-mate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 cir-cum-fer-ence of the cir-cle equals the side length mul-ti
--plied by
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 of the cir-cum-fer-ence. Ap-ply-ing [][], we can suc-ces-sive
+ly find the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 the num-ber of sides of the poly-gon. Ap-ply-ing [][] we can 
-suc-ces-
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 side length of a poly-gon with twice as many sides as the pre
+-vi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 sively find the side length of a poly-gon with twice as many 
-sides
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 ous. The be-low ta-ble shows the side length and the as-so-ci
+-ated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 as the pre-vi-ous. The be-low ta-ble shows the side length an
-d the
- []
-
-
-Overfull \hbox (4.18436pt too wide) in paragraph at lines 464--464
+Overfull \hbox (4.18436pt too wide) in paragraph at lines 465--465
  [] 
  []
 
@@ -2603,141 +2613,141 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 File: ../fig/geo9.pdf Graphic file (type pdf)
 <use ../fig/geo9.pdf>
-Package pdftex.def Info: ../fig/geo9.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 File: ../fig/geo9a.pdf Graphic file (type pdf)
 <use ../fig/geo9a.pdf>
-Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9i.pdf, id=402, 114.3171pt x 114.3171pt>
 File: ../fig/geo9i.pdf Graphic file (type pdf)
 <use ../fig/geo9i.pdf>
-Package pdftex.def Info: ../fig/geo9i.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9i.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 <../fig/geo9j.pdf, id=403, 114.3171pt x 114.3171pt>
 File: ../fig/geo9j.pdf Graphic file (type pdf)
 <use ../fig/geo9j.pdf>
-Package pdftex.def Info: ../fig/geo9j.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9j.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 <../fig/geo9k.pdf, id=404, 114.3171pt x 114.3171pt>
 File: ../fig/geo9k.pdf Graphic file (type pdf)
 <use ../fig/geo9k.pdf>
-Package pdftex.def Info: ../fig/geo9k.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9k.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 In fact, the math-e-mati-cian [][]Arkimedes[][] reached as fa
-r as the
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 In fact, the math-e-mati-cian [][]Archimedes[][] reached as f
+ar as the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 [][][][]\T1/lmr/m/n/9 For those in-ter-ested in com-puter pro-gram-ming, the it
 -er-a-tion al-go-rithm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/9 must be al-ter-nated in or-der to avoid in-sta-bil-i-ties when th
 e num-ber of sides
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 A com-puter have no prob-lems per-form-ing cal-cu-la-tions[
 ][][] on a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 poly-gon with ex-tremely many sides. Cal-cu-lat-ing the perim
 e-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 (With the aid of more ad-vanced math-e-mat-ics it can be prov
 ed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 that the cir-cum-fer-ence of a cir-cle with ra-dius 1 is an i
 r-ra-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 num-ner, but that the dig-its shown above are cor-rect, there
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 num-ber, but that the dig-its shown above are cor-rect, there
 by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 We shall now de-rive the fa-mous for-mula for the cir-cum-f
 er-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 ence of any cir-cle. Here as well, we take it for granted tha
 t the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 perime-ter of an in-scribed poly-gon yields an es-ti-mate of 
 the cir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 cum-fer-ence which gets more ac-cu-rate the more sides the po
 ly-gon
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 For the sake of sim-plic-ity, we shall use ins-bribed squar
 es to il-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 lus-trate the out-line. We draw two cir-cles of ran-dom size,
  but the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 one larger than the other, and in-scribe a square in both. Le
 t $\OML/lmm/m/it/10.95 R$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 r$ \T1/lmr/m/n/10.95 de-note the ra-
 dius of the larger and the smaller cir-cle, re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 spec-tively. Also, let $\OML/lmm/m/it/10.95 K$ \T1/lmr/m/n/10
 .95 and $\OML/lmm/m/it/10.95 k$ \T1/lmr/m/n/10.95 de-note the side length of th
 e larger
@@ -2746,118 +2756,118 @@ e larger
 <../fig/geo9e2.pdf, id=407, 100.08391pt x 100.08391pt>
 File: ../fig/geo9e2.pdf Graphic file (type pdf)
 <use ../fig/geo9e2.pdf>
-Package pdftex.def Info: ../fig/geo9e2.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9e2.pdf  used on input line 465.
 (pdftex.def)             Requested size: 100.08365pt x 100.08365pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9e.pdf, id=408, 100.08391pt x 100.08391pt>
 File: ../fig/geo9e.pdf Graphic file (type pdf)
 <use ../fig/geo9e.pdf>
-Package pdftex.def Info: ../fig/geo9e.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9e.pdf  used on input line 465.
 (pdftex.def)             Requested size: 100.08365pt x 100.08365pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.464 }
+l.465 }
         \vsk
 <../fig/geo9f.pdf, id=409, 76.56606pt x 97.79536pt>
 File: ../fig/geo9f.pdf Graphic file (type pdf)
 <use ../fig/geo9f.pdf>
-Package pdftex.def Info: ../fig/geo9f.pdf  used on input line 464.
+Package pdftex.def Info: ../fig/geo9f.pdf  used on input line 465.
 (pdftex.def)             Requested size: 76.56586pt x 97.79512pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Let $[]$ and $[]$ de-note the es-ti-mated cir-cum-fer-ences o
 f
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 the larger and the smaller cir-cle, re-spec-tively. Mul-ti-pl
 y-ing both
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-[]\T1/lmr/m/sl/10.95 If we are to split the two cir-cles into a poly-gons with 
-4, 100 or
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\T1/lmr/m/sl/10.95 If we were to in-scribe poly-gons with 4, 100 or any num-b
+er of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/sl/10.95 any num-ber of sides, the poly-gons could still be split int
-o tri-an-
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/sl/10.95 sides, the poly-gons could still be di-vided into tri-an-gle
+s obey-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/sl/10.95 gles obey-ing [][]. And in the same way as we did in the abo
-ve
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[][]\T1/lmr/m/sl/10.95 . And in the same way as we did in the above ex-am-ple, 
+we
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 Let's there-fore imag-ine poly-gons with such a large num-b
 er of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 sides that we ac-cept their re-spec-tive perime-ters as equal
  to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 cir-cum-fer-ence of the cir-cles. Let-ting $\OML/lmm/m/it/10.
-95 O$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 o$ \T1/lmr/m/n/10.95 de-note t
-he cir-cum-
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 re-spec-tive cir-cum-fer-ences of the cir-cles. Let-ting $\OM
+L/lmm/m/it/10.95 O$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 o$ \T1/lmr/m/n/1
+0.95 de-note
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 the cir-cum-fer-ences of the larger and smaller cir-cle re-sp
+ec-tively,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Since the cir-cles are ran-domly cho-sen, we con-clude that \
-T1/lmr/m/it/10.95 all
+T1/lmr/m/it/10.95 all cir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/it/10.95 cir-cles have the same ra-tio be-tween the cir-cum-fer-ence 
-and the
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/it/10.95 cles have the same ra-tio of the cir-cum-fer-ence to the ra-
+dius\T1/lmr/m/n/10.95 . An
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/it/10.95 ra-dius\T1/lmr/m/n/10.95 . An equiv-a-lent state-ment is tha
-t \T1/lmr/m/it/10.95 all ci-cles have the same
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/lmr/m/n/10.95 equiv-a-lent state-ment is that \T1/lmr/m/it/10.95 all ci-cle
+s have the same ra-tio of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/it/10.95 ra-tio be-tween the cir-cum-fer-ence and the di-am-e-ter\T1/
-lmr/m/n/10.95 . Let $\OML/lmm/m/it/10.95 D$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/i
-t/10.95 d$
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\T1/lmr/m/n/10.95 The ra-tio of the cir-cum-fer-ence $\OML/lmm/m/it/10.95 O$ 
+\T1/lmr/m/n/10.95 to the di-am-e-ter $\OML/lmm/m/it/10.95 d$ \T1/lmr/m/n/10.95 
+in a cir-cle is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-\T1/lmr/m/n/10.95 The ra-tio of the cir-cum-fer-ence to the di-am-e-ter in a ci
-r-cle is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 The above equa-tion yields the for-mula for the cir-cum-fer-e
 nce of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Earlier we found that the cir-cum-fer-ence of a cir-cle with 
 ra-dius 1
  []
@@ -2868,51 +2878,45 @@ ra-dius 1
 f> <../fig/geo9a.pdf>] [18 <../fig/geo9g.pdf> <../fig/geo9h.pdf>] [19]
 [20 <../fig/geo9i.pdf> <../fig/geo9j.pdf> <../fig/geo9k.pdf>] [21 <../fig/geo9e
 2.pdf> <../fig/geo9e.pdf> <../fig/geo9f.pdf>] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
-[]\T1/lmr/m/n/10.95 In the be-low fig-ure we have $\OML/lmm/m/it/10.95 BB[]\OMS
-/lmsy/m/n/10.95 jj\OML/lmm/m/it/10.95 CC[]$\T1/lmr/m/n/10.95 . Here we shall wr
-ite the
- []
-
 <../fig/forml0.pdf, id=486, 142.26149pt x 97.42397pt>
 File: ../fig/forml0.pdf Graphic file (type pdf)
 <use ../fig/forml0.pdf>
-Package pdftex.def Info: ../fig/forml0.pdf  used on input line 499.
+Package pdftex.def Info: ../fig/forml0.pdf  used on input line 500.
 (pdftex.def)             Requested size: 142.26112pt x 97.42372pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
-\T1/lmr/m/n/10.95 With $\OML/lmm/m/it/10.95 BB[]$ \T1/lmr/m/n/10.95 as base, $\
-OML/lmm/m/it/10.95 HB[]$ \T1/lmr/m/n/10.95 is the height of both $\OMS/lmsy/m/n
-/10.95 4\OML/lmm/m/it/10.95 CBB[]$ \T1/lmr/m/n/10.95 and
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+\T1/lmr/m/n/10.95 In the fig-ure above, we have $\OML/lmm/m/it/10.95 BB[]\OMS/l
+msy/m/n/10.95 jj\OML/lmm/m/it/10.95 CC[]$\T1/lmr/m/n/10.95 . With $\OML/lmm/m/i
+t/10.95 BB[]$ \T1/lmr/m/n/10.95 as base, $\OML/lmm/m/it/10.95 HB[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
 \T1/lmr/m/n/10.95 By [][], the ra-tio of cor-re-spond-ing sides in the two tri-
 an-gles are
  []
 
 [23 <../fig/forml0.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 []\T1/lmr/m/n/10.95 In the fol-low-ing ex-pla-na-tions of term \T1/lmr/m/sl/10.
 95 ii \T1/lmr/m/n/10.95 and \T1/lmr/m/sl/10.95 iii \T1/lmr/m/n/10.95 from [][]\
 T1/lmr/m/sl/10.95 Rule 0.8[][][] \T1/lmr/m/n/10.95 we
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 []\T1/lmr/m/n/10.95 Given a co-or-di-nate sys-tem placed in the cen-ter of one 
 of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
-\T1/lmr/m/n/10.95 the cir-cles, such that the hor-i-zon-tal axis passed through
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\T1/lmr/m/n/10.95 the cir-cles, such that the hor-i-zon-tal axis passes through
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 both cir-cle cen-ters. If $\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/
 10.95 a; b\OT1/lmr/m/n/10.95 )$ \T1/lmr/m/n/10.95 is one of the in-ter-sec-tion
 
@@ -2921,64 +2925,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 509--509
 <../fig/sirk2.pdf, id=507, 64.52104pt x 43.18132pt>
 File: ../fig/sirk2.pdf Graphic file (type pdf)
 <use ../fig/sirk2.pdf>
-Package pdftex.def Info: ../fig/sirk2.pdf  used on input line 509.
+Package pdftex.def Info: ../fig/sirk2.pdf  used on input line 510.
 (pdftex.def)             Requested size: 64.52087pt x 43.1812pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
-\T1/lmr/m/n/10.95 The marks above is quite easy to prove, but since they are
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\T1/lmr/m/n/10.95 The re-marks above is quite easy to prove, but since they are
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
-\T1/lmr/m/n/10.95 largely in-tu-itively true, we hold them as granted. The mark
-s
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\T1/lmr/m/n/10.95 largely in-tu-itively true, we hold them as granted. This im-
+plies
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
-\T1/lmr/m/n/10.95 in-forms that the tri-an-gle formed by the two cen-ters and o
-ne of
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\T1/lmr/m/n/10.95 that the tri-an-gle formed by the two cen-ters and one of the
+ in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
-\T1/lmr/m/n/10.95 the in-ter-sec-tion points is con-gru-ent to the tri-an-gle f
-ormed by
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\T1/lmr/m/n/10.95 ter-sec-tion points is con-gru-ent to the tri-an-gle formed b
+y the two
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--509
-\T1/lmr/m/n/10.95 the two cen-ters and the other in-ter-sec-tion point. By this
-, we can
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\T1/lmr/m/n/10.95 cen-ters and the other in-ter-sec-tion point. By this, we can
+ study
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []\T1/lmr/m/n/10.95 Given a length $\OML/lmm/m/it/10.95 c$ \T1/lmr/m/n/10.95 an
 d two an-gles $\OML/lmm/m/it/10.95 u$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.9
 5 v$\T1/lmr/m/n/10.95 . We make a seg-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.95 with length $\OML/lmm/m/it/10.95 c$\T
 1/lmr/m/n/10.95 . Then we dot two an-gle sides, such that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \U/msa/m/n/10.95 \[]$ \T1/lmr/m/n/10.95 and $[]$. As long as these an-gle sides
  are not par-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 al-lel, they must in-ter-sect in one, and only one, point ($\
 OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 fig-ure). To-gether with $\OML/lmm/m/it/10.95 A$ \T1/lmr/m/n/
 10.95 and $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 , this point will form a tri
 -an-gle
@@ -2987,10 +2992,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 530--530
 <../fig/geo13c.pdf, id=509, 113.81522pt x 71.63763pt>
 File: ../fig/geo13c.pdf Graphic file (type pdf)
 <use ../fig/geo13c.pdf>
-Package pdftex.def Info: ../fig/geo13c.pdf  used on input line 530.
+Package pdftex.def Info: ../fig/geo13c.pdf  used on input line 531.
 (pdftex.def)             Requested size: 113.81493pt x 71.63744pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []\T1/lmr/m/n/10.95 Given three lengths $\OML/lmm/m/it/10.95 a$\T1/lmr/m/n/10.9
 5 , $\OML/lmm/m/it/10.95 b$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 c$\T1/lm
 r/m/n/10.95 . We make a seg-ment $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.95 wit
@@ -2998,13 +3003,13 @@ h
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 length $\OML/lmm/m/it/10.95 c$\T1/lmr/m/n/10.95 . Then we mak
 e two semi-circles with re-spec-tive radii $\OML/lmm/m/it/10.95 a$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 b$ \T1/lmr/m/n/10.95 and cen-ters $\
 OML/lmm/m/it/10.95 B$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 A$\T1/lmr/m/n/
 10.95 . If a tri-an-gle $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/
@@ -3012,7 +3017,7 @@ m/n/10.95 is to have sides
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 of length $\OML/lmm/m/it/10.95 a$\T1/lmr/m/n/10.95 , $\OML/lm
 m/m/it/10.95 b$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 c$\T1/lmr/m/n/10.95 
 , $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 must lie on both of the cir-cu-lar 
@@ -3020,7 +3025,7 @@ arcs.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 Since the arcs in-ter-sect in one point only, $\OMS/lmsy/m/n/
 10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 is uniquely
  []
@@ -3028,28 +3033,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 530--530
 <../fig/geo13a.pdf, id=510, 142.26149pt x 55.76836pt>
 File: ../fig/geo13a.pdf Graphic file (type pdf)
 <use ../fig/geo13a.pdf>
-Package pdftex.def Info: ../fig/geo13a.pdf  used on input line 530.
+Package pdftex.def Info: ../fig/geo13a.pdf  used on input line 531.
 (pdftex.def)             Requested size: 142.26112pt x 55.7682pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 By plac-ing $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 ran-dom
 ly on this cir-cu-lar arc, we get all in-stances
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 of a tri-an-gle $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC
 $ \T1/lmr/m/n/10.95 with sides of length $[]$ and $[]$.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 Specif-i-cally plac-ing $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/1
 0.95 on the arc of the semi-circle is equiv-a-lent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 to set-ting a spe-cific value for $\U/msa/m/n/10.95 \\OML/lmm
 /m/it/10.95 A$\T1/lmr/m/n/10.95 . Now it re-mains to show that
  []
@@ -3057,88 +3062,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 530--530
 <../fig/geo13b.pdf, id=511, 227.62039pt x 88.06902pt>
 File: ../fig/geo13b.pdf Graphic file (type pdf)
 <use ../fig/geo13b.pdf>
-Package pdftex.def Info: ../fig/geo13b.pdf  used on input line 530.
+Package pdftex.def Info: ../fig/geo13b.pdf  used on input line 531.
 (pdftex.def)             Requested size: 227.61983pt x 88.06879pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 Let $\OML/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 and $\OML/lmm
 /m/it/10.95 C[]$ \T1/lmr/m/n/10.95 de-note two po-ten-tial place-ments of $\OML
 /lmm/m/it/10.95 C$\T1/lmr/m/n/10.95 , where
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 C[]$\T1/lmr/m/n/10.95 , along the semi-cir-cle, lies closer
  to $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 than $\OML/lmm/m/it/10.95 C[]$\T1
 /lmr/m/n/10.95 . Now we dot a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 cir-cu-lar arc with ra-dius $\OML/lmm/m/it/10.95 BC[]$ \T1/lm
 r/m/n/10.95 and cen-ter $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 . Since the do
 t-ted arc
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 and the semi-circle only in-ter-sects in $\OML/lmm/m/it/10.95
  C[]$\T1/lmr/m/n/10.95 , other points will ei-ther
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 lie in-side or out-side the dot-ted arc. Nec-es-sar-ily, $\OM
 L/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 lies out-side
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 the dot-ted arc, and there-fore $\OML/lmm/m/it/10.95 BC[]$ \T
 1/lmr/m/n/10.95 is longer than $\OML/lmm/m/it/10.95 BC[]$\T1/lmr/m/n/10.95 . Fr
 om this
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 we can con-clude that the length of $\OML/lmm/m/it/10.95 BC$ 
 \T1/lmr/m/n/10.95 in-creases as $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 moves
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 against $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 along the s
 emi-circle. There-fore, spec-i-fy-ing $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 yields an unique value of $\OML/lmm/m/it/10.95 BC$\T1/lmr/m/n
 /10.95 , and hence an unique tri-an-gle
  []
 
 [24 <../fig/sirk2.pdf>] [25 <../fig/geo13c.pdf> <../fig/geo13a.pdf>]
 
-LaTeX Warning: Hyper reference `180' on page 26 undefined on input line 572.
+LaTeX Warning: Hyper reference `180' on page 26 undefined on input line 573.
 
 
-LaTeX Warning: Reference `180' on page 26 undefined on input line 572.
+LaTeX Warning: Reference `180' on page 26 undefined on input line 573.
 
 <../fig/geo12.pdf, id=535, 170.7178pt x 91.36133pt>
 File: ../fig/geo12.pdf Graphic file (type pdf)
 <use ../fig/geo12.pdf>
-Package pdftex.def Info: ../fig/geo12.pdf  used on input line 572.
+Package pdftex.def Info: ../fig/geo12.pdf  used on input line 573.
 (pdftex.def)             Requested size: 170.71738pt x 91.3611pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \T1/lmr/m/n/10.95 Hence $[]$. From term \T1/lmr/m/sl/10.95 ii \T1/lmr/m/n/10.95
  of [][]\T1/lmr/m/sl/10.95 Rule 0.9[][][] \T1/lmr/m/n/10.95 it now fol-lows tha
 t
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \T1/lmr/m/n/10.95 We place $\OML/lmm/m/it/10.95 D[]$ \T1/lmr/m/n/10.95 and $\OM
 L/lmm/m/it/10.95 E[]$ \T1/lmr/m/n/10.95 on $\OML/lmm/m/it/10.95 AC$ \T1/lmr/m/n
 /10.95 and $\OML/lmm/m/it/10.95 BC$\T1/lmr/m/n/10.95 , re-spec-tively, such tha
@@ -3146,20 +3151,20 @@ t
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []$ \T1/lmr/m/n/10.95 and $[]$. From term \T1/lmr/m/sl/10.95 i \T1/lmr/m/n/10.9
 5 of [][]\T1/lmr/m/sl/10.95 Rule 0.12[][][] \T1/lmr/m/n/10.95 we have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \T1/lmr/m/n/10.95 Hence, the side lengths of $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/i
 t/10.95 D[]E[]C$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.9
 5 DEF$ \T1/lmr/m/n/10.95 are pair-wise
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \T1/lmr/m/n/10.95 equal, and then, from term \T1/lmr/m/sl/10.95 i \T1/lmr/m/n/1
 0.95 of [][]\T1/lmr/m/sl/10.95 Rule 0.9[][][]\T1/lmr/m/n/10.95 , they are con-g
 ru-ent.
@@ -3168,27 +3173,27 @@ ru-ent.
 <../fig/geo12b.pdf, id=541, 170.7178pt x 94.57333pt>
 File: ../fig/geo12b.pdf Graphic file (type pdf)
 <use ../fig/geo12b.pdf>
-Package pdftex.def Info: ../fig/geo12b.pdf  used on input line 572.
+Package pdftex.def Info: ../fig/geo12b.pdf  used on input line 573.
 (pdftex.def)             Requested size: 170.71738pt x 94.57309pt.
 [26 <../fig/geo13b.pdf> <../fig/geo12.pdf>] [27 <../fig/geo12b.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 576.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 576.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 577.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 577.
 
 (./geo2_eng.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 576.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 576.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 577.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 577.
 Package rerunfilecheck Info: File `geo2_eng.out' has not changed.
-(rerunfilecheck)             Checksum: CE75CE3CE2959ACC5D19C1E183E5BA7D;183.
+(rerunfilecheck)             Checksum: B5B78B44B47F448507C45FF3476E2652;184.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 38229 strings out of 494923
- 754224 string characters out of 6180741
- 869886 words of memory out of 5000000
- 40766 multiletter control sequences out of 15000+600000
+ 38230 strings out of 494923
+ 754243 string characters out of 6180741
+ 867943 words of memory out of 5000000
+ 40767 multiletter control sequences out of 15000+600000
  614899 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,20n,102p,10510b,960s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3212,7 +3217,7 @@ ts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb>
-Output written on geo2_eng.pdf (27 pages, 824444 bytes).
+Output written on geo2_eng.pdf (27 pages, 822398 bytes).
 PDF statistics:
  660 PDF objects out of 1000 (max. 8388607)
  543 compressed objects within 6 object streams

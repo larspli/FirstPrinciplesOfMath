@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  23 MAR 2021 08:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1919,7 +1919,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  37797 strings out of 494923
  745716 string characters out of 6180741
- 846407 words of memory out of 5000000
+ 846408 words of memory out of 5000000
  40457 multiletter control sequences out of 15000+600000
  604215 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1933,7 +1933,7 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on alg_bm.pdf (5 pages, 200958 bytes).
+Output written on alg_bm.pdf (5 pages, 200972 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream

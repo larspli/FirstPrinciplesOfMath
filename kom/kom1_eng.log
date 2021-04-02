@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  27 MAR 2021 08:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1800,10 +1800,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (6.06557pt too wide) in paragraph at lines 35--37
-\T1/lmr/m/n/10.95 be-cause ob-vi-ously they are not ran-domly se-lected. The tr
-ain of thoughts 
- []
+
+LaTeX Warning: Hyper reference `Del1' on page 2 undefined on input line 35.
+
+
+LaTeX Warning: Reference `Del1' on page 2 undefined on input line 35.
 
 
 Overfull \hbox (1.30869pt too wide) in paragraph at lines 37--38
@@ -1813,20 +1814,20 @@ Overfull \hbox (1.30869pt too wide) in paragraph at lines 37--38
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-[][][][]\T1/lmr/m/it/9 Obs! \T1/lmr/m/n/9 This ex-pla-na-tion is good enough fo
-r the aim of this book but is an rather
+[][][][]\T1/lmr/m/sl/9 Attention! \T1/lmr/m/n/9 This ex-pla-na-tion is good eno
+ugh for the aim of this book but is an
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-\T1/lmr/m/n/9 ex-treme sim-pli-fi-ca-tion. Ir-ra-tional num-bers is a very com-
-plex sub-ject, in fact, many
+\T1/lmr/m/n/9 rather ex-treme sim-pli-fi-ca-tion. Ir-ra-tional num-bers is a ve
+ry com-plex sub-ject, in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-\T1/lmr/m/n/9 books pre-sent-ing ad-vanced math-e-mat-ics uti-lize sev-eral cha
-p-ters to cover the sub-
+\T1/lmr/m/n/9 fact, many books pre-sent-ing ad-vanced math-e-mat-ics uti-lize s
+ev-eral chap-ters to
  []
 
 
@@ -1850,11 +1851,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 37737 strings out of 494923
- 744519 string characters out of 6180741
+ 37738 strings out of 494923
+ 744525 string characters out of 6180741
  841491 words of memory out of 5000000
- 40399 multiletter control sequences out of 15000+600000
- 608443 words of font info for 82 fonts, out of 8000000 for 9000
+ 40400 multiletter control sequences out of 15000+600000
+ 607210 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,10n,102p,10506b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1865,10 +1866,10 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
 9.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/
+ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on kom1_eng.pdf (2 pages, 218316 bytes).
+Output written on kom1_eng.pdf (2 pages, 231527 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams

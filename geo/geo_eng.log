@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 12:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1820,20 +1820,20 @@ Package pdftex.def Info: ../fig/linjstk1.pdf  used on input line 15.
 (pdftex.def)             Requested size: 81.44406pt x 36.65686pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\T1/lmr/m/n/10.95 A seg-ment is a cut of a line, there-fore a line and a seg-
-ment have
+[]\T1/lmr/m/n/10.95 A seg-ment is a part of a line, there-fore a line and a seg
+-ment
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\T1/lmr/m/n/10.95 a lot of at-tributes in com-mon. When writ-ing about lines, i
-t will
+\T1/lmr/m/n/10.95 have a lot of at-tributes in com-mon. When writ-ing about lin
+es, it
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\T1/lmr/m/n/10.95 be up to the reader to con-firm whether the same ap-plies for
-
+\T1/lmr/m/n/10.95 will be up to the reader to con-firm whether the same ap-plie
+s for
  []
 
 [1
@@ -1945,7 +1945,7 @@ Package pdftex.def Info: ../fig/vink3a.pdf  used on input line 59.
  [5 <../fig/vink3.pdf> <../fig/vink3a.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 66--66
 []\T1/lmr/m/n/10.95 Strictly speak-ing, when two seg-ments (or lines) in-ter-se
-ct they
+ct, they
  []
 
 
@@ -2022,11 +2022,11 @@ Package pdftex.def Info: ../fig/kant7_eng.pdf  used on input line 104.
 (pdftex.def)             Requested size: 67.21094pt x 57.28386pt.
  [8 <../fig/kant1.pdf> <../fig/kant2.pdf> <../fig/kant2b.pdf> <../fig/kant7_eng
 .pdf>]
-<../fig/tri15_eng.pdf, id=191, 199.08377pt x 101.51927pt>
+<../fig/tri15_eng.pdf, id=191, 199.08377pt x 99.39133pt>
 File: ../fig/tri15_eng.pdf Graphic file (type pdf)
 <use ../fig/tri15_eng.pdf>
 Package pdftex.def Info: ../fig/tri15_eng.pdf  used on input line 108.
-(pdftex.def)             Requested size: 199.08327pt x 101.51901pt.
+(pdftex.def)             Requested size: 199.08327pt x 99.39108pt.
 <../fig/tri15b_eng.pdf, id=192, 177.22209pt x 219.04836pt>
 File: ../fig/tri15b_eng.pdf Graphic file (type pdf)
 <use ../fig/tri15b_eng.pdf>
@@ -2087,7 +2087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--159
 []\T1/lmr/m/n/10.95 The longest side of a right tri-an-gle is called the \T1/lm
-r/m/it/10.95 hy-potenuse[]\T1/lmr/m/n/10.95 . The
+r/m/it/10.95 hy-potenuse[] \T1/lmr/m/n/10.95 and
  []
 
 <../fig/kant5.pdf, id=218, 109.89055pt x 92.12418pt>
@@ -2212,8 +2212,7 @@ Package pdftex.def Info: ../fig/kant6.pdf  used on input line 242.
 (pdftex.def)             Requested size: 126.96402pt x 106.06598pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 246--246
-[][]\T1/lmr/bx/n/12 0.5[] The sum of an-gles in a quadri-lat-eral (fork-lar-ing
-)
+[][]\T1/lmr/bx/n/12 0.5[] The sum of an-gles in a quadri-lat-eral (ex-pla-na-
  []
 
 
@@ -2268,9 +2267,15 @@ Package pdftex.def Info: ../fig/tri23c.pdf  used on input line 267.
  [14
 
  <../fig/geo1.pdf> <../fig/geo1a.pdf> <../fig/tri23a.pdf> <../fig/tri23c.pdf>]
+Overfull \hbox (0.2957pt too wide) in paragraph at lines 271--272
+\T1/lmr/m/n/10.95 Our sur-round-ings are full of \T1/lmr/m/it/10.95 sur-faces[]
+\T1/lmr/m/n/10.95 , for ex-am-ple on a floor or a sheet. 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []\T1/lmr/m/n/10.95 We imag-ine a square with sides of length 1. We call this t
-he
+he \T1/lmr/m/it/10.95 unit
  []
 
 <../fig/tri_10.pdf, id=329, 24.6521pt x 26.23802pt>
@@ -2328,13 +2333,13 @@ Package pdftex.def Info: ../fig/tri12c.pdf  used on input line 308.
 
 Underfull \hbox (badness 10000) in paragraph at lines 309--309
 [][][][]\T1/lmr/m/sl/9 Notice\T1/lmr/m/n/9 : The lengths used in one fig-ure wi
-ll not nec-es-sar-ily cor-re-spond with the
+ll not nec-es-sar-ily cor-re-spond to the
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 309--309
 \T1/lmr/m/n/9 lengths in an-other fig-ure. That is, a side of length 1 in one f
-ig-ure can might as well
+ig-ure can might as
  []
 
 [16 <../fig/tri12_eng.pdf> <../fig/tri12b.pdf> <../fig/tri12c.pdf>]
@@ -2435,7 +2440,7 @@ blic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on geo_eng.pdf (21 pages, 431243 bytes).
+Output written on geo_eng.pdf (21 pages, 430318 bytes).
 PDF statistics:
  545 PDF objects out of 1000 (max. 8388607)
  440 compressed objects within 5 object streams

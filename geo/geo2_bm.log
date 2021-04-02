@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  31 MAR 2021 08:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2051,10 +2051,10 @@ Package pdftex.def Info: ../fig/tri26j.pdf  used on input line 162.
 <../fig/tri26h.pdf, id=196, 67.33156pt x 54.6843pt>
 File: ../fig/tri26h.pdf Graphic file (type pdf)
 <use ../fig/tri26h.pdf>
-Package pdftex.def Info: ../fig/tri26h.pdf  used on input line 176.
+Package pdftex.def Info: ../fig/tri26h.pdf  used on input line 178.
 (pdftex.def)             Requested size: 67.33138pt x 54.68414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 \T1/lmr/m/n/10.95 der $\OML/lmm/m/it/10.95 a$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/
 it/10.95 b$ \T1/lmr/m/n/10.95 er leng-dene til de ko-rteste sidene i trekan-ten
 . Dermed
@@ -2062,7 +2062,7 @@ it/10.95 b$ \T1/lmr/m/n/10.95 er leng-dene til de ko-rteste sidene i trekan-ten
 
 [8 <../fig/tri19.pdf> <../fig/tri19a.pdf> <../fig/tri19b.pdf> <../fig/tri19c.pd
 f>] [9 <../fig/tri26g.pdf> <../fig/tri26j.pdf> <../fig/tri26h.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 Under har vi teg-net to kvadrat som er like store, men som 
 er
  []
@@ -2070,28 +2070,28 @@ er
 <../fig/tri26d.pdf, id=251, 251.4494pt x 122.76866pt>
 File: ../fig/tri26d.pdf Graphic file (type pdf)
 <use ../fig/tri26d.pdf>
-Package pdftex.def Info: ../fig/tri26d.pdf  used on input line 194.
+Package pdftex.def Info: ../fig/tri26d.pdf  used on input line 196.
 (pdftex.def)             Requested size: 251.44878pt x 122.76834pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 Arealet til det røde kvadratet er $\OML/lmm/m/it/10.95 a[]$
 \T1/lmr/m/n/10.95 , arealet til det lilla
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 Arealet til et oran-sje rek-tan-gel er $\OML/lmm/m/it/10.95
  ab$ \T1/lmr/m/n/10.95 og arealet til en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []\T1/lmr/m/n/10.95 Om vi tar bort de to oran-sje rek-tan-g-lene og de fire grø
 nne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \T1/lmr/m/n/10.95 trekan-tane, er det ig-jen (av pkt. 2) et like stort areal ti
 l
  []
@@ -2099,23 +2099,23 @@ l
 <../fig/tri26e.pdf, id=252, 230.97292pt x 98.66862pt>
 File: ../fig/tri26e.pdf Graphic file (type pdf)
 <use ../fig/tri26e.pdf>
-Package pdftex.def Info: ../fig/tri26e.pdf  used on input line 194.
+Package pdftex.def Info: ../fig/tri26e.pdf  used on input line 196.
 (pdftex.def)             Requested size: 230.97234pt x 98.66838pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \T1/lmr/m/n/10.95 Gitt en trekant med side-lengder $\OML/lmm/m/it/10.95 a; b$ \
 T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 c$\T1/lmr/m/n/10.95 , der $\OML/lmm/m/
 it/10.95 c$ \T1/lmr/m/n/10.95 er den leng-ste
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \T1/lmr/m/n/10.95 side-leng-den. Så lenge trekan-ten er rettvin-klet, kan vi al
 ltid lage
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \T1/lmr/m/n/10.95 to kvadrat med side-lengder $[]$, slik som i første figur. []
 []
  []
@@ -2124,21 +2124,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--194
 <../fig/geo13.pdf, id=281, 113.81522pt x 72.61127pt>
 File: ../fig/geo13.pdf Graphic file (type pdf)
 <use ../fig/geo13.pdf>
-Package pdftex.def Info: ../fig/geo13.pdf  used on input line 208.
+Package pdftex.def Info: ../fig/geo13.pdf  used on input line 210.
 (pdftex.def)             Requested size: 113.81493pt x 72.61108pt.
 
-Overfull \hbox (20.43202pt too wide) in paragraph at lines 208--208
+Overfull \hbox (20.43202pt too wide) in paragraph at lines 210--210
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 []\T1/lmr/m/n/10.95 En trekant $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$\T
 1/lmr/m/n/10.95 , som vist i fig-uren un-der, kan bli
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 \T1/lmr/m/n/10.95 unikt kon-struert hvis en av føl-gende kri-terium er opp-fylt
 :
  []
@@ -2146,12 +2146,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--208
 <../fig/geo14.pdf, id=282, 227.62039pt x 65.40436pt>
 File: ../fig/geo14.pdf Graphic file (type pdf)
 <use ../fig/geo14.pdf>
-Package pdftex.def Info: ../fig/geo14.pdf  used on input line 214.
+Package pdftex.def Info: ../fig/geo14.pdf  used on input line 216.
 (pdftex.def)             Requested size: 227.61983pt x 65.40417pt.
 <../fig/geo8.pdf, id=283, 308.92413pt x 66.649pt>
 File: ../fig/geo8.pdf Graphic file (type pdf)
 <use ../fig/geo8.pdf>
-Package pdftex.def Info: ../fig/geo8.pdf  used on input line 218.
+Package pdftex.def Info: ../fig/geo8.pdf  used on input line 220.
 (pdftex.def)             Requested size: 308.92337pt x 66.64882pt.
 [11
 
@@ -2159,28 +2159,28 @@ Package pdftex.def Info: ../fig/geo8.pdf  used on input line 218.
 <../fig/tri1.pdf, id=310, 270.46045pt x 85.5998pt>
 File: ../fig/tri1.pdf Graphic file (type pdf)
 <use ../fig/tri1.pdf>
-Package pdftex.def Info: ../fig/tri1.pdf  used on input line 222.
+Package pdftex.def Info: ../fig/tri1.pdf  used on input line 224.
 (pdftex.def)             Requested size: 270.45978pt x 85.59958pt.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 227.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 229.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 227.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 229.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 250.
+(Font)              <9> on input line 252.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 250.
+(Font)              <5> on input line 252.
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 [][][][]\T1/lmr/m/n/9 Vi tar det her for gitt at hvilke sider som er samsvarand
 e kom-mer fram av
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 []\T1/lmr/m/n/10.95 Når to trekan-tar er form-like, er forholdet mel-lom samsva
 rende[][][]
  []
@@ -2188,20 +2188,20 @@ rende[][][]
 <../fig/geo8b.pdf, id=312, 308.92413pt x 66.649pt>
 File: ../fig/geo8b.pdf Graphic file (type pdf)
 <use ../fig/geo8b.pdf>
-Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 250.
+Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 252.
 (pdftex.def)             Requested size: 308.92337pt x 66.64882pt.
 <../fig/tri3a.pdf, id=313, 124.12373pt x 71.738pt>
 File: ../fig/tri3a.pdf Graphic file (type pdf)
 <use ../fig/tri3a.pdf>
-Package pdftex.def Info: ../fig/tri3a.pdf  used on input line 266.
+Package pdftex.def Info: ../fig/tri3a.pdf  used on input line 268.
 (pdftex.def)             Requested size: 124.12341pt x 71.73782pt.
 <../fig/tri3b.pdf, id=314, 196.27327pt x 105.88559pt>
 File: ../fig/tri3b.pdf Graphic file (type pdf)
 <use ../fig/tri3b.pdf>
-Package pdftex.def Info: ../fig/tri3b.pdf  used on input line 266.
+Package pdftex.def Info: ../fig/tri3b.pdf  used on input line 268.
 (pdftex.def)             Requested size: 196.27278pt x 105.88533pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
 []\T1/lmr/m/n/10.95 Vi ob-serverer at $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.9
 5 samsvarer med $\OML/lmm/m/it/10.95 DE$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it/10.9
 5 BC$ \T1/lmr/m/n/10.95 med $\OML/lmm/m/it/10.95 EF$ \T1/lmr/m/n/10.95 og $\OML
@@ -2209,14 +2209,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--266
  []
 
 [12 <../fig/tri1.pdf> <../fig/geo8b.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
 []\T1/lmr/m/n/10.95 Av [][]\T1/lmr/m/sl/10.95 Regel 0.11[][][] \T1/lmr/m/n/10.9
 5 har vi at for to form-like trekan-ter $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.
 95 ABC$ \T1/lmr/m/n/10.95 og
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
 []\T1/lmr/m/n/10.95 To trekan-ter $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC
 $ \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr/m
 /n/10.95 er form-like hvis en av disse
@@ -2224,15 +2224,15 @@ $ \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr/m
 
 File: ../fig/geo8b.pdf Graphic file (type pdf)
 <use ../fig/geo8b.pdf>
-Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 280.
+Package pdftex.def Info: ../fig/geo8b.pdf  used on input line 282.
 (pdftex.def)             Requested size: 308.92337pt x 66.64882pt.
 <../fig/geo15.pdf, id=334, 199.1741pt x 76.75676pt>
 File: ../fig/geo15.pdf Graphic file (type pdf)
 <use ../fig/geo15.pdf>
-Package pdftex.def Info: ../fig/geo15.pdf  used on input line 289.
+Package pdftex.def Info: ../fig/geo15.pdf  used on input line 291.
 (pdftex.def)             Requested size: 199.17361pt x 76.75656pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--289
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
 []$\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 og $\OMS/lms
 y/m/n/10.95 4\OML/lmm/m/it/10.95 ACD$ \T1/lmr/m/n/10.95 er begge rettvin-klede 
 og de har $\U/msa/m/n/10.95 \\OML/lmm/m/it/10.95 DAC$ \T1/lmr/m/n/10.95 felles.
@@ -2240,7 +2240,7 @@ og de har $\U/msa/m/n/10.95 \\OML/lmm/m/it/10.95 DAC$ \T1/lmr/m/n/10.95 felles.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--289
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
 \T1/lmr/m/n/10.95 Dermed er vilkår \T1/lmr/m/sl/10.95 i \T1/lmr/m/n/10.95 fra [
 ][]\T1/lmr/m/sl/10.95 Regel 0.12[][][] \T1/lmr/m/n/10.95 opp-fylt, og trekan-te
 ne er da
@@ -2250,10 +2250,10 @@ ne er da
 <../fig/geo15a.pdf, id=368, 304.09608pt x 72.73172pt>
 File: ../fig/geo15a.pdf Graphic file (type pdf)
 <use ../fig/geo15a.pdf>
-Package pdftex.def Info: ../fig/geo15a.pdf  used on input line 303.
+Package pdftex.def Info: ../fig/geo15a.pdf  used on input line 305.
 (pdftex.def)             Requested size: 304.09534pt x 72.73152pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
 \T1/lmr/m/n/10.95 Dermed opp-fyller $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 A
 BC$ \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 GHI$ \T1/lmr
 /m/n/10.95 vilkår \T1/lmr/m/sl/10.95 ii \T1/lmr/m/n/10.95 fra [][]\T1/lmr/m/sl/
@@ -2263,40 +2263,40 @@ BC$ \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 GHI$ \T1/lmr
 <../fig/geo15b.pdf, id=370, 323.80975pt x 80.84203pt>
 File: ../fig/geo15b.pdf Graphic file (type pdf)
 <use ../fig/geo15b.pdf>
-Package pdftex.def Info: ../fig/geo15b.pdf  used on input line 311.
+Package pdftex.def Info: ../fig/geo15b.pdf  used on input line 313.
 (pdftex.def)             Requested size: 323.80894pt x 80.84181pt.
 
-Overfull \hbox (12.53572pt too wide) in paragraph at lines 311--311
+Overfull \hbox (12.53572pt too wide) in paragraph at lines 313--313
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--311
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
 \T1/lmr/m/n/10.95 Altså er vilkår \T1/lmr/m/sl/10.95 iii \T1/lmr/m/n/10.95 fra 
 [][]\T1/lmr/m/sl/10.95 Regel 0.12[][][] \T1/lmr/m/n/10.95 opp-fylt, og da er tr
 ekan-tene
  []
 
 [15 <../fig/geo15a.pdf> <../fig/geo15b.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/it/10.95 Vi skal her bruke reg-ulære mangekan-ter langs veien til ø
 ns-ket
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 re-sul-tat. I reg-ulære mangekan-ter har alle sidene lik len
 gde. Da
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 det er utelukkande reg-ulære mangekan-ter vi kom-mer til å b
 ruke,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 Vi skal starte med se på tilnær-minger for å finne omkret-s
 en $\OML/lmm/m/it/10.95 O[]$
  []
@@ -2304,22 +2304,22 @@ en $\OML/lmm/m/it/10.95 O[]$
 <../fig/geo9l.pdf, id=394, 114.3171pt x 114.3171pt>
 File: ../fig/geo9l.pdf Graphic file (type pdf)
 <use ../fig/geo9l.pdf>
-Package pdftex.def Info: ../fig/geo9l.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9l.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 En god vane når man skal prøve å finne en stør-relse, er å 
 spørre
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 seg om man kan vite noe om hvor stor eller liten man \T1/lmr/
 m/sl/10.95 for-ven-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/sl/10.95 ter \T1/lmr/m/n/10.95 at den er. Vi starter der-for med å om
 -slutte sirke-len med et
  []
@@ -2327,27 +2327,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 463--463
 <../fig/geo9c.pdf, id=395, 114.3171pt x 114.3171pt>
 File: ../fig/geo9c.pdf Graphic file (type pdf)
 <use ../fig/geo9c.pdf>
-Package pdftex.def Info: ../fig/geo9c.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9c.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Omkretsen til sirke-len må vere min-dre enn omkret-sen til
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Videre innskriver vi en sek-skant. Sek-skan-ten kan de-les in
 n i 6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 likesid-ede trekan-tar som alle må ha side-lengder 1. Omkret-
 sen til
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 sirke-len må være større enn omkret-sen til sek-skan-ten, noe
  som
  []
@@ -2356,42 +2356,42 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9.pdf, id=396, 114.3171pt x 114.3171pt>
 File: ../fig/geo9.pdf Graphic file (type pdf)
 <use ../fig/geo9.pdf>
-Package pdftex.def Info: ../fig/geo9.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9d2.pdf, id=397, 114.3171pt x 114.3171pt>
 File: ../fig/geo9d2.pdf Graphic file (type pdf)
 <use ../fig/geo9d2.pdf>
-Package pdftex.def Info: ../fig/geo9d2.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9d2.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Når vi nå skal gå over til en mye mer nøyak-tig jakt et-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 Vi fort-set-ter med tanken om å innskrive en mangekant.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Av fig-u-rane un-der lar vi oss over-be-vise om at dess flere
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 sider mangekan-ten har, dess bedre es-ti-mat vil omkret-sen t
 il
  []
@@ -2400,43 +2400,43 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 File: ../fig/geo9.pdf Graphic file (type pdf)
 <use ../fig/geo9.pdf>
-Package pdftex.def Info: ../fig/geo9.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9a.pdf, id=398, 114.3171pt x 114.3171pt>
 File: ../fig/geo9a.pdf Graphic file (type pdf)
 <use ../fig/geo9a.pdf>
-Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Da vi vet at side-leng-den til en 6-kant er 1, er det fris-te
 nde å un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 der-søke om vi kan bruke denne kunnskapen til å finne side-le
 ng-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 den til an-dre mangekan-ter. Om vi innskriver også en 12-kant
  i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 sirke-len vår (og i til-legg teg-ner en trekant) får vi en fi
 gur som
  []
@@ -2445,25 +2445,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9g.pdf, id=399, 114.3171pt x 114.3171pt>
 File: ../fig/geo9g.pdf Graphic file (type pdf)
 <use ../fig/geo9g.pdf>
-Package pdftex.def Info: ../fig/geo9g.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9g.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/sl/9 (a) |\T1/lmr/m/n/9 En 6-kant og en 12-kant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/9 i lag med en trekant dan-net
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/9 av sen-trum i sirke-len og en
  []
 
@@ -2471,143 +2471,143 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9h.pdf, id=400, 104.83165pt x 81.51454pt>
 File: ../fig/geo9h.pdf Graphic file (type pdf)
 <use ../fig/geo9h.pdf>
-Package pdftex.def Info: ../fig/geo9h.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9h.pdf  used on input line 465.
 (pdftex.def)             Requested size: 104.83139pt x 81.51433pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/sl/9 (b) |\T1/lmr/m/n/9 Utk-lipp av trekant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 La oss kalle side-leng-den til 12-kanten for $\OML/lmm/m/it/1
 0.95 s[]$ \T1/lmr/m/n/10.95 og side-leng-den til
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 6-kanten for $\OML/lmm/m/it/10.95 s[]$\T1/lmr/m/n/10.95 . Vid
 ere leg-ger vi merke til at punk-tene $\OML/lmm/m/it/10.95 A$ \T1/lmr/m/n/10.95
  og $\OML/lmm/m/it/10.95 C$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 lig-ger på sirkel-buen og at både $\OMS/lmsy/m/n/10.95 4\OML/
 lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10
 .95 BSC$ \T1/lmr/m/n/10.95 er rettvin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 For å finne $\OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 må vi
  finne $\OML/lmm/m/it/10.95 BA$\T1/lmr/m/n/10.95 , og for å finne $\OML/lmm/m/i
 t/10.95 BA$ \T1/lmr/m/n/10.95 må vi finne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \OML/lmm/m/it/10.95 SB$\T1/lmr/m/n/10.95 . Vi starter der-for med å finne $\OML
 /lmm/m/it/10.95 SB$\T1/lmr/m/n/10.95 . Da $[]$ og $[]$,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Ved første øyekast ser det ut som vi ikke kan komme særlig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 lengre i å foren-kle ut-trykket på høyre side, men en liten o
 p-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 erasjon vil en-dre på dette. Hadde vi bare hatt $\OMS/lmsy/m/
 n/10.95 ^^@\OT1/lmr/m/n/10.95 1$ \T1/lmr/m/n/10.95 som et ledd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 kunne vi slått saman $\OMS/lmsy/m/n/10.95 ^^@\OT1/lmr/m/n/10.
 95 1$ \T1/lmr/m/n/10.95 og $[]$ til å bli $\OMS/lmsy/m/n/10.95 ^^@\OML/lmm/m/it
 /10.95 SB[]$\T1/lmr/m/n/10.95 . Der-for ''skaf-fer''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Selv om vi her har ut-ledet re-lasjo-nen mel-lom side-leng-de
 ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 s[]$\T1/lmr/
 m/n/10.95 , er dette en re-lasjon vi kunne vist for alle par av
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 side-lengder der den ene er side-leng-den til en mangekant me
 d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 dobbelt så mange sider som den an-dre. La $\OML/lmm/m/it/10.9
 5 s[]$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 re-spek
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 tivt være side-leng-den til en mangekant og en mangekant med
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 Når vi kjen-ner side-leng-den til en innskrevet mangekant, 
 vil
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 tilnær-min-gen til omkret-sen til sirke-len være denne side-l
 eng-den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 ganget med an-tall side-lengder i mangekan-ten. Ved hjelp av 
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 kan vi stadig finne side-leng-den til en mangekant med dobbel
 t så
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 mange sider som den for-rige, og i tabellen un-der har vi fun
 -net
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 side-leng-den og tilnær-min-gen til omkret-sen til sirke-len 
 opp til ein
  []
 
 
-Overfull \hbox (6.29547pt too wide) in paragraph at lines 463--463
+Overfull \hbox (6.29547pt too wide) in paragraph at lines 465--465
  [] 
  []
 
@@ -2615,123 +2615,123 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 File: ../fig/geo9.pdf Graphic file (type pdf)
 <use ../fig/geo9.pdf>
-Package pdftex.def Info: ../fig/geo9.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 File: ../fig/geo9a.pdf Graphic file (type pdf)
 <use ../fig/geo9a.pdf>
-Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9i.pdf, id=402, 114.3171pt x 114.3171pt>
 File: ../fig/geo9i.pdf Graphic file (type pdf)
 <use ../fig/geo9i.pdf>
-Package pdftex.def Info: ../fig/geo9i.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9i.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 <../fig/geo9j.pdf, id=403, 114.3171pt x 114.3171pt>
 File: ../fig/geo9j.pdf Graphic file (type pdf)
 <use ../fig/geo9j.pdf>
-Package pdftex.def Info: ../fig/geo9j.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9j.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 <../fig/geo9k.pdf, id=404, 114.3171pt x 114.3171pt>
 File: ../fig/geo9k.pdf Graphic file (type pdf)
 <use ../fig/geo9k.pdf>
-Package pdftex.def Info: ../fig/geo9k.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9k.pdf  used on input line 465.
 (pdftex.def)             Requested size: 85.7376pt x 85.7376pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Utregningene over er fak-tisk like langt som matem-atik-eren
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 [][][][]\T1/lmr/m/n/9 For den datain-ter-esserte skal det sies at it-erasjon-sa
 l-go-rit-men må skrives om
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 For en data-maskin er det in-gen prob-lem å regne ut[][][] 
 dette for en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 mangekant med ek-stremt mange sider. Reg-ner vi oss frem til 
 en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 (Ved hjelp av mer avansert matem-atikk kan det vises at omkre
 t-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 sen til en sirkel med ra-dius 1 er et ir-rasjon-alt tal, men 
 at alle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 Vi skal nå komme fram til den kjente forme-len for omkret-s
 en til
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 en sirkel. Også her skal vi ta for gitt at sum-men av side-le
 ng-dene
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 til en innskrevet mangekant er en tilnærm-ing til omkrin-sen 
 som
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 For enkel-hets skyld skal vi bruke innskrevne firkan-tar fo
 r å
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 få fram po-enget vårt. Vi teg-ner to sirkler som er vilkår-le
 g
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 store, men der den ene er større enn den an-dre, og innskrive
 r
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 en firkant (eit kvadrat) i begge. Vi lar $\OML/lmm/m/it/10.95
  R$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 r$ \T1/lmr/m/n/10.95 være ra-dien
  til
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 hen-holdsvis den største og den min-ste sirke-len, og $\OML/l
 mm/m/it/10.95 K$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 k$ \T1/lmr/m/n/10.95
  vere
@@ -2740,122 +2740,122 @@ mm/m/it/10.95 K$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 k$ \T1/lmr/m/n/10.95
 <../fig/geo9e2.pdf, id=407, 100.08391pt x 100.08391pt>
 File: ../fig/geo9e2.pdf Graphic file (type pdf)
 <use ../fig/geo9e2.pdf>
-Package pdftex.def Info: ../fig/geo9e2.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9e2.pdf  used on input line 465.
 (pdftex.def)             Requested size: 100.08365pt x 100.08365pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9e.pdf, id=408, 100.08391pt x 100.08391pt>
 File: ../fig/geo9e.pdf Graphic file (type pdf)
 <use ../fig/geo9e.pdf>
-Package pdftex.def Info: ../fig/geo9e.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9e.pdf  used on input line 465.
 (pdftex.def)             Requested size: 100.08365pt x 100.08365pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463 }
+l.465 }
         \vsk
 <../fig/geo9f.pdf, id=409, 76.56606pt x 97.79536pt>
 File: ../fig/geo9f.pdf Graphic file (type pdf)
 <use ../fig/geo9f.pdf>
-Package pdftex.def Info: ../fig/geo9f.pdf  used on input line 463.
+Package pdftex.def Info: ../fig/geo9f.pdf  used on input line 465.
 (pdftex.def)             Requested size: 76.56586pt x 97.79512pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Vi lar $[]$ og $[]$ være tilnær-min-gen av omkret-sen til
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 hen-holdsvis den største og den min-ste sirke-len. Ved å gang
 e med
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/sl/10.95 Selv om vi i hver av de to sirk-lene innskriver en mangeka
 nt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/sl/10.95 med 4, 100 eller hvor mange sider det skulle vere, vil mange
 kan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/sl/10.95 tane alltid kunne de-les inn i trekan-tar som opp-fyller [][
 ]. Og på
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/sl/10.95 samme måte som vi har gjort i ek-sem-pelet over kan vi om-sk
 rive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 []\T1/lmr/m/n/10.95 La oss der-for tenke oss mangekan-ter med så mange sider at
  vi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 god-tar omkret-sene deres som lik omkret-sene til sirk-lene. 
 Om
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 vi da skriver omkret-sen den største og den min-ste sirke-len
  hen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Da de to sirk-lene våre er helt vilkårlig valgt, har vi nå ko
 m-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 met fram til at \T1/lmr/m/it/10.95 alle sirkler har det samme
  forholdet mel-lom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 omkret-sen og ra-diusen\T1/lmr/m/n/10.95 . En enda meir bruk
 t for-mu-ler-ing er at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 alle sirkler har det samme forholdet mel-lom omkret-sen og d
 i-am-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/it/10.95 e-teren\T1/lmr/m/n/10.95 . Vi lar $\OML/lmm/m/it/10.95 D$ \T
 1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 d$ \T1/lmr/m/n/10.95 være di-am-e-teren
  til hen-holdsvis sirke-len
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Forholdstalet mel-lom omkret-sen og di-am-e-teren i en sirkel
  blir
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Tidligere fant vi at omkret-sen til en sirkel med ra-dius 1 (
 og
  []
@@ -2866,7 +2866,7 @@ og
 f> <../fig/geo9a.pdf>] [18 <../fig/geo9g.pdf> <../fig/geo9h.pdf>] [19]
 [20 <../fig/geo9i.pdf> <../fig/geo9j.pdf> <../fig/geo9k.pdf>] [21 <../fig/geo9e
 2.pdf> <../fig/geo9e.pdf> <../fig/geo9f.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
 []\T1/lmr/m/n/10.95 I fig-uren un-der er $\OML/lmm/m/it/10.95 BB[]\OMS/lmsy/m/n
 /10.95 jj\OML/lmm/m/it/10.95 CC[]$\T1/lmr/m/n/10.95 . Arealet til en trekant $\
 OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$
@@ -2875,35 +2875,35 @@ OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$
 <../fig/forml0.pdf, id=482, 142.26149pt x 97.42397pt>
 File: ../fig/forml0.pdf Graphic file (type pdf)
 <use ../fig/forml0.pdf>
-Package pdftex.def Info: ../fig/forml0.pdf  used on input line 498.
+Package pdftex.def Info: ../fig/forml0.pdf  used on input line 500.
 (pdftex.def)             Requested size: 142.26112pt x 97.42372pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
 \T1/lmr/m/n/10.95 Med $\OML/lmm/m/it/10.95 BB[]$ \T1/lmr/m/n/10.95 som grunnlin
 je har både $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 CBB[]$ \T1/lmr/m/n/10.95 
 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 CBB[]$ $HB[]$
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 []\T1/lmr/m/n/10.95 I de komm-nde fork-larin-gene av vilkårene \T1/lmr/m/sl/10.
 95 ii \T1/lmr/m/n/10.95 og \T1/lmr/m/sl/10.95 iii \T1/lmr/m/n/10.95 fra [][]\T1
 /lmr/m/sl/10.95 Regel 0.8[][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 []\T1/lmr/m/n/10.95 Gitt at et ko-or-di-nat-sys-tem blir plassert med origo i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 sen-teret til den ene sirke-len, og slik at ho-rison-ta-lak-s
 en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 går gjen-nom begge sirkelsen-trene. Viss $\OT1/lmr/m/n/10.95 
 (\OML/lmm/m/it/10.95 a; b\OT1/lmr/m/n/10.95 )$ \T1/lmr/m/n/10.95 er det ene
  []
@@ -2911,64 +2911,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 508--508
 <../fig/sirk2.pdf, id=492, 64.52104pt x 43.18132pt>
 File: ../fig/sirk2.pdf Graphic file (type pdf)
 <use ../fig/sirk2.pdf>
-Package pdftex.def Info: ../fig/sirk2.pdf  used on input line 508.
+Package pdftex.def Info: ../fig/sirk2.pdf  used on input line 510.
 (pdftex.def)             Requested size: 64.52087pt x 43.1812pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 Punktene over kan enkelt vises, men er så-pass in-tu-itivt sa
 nne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 at vi tar dem for gitt. Punk-tene forteller oss at trekan-ten
  som
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 består av de to sen-trene og det ene skjæringspunk-tet er kon
 -gru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 ent med trekan-ten som består av de to sen-trene og det an-dr
 e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 \T1/lmr/m/n/10.95 skjæringspunk-tet. Med dette kan vi stud-ere egen-skaper til
  []
 
 [23 <../fig/forml0.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []\T1/lmr/m/n/10.95 Gitt en lengde $\OML/lmm/m/it/10.95 c$ \T1/lmr/m/n/10.95 og
  to vin-kler $\OML/lmm/m/it/10.95 u$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 
 v$\T1/lmr/m/n/10.95 . Vi lager et linjestykke
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.95 med lengde $\OML/lmm/m/it/10.95 c$\T1
 /lmr/m/n/10.95 . Så sti-pler vi to vinkel-bein slik at $\U/msa/m/n/10.95 \[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 og $[]$. Så lenge disse vinkel-beina ikke er par-al-lelle, må
  de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 nød-vendigvis skjære hveran-dre i ett, og bare ett, punkt ($\
 OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 fig-uren). I lag med $\OML/lmm/m/it/10.95 A$ \T1/lmr/m/n/10.9
 5 og $\OML/lmm/m/it/10.95 B$ \T1/lmr/m/n/10.95 vil dette punk-tet danne en trek
 ant
@@ -2977,10 +2977,10 @@ ant
 <../fig/geo13c.pdf, id=509, 113.81522pt x 71.63763pt>
 File: ../fig/geo13c.pdf Graphic file (type pdf)
 <use ../fig/geo13c.pdf>
-Package pdftex.def Info: ../fig/geo13c.pdf  used on input line 529.
+Package pdftex.def Info: ../fig/geo13c.pdf  used on input line 531.
 (pdftex.def)             Requested size: 113.81493pt x 71.63744pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []\T1/lmr/m/n/10.95 Gitt tre lengder $\OML/lmm/m/it/10.95 a$\T1/lmr/m/n/10.95 ,
  $\OML/lmm/m/it/10.95 b$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 c$\T1/lmr/m/
 n/10.95 . Vi lager et linjestykket $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.95 m
@@ -2988,14 +2988,14 @@ ed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 lengde $\OML/lmm/m/it/10.95 c$\T1/lmr/m/n/10.95 . Så lager vi
  to halvsirkler med hen-holdsvis ra-dius $\OML/lmm/m/it/10.95 a$ \T1/lmr/m/n/10
 .95 og
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 b$ \T1/lmr/m/n/10.95 og sen-trum $\OML/lmm/m/it/10.95 B$ \T
 1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 A$\T1/lmr/m/n/10.95 . Skal nå en trekan
 t $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 ha side-leng
@@ -3003,14 +3003,14 @@ der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 a$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it/10.95 b$ \T1/lmr/m/n/1
 0.95 og $\OML/lmm/m/it/10.95 c$\T1/lmr/m/n/10.95 , må $\OML/lmm/m/it/10.95 C$ \
 T1/lmr/m/n/10.95 ligge på begge sirkel-buene. Da buene bare kan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 møtes i ett punkt, er for-men og stør-relsen til $\OMS/lmsy/m
 /n/10.95 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 unikt gitt
  []
@@ -3018,28 +3018,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 529--529
 <../fig/geo13a.pdf, id=510, 142.26149pt x 55.76836pt>
 File: ../fig/geo13a.pdf Graphic file (type pdf)
 <use ../fig/geo13a.pdf>
-Package pdftex.def Info: ../fig/geo13a.pdf  used on input line 529.
+Package pdftex.def Info: ../fig/geo13a.pdf  used on input line 531.
 (pdftex.def)             Requested size: 142.26112pt x 55.7682pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 Ved å la $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 vere plass
 ert hvor som helst på denne sirkel-buen, har
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 vi alle mulige vari-anter av en trekant $\OMS/lmsy/m/n/10.95 
 4\OML/lmm/m/it/10.95 ABC$ \T1/lmr/m/n/10.95 med side-leng-dene
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []$ \T1/lmr/m/n/10.95 og $[]$. Å plassere $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/1
 0.95 langs bo-gen til halvsirke-len er
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 det samme som å gi $\U/msa/m/n/10.95 \\OML/lmm/m/it/10.95 A$ 
 \T1/lmr/m/n/10.95 en bestemt verdi. Det gjen-står nå å vise
  []
@@ -3047,10 +3047,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 529--529
 <../fig/geo13b.pdf, id=511, 227.62039pt x 88.06902pt>
 File: ../fig/geo13b.pdf Graphic file (type pdf)
 <use ../fig/geo13b.pdf>
-Package pdftex.def Info: ../fig/geo13b.pdf  used on input line 529.
+Package pdftex.def Info: ../fig/geo13b.pdf  used on input line 531.
 (pdftex.def)             Requested size: 227.61983pt x 88.06879pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 Vi lar $\OML/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 og $\OML/l
 mm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 være to poten-sielle plasseringer av $\OML
 /lmm/m/it/10.95 C$\T1/lmr/m/n/10.95 , der $\OML/lmm/m/it/10.95 C[]$\T1/lmr/m/n/
@@ -3058,83 +3058,83 @@ mm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 være to poten-sielle plasseringer av $\OML
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 langs halvsirke-len, lig-ger nærmere $\OML/lmm/m/it/10.95 E$ 
 \T1/lmr/m/n/10.95 enn $\OML/lmm/m/it/10.95 C[]$\T1/lmr/m/n/10.95 . Videre sti-p
 ler vi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 en sirkel-bue med ra-dius $\OML/lmm/m/it/10.95 BC[]$ \T1/lmr/
 m/n/10.95 og sen-trum i $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 . Da den sti-p
 lede
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 sirkel-buen og halvsirke-len bare kan skjære hveran-dre i $\O
 ML/lmm/m/it/10.95 C[]$\T1/lmr/m/n/10.95 , vil
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 alle an-dre punkt på halvsirke-len ligge en-ten in-nen-for el
 ler uten-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 for den sti-plede sirkel-buen. Slik vi har de-fin-ert $\OML/l
 mm/m/it/10.95 C[]$\T1/lmr/m/n/10.95 , må dette
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 punk-tet ligge uten-for den sti-plede sirkel-buen, og dermed 
 er $\OML/lmm/m/it/10.95 BC[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 lengre enn $\OML/lmm/m/it/10.95 BC[]$\T1/lmr/m/n/10.95 . Av d
 ette kan vi kon-klud-ere med at $\OML/lmm/m/it/10.95 BC$ \T1/lmr/m/n/10.95 blir
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 lengre dess nærmere $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95
  beveger seg mot $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 langs halvsirke-len.
  Å
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/lmr/m/n/10.95 sette $[]$ vil altså gi en unik verdi for $\OML/lmm/m/it/10.9
 5 BC$\T1/lmr/m/n/10.95 , og da en unik
  []
 
 [24 <../fig/sirk2.pdf> <../fig/geo13c.pdf>]
 
-LaTeX Warning: Hyper reference `180' on page 25 undefined on input line 570.
+LaTeX Warning: Hyper reference `180' on page 25 undefined on input line 572.
 
 
-LaTeX Warning: Reference `180' on page 25 undefined on input line 570.
+LaTeX Warning: Reference `180' on page 25 undefined on input line 572.
 
 <../fig/geo12.pdf, id=523, 170.7178pt x 91.36133pt>
 File: ../fig/geo12.pdf Graphic file (type pdf)
 <use ../fig/geo12.pdf>
-Package pdftex.def Info: ../fig/geo12.pdf  used on input line 570.
+Package pdftex.def Info: ../fig/geo12.pdf  used on input line 572.
 (pdftex.def)             Requested size: 170.71738pt x 91.3611pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--570
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
 \T1/lmr/m/n/10.95 Altså er $[]$. Nå har vi av vilkår \T1/lmr/m/sl/10.95 ii \T1/
 lmr/m/n/10.95 fra [][]\T1/lmr/m/sl/10.95 Regel 0.9[][][] \T1/lmr/m/n/10.95 at
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 570--570
+Underfull \hbox (badness 1210) in paragraph at lines 572--572
 \T1/lmr/m/n/10.95 Vi plasserer $\OML/lmm/m/it/10.95 D[]$ \T1/lmr/m/n/10.95 og $
 \OML/lmm/m/it/10.95 E[]$ \T1/lmr/m/n/10.95 på hen-holdsvis $\OML/lmm/m/it/10.95
  AC$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 BC$\T1/lmr/m/n/10.95 , slik at $
@@ -3142,14 +3142,14 @@ Underfull \hbox (badness 1210) in paragraph at lines 570--570
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--570
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
 \T1/lmr/m/n/10.95 Altså har $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 D[]E[]C$ 
 \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr/m/n
 /10.95 parvis like side-lengder, og av
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--570
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
 \T1/lmr/m/n/10.95 vilkår \T1/lmr/m/sl/10.95 i \T1/lmr/m/n/10.95 fra [][]\T1/lmr
 /m/sl/10.95 Regel 0.9[][][] \T1/lmr/m/n/10.95 er de da kon-gru-ente. Dette be-t
 yr at
@@ -3158,15 +3158,15 @@ yr at
 <../fig/geo12b.pdf, id=529, 170.7178pt x 94.57333pt>
 File: ../fig/geo12b.pdf Graphic file (type pdf)
 <use ../fig/geo12b.pdf>
-Package pdftex.def Info: ../fig/geo12b.pdf  used on input line 570.
+Package pdftex.def Info: ../fig/geo12b.pdf  used on input line 572.
 (pdftex.def)             Requested size: 170.71738pt x 94.57309pt.
 [25 <../fig/geo13a.pdf> <../fig/geo13b.pdf>] [26 <../fig/geo12.pdf>] [27 <../fi
 g/geo12b.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 576.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 576.
  (./geo2_bm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 574.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 576.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 576.
 Package rerunfilecheck Info: File `geo2_bm.out' has not changed.
 (rerunfilecheck)             Checksum: CE75CE3CE2959ACC5D19C1E183E5BA7D;183.
 
@@ -3177,7 +3177,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  38224 strings out of 494923
  754109 string characters out of 6180741
- 868871 words of memory out of 5000000
+ 868872 words of memory out of 5000000
  40761 multiletter control sequences out of 15000+600000
  614899 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -3202,7 +3202,7 @@ ts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb>
-Output written on geo2_bm.pdf (27 pages, 821883 bytes).
+Output written on geo2_bm.pdf (27 pages, 822068 bytes).
 PDF statistics:
  660 PDF objects out of 1000 (max. 8388607)
  543 compressed objects within 6 object streams

@@ -8,7 +8,7 @@
 \section{\fintro}
 Variables are values that change. A value which changes in compliance with a variable is called a \textit{function}\index{function}.\vsk
 \fig{funk1}
-In the above figure, the amount of boxes follows a specific pattern. Mathematicaly, we can illustrate the pattern like this:
+In the above figure, the amount of boxes follows a specific pattern. Mathematically we can describe the pattern like this:
 \alg{
 \text{Number of boxes in \textsl{Figure \color{blue}1}}= 2\cdot {\color{blue}1}+1=3 \\ 
 \text{Number of boxes in \textsl{Figure \color{blue}2}}= 2\cdot {\color{blue}2}+1=5 \\ 
@@ -22,10 +22,10 @@ The amount of boxes changes in complience with the change of $ x $, in this case
 
 \st{$ {2x+1} $ is the expression of the function ''Number of boxes in \textsl{Figure }$ x $''.}
 \newpage
-\textbf{General expressions} \\
+\textbf{General expressions} \os
 If we were to continue working with the function just studied, writing ''Number of boxes in \textsl{Figure }$ x $'' all the time would be very cumbersome. It is common to let letters indicate functions and to write the associated variable in parenthesis. Let's rename ''Number of boxes in \textsl{Figur} $ x $'' to $ a(x) $. Then
 \[ \text{Number of boxes in \textsl{Figure }}x=a(x)=2x+1 \]
-If we write $ a(x) $, but substitute $ x $ by a specific number, we substitute $ x $ by this number also in the expression of our function:
+If we write $ a(x) $, but substitute $ x $ by a specific number, we substitute $ x $ by this number in the expression of our function:
 \alg{
 a({\color{blue}1})&=2\cdot{\color{blue}1} +1=3 \\
 a({\color{blue}2})&=2\cdot{\color{blue}2}+1=5 \\
@@ -52,7 +52,7 @@ Let the number of boxes in the below pattern be given by $ a(x) $.
 Therefore
 \[ a(x)=x\cdot x +3 =x^2+3 \]
 \textbf{b)}
-\[ a(10)=10^2+3=100+3=1035 \]
+\[ a(10)=10^2+3=100+3=103 \]
 When $ x=10 $, there are 103 boxes.\vsk
 
 \textbf{c)} We have the equation
@@ -65,9 +65,9 @@ Hence
 Since we seek a positive value of $ x $, we have $ x=15 $.	
 }
 \section{\lingraf}
-When a variabel $ x $ and a function $ f(x)  $ are present, we have two values; the value of $ x $ and the associated value of $ f(x) $. These pairs of values can be put into a coordinate system (see \refsec{Koord}), and this brings forth the  \textit{graph}\index{function!graph} of $ f(x) $. \vsk
+When a variabel $ x $ and a function $ f(x)  $ are present, we have two values; the value of $ x $ and the associated value of $ f(x) $. These pairs of values can be put into a coordinate system (see \refsec{Koord}) to form the  \textit{graph}\index{function!graph} of $ f(x) $. \vsk
 
-Lets' use the function
+Let's use the function
 \[ f(x)=2x-1 \]
 as an example. We have
 \alg{
@@ -83,26 +83,28 @@ These pairs of values can be put into a table:
 		$ f(x) $ &$  -1 $ & 1&3 &5
 	\end{tabular}
 \end{center}
-The table above gives the points
+The above table yields the points
 \[ (0, -1)\quad\quad(1, 1)\quad\quad(2, 3)\quad\quad(3, 5) \]
-Now we place these points into a coordinate system (see the figore on page \pageref{funkfig}). Concerning functions it is common to name the horizontal and the vertical axis the $ x $-axis and the $ y $-axis, respectively. 
-Now the graph of $ f(x) $ is an imaginary dash going through all the infinite many point we can create by $ x$-values and the associated $ f(x) $-values. Our function is a \textit{linear}\index{function!linear} function, which means its graph is a straight line. Hence, the grah is created by drawing the line going through the points we found.\vsk
+Now we place these points into a coordinate system (see the figure on page \pageref{funkfig}). Concerning functions, it is common to name the horizontal and the vertical axis the $ x $-axis and the $ y $-axis, respectively. 
+Now the graph of $ f(x) $ is the curve passing through all the infinite many points we can create by the $ x$-values and their associated $ f(x) $-values. Our function is a \textit{linear}\index{function!linear} function, which means its graph is a straight line. Hence, the grah is created by drawing the line going through the points we found.\vsk
 
-As earlier mentioned, we can never draw a line, only a part of it. This also applies to graphs. In the figure on page \pageref{funkfig} we have drawn the graph of $ f(x) $ for $ x $-values in the range $ -2 $ to $ 4 $. That $ x $ is included in this \textit{interval}\index{interval} we write as\footnote{Sjå symbolforklaringar på side \pageref{Symbol}.} $ -2\leq x\leq 4 $ or $ x\in[-2, 4] $.
-\fig{funk3} \label{funkfig}
+As earlier mentioned, we can never draw a line, only a part of it. This also applies to graphs. In the figure on page \pageref{funkfig} we have drawn the graph of $ f(x) $ for $ x $-values in the range $ -2 $ to $ 4 $. That $ x $ is included in this \textit{interval}\index{interval} we write as\footnote{Consult the list of symbols on page \pageref{Symbol}.} $ -2\leq x\leq 4 $ or $ x\in[-2, 4] $.
+\newpage
+
+\fig{funk3} \label{funkfig} \vspace{-18pt}
 
 \reg[\funklin \label{funklin}]{
-	A function with the expression \vs
+	A function with the expression 
 	\[ f(x)=ax+b \]
-	is a \textit{linear} function with \textit{slope}\index{slope} $ a $ and \textit{intercept}\index{intercept} $ b $. \vsk 
+	where $ a $ and $ b $ are constants, is a \textit{linear} function with \textit{slope}\index{slope} $ a $ and \textit{intercept}\index{intercept} $ b $. \vsk 
 	
 	The graph of a linear function is a straight line passing through the point $ (0, b) $. \vsk
 	
 	For two distinct $ x $-values, $ x_1 $ and $ x_2 $, we have
-	\[ a=\frac{f(x_2)-f(x_1)}{x_2-x_1} \]
+	\[ a=\frac{f(x_2)-f(x_1)}{x_2-x_1} \] \vspace{-20pt}
 	\fig{funk6}
 }
-\newpage
+
 \eks[1]{Find the slope and the intercept of the functions.
 	\alg{
 		f(x)&=2x+1 \vn
@@ -122,12 +124,12 @@ As earlier mentioned, we can never draw a line, only a part of it. This also app
 \eks[2]{
 	Draw the graph of
 	\[ f(x)=\dfrac{3}{4}x-2 \]
-	 on for $ x\in[-5, 6] $.
+	for $ x\in[-5, 6] $.
 	
 	\sv
 	To draw the graph of a linear funtion, we only need to know two points lying on it. The points are free to choose, therefore, in order to make calculations as simple as possible, we start off by finding the point where $ x=0 $:
 	\[ f(0)=\frac{3}{4}\cdot0-2=-2 \] 
-	Further on, we choose $ {x=4} $, since this also results in an easy calculation:
+	Further on, we choose $ {x=4} $, since this also results in easy calculations:
 	\[ f(4)=\frac{3}{4}\cdot4-2=1 \]
 	Now we have all the information we need and for the record we put it into a table:
 	\begin{center}
@@ -136,7 +138,7 @@ As earlier mentioned, we can never draw a line, only a part of it. This also app
 			$ f(x) $ &$  -2 $ & 1
 		\end{tabular}
 	\end{center}
-Now we place the points and draw the line passing through them:
+Now we place the points in a coordinate system and draw the line passing through them:
 	\begin{figure}
 		\centering
 		\fig{funk4}
@@ -146,13 +148,13 @@ Now we place the points and draw the line passing through them:
 Find the respective expressions of $ f(x) $ and $ g(x) $.	
 \fig{funk5} \vs
 \sv
-At first we find the expression of $ f(x) $. The point $ (0, 3) $ lies on the graph of $ f(x) $ (see also the figure on the next page), it then follows that $ {f(0)=3} $, and hence $ 3 $ is the interceptet if $ f(x) $. Moreover, we observe that $ (1, 2) $ also lies on the graph of $ f(x) $. The slope of $ f(x) $ is then expressed by the fraction
+Firstly, we find the expression of $ f(x) $. The point $ (0, 3) $ lies on the graph of $ f(x) $ (also see the figure on the next page). It then follows that $ {f(0)=3} $, and hence $ 3 $ is the interceptet if $ f(x) $. Moreover, we observe that $ (1, 2) $ also lies on the graph of $ f(x) $. The slope of $ f(x) $ is then expressed by the fraction
 \[\frac{2-3}{1-0}=-1 \] 
 Therefore
 \[  f(x)=-x+3 \]
 \newpage
 \fig{funk5a}
-We now move our attention to finding the expression of $ g(x) $. The point $ (0, -1) $ lies on the graph of $ g(x) $, it then follows that $ {f(0)=-1} $, and hence $ -1 $ is the intercept of $ g(x) $. Moreover, we observe that $ (5, 2) $ also lies on the graph of $ g(x) $. The slope $ g(x) $ is then expressed by the fraction
+We now move our attention to finding the expression of $ g(x) $. The point $ (0, -1) $ lies on the graph of $ g(x) $. It then follows that $ {f(0)=-1} $, and hence $ -1 $ is the intercept of $ g(x) $. Moreover, we observe that $ (5, 2) $ also lies on the graph of $ g(x) $. The slope $ g(x) $ is then expressed by the fraction
 \[ \frac{2-(-1)}{5-0}=\frac{3}{5} \]
 Therefore
 \[ g(x)=\frac{3}{5}x+1 \]
@@ -164,10 +166,12 @@ Therefore
 Given a linear function
 \[ f(x)=ax+b \]
 For two distinct $ x $-values, $ x_1 $ and $ x_2 $, we have
-\alg{
-f(x_1)&=ax_1+b \label{funkfork} \vn
-f(x_2)&=ax_2+b\label{funkfork1}
-}
+\begin{equation}
+f(x_1)=ax_1+b \label{funkfork}
+\end{equation}
+\begin{equation}
+	f(x_2)=ax_2+b \label{funkfork1}
+\end{equation}
 Subtracting \eqref{funkfork} from \eqref{funkfork1}, we get 
 \alg{
 f(x_2)-f(x_1)&=ax_2+b-(ax_1+b) \br
@@ -177,7 +181,7 @@ f(x_2)-f(x_1)&=a(x_2-x_1) \\
 }\vsk
 
 \textbf{The graph of a linear function is a straight line}\os
-Given a linear function $ {f(x)=ax+b} $ and two distinct $ x $-values $ x_1 $ and $ x_2 $. In the figure illustrating the graph of $ f(x) $, let $ {A=(x_1, b)} $, $ {B=(x_2, b)} $, $ {C=(b, f(x_1))} $, $ {D=(0, f(x_2))} $ and $ {E=(0, b)} $.
+Given a linear function $ {f(x)=ax+b} $ and two distinct $ x $-values $ x_1 $ and $ x_2 $. Let $ {A=(x_1, b)} $, $ {B=(x_2, b)} $, $ {C=(b, f(x_1))} $, $ {D=(0, f(x_2))} $ and $ {E=(0, b)} $.
 \fig{funk6a}
 By \eqref{funka}, we obtain
 \alg{
@@ -200,7 +204,7 @@ From \eqref{funkx1} and \eqref{funkx2} it follows that
 \[ \frac{ax_1}{x_1}=\frac{ax_2}{x_2} \]
 Hence
 \[ \frac{AC}{BD}=\frac{EA}{EB} \]
-In addition, $ {\angle A=\angle B} $, so $ \triangle EAC $ and $ \triangle EBD $ satisfy term iii from \rref{vilkform}, and hence the triangles are similar. Consequently, $ C $ and $ D $ lies on the same line which must be the graph of $ f(x) $.
+In addition, $ {\angle A=\angle B} $, so $ \triangle EAC $ and $ \triangle EBD $ satisfy term iii from \rref{vilkform}, and hence the triangles are similar. Consequently, $ C $ and $ D $ lies on the same line, which must be the graph of $ f(x) $.
 }
 
 

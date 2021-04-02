@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  28 MAR 2021 20:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 20:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1798,14 +1798,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 10.
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]\T1/lmr/m/n/10.95 We can al-ways carry out one math-e-mat-i-cal op-er-a-tion 
-on one of
+[]\T1/lmr/m/n/10.95 We can al-ways carry out a math-e-mat-i-cal op-er-a-tion on
+ one of the
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
-\T1/lmr/m/n/10.95 the sides of the equal sign, as long as we carry out the op-e
-r-a-tion
+\T1/lmr/m/n/10.95 sides of the equal sign, as long as we carry out the op-er-a-
+tion on
  []
 
 
@@ -1824,20 +1824,20 @@ ther
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../fig/lig.pdf, id=37, 137.0721pt x 68.78699pt>
+<../fig/lig.pdf, id=41, 137.0721pt x 68.78699pt>
 File: ../fig/lig.pdf Graphic file (type pdf)
 <use ../fig/lig.pdf>
 Package pdftex.def Info: ../fig/lig.pdf  used on input line 24.
 (pdftex.def)             Requested size: 137.07175pt x 68.7868pt.
-<../fig/lig1.pdf, id=38, 133.97052pt x 80.57101pt>
+<../fig/lig1.pdf, id=42, 133.97052pt x 80.57101pt>
 File: ../fig/lig1.pdf Graphic file (type pdf)
 <use ../fig/lig1.pdf>
 Package pdftex.def Info: ../fig/lig1.pdf  used on input line 25.
 (pdftex.def)             Requested size: 133.97018pt x 80.57082pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[][][][]\T1/lmr/m/sl/9 Notice: \T1/lmr/m/n/9 In ear-lier fig-ures there have be
-en a cor-re-spon-dence be-tween the size of the
+[][][][]\T1/lmr/m/sl/9 Notice\T1/lmr/m/n/9 : In ear-lier fig-ures, there have b
+een a cor-re-spon-dence be-tween the size of the
  []
 
 
@@ -1846,17 +1846,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
  This does not ap-ply
  []
 
-<../fig/lig2.pdf, id=40, 149.87996pt x 43.18132pt>
+<../fig/lig2.pdf, id=44, 149.87996pt x 43.18132pt>
 File: ../fig/lig2.pdf Graphic file (type pdf)
 <use ../fig/lig2.pdf>
 Package pdftex.def Info: ../fig/lig2.pdf  used on input line 31.
 (pdftex.def)             Requested size: 149.87958pt x 43.1812pt.
-<../fig/lig2b.pdf, id=41, 263.68513pt x 43.18132pt>
+<../fig/lig2b.pdf, id=45, 263.68513pt x 43.18132pt>
 File: ../fig/lig2b.pdf Graphic file (type pdf)
 <use ../fig/lig2b.pdf>
 Package pdftex.def Info: ../fig/lig2b.pdf  used on input line 34.
 (pdftex.def)             Requested size: 263.68448pt x 43.1812pt.
-<../fig/lig2c.pdf, id=42, 64.52104pt x 43.18132pt>
+<../fig/lig2c.pdf, id=46, 64.52104pt x 43.18132pt>
 File: ../fig/lig2c.pdf Graphic file (type pdf)
 <use ../fig/lig2c.pdf>
 Package pdftex.def Info: ../fig/lig2c.pdf  used on input line 37.
@@ -1868,7 +1868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/9 com-mon to say that \T1/lmr/m/sl/9 4 as changed side
+\T1/lmr/m/n/9 com-mon to say that \T1/lmr/m/sl/9 4 has shifted side
  []
 
 
@@ -1898,12 +1898,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
 /m/sl/9 Sec-tion [][]\T1/lmr/m/n/9 ) on the left side. How-
  []
 
-<../fig/lig4.pdf, id=106, 213.89912pt x 43.18132pt>
+<../fig/lig4.pdf, id=110, 213.89912pt x 43.18132pt>
 File: ../fig/lig4.pdf Graphic file (type pdf)
 <use ../fig/lig4.pdf>
 Package pdftex.def Info: ../fig/lig4.pdf  used on input line 50.
 (pdftex.def)             Requested size: 213.89859pt x 43.1812pt.
-<../fig/lig5.pdf, id=107, 356.1606pt x 43.18132pt>
+<../fig/lig5.pdf, id=111, 356.1606pt x 43.18132pt>
 File: ../fig/lig5.pdf Graphic file (type pdf)
 <use ../fig/lig5.pdf>
 Package pdftex.def Info: ../fig/lig5.pdf  used on input line 53.
@@ -1913,18 +1913,18 @@ Overfull \hbox (14.72664pt too wide) in paragraph at lines 53--53
  [] 
  []
 
-<../fig/lig5b.pdf, id=108, 121.42365pt x 43.18132pt>
+<../fig/lig5b.pdf, id=112, 121.42365pt x 43.18132pt>
 File: ../fig/lig5b.pdf Graphic file (type pdf)
 <use ../fig/lig5b.pdf>
 Package pdftex.def Info: ../fig/lig5b.pdf  used on input line 56.
 (pdftex.def)             Requested size: 121.42334pt x 43.1812pt.
-<../fig/lig6.pdf, id=109, 206.78253pt x 43.18132pt>
+<../fig/lig6.pdf, id=113, 206.78253pt x 43.18132pt>
 File: ../fig/lig6.pdf Graphic file (type pdf)
 <use ../fig/lig6.pdf>
 Package pdftex.def Info: ../fig/lig6.pdf  used on input line 59.
 (pdftex.def)             Requested size: 206.78201pt x 43.1812pt.
 [3 <../fig/lig4.pdf> <../fig/lig5.pdf> <../fig/lig5b.pdf> <../fig/lig6.pdf>]
-<../fig/lig7.pdf, id=151, 92.97736pt x 43.18132pt>
+<../fig/lig7.pdf, id=155, 92.97736pt x 43.18132pt>
 File: ../fig/lig7.pdf Graphic file (type pdf)
 <use ../fig/lig7.pdf>
 Package pdftex.def Info: ../fig/lig7.pdf  used on input line 63.
@@ -1937,128 +1937,133 @@ $\T1/lmr/m/n/10.95 -terms and all known terms
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 79--79
-\T1/lmr/m/n/10.95 on re-spec-tive sides of the equal sign. A term which changes
-
+\T1/lmr/m/n/10.95 on re-spec-tive sides of the equal sign. A term which shifts 
+side,
  []
 
 [4 <../fig/lig7.pdf>]
-<../fig/lig8.pdf, id=166, 135.6568pt x 28.95819pt>
+<../fig/lig8.pdf, id=170, 135.6568pt x 28.95819pt>
 File: ../fig/lig8.pdf Graphic file (type pdf)
 <use ../fig/lig8.pdf>
 Package pdftex.def Info: ../fig/lig8.pdf  used on input line 102.
 (pdftex.def)             Requested size: 135.65646pt x 28.95811pt.
-<../fig/lig9.pdf, id=167, 164.10309pt x 29.45003pt>
+<../fig/lig9.pdf, id=171, 164.10309pt x 29.45003pt>
 File: ../fig/lig9.pdf Graphic file (type pdf)
 <use ../fig/lig9.pdf>
 Package pdftex.def Info: ../fig/lig9.pdf  used on input line 105.
 (pdftex.def)             Requested size: 164.10268pt x 29.44994pt.
-<../fig/lig10.pdf, id=168, 64.52104pt x 28.95819pt>
+<../fig/lig10.pdf, id=172, 64.52104pt x 28.95819pt>
 File: ../fig/lig10.pdf Graphic file (type pdf)
 <use ../fig/lig10.pdf>
 Package pdftex.def Info: ../fig/lig10.pdf  used on input line 108.
 (pdftex.def)             Requested size: 64.52087pt x 28.95811pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\T1/lmr/m/n/9 Du huskar kan-skje
- []
-
-[5 <../fig/lig8.pdf> <../fig/lig9.pdf> <../fig/lig10.pdf>]
-<../fig/lig11.pdf, id=199, 65.70547pt x 28.95819pt>
+ [5 <../fig/lig8.pdf> <../fig/lig9.pdf> <../fig/lig10.pdf>]
+<../fig/lig11.pdf, id=203, 65.70547pt x 28.95819pt>
 File: ../fig/lig11.pdf Graphic file (type pdf)
 <use ../fig/lig11.pdf>
-Package pdftex.def Info: ../fig/lig11.pdf  used on input line 143.
+Package pdftex.def Info: ../fig/lig11.pdf  used on input line 140.
 (pdftex.def)             Requested size: 65.7053pt x 28.95811pt.
-<../fig/lig12.pdf, id=200, 250.64642pt x 28.95819pt>
+<../fig/lig12.pdf, id=204, 250.64642pt x 28.95819pt>
 File: ../fig/lig12.pdf Graphic file (type pdf)
 <use ../fig/lig12.pdf>
-Package pdftex.def Info: ../fig/lig12.pdf  used on input line 146.
+Package pdftex.def Info: ../fig/lig12.pdf  used on input line 143.
 (pdftex.def)             Requested size: 250.6458pt x 28.95811pt.
  [6 <../fig/lig11.pdf> <../fig/lig12.pdf>]
-<../fig/lig12b.pdf, id=231, 108.38493pt x 43.18132pt>
+<../fig/lig12b.pdf, id=235, 108.38493pt x 43.18132pt>
 File: ../fig/lig12b.pdf Graphic file (type pdf)
 <use ../fig/lig12b.pdf>
-Package pdftex.def Info: ../fig/lig12b.pdf  used on input line 149.
+Package pdftex.def Info: ../fig/lig12b.pdf  used on input line 146.
 (pdftex.def)             Requested size: 108.38466pt x 43.1812pt.
-<../fig/lig13.pdf, id=232, 107.2005pt x 43.18132pt>
+<../fig/lig13.pdf, id=236, 107.2005pt x 43.18132pt>
 File: ../fig/lig13.pdf Graphic file (type pdf)
 <use ../fig/lig13.pdf>
-Package pdftex.def Info: ../fig/lig13.pdf  used on input line 152.
+Package pdftex.def Info: ../fig/lig13.pdf  used on input line 149.
 (pdftex.def)             Requested size: 107.20023pt x 43.1812pt.
  [7 <../fig/lig12b.pdf> <../fig/lig13.pdf>] [8]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 202.
+Overfull \hbox (7.77292pt too wide) in paragraph at lines 192--192
+|[]\T1/lmr/bx/n/14.4 Solving with el-e-men-tary op-er-a-tions sum-ma-
+ []
 
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 199.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 202.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 199.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []\T1/lmr/m/n/10.95 add or sub-tract both sides of an equa-tion by the same
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
-\T1/lmr/m/n/10.95 num-ber. This is equaiva-lent to chang-ing a term from one
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/lmr/m/n/10.95 num-ber. This is equaiva-lent to shift-ing a term from one
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []\T1/lmr/m/n/10.95 multiply or di-vide both sides of an equa-tion by the same
  []
 
 [9
 
 ] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 279--279
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
 []\T1/lmr/m/n/10.95 To avoid frac-tions, we mul-ti-ply both sides by the com-mo
 n de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--282
-[]\T1/lmr/m/n/10.95 There are som who like to make the rule that ''we can mul-t
-i-
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+[]\T1/lmr/m/n/10.95 Some like to make the rule that ''we can mul-ti-ply or di-v
+ide all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--282
-\T1/lmr/m/n/10.95 ply or di-vide all terms by the same num-ber''. In that case,
- we
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--282
-\T1/lmr/m/n/10.95 could have jumped to the sec-ond line in the cal-cu-la-tions 
-of the
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\T1/lmr/m/n/10.95 terms by the same num-ber''. In that case, we could have jump
+ed
  []
 
 [11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
+
+LaTeX Warning: Hyper reference `potsomgrunn' on page 13 undefined on input line
+ 300.
+
+
+LaTeX Warning: Reference `potsomgrunn' on page 13 undefined on input line 300.
+
+[13
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 338.
+ [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
  (./lig_eng.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
 Package rerunfilecheck Info: File `lig_eng.out' has not changed.
-(rerunfilecheck)             Checksum: 7F9BF35E9EBC041757845F28995A704D;188.
+(rerunfilecheck)             Checksum: 2F7BC2DEC6D11DB852292A49A663F44E;258.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 37912 strings out of 494923
- 747986 string characters out of 6180741
- 845496 words of memory out of 5000000
- 40544 multiletter control sequences out of 15000+600000
- 610206 words of font info for 83 fonts, out of 8000000 for 9000
+ 37937 strings out of 494923
+ 748295 string characters out of 6180741
+ 845576 words of memory out of 5000000
+ 40561 multiletter control sequences out of 15000+600000
+ 617895 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,20n,102p,10509b,873s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
--mathsy.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texl
@@ -2068,17 +2073,19 @@ t/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/l
-mmi9.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fo
-nts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on lig_eng.pdf (12 pages, 347979 bytes).
+texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lms
+y8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
+Output written on lig_eng.pdf (14 pages, 378248 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
- 301 compressed objects within 4 object streams
- 29 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 390 PDF objects out of 1000 (max. 8388607)
+ 327 compressed objects within 4 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 

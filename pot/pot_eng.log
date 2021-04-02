@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  26 MAR 2021 06:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1752,11 +1752,11 @@ LaTeX Info: Redefining \nameref on input line 3.
 \@outlinefile=\write7
 \openout7 = `pot_eng.out'.
 
-<../fig/pot.pdf, id=15, 145.36308pt x 18.94077pt>
-File: ../fig/pot.pdf Graphic file (type pdf)
-<use ../fig/pot.pdf>
-Package pdftex.def Info: ../fig/pot.pdf  used on input line 6.
-(pdftex.def)             Requested size: 145.36272pt x 18.9407pt.
+<../fig/pot_eng.pdf, id=15, 121.30319pt x 17.95709pt>
+File: ../fig/pot_eng.pdf Graphic file (type pdf)
+<use ../fig/pot_eng.pdf>
+Package pdftex.def Info: ../fig/pot_eng.pdf  used on input line 6.
+(pdftex.def)             Requested size: 121.30289pt x 17.95703pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1809,14 +1809,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 43.
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[][][][]\T1/lmr/m/n/9 Attention! The ex-am-ples il-lus-trates a small para-dox 
-of the En-glish lan-
+[][][][]\T1/lmr/m/n/9 Attention! The ex-am-ples il-lus-trates a para-dox in the
+ En-glish lan-guage.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
-\T1/lmr/m/n/9 guage. Thing is, \T1/lmr/m/it/9 power \T1/lmr/m/n/9 is also a (an
-d in the spo-ken lan-guage the pre-ferred)
+\T1/lmr/m/n/9 Thing is, \T1/lmr/m/it/9 power \T1/lmr/m/n/9 is also a (and in th
+e spo-ken lan-guage the pre-ferred) syn-
  []
 
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 43.
@@ -1827,14 +1827,14 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 43.
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]\T1/lmr/m/n/10.95 In pro-gram-ming lan-guages one usu-ally writes the sym-bol
- [][][][][][] or
+[]\T1/lmr/m/n/10.95 In com-puter pro-gram-ming, the sym-bol [][][][][][] or the
+ sym-bols [][][][][][] is
  []
 
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/pot.pdf>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/pot_eng.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
 []\T1/lmr/m/n/10.95 The next pages de-clares rules con-cern-ing pow-ers with co
 r-re-
@@ -1848,20 +1848,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\T1/lmr/m/n/10.95 ex-pla-na-tions as gen-eral as pos-si-ble, we choose to use e
-x-po-nents
+\T1/lmr/m/n/10.95 ex-pla-na-tions as gen-eral as pos-si-ble, we choose to use, 
+mostly,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\T1/lmr/m/n/10.95 which are not vari-ables. Us-ing vari-ables as ex-po-nents wo
-uld lead
+\T1/lmr/m/n/10.95 spe-cific num-bers as ex-po-nents . Us-ing vari-ables as ex-p
+o-nents
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\T1/lmr/m/n/10.95 to less reader-friendly ex-pres-sions and it is our claim tha
-t the
+\T1/lmr/m/n/10.95 would lead to less reader-friendly ex-pres-sions, and it is o
+ur claim
  []
 
 
@@ -1872,33 +1872,33 @@ re-gard-ing how pow-ers with neg-a-tive ex-po-nents can
 
 [2] [3]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 123.
+(Font)              <12> on input line 122.
  [4] [5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 260--260
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
 \T1/lmr/m/n/10.95 The sym-bol [][][][][][] is called the \T1/lmr/m/it/10.95 rad
 -i-cal sign[]\T1/lmr/m/n/10.95 . In the case of an
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 []\T1/lmr/m/n/10.95 A num-ber which is \T1/lmr/m/sl/10.95 not \T1/lmr/m/n/10.95
  a ra-tio-nal num-ber, is an ir-ra-tional num-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 []\T1/lmr/m/n/10.95 The value of an ir-ra-tional num-ber are dec-i-mal num-bers
  with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--288
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 [][][][]\T1/lmr/m/n/9 Strictly speak-ing, ir-ra-tional num-bers are all \T1/lmr
 /m/it/9 real \T1/lmr/m/n/9 num-bers which are not ra-tio-nal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--288
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 \T1/lmr/m/n/9 num-bers. But to ex-plain what \T1/lmr/m/it/9 real \T1/lmr/m/n/9 
 num-bers are, we have to men-tion \T1/lmr/m/it/9 imag-i-nary
  []
@@ -1906,19 +1906,19 @@ num-bers are, we have to men-tion \T1/lmr/m/it/9 imag-i-nary
 [9
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 302.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 302.
  (./pot_eng.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 302.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 302.
 Package rerunfilecheck Info: File `pot_eng.out' has not changed.
-(rerunfilecheck)             Checksum: E439D9664249260A12F8157DA42A1B63;97.
+(rerunfilecheck)             Checksum: F85FCC6559EA304BCCB076901D21AF1C;98.
  ) 
 Here is how much of TeX's memory you used:
- 37867 strings out of 494923
- 746643 string characters out of 6180741
- 846666 words of memory out of 5000000
- 40509 multiletter control sequences out of 15000+600000
+ 37868 strings out of 494923
+ 746678 string characters out of 6180741
+ 846719 words of memory out of 5000000
+ 40510 multiletter control sequences out of 15000+600000
  617408 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,20n,102p,10509b,873s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1939,7 +1939,7 @@ onts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb>
 public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on pot_eng.pdf (9 pages, 272756 bytes).
+Output written on pot_eng.pdf (9 pages, 271345 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams

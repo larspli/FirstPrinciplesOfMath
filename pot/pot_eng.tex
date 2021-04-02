@@ -3,18 +3,18 @@
 \begin{document}
 
 \section{\pot \label{Potensar}}
-\fig{pot}
+\fig{pot_eng}
 A power is composed by a \textit{base}\index{base} and an \textit{exponent}\index{exponent}. For example, $2^{3}$ is a power with base 2 and
 exponent 3. An exponent which is a positive integer indicates the amount of instances of the base to be multiplied together, that is
 \[ 2^3 =2\cdot2\cdot2 \]
 
-\reg[Potenstall]{
+\reg[Powers]{
 $ {a^n} $ is a power with base $ a $ and exponent $ n $. 
 \vsk
 
 If $ n $ is a natural number, $ a^n $ corresponds to $ n $ instances of $ a $ multiplied together. \vsk
 
-\textit{Notice: } $ a^1=a $
+\mer $ a^1=a $
 }
 \eks[1]{\vs \vs
 \algv{
@@ -33,17 +33,17 @@ If $ n $ is a natural number, $ a^n $ corresponds to $ n $ instances of $ a $ mu
 }
 
 \spr{
-Common ways of saying $ 2^3 $ are\footnote{Attention! The examples illustrates a small paradox of the English language. Thing is, \textit{power} is also a (and in the spoken language the preferred) synonym for \textit{exponent}.}
+Common ways of saying $ 2^3 $ are\footnote{Attention! The examples illustrates a paradox in the English language. Thing is, \textit{power} is also a (and in the spoken language the preferred) synonym for \textit{exponent}.}
 \begin{itemize}
 	\item ''2 to the power of 3''
 	\item ''2 to the third power''
 \end{itemize}
 
-In programming languages one usually writes the symbol \sym{\^{}} or the symbols \sym{**} between the base and the exponent.
+In computer programming, the symbol \sym{\^{}} or the symbols \sym{**} is usually written between the base and the exponent.
 }
 \newpage
-\info{Notice}{
-The next pages declares rules concerning powers with corresponding explanations. Even though one wish to have these explanations as general as possible, we choose to use exponents which are not variables. Using variables as exponents would lead to less reader-friendly expressions and it is our claim that the general cases are well illustrated by the specific cases. 
+\info{\merk}{
+The next pages declares rules concerning powers with corresponding explanations. Even though one wish to have these explanations as general as possible, we choose to use, mostly, specific numbers as exponents . Using variables as exponents would lead to less reader-friendly expressions, and it is our claim that the general cases are well illustrated by the specific cases. 
 } \vsk \vsk
 
 \reg[\potgang \label{potgang}]{
@@ -100,8 +100,7 @@ Hence we can write
 }
 \newpage
 \fork{\ref{potdivpot} \potdivpot}{
-Let's examine the fraction
-	\[ \frac{a^{5}}{a^{2}} \]
+Let's examine the fraction $  \frac{a^{5}}{a^{2}}  $.
 Expanding the powers, we get
 	\begin{align*}
 	\frac{a^{5}}{a^{2}} & =\frac{a\cdot a\cdot a\cdot a\cdot a}{a\cdot a}\br
@@ -116,7 +115,7 @@ The above calculations are equivalent to writing
 	\end{align*}
 } \vsk \vsk
 
-\reg[\potanull \label{pota0}]{\vs \vs
+\reg[\potanull \label{pota0}]{\vsb
 \[
 a^{0}=1
 \]
@@ -255,7 +254,7 @@ a^{0}=1
 \newpage
 \reg[\textit{n}-rot]{ \vs
 \[ a^\frac{1}{n}=\sqrt[n]{a} \]
-The symbol \sym{$ \sqrt{\phantom{a}} $} is called the \textit{radical sign}\index{radical sign}. In the case of an exponent equal to $ \frac{1}{2} $ it is common to omit 2 from the radical:
+The symbol \sym{$ \sqrt{\phantom{a}} $} is called the \textit{radical sign}\index{radical sign}. In the case of an exponent equal to $ \frac{1}{2} $, it is common to omit 2 from the radical:
 \[ a^\frac{1}{2}=\sqrt{a} \]
 }
 \eks{
@@ -272,11 +271,9 @@ For example is
 }	
 }
 \spr{
-$\sqrt{9} $ is called '' the square root of 9'' \vsk
+$\sqrt{9} $ is called '' the square (the 2nd) root of 9'' \vsk
 
-$\sqrt[3]{8} $ is called ''the cube root of 8'' \vsk
-
-$ \sqrt[5]{9} $ is called ''the 5th root of 9''.
+$\sqrt[3]{8} $ is called ''the cube (the 3th) root of 8'' \vsk
 }
 \newpage
 \section{\irrasj}
