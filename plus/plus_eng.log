@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  24 FEB 2021 07:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  1 APR 2021 19:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1792,16 +1792,15 @@ LaTeX Font Info:    Try loading font information for U+esint on input line 7.
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-</home/sindre/G/fig/plusm1.pdf, id=11, 85.86078pt x 43.18132pt>
-File: /home/sindre/G/fig/plusm1.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/plusm1.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/plusm1.pdf  used on input line 9.
+<../fig/plusm1.pdf, id=11, 85.86078pt x 43.18132pt>
+File: ../fig/plusm1.pdf Graphic file (type pdf)
+<use ../fig/plusm1.pdf>
+Package pdftex.def Info: ../fig/plusm1.pdf  used on input line 9.
 (pdftex.def)             Requested size: 85.86057pt x 43.1812pt.
-</home/sindre/G/fig/plusm1a.pdf, id=12, 85.86078pt x 43.18132pt>
-File: /home/sindre/G/fig/plusm1a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/plusm1a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/plusm1a.pdf  used on input line 12.
-
+<../fig/plusm1a.pdf, id=12, 85.86078pt x 43.18132pt>
+File: ../fig/plusm1a.pdf Graphic file (type pdf)
+<use ../fig/plusm1a.pdf>
+Package pdftex.def Info: ../fig/plusm1a.pdf  used on input line 12.
 (pdftex.def)             Requested size: 85.86057pt x 43.1812pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
@@ -1818,24 +1817,24 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sindre/G/fig/plusm1.
-pdf> </home/sindre/G/fig/plusm1a.pdf>]
-</home/sindre/G/fig/plus2.pdf, id=37, 233.54251pt x 37.741pt>
-File: /home/sindre/G/fig/plus2.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/plus2.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/plus2.pdf  used on input line 43.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/plusm1.pdf> <../fig
+/plusm1a.pdf>]
+<../fig/plus2.pdf, id=37, 233.54251pt x 37.741pt>
+File: ../fig/plus2.pdf Graphic file (type pdf)
+<use ../fig/plus2.pdf>
+Package pdftex.def Info: ../fig/plus2.pdf  used on input line 43.
 (pdftex.def)             Requested size: 233.54193pt x 37.74089pt.
-</home/sindre/G/fig/plus3.pdf, id=38, 307.45866pt x 37.62054pt>
-File: /home/sindre/G/fig/plus3.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/plus3.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/plus3.pdf  used on input line 47.
+<../fig/plus3.pdf, id=38, 307.45866pt x 37.62054pt>
+File: ../fig/plus3.pdf Graphic file (type pdf)
+<use ../fig/plus3.pdf>
+Package pdftex.def Info: ../fig/plus3.pdf  used on input line 47.
 (pdftex.def)             Requested size: 307.4579pt x 37.62044pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 50.
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-[][][][][][][] \T1/lmr/m/n/10.95 gives us the pos-si-bil-ity of ex-press-ing nu
-m-bers in dif-fer-ent
+[][][][][][][] \T1/lmr/m/n/10.95 brings the pos-si-bil-ity of ex-press-ing num-
+bers in dif-fer-ent
  []
 
 
@@ -1846,8 +1845,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 means ''have the same value as''. This will also be the case 
-for
+\T1/lmr/m/n/10.95 means ''have the same value as''. This is also the case re-ga
+rd-ing
  []
 
 
@@ -1856,21 +1855,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
 look at in
  []
 
-[2 </home/sindre/G/fig/plus2.pdf> </home/sindre/G/fig/plus3.pdf>]
+[2 <../fig/plus2.pdf> <../fig/plus3.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
-
-(./plus_eng.aux)
+ (./plus_eng.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
 Package rerunfilecheck Info: File `plus_eng.out' has not changed.
-(rerunfilecheck)             Checksum: 4D064E56FAD53526885990794EB95AD5;45.
+(rerunfilecheck)             Checksum: 573D866FDCF765A9F21C03F74B720EF5;45.
  ) 
 Here is how much of TeX's memory you used:
- 37759 strings out of 494923
- 745760 string characters out of 6180741
- 842374 words of memory out of 5000000
- 40442 multiletter control sequences out of 15000+600000
+ 37760 strings out of 494923
+ 745560 string characters out of 6180741
+ 842373 words of memory out of 5000000
+ 40443 multiletter control sequences out of 15000+600000
  584561 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,9n,102p,10510b,849s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1881,7 +1879,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on plus_eng.pdf (2 pages, 120974 bytes).
+Output written on plus_eng.pdf (2 pages, 119857 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream

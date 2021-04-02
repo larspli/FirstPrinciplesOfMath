@@ -20,10 +20,10 @@ But the answers are not the same! This points out the need of having rules for w
 	&= 14
 }
 }
-But what if we wanted to add $ 2 $ with $ 3 $ first, and then multiplying the sum by 4? We use parentheses to tell that something is to be calculeted first: \regv
+But what if we wanted to calculate $ 2+3 $ first, then multiplying the sum by 4? We use parentheses to tell that something is to be calculeted first: \regv
 \st{\vs
 \alg{
-(2+3)\cdot4&=\text{''Add 2 with 3, multiply by 4 afterwards''} \\
+(2+3)\cdot4&=\text{''Calculate }2+3\text{, multiply by 4 afterwards''} \\
 &= 5\cdot 4 \\
 &= 20
 }
@@ -31,14 +31,14 @@ But what if we wanted to add $ 2 $ with $ 3 $ first, and then multiplying the su
 
 \reg[Order of operations \label{rrek}]{ \vspace{-5pt}
 \begin{enumerate}
-	\item Expressions with parenthesis
+	\item Expressions with parentheses
 	\item Multiplication or division
 	\item Addition or subtraction
 \end{enumerate}
 } 
 \newpage
 \eks[1]{
-Rekn ut
+Calculate
 \[ 23-(3+9)+4\cdot 7 \]
 \sv \vs \vs
 \algv{
@@ -57,8 +57,8 @@ Rekn ut
 		&&&=6 &&\text{Addition and subtraction}
 	}
 }
-\subsection*{Multiplication including paranthesis}
-How many boxes are present in the figure below?
+\subsection*{Multiplication involving paranthesis}
+How many boxes are present in this figure?
 \fig{gang}
 To ways of thinking are these:
 \begin{enumerate}
@@ -83,7 +83,7 @@ When an expression enclosed by a parenthesis is a factor, we can multiply the ot
 &=20-14 \\
 &=6
 }	
-\mer Obviously, it would be easier calculate like this:
+\mer Obviously, it would be easier to calculate like this:
 \[ (10-7)\cdot 2=3\cdot 2 =6 \]
 }
 \eks[2]{
@@ -99,11 +99,11 @@ Calculate $ 12\cdot 3 $.
 }	
 }
 \info{\merk}{
-We introduced parenthesis as an indicator of what to calculate first, but \rref{gangpar} gives an alternative and equivalent interpretation of parenthesis . The rule is especially useful when working on algebra (see \hrs{Del2}{Part}).
+We introduced parenthesis as an indicator of what to calculate first, but \rref{gangpar} gives an alternative and equivalent interpretation of parenthesis . The rule is especially useful when working with algebra (see \hrs{Del2}{Part}\,).
 }
 \newpage
 \subsubsection{Multiplying by 0}
-Earlier whe have seen that 0 can be expressed as the difference between two numbers and this can help us calculate when multiplying by 0. Let's look at the calculation
+Earlier whe have seen that 0 can be expressed as the difference between two numbers, and this can help us calculate when multiplying by 0. Let's look at the calculation
 \[ (2-2)\cdot3 \]
 By \rref{gangpar}, we get
 \alg{
@@ -123,8 +123,8 @@ Since $ 0=2-2 $, this means that
 }
 
 \subsection*{Associative laws}
-\reg[Associative ved addisjon]{
-Placement of parenthesis between terms have no impact on the sum.
+\reg[Associative law for addition]{
+The placement of parentheses between terms have no impact on the sum.
 }
 \eks[]{ \vsb \vs
 \alg{
@@ -135,8 +135,8 @@ Placement of parenthesis between terms have no impact on the sum.
 }
 \vsk \vsk
 
-\reg[Assosiativ lov ved multiplikasjon]{
-Placement of parenthesis between factors have no impact on the product.
+\reg[Associative law for multiplication]{
+The placement of parentheses between factors have no impact on the product.
 }
 \eks[]{ \vsb \vs
 \alg{
@@ -158,7 +158,7 @@ Opposite to addition and multiplication, neither subtraction nor divison is asso
 We have seen how parentheses hjelps indicating the \textsl{priority} of operations, but the fact that subtraction and divison is non-associative brings the need of having a rule of in which \textsl{direction} to calculate. \regv
 
 \reg[Direction of calculations \label{rret}]{
-Operations which by \rref{rrek} have equal priority is to be calculated from left to the right.
+Operations which by \rref{rrek} have equal priority, are to be calculated from left to right.
 }
 \eks[1]{ \vsb \vsb
 	\alg{

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  31 MAR 2021 07:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 07:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,7 +55,7 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)) (../preamb.tex
+)) (../preamb_eng.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1793,8 +1793,8 @@ LaTeX Font Info:    Try loading font information for U+esint on input line 8.
 File: uesint.fd 
 )
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]\T1/lmr/m/n/10.95 A nat-u-ral num-ber which is larger than 1, og and only di-
-vis-i-ble
+[]\T1/lmr/m/n/10.95 A nat-u-ral num-ber larger than 1, and only di-vis-i-ble by
+ it-self and
  []
 
 
@@ -1813,16 +1813,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `fakt_eng.out' has not changed.
-(rerunfilecheck)             Checksum: A2D506DA42FA0BA17E19CB4968E14CD4;50.
+(rerunfilecheck)             Checksum: 7132523CD31757229F08368243F92FCD;50.
  ) 
 Here is how much of TeX's memory you used:
- 37700 strings out of 494923
- 744513 string characters out of 6180741
- 843324 words of memory out of 5000000
- 40391 multiletter control sequences out of 15000+600000
+ 37701 strings out of 494923
+ 744529 string characters out of 6180741
+ 843351 words of memory out of 5000000
+ 40392 multiletter control sequences out of 15000+600000
  576842 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,9n,102p,10506b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,9n,102p,10510b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -1830,7 +1830,7 @@ hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
 f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsy10.pfb>
-Output written on fakt_eng.pdf (1 page, 97745 bytes).
+Output written on fakt_eng.pdf (1 page, 97323 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream

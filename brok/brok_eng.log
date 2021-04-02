@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  19 MAR 2021 20:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1764,10 +1764,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
 ] \T1/lmr/m/n/10.95 and the di-vi-sor the de-nom-
  []
 
-</home/sindre/G/fig/br0_nn.pdf, id=43, 97.51431pt x 24.7826pt>
-File: /home/sindre/G/fig/br0_nn.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br0_nn.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br0_nn.pdf  used on input line 12.
+<../fig/br0_nn.pdf, id=43, 97.51431pt x 24.7826pt>
+File: ../fig/br0_nn.pdf Graphic file (type pdf)
+<use ../fig/br0_nn.pdf>
+Package pdftex.def Info: ../fig/br0_nn.pdf  used on input line 12.
 (pdftex.def)             Requested size: 97.51405pt x 24.78252pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 21.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
@@ -1833,86 +1833,87 @@ LaTeX Warning: Hyper reference `Talavare' on page 1 undefined on input line 23.
 
 LaTeX Warning: Reference `Talavare' on page 1 undefined on input line 23.
 
-</home/sindre/G/fig/br1.pdf, id=46, 85.67006pt x 57.40446pt>
-File: /home/sindre/G/fig/br1.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br1.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br1.pdf  used on input line 26.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[][][][]\T1/lmr/m/n/9 For prac-ti-cal rea-sons, we choose a unit box larger tha
+n the one used in []\T1/lmr/m/sl/9 Chap-ter
+ []
+
+<../fig/br1.pdf, id=46, 85.67006pt x 57.40446pt>
+File: ../fig/br1.pdf Graphic file (type pdf)
+<use ../fig/br1.pdf>
+Package pdftex.def Info: ../fig/br1.pdf  used on input line 26.
 (pdftex.def)             Requested size: 85.66983pt x 57.4043pt.
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sindre/G/fig/br0_nn.
-pdf> </home/sindre/G/fig/br1.pdf>]
-</home/sindre/G/fig/br2.pdf, id=84, 85.67006pt x 57.40446pt>
-File: /home/sindre/G/fig/br2.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br2.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br2.pdf  used on input line 32.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/br0_nn.pdf> <../fig
+/br1.pdf>]
+<../fig/br2.pdf, id=84, 85.67006pt x 57.40446pt>
+File: ../fig/br2.pdf Graphic file (type pdf)
+<use ../fig/br2.pdf>
+Package pdftex.def Info: ../fig/br2.pdf  used on input line 32.
 (pdftex.def)             Requested size: 85.66983pt x 57.4043pt.
-</home/sindre/G/fig/br3a.pdf, id=85, 54.05194pt x 28.95819pt>
-File: /home/sindre/G/fig/br3a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br3a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br3a.pdf  used on input line 37.
+<../fig/br3a.pdf, id=85, 54.05194pt x 28.95819pt>
+File: ../fig/br3a.pdf Graphic file (type pdf)
+<use ../fig/br3a.pdf>
+Package pdftex.def Info: ../fig/br3a.pdf  used on input line 37.
 (pdftex.def)             Requested size: 54.0518pt x 28.95811pt.
-</home/sindre/G/fig/br3.pdf, id=86, 82.49821pt x 57.40446pt>
-File: /home/sindre/G/fig/br3.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br3.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br3.pdf  used on input line 40.
+<../fig/br3.pdf, id=86, 82.49821pt x 57.40446pt>
+File: ../fig/br3.pdf Graphic file (type pdf)
+<use ../fig/br3.pdf>
+Package pdftex.def Info: ../fig/br3.pdf  used on input line 40.
 (pdftex.def)             Requested size: 82.49799pt x 57.4043pt.
-</home/sindre/G/fig/br0a.pdf, id=87, 315.70949pt x 57.40446pt>
-File: /home/sindre/G/fig/br0a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br0a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br0a.pdf  used on input line 50.
+<../fig/br0a.pdf, id=87, 315.70949pt x 57.40446pt>
+File: ../fig/br0a.pdf Graphic file (type pdf)
+<use ../fig/br0a.pdf>
+Package pdftex.def Info: ../fig/br0a.pdf  used on input line 50.
 (pdftex.def)             Requested size: 315.70871pt x 57.4043pt.
 
 Overfull \hbox (2.72833pt too wide) in paragraph at lines 50--50
  [] 
  []
 
-[2 </home/sindre/G/fig/br2.pdf> </home/sindre/G/fig/br3a.pdf> </home/sindre/G/f
-ig/br3.pdf> </home/sindre/G/fig/br0a.pdf>]
-Overfull \hbox (0.5722pt too wide) in paragraph at lines 54--55
-\T1/lmr/m/n/10.95 On the num-ber line we di-vide the length be-tween 0 and 1 in
-to as many 
- []
-
-</home/sindre/G/fig/br9.pdf, id=121, 146.39694pt x 35.84392pt>
-File: /home/sindre/G/fig/br9.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br9.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br9.pdf  used on input line 55.
+[2 <../fig/br2.pdf> <../fig/br3a.pdf> <../fig/br3.pdf> <../fig/br0a.pdf>]
+<../fig/br9.pdf, id=121, 146.39694pt x 35.84392pt>
+File: ../fig/br9.pdf Graphic file (type pdf)
+<use ../fig/br9.pdf>
+Package pdftex.def Info: ../fig/br9.pdf  used on input line 55.
 (pdftex.def)             Requested size: 146.39658pt x 35.84383pt.
-</home/sindre/G/fig/br9a.pdf, id=122, 260.21214pt x 37.0986pt>
-File: /home/sindre/G/fig/br9a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br9a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br9a.pdf  used on input line 57.
+<../fig/br9a.pdf, id=122, 260.21214pt x 37.0986pt>
+File: ../fig/br9a.pdf Graphic file (type pdf)
+<use ../fig/br9a.pdf>
+Package pdftex.def Info: ../fig/br9a.pdf  used on input line 57.
 (pdftex.def)             Requested size: 260.2115pt x 37.0985pt.
-[3 </home/sindre/G/fig/br9.pdf> </home/sindre/G/fig/br9a.pdf>]
+
+[3 <../fig/br9.pdf> <../fig/br9a.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 66--66
 []\T1/lmr/m/n/10.95 The value of a frac-tion is given by di-vid-ing the nu-mer-
 a-tor by
  []
 
-</home/sindre/G/fig/br12.pdf, id=141, 270.41025pt x 57.40446pt>
-File: /home/sindre/G/fig/br12.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br12.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br12.pdf  used on input line 78.
+<../fig/br12.pdf, id=141, 270.41025pt x 57.40446pt>
+File: ../fig/br12.pdf Graphic file (type pdf)
+<use ../fig/br12.pdf>
+Package pdftex.def Info: ../fig/br12.pdf  used on input line 78.
 (pdftex.def)             Requested size: 270.40958pt x 57.4043pt.
-</home/sindre/G/fig/br12a.pdf, id=142, 146.39694pt x 126.44238pt>
-File: /home/sindre/G/fig/br12a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br12a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br12a.pdf  used on input line 79.
+<../fig/br12a.pdf, id=142, 146.39694pt x 126.44238pt>
+File: ../fig/br12a.pdf Graphic file (type pdf)
+<use ../fig/br12a.pdf>
+Package pdftex.def Info: ../fig/br12a.pdf  used on input line 79.
 (pdftex.def)             Requested size: 146.39658pt x 126.44206pt.
 [4
 
- </home/sindre/G/fig/br12.pdf> </home/sindre/G/fig/br12a.pdf>]
-</home/sindre/G/fig/br13.pdf, id=168, 142.76335pt x 57.40446pt>
-File: /home/sindre/G/fig/br13.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br13.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br13.pdf  used on input line 87.
+ <../fig/br12.pdf> <../fig/br12a.pdf>]
+<../fig/br13.pdf, id=168, 142.76335pt x 57.40446pt>
+File: ../fig/br13.pdf Graphic file (type pdf)
+<use ../fig/br13.pdf>
+Package pdftex.def Info: ../fig/br13.pdf  used on input line 87.
 (pdftex.def)             Requested size: 142.76299pt x 57.4043pt.
-</home/sindre/G/fig/br13a.pdf, id=169, 124.79623pt x 58.15727pt>
-File: /home/sindre/G/fig/br13a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br13a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br13a.pdf  used on input line 88.
+<../fig/br13a.pdf, id=169, 124.79623pt x 58.15727pt>
+File: ../fig/br13a.pdf Graphic file (type pdf)
+<use ../fig/br13a.pdf>
+Package pdftex.def Info: ../fig/br13a.pdf  used on input line 88.
 (pdftex.def)             Requested size: 124.79591pt x 58.15712pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
@@ -1944,25 +1945,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--107
 
  []
 
-[5 </home/sindre/G/fig/br13.pdf> </home/sindre/G/fig/br13a.pdf>]
+[5 <../fig/br13.pdf> <../fig/br13a.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []\T1/lmr/m/n/10.95 Since $[]$, we mul-ti-ply both the nu-mer-a-tor and the
  []
 
 [6]
-</home/sindre/G/fig/br4.pdf, id=194, 228.12227pt x 57.40446pt>
-File: /home/sindre/G/fig/br4.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br4.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br4.pdf  used on input line 134.
+<../fig/br4.pdf, id=194, 228.12227pt x 57.40446pt>
+File: ../fig/br4.pdf Graphic file (type pdf)
+<use ../fig/br4.pdf>
+Package pdftex.def Info: ../fig/br4.pdf  used on input line 134.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
-</home/sindre/G/fig/br4a.pdf, id=195, 122.67833pt x 51.76338pt>
-File: /home/sindre/G/fig/br4a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br4a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br4a.pdf  used on input line 135.
+<../fig/br4a.pdf, id=195, 122.67833pt x 51.76338pt>
+File: ../fig/br4a.pdf Graphic file (type pdf)
+<use ../fig/br4a.pdf>
+Package pdftex.def Info: ../fig/br4a.pdf  used on input line 135.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 139--139
-[]\T1/lmr/bx/n/12 0.4Addistion/subtraction of frac-tions with equal
+[]\T1/lmr/bx/n/12 0.4Addition/subtraction of frac-tions with equal
  []
 
 
@@ -1979,34 +1980,33 @@ nom-i-
 
 [7
 
- </home/sindre/G/fig/br4.pdf> </home/sindre/G/fig/br4a.pdf>]
+ <../fig/br4.pdf> <../fig/br4a.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-[][][][]\T1/lmr/m/n/9 Recall that the red-colored ar-row in-di-cates that one s
+[][][][]\T1/lmr/m/n/9 Recall that the red-colored ar-row in-di-cates that you s
 hall start at the ar-row head
  []
 
-</home/sindre/G/fig/br7.pdf, id=217, 142.76335pt x 57.40446pt>
-File: /home/sindre/G/fig/br7.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br7.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br7.pdf  used on input line 156.
+<../fig/br7.pdf, id=217, 142.76335pt x 57.40446pt>
+File: ../fig/br7.pdf Graphic file (type pdf)
+<use ../fig/br7.pdf>
+Package pdftex.def Info: ../fig/br7.pdf  used on input line 156.
 (pdftex.def)             Requested size: 142.76299pt x 57.4043pt.
-</home/sindre/G/fig/br7t.pdf, id=218, 122.67833pt x 51.76338pt>
-File: /home/sindre/G/fig/br7t.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br7t.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br7t.pdf  used on input line 157.
+<../fig/br7t.pdf, id=218, 122.67833pt x 51.76338pt>
+File: ../fig/br7t.pdf Graphic file (type pdf)
+<use ../fig/br7t.pdf>
+Package pdftex.def Info: ../fig/br7t.pdf  used on input line 157.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
-</home/sindre/G/fig/br7a.pdf, id=219, 313.48116pt x 57.40446pt>
-File: /home/sindre/G/fig/br7a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br7a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br7a.pdf  used on input line 164.
+<../fig/br7a.pdf, id=219, 313.48116pt x 57.40446pt>
+File: ../fig/br7a.pdf Graphic file (type pdf)
+<use ../fig/br7a.pdf>
+Package pdftex.def Info: ../fig/br7a.pdf  used on input line 164.
 (pdftex.def)             Requested size: 313.4804pt x 57.4043pt.
-</home/sindre/G/fig/br7ta.pdf, id=220, 272.75902pt x 51.76338pt>
-File: /home/sindre/G/fig/br7ta.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br7ta.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br7ta.pdf  used on input line 165.
+<../fig/br7ta.pdf, id=220, 272.75902pt x 51.76338pt>
+File: ../fig/br7ta.pdf Graphic file (type pdf)
+<use ../fig/br7ta.pdf>
+Package pdftex.def Info: ../fig/br7ta.pdf  used on input line 165.
 (pdftex.def)             Requested size: 272.75835pt x 51.76323pt.
-[8 </home/sindre/G/fig/br7.pdf> </home/sindre/G/fig/br7t.pdf> </home/sindre/G/f
-ig/br7a.pdf> </home/sindre/G/fig/br7ta.pdf>]
+[8 <../fig/br7.pdf> <../fig/br7t.pdf> <../fig/br7a.pdf> <../fig/br7ta.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
 []\T1/lmr/m/n/10.95 When cal-cu-lat-ing ad-di-tion/subtraction of frac-tions, w
 e must ex-
@@ -2014,8 +2014,8 @@ e must ex-
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
-\T1/lmr/m/n/10.95 pand the frac-tions such that they have a com-mon de-nom-i-na
--tor
+\T1/lmr/m/n/10.95 pand the frac-tions such that they have a de-nom-i-na-tors of
+ equal
  []
 
 
@@ -2026,27 +2026,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 192--192
-[]\T1/lmr/m/n/10.95 In \T1/lmr/m/sl/10.95 Ex-am-ple 1 \T1/lmr/m/n/10.95 above 6
-3 is called a \T1/lmr/m/it/10.95 com-mon de-nom-i-na-tor[] \T1/lmr/m/n/10.95 be
--
+[]\T1/lmr/m/n/10.95 In \T1/lmr/m/sl/10.95 Ex-am-ple 1 \T1/lmr/m/n/10.95 above, 
+63 is called a \T1/lmr/m/it/10.95 com-mon de-nom-i-na-tor[] \T1/lmr/m/n/10.95 b
+e-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 192--192
 \T1/lmr/m/n/10.95 cause there ex-ists in-te-gers which, when mul-ti-plied by th
-e de-
+e orig-i-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 192--192
-\T1/lmr/m/n/10.95 Multiplying to-gether the de-nom-i-na-tors al-ways re-sults i
-n a com-
+\T1/lmr/m/n/10.95 Multiplying to-gether the orig-i-nal de-nom-i-na-tors al-ways
+ re-sults
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 192--192
-\T1/lmr/m/n/10.95 mon de-nom-i-na-tor but one can avoid large num-bers by find-
-ing
+\T1/lmr/m/n/10.95 in a com-mon de-nom-i-na-tor but one can avoid large num-bers
+ by
  []
 
 
@@ -2057,8 +2057,8 @@ hat
 
 [9]
 Underfull \hbox (badness 10000) in paragraph at lines 205--205
-[]\T1/lmr/m/n/10.95 All de-nom-i-na-tor can be trans-formed into 8 if mul-ti-pl
-ied by a
+[]\T1/lmr/m/n/10.95 All de-nom-i-na-tors can be trans-formed into 8 if mul-ti-p
+lied by a
  []
 
 [10]
@@ -2069,10 +2069,10 @@ LaTeX Warning: Hyper reference `Gonging' on page 11 undefined on input line 208
 
 LaTeX Warning: Reference `Gonging' on page 11 undefined on input line 208.
 
-</home/sindre/G/fig/br14.pdf, id=265, 145.44337pt x 51.76338pt>
-File: /home/sindre/G/fig/br14.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br14.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br14.pdf  used on input line 214.
+<../fig/br14.pdf, id=265, 145.44337pt x 51.76338pt>
+File: ../fig/br14.pdf Graphic file (type pdf)
+<use ../fig/br14.pdf>
+Package pdftex.def Info: ../fig/br14.pdf  used on input line 214.
 (pdftex.def)             Requested size: 145.44301pt x 51.76323pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 229--229
@@ -2082,7 +2082,7 @@ ply the
 
 [11
 
- </home/sindre/G/fig/br14.pdf>]
+ <../fig/br14.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 251--251
 []\T1/lmr/m/n/10.95 By [][]\T1/lmr/m/sl/10.95 Rule 0.6[][][] \T1/lmr/m/n/10.95 
 we can make an in-ter-pre-ta-tion of mul-ti-ply-ing by a
@@ -2095,64 +2095,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--251
  []
 
 [12]
-</home/sindre/G/fig/br15.pdf, id=288, 78.86464pt x 57.40446pt>
-File: /home/sindre/G/fig/br15.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br15.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br15.pdf  used on input line 263.
+<../fig/br15.pdf, id=288, 78.86464pt x 57.40446pt>
+File: ../fig/br15.pdf Graphic file (type pdf)
+<use ../fig/br15.pdf>
+Package pdftex.def Info: ../fig/br15.pdf  used on input line 263.
 (pdftex.def)             Requested size: 78.86444pt x 57.4043pt.
-</home/sindre/G/fig/br15t.pdf, id=289, 122.67833pt x 35.39223pt>
-File: /home/sindre/G/fig/br15t.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br15t.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br15t.pdf  used on input line 264.
+<../fig/br15t.pdf, id=289, 122.67833pt x 35.39223pt>
+File: ../fig/br15t.pdf Graphic file (type pdf)
+<use ../fig/br15t.pdf>
+Package pdftex.def Info: ../fig/br15t.pdf  used on input line 264.
 (pdftex.def)             Requested size: 122.67801pt x 35.39212pt.
-</home/sindre/G/fig/br15a.pdf, id=290, 228.12227pt x 57.40446pt>
-File: /home/sindre/G/fig/br15a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br15a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br15a.pdf  used on input line 266.
+<../fig/br15a.pdf, id=290, 228.12227pt x 57.40446pt>
+File: ../fig/br15a.pdf Graphic file (type pdf)
+<use ../fig/br15a.pdf>
+Package pdftex.def Info: ../fig/br15a.pdf  used on input line 266.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
-</home/sindre/G/fig/br15ta.pdf, id=291, 122.67833pt x 51.76338pt>
-File: /home/sindre/G/fig/br15ta.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br15ta.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br15ta.pdf  used on input line 267.
-
+<../fig/br15ta.pdf, id=291, 122.67833pt x 51.76338pt>
+File: ../fig/br15ta.pdf Graphic file (type pdf)
+<use ../fig/br15ta.pdf>
+Package pdftex.def Info: ../fig/br15ta.pdf  used on input line 267.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
  [13
 
- </home/sindre/G/fig/br15.pdf> </home/sindre/G/fig/br15t.pdf> </home/sindre/G/f
-ig/br15a.pdf> </home/sindre/G/fig/br15ta.pdf>]
-</home/sindre/G/fig/br5.pdf, id=322, 84.05402pt x 57.40446pt>
-File: /home/sindre/G/fig/br5.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br5.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br5.pdf  used on input line 275.
+ <../fig/br15.pdf> <../fig/br15t.pdf> <../fig/br15a.pdf> <../fig/br15ta.pdf>]
+<../fig/br5.pdf, id=322, 84.05402pt x 57.40446pt>
+File: ../fig/br5.pdf Graphic file (type pdf)
+<use ../fig/br5.pdf>
+Package pdftex.def Info: ../fig/br5.pdf  used on input line 275.
 (pdftex.def)             Requested size: 84.05379pt x 57.4043pt.
-</home/sindre/G/fig/br5t.pdf, id=323, 122.67833pt x 44.94792pt>
-File: /home/sindre/G/fig/br5t.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br5t.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br5t.pdf  used on input line 276.
+<../fig/br5t.pdf, id=323, 122.67833pt x 44.94792pt>
+File: ../fig/br5t.pdf Graphic file (type pdf)
+<use ../fig/br5t.pdf>
+Package pdftex.def Info: ../fig/br5t.pdf  used on input line 276.
 (pdftex.def)             Requested size: 122.67801pt x 44.9478pt.
-</home/sindre/G/fig/br5c.pdf, id=324, 142.76335pt x 57.40446pt>
-File: /home/sindre/G/fig/br5c.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br5c.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br5c.pdf  used on input line 279.
+<../fig/br5c.pdf, id=324, 142.76335pt x 57.40446pt>
+File: ../fig/br5c.pdf Graphic file (type pdf)
+<use ../fig/br5c.pdf>
+Package pdftex.def Info: ../fig/br5c.pdf  used on input line 279.
 (pdftex.def)             Requested size: 142.76299pt x 57.4043pt.
-</home/sindre/G/fig/br5ct.pdf, id=325, 122.67833pt x 58.15727pt>
-File: /home/sindre/G/fig/br5ct.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br5ct.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br5ct.pdf  used on input line 280.
+<../fig/br5ct.pdf, id=325, 122.67833pt x 58.15727pt>
+File: ../fig/br5ct.pdf Graphic file (type pdf)
+<use ../fig/br5ct.pdf>
+Package pdftex.def Info: ../fig/br5ct.pdf  used on input line 280.
 (pdftex.def)             Requested size: 122.67801pt x 58.15712pt.
-</home/sindre/G/fig/br5a.pdf, id=326, 228.12227pt x 57.40446pt>
-File: /home/sindre/G/fig/br5a.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br5a.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br5a.pdf  used on input line 282.
+<../fig/br5a.pdf, id=326, 228.12227pt x 57.40446pt>
+File: ../fig/br5a.pdf Graphic file (type pdf)
+<use ../fig/br5a.pdf>
+Package pdftex.def Info: ../fig/br5a.pdf  used on input line 282.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
-</home/sindre/G/fig/br5at.pdf, id=327, 122.67833pt x 51.76338pt>
-File: /home/sindre/G/fig/br5at.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br5at.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br5at.pdf  used on input line 283.
+<../fig/br5at.pdf, id=327, 122.67833pt x 51.76338pt>
+File: ../fig/br5at.pdf Graphic file (type pdf)
+<use ../fig/br5at.pdf>
+Package pdftex.def Info: ../fig/br5at.pdf  used on input line 283.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
- [14 </home/sindre/G/fig/br5.pdf> </home/sindre/G/fig/br5t.pdf> </home/sindre/G
-/fig/br5c.pdf> </home/sindre/G/fig/br5ct.pdf> </home/sindre/G/fig/br5a.pdf> </h
-ome/sindre/G/fig/br5at.pdf>]
+ [14 <../fig/br5.pdf> <../fig/br5t.pdf> <../fig/br5c.pdf> <../fig/br5ct.pdf> <.
+./fig/br5a.pdf> <../fig/br5at.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 293--293
 []\T1/lmr/m/n/10.95 When di-vid-ing a frac-tion by an in-te-ger, we mul-ti-ply 
 the de-nom-i-
@@ -2160,32 +2157,8 @@ the de-nom-i-
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\T1/lmr/m/n/10.95 In that case we did not mul-ti-ply the de-nom-i-na-tor by 2, 
-such as
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\T1/lmr/m/n/10.95 Hence, the two an-swers are of equal value. Thing is that whe
-n
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\T1/lmr/m/n/10.95 di-vid-ing a frac-tion by an in-te-ger, and the nu-mer-a-tor 
-is di-vis-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\T1/lmr/m/n/10.95 ble by the in-te-ger, we can di-vide the nu-mer-a-tor by the 
-in-te-ger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\T1/lmr/m/n/10.95 di-rectly. There-fore, in such cases it is not wrong but nei-
-ther
+\T1/lmr/m/n/10.95 In that case, there were no need to mul-ti-ply the de-nom-i-n
+a-tor by
  []
 
 [15]
@@ -2225,43 +2198,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 400--400
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 400--400
-\T1/lmr/m/n/10.95 is, for the most of us, rather stren-u-ous to per-form by han
-d. But,
+\T1/lmr/m/n/10.95 is, for the most of us, rather stren-u-ous to carry out. How-
+ever,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 413--413
-\T1/lmr/m/sl/10.95 Aware! \T1/lmr/m/n/10.95 Ze-ros are the only dig-its which c
-an be ''can-celed'' this
+\T1/lmr/m/sl/10.95 Aware! \T1/lmr/m/n/10.95 Ze-ros are the only dig-its we can 
+''can-cel'' this way. For
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 413--413
-\T1/lmr/m/n/10.95 way, for ex-am-ple, $[]$ can-not be sim-pli-fied in any way. 
-Also,
+\T1/lmr/m/n/10.95 ex-am-ple, $[]$ can-not be sim-pli-fied in any way. Also, we 
+can only
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 413--413
-\T1/lmr/m/n/10.95 we can only ''can-cel'' ze-ros which are right-most sit-u-ate
-d, for
+\T1/lmr/m/n/10.95 ''can-cel'' ze-ros which are right-most sit-u-ated, e.g. we c
+an-not
  []
 
 [19]
-</home/sindre/G/fig/br10c4.pdf, id=407, 238.61145pt x 38.23283pt>
-File: /home/sindre/G/fig/br10c4.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br10c4.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br10c4.pdf  used on input line 419.
-
+<../fig/br10c4.pdf, id=406, 238.61145pt x 38.23283pt>
+File: ../fig/br10c4.pdf Graphic file (type pdf)
+<use ../fig/br10c4.pdf>
+Package pdftex.def Info: ../fig/br10c4.pdf  used on input line 419.
 (pdftex.def)             Requested size: 238.61086pt x 38.23271pt.
-</home/sindre/G/fig/br10c.pdf, id=408, 238.61145pt x 65.30397pt>
-File: /home/sindre/G/fig/br10c.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/br10c.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/br10c.pdf  used on input line 426.
+<../fig/br10c.pdf, id=407, 238.61145pt x 65.30397pt>
+File: ../fig/br10c.pdf Graphic file (type pdf)
+<use ../fig/br10c.pdf>
+Package pdftex.def Info: ../fig/br10c.pdf  used on input line 426.
 (pdftex.def)             Requested size: 238.61086pt x 65.3038pt.
  [20
 
- </home/sindre/G/fig/br10c4.pdf> </home/sindre/G/fig/br10c.pdf>]
+ <../fig/br10c4.pdf> <../fig/br10c.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 444--444
 []\T1/lmr/m/n/10.95 When di-vid-ing a num-ber by a frac-tion, we mul-ti-ply the
  num-ber
@@ -2281,8 +2253,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--472
 
 [22]
 Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]\T1/lmr/m/n/10.95 Any num-ber which can be ex-pressed a frac-tion is a \T1/lm
-r/m/it/10.95 ra-tio-nal
+[]\T1/lmr/m/n/10.95 Any num-ber which can be ex-pressed as a frac-tion is a \T1
+/lmr/m/it/10.95 ra-tio-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+[]\T1/lmr/bx/n/10.95 Decimal num-bers with in-fite dig-its in a re-peat-ing
  []
 
 
@@ -2300,7 +2277,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 488.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 488.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 488.
 Package rerunfilecheck Info: File `brok_eng.out' has not changed.
-(rerunfilecheck)             Checksum: 77728D4D1611F6191026FE2175FC7953;537.
+(rerunfilecheck)             Checksum: E7064AB036C46346A10ABA62EAC42514;556.
 
 
 LaTeX Warning: There were undefined references.
@@ -2308,8 +2285,8 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  38065 strings out of 494923
- 752092 string characters out of 6180741
- 844826 words of memory out of 5000000
+ 750592 string characters out of 6180741
+ 844836 words of memory out of 5000000
  40639 multiletter control sequences out of 15000+600000
  614469 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2331,10 +2308,10 @@ m/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on brok_eng.pdf (23 pages, 396814 bytes).
+Output written on brok_eng.pdf (23 pages, 394111 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 444 compressed objects within 5 object streams
+ 524 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
  72 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 
