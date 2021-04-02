@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1820,20 +1820,20 @@ Package pdftex.def Info: ../fig/linjstk1.pdf  used on input line 15.
 (pdftex.def)             Requested size: 81.44406pt x 36.65686pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\T1/lmr/m/n/10.95 A seg-ment is an ex-cerpt of a line, there-fore a line and 
-a seg-ment
+[]\T1/lmr/m/n/10.95 A seg-ment is a cut of a line, there-fore a line and a seg-
+ment have
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\T1/lmr/m/n/10.95 have a lot of at-tributes in com-mon. When writ-ing about lin
-es, it
+\T1/lmr/m/n/10.95 a lot of at-tributes in com-mon. When writ-ing about lines, i
+t will
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\T1/lmr/m/n/10.95 will be up to the reader to con-firm whether the same ap-plie
-s for
+\T1/lmr/m/n/10.95 be up to the reader to con-firm whether the same ap-plies for
+
  []
 
 [1
@@ -1882,8 +1882,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/lmr/m/n/10.95 Finding it nec-es-sary to write ''the length of $\OML/lmm/m
-/it/10.95 AB$\T1/lmr/m/n/10.95 '' e.g.
+[]\T1/lmr/m/n/10.95 Finding it nec-es-sary to write e.g. ''the length of $\OML/
+lmm/m/it/10.95 AB$\T1/lmr/m/n/10.95 ''
  []
 
 [2 <../fig/linjstk3.pdf>]
@@ -1907,7 +1907,7 @@ Package pdftex.def Info: ../fig/sirk1_eng.pdf  used on input line 36.
 [3 <../fig/linjstk2.pdf> <../fig/sirk1_eng.pdf>]
 Overfull \hbox (1.77377pt too wide) in paragraph at lines 39--40
 []\T1/lmr/m/n/10.95 Lines aligned in the same di-rec-tion are \T1/lmr/m/it/10.9
-5 par-al-lel[]\T1/lmr/m/n/10.95 . The fig-ure be-low shows 
+5 par-al-lel[]\T1/lmr/m/n/10.95 . The be-low fig-ure shows 
  []
 
 <../fig/parl1.pdf, id=88, 112.37985pt x 79.21594pt>
@@ -2404,15 +2404,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
  (./geo_eng.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
+Package rerunfilecheck Info: File `geo_eng.out' has not changed.
+(rerunfilecheck)             Checksum: 3CDED3BA3589A4265F9744ED858621F9;209.
 
-
-Package rerunfilecheck Warning: File `geo_eng.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `geo_eng.out':
-(rerunfilecheck)             Before: 353A92F8942940F5E0914C41EE7CCD88;204
-(rerunfilecheck)             After:  3CDED3BA3589A4265F9744ED858621F9;209.
 
 LaTeX Warning: There were undefined references.
 
@@ -2441,7 +2435,7 @@ blic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on geo_eng.pdf (21 pages, 431397 bytes).
+Output written on geo_eng.pdf (21 pages, 431243 bytes).
 PDF statistics:
  545 PDF objects out of 1000 (max. 8388607)
  440 compressed objects within 5 object streams
