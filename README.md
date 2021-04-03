@@ -78,4 +78,6 @@ Project Link: [https://github.com/sindrsh/FirstPrinciplesOfMath](https://github.
 ## Acknowledgements
 Thanks to erlend-sh for helping me setting up this page!
 
+_This Readme file is based on the template made by othneildrew_.
+
 
