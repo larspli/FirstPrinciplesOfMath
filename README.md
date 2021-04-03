@@ -52,8 +52,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This book introduces the fundations of mathematics. 
 
 ### Built With
@@ -68,15 +66,20 @@ This book introduces the fundations of mathematics.
 
 This space includes the complete file structure of the book, ready to be compiled in a TeX-editor. The main documents are
 
-- G.tex (the book Norwegian)
+- G.tex (the book in Norwegian)
 - G_bm.tex (the book in alternative Norwegian)
 - G_eng.tex (the book in English)
- 
+
+Building and compiling these files cunstructs the PDF versions of the book:
+- [Matematikken sine byggesteinar (Norwegian, nynorsk)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G.pdf)
+- [Matematikkens byggesteiner (Norwegian, bokmål)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_bm.pdf)
+- [First Principles of Math (English)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_eng.pdf)  
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+- Any feedback on the books content is always welcome
+- Polishing the English version. I have read my fair share of English books on math but have never lived in an English-speaking country. I really hope the English version is already at an acceptable level language-wise but it would be great if someone could wash out potential hints of Norwegian in the text.
 
 
 
@@ -111,5 +114,6 @@ Project Link: [https://github.com/sindrsh/mb.git](https://github.com/sindrsh/mb.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+Thanks to erlend-sh for helping me setting up this page!
 
 
