@@ -1,4 +1,4 @@
-## The book
+## About the book
 
 _First Principles of Math_ is a free text book introducing the basic concepts of math, namely
 
@@ -10,7 +10,7 @@ _First Principles of Math_ is a free text book introducing the basic concepts of
 - Algebra
 - Functions
 
-### Languages
+### Files
 
 The book is available in two different languages; Norwegian (original) and English. The respective versions are found here
 
