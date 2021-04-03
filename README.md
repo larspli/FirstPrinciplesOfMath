@@ -70,7 +70,7 @@ Distributed under the CC BY-NC-SA 4.0 license. To view a copy of this license, v
 
 Sindre Sogge Heggen - sindre.heggen@gmail.com
 
-Project Link: [https://github.com/sindrsh/mb.git](https://github.com/sindrsh/FirstPrinciplesOfMat.git)
+Project Link: [https://github.com/sindrsh/FirstPrinciplesOfMat.git](https://github.com/sindrsh/FirstPrinciplesOfMat.git)
 
 
 
