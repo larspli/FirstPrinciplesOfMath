@@ -26,7 +26,7 @@ This book introduces the fundations of mathematics.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This space includes the complete file structure of the book, ready to be compiled in a TeX-editor. The main documents are
+This space includes the complete file structure of the book ready to be compiled in a TeX-editor. The main documents are
 
 - G.tex (the book in Norwegian)
 - G_bm.tex (the book in alternative Norwegian)
