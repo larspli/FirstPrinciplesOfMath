@@ -23,4 +23,4 @@ The complete file structure is available on GitHub (press the button 'View on Gi
 
 
 ### Contact
-sindre.heggen@gmail.com.
+sindre.heggen@gmail.com
