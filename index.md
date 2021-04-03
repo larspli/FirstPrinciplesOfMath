@@ -1,4 +1,4 @@
-<img src="frontpage.png" alt="Logo" height="250">
+<p align="center"><img src="frontpage.png" alt="FrontPage" height="250"> </p>
 
 # About the book
 
