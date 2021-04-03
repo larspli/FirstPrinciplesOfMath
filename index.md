@@ -15,9 +15,10 @@ _First Principles of Math_ is a free text book (PDF) introducing the basic conce
 
 The book is available in two different languages; Norwegian (original) and English. The respective versions are found here
 
-- [Matematikken sine byggesteinar (Norwegian, nynorsk)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G.pdf)
-- [Matematikkens byggesteiner (bokmål)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_bm.pdf) 
 - [First Principles of Math (English)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_eng.pdf)
+- [Matematikken sine byggesteinar (Norwegian, nynorsk)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G.pdf)
+- [Matematikkens byggesteiner (Norwegian, bokmål)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_bm.pdf) 
+
 
 The complete file structure is available on GitHub (press the button _View on GitHub_ on the top of this page)
 
