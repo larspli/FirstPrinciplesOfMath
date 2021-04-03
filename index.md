@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## The book
 
-You can use the [editor on GitHub](https://github.com/sindrsh/FirstPrinciplesOfMath/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_First Principles of Math_ is a free text book introducing the basic concepts of math, namely
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Integer, rational and irrational numbers
+- The elementary operations
+- Fractions
+- Negative numbers
+- Geometry
+- Algebra
+- Functions
 
-### Markdown
+### Languages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The book is available in two different languages; Norwegian (original) and English. The respective versions are found here
 
-```markdown
-Syntax highlighted code block
+- [Matematikken sine byggesteinar (Norwegian, nynorsk)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G.pdf)
+- [First Principles of Math (bokmål)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_bm.pdf) 
+- [First Principles of Math (English)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_eng.pdf)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sindrsh/FirstPrinciplesOfMath/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+sindre.heggen@gmail.com.
