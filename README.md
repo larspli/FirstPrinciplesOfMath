@@ -77,9 +77,10 @@ Building and compiling these files cunstructs the PDF versions of the book:
 
 <!-- ROADMAP -->
 ## Roadmap
-
+My personal target is to make a collection of (free) books covering the topics up to pre-calculus level.
 - Any feedback on the books content is always welcome
 - Polishing the English version. I have read my fair share of English books on math but have never lived in an English-speaking country. I really hope the English version is already at an acceptable level language-wise but it would be great if someone could wash out potential hints of Norwegian in the text.
+- Translating the book into other languages
 
 
 
@@ -108,7 +109,7 @@ Distributed under the CC BY-NC-SA 4.0 license. To view a copy of this license, v
 
 Sindre Sogge Heggen - sindre.heggen@gmail.com
 
-Project Link: [https://github.com/sindrsh/mb.git](https://github.com/sindrsh/mb.git)
+Project Link: [https://github.com/sindrsh/mb.git](https://github.com/sindrsh/FirstPrinciplesOfMat.git)
 
 
 
