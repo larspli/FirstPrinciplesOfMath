@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**tel_eng.tex
-(./tel_eng.tex
+**sym_eng.tex
+(./sym_eng.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
 (../doc.tex) (/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
@@ -55,7 +55,7 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)) (../preamb_eng.tex
+)) (../preamb.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1479,11 +1479,11 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
 )
-\tel_eng@idxfile=\write6
-\openout6 = `tel_eng.idx'.
+\sym_eng@idxfile=\write6
+\openout6 = `sym_eng.idx'.
 
 
-Writing index file tel_eng.idx
+Writing index file sym_eng.idx
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks47
@@ -1631,8 +1631,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip135
 )
-(./tel_eng.aux)
-\openout1 = `tel_eng.aux'.
+(./sym_eng.aux)
+\openout1 = `sym_eng.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -1748,350 +1748,80 @@ LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
 
-(./tel_eng.out) (./tel_eng.out)
+(./sym_eng.out) (./sym_eng.out)
 \@outlinefile=\write7
-\openout7 = `tel_eng.out'.
+\openout7 = `sym_eng.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 9.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 7.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 9.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 7.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 9.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 7.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 9.
+(Font)              <10.95> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 9.
-LaTeX Font Info:    Try loading font information for U+msa on input line 9.
+(Font)              <6> on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 9.
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+esint on input line 9.
+LaTeX Font Info:    Try loading font information for U+esint on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
-)
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 16.
-
-(/usr/share/texmf/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 16.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 21.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 21.
+) [1
 
 
-LaTeX Warning: Hyper reference `Rekneartane' on page 1 undefined on input line 
-21.
-
-
-LaTeX Warning: Reference `Rekneartane' on page 1 undefined on input line 21.
-
-<../fig/rut1.pdf, id=20, 36.2153pt x 14.725pt>
-File: ../fig/rut1.pdf Graphic file (type pdf)
-<use ../fig/rut1.pdf>
-Package pdftex.def Info: ../fig/rut1.pdf  used on input line 24.
-(pdftex.def)             Requested size: 36.2152pt x 14.72496pt.
-<../fig/rut2.pdf, id=21, 206.92305pt x 57.40446pt>
-File: ../fig/rut2.pdf Graphic file (type pdf)
-<use ../fig/rut2.pdf>
-Package pdftex.def Info: ../fig/rut2.pdf  used on input line 26.
-(pdftex.def)             Requested size: 206.92253pt x 57.4043pt.
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/rut1.pdf> <../fig/r
-ut2.pdf>]
-<../fig/lin0a.pdf, id=53, 110.83408pt x 17.8266pt>
-File: ../fig/lin0a.pdf Graphic file (type pdf)
-<use ../fig/lin0a.pdf>
-Package pdftex.def Info: ../fig/lin0a.pdf  used on input line 30.
-(pdftex.def)             Requested size: 110.83379pt x 17.82654pt.
-<../fig/lin0b.pdf, id=54, 110.83408pt x 17.8266pt>
-File: ../fig/lin0b.pdf Graphic file (type pdf)
-<use ../fig/lin0b.pdf>
-Package pdftex.def Info: ../fig/lin0b.pdf  used on input line 32.
-(pdftex.def)             Requested size: 110.83379pt x 17.82654pt.
-<../fig/lin1.pdf, id=55, 126.84389pt x 17.8266pt>
-File: ../fig/lin1.pdf Graphic file (type pdf)
-<use ../fig/lin1.pdf>
-Package pdftex.def Info: ../fig/lin1.pdf  used on input line 34.
-(pdftex.def)             Requested size: 126.84357pt x 17.82654pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-[]\T1/lmr/m/n/10.95 integers/natural num-bers. This is in some cases ben-e-fi-c
-ial, in
- []
-
-
-LaTeX Warning: Hyper reference `Negtal' on page 2 undefined on input line 46.
-
-
-LaTeX Warning: Reference `Negtal' on page 2 undefined on input line 46.
-
-[2 <../fig/lin0a.pdf> <../fig/lin0b.pdf> <../fig/lin1.pdf>]
-
-LaTeX Warning: Hyper reference `Negtal' on page 3 undefined on input line 50.
-
-
-LaTeX Warning: Reference `Negtal' on page 3 undefined on input line 50.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-[][][][]\T1/lmr/m/n/9 Later on, we'll also se that \T1/lmr/m/it/9 signs \T1/lmr
-/m/n/9 have an im-pact on a num-bers value (see []\T1/lmr/m/sl/9 Chap-ter
- []
-
-<../fig/tel_eng.pdf, id=79, 99.6222pt x 71.63763pt>
-File: ../fig/tel_eng.pdf Graphic file (type pdf)
-<use ../fig/tel_eng.pdf>
-Package pdftex.def Info: ../fig/tel_eng.pdf  used on input line 53.
-(pdftex.def)             Requested size: 99.62193pt x 71.63744pt.
-<../fig/tel2_eng.pdf, id=80, 129.96555pt x 142.76335pt>
-File: ../fig/tel2_eng.pdf Graphic file (type pdf)
-<use ../fig/tel2_eng.pdf>
-Package pdftex.def Info: ../fig/tel2_eng.pdf  used on input line 56.
-(pdftex.def)             Requested size: 129.96521pt x 142.76299pt.
-<../fig/tel2t.pdf, id=81, 210.18524pt x 17.8266pt>
-File: ../fig/tel2t.pdf Graphic file (type pdf)
-<use ../fig/tel2t.pdf>
-Package pdftex.def Info: ../fig/tel2t.pdf  used on input line 58.
-(pdftex.def)             Requested size: 210.18472pt x 17.82654pt.
-[3
-
- <../fig/tel_eng.pdf> <../fig/tel2_eng.pdf> <../fig/tel2t.pdf>]
-<../fig/maal.pdf, id=103, 38.92543pt x 14.725pt>
-File: ../fig/maal.pdf Graphic file (type pdf)
-<use ../fig/maal.pdf>
-Package pdftex.def Info: ../fig/maal.pdf  used on input line 62.
-(pdftex.def)             Requested size: 38.92532pt x 14.72496pt.
-<../fig/des1.pdf, id=104, 254.52089pt x 17.8266pt>
-File: ../fig/des1.pdf Graphic file (type pdf)
-<use ../fig/des1.pdf>
-Package pdftex.def Info: ../fig/des1.pdf  used on input line 63.
-(pdftex.def)             Requested size: 254.52026pt x 17.82654pt.
-<../fig/maal1.pdf, id=105, 38.92543pt x 14.725pt>
-File: ../fig/maal1.pdf Graphic file (type pdf)
-<use ../fig/maal1.pdf>
-Package pdftex.def Info: ../fig/maal1.pdf  used on input line 65.
-(pdftex.def)             Requested size: 38.92532pt x 14.72496pt.
-<../fig/des1a.pdf, id=106, 254.52089pt x 17.8266pt>
-File: ../fig/des1a.pdf Graphic file (type pdf)
-<use ../fig/des1a.pdf>
-Package pdftex.def Info: ../fig/des1a.pdf  used on input line 66.
-(pdftex.def)             Requested size: 254.52026pt x 17.82654pt.
-
-Overfull \hbox (2.22363pt too wide) in paragraph at lines 67--68
-\T1/lmr/m/n/10.95 Since we have di-vided 1 into 10 pieces, we name one such pie
-ce \T1/lmr/m/it/10.95 a tenth\T1/lmr/m/n/10.95 :  
- []
-
-<../fig/maal1a_eng.pdf, id=107, 53.8813pt x 10.40889pt>
-File: ../fig/maal1a_eng.pdf Graphic file (type pdf)
-<use ../fig/maal1a_eng.pdf>
-Package pdftex.def Info: ../fig/maal1a_eng.pdf  used on input line 68.
-(pdftex.def)             Requested size: 53.88116pt x 10.40884pt.
-<../fig/des1b_eng.pdf, id=108, 254.52089pt x 31.18651pt>
-File: ../fig/des1b_eng.pdf Graphic file (type pdf)
-<use ../fig/des1b_eng.pdf>
-Package pdftex.def Info: ../fig/des1b_eng.pdf  used on input line 69.
-(pdftex.def)             Requested size: 254.52026pt x 31.18642pt.
-<../fig/maal1b_eng.pdf, id=109, 32.31071pt x 9.85683pt>
-File: ../fig/maal1b_eng.pdf Graphic file (type pdf)
-<use ../fig/maal1b_eng.pdf>
-Package pdftex.def Info: ../fig/maal1b_eng.pdf  used on input line 77.
-(pdftex.def)             Requested size: 32.31061pt x 9.8568pt.
-<../fig/des1c_eng.pdf, id=110, 254.52089pt x 17.8266pt>
-File: ../fig/des1c_eng.pdf Graphic file (type pdf)
-<use ../fig/des1c_eng.pdf>
-Package pdftex.def Info: ../fig/des1c_eng.pdf  used on input line 78.
-(pdftex.def)             Requested size: 254.52026pt x 17.82654pt.
-<../fig/maal2a_eng.pdf, id=111, 63.60764pt x 28.95819pt>
-File: ../fig/maal2a_eng.pdf Graphic file (type pdf)
-<use ../fig/maal2a_eng.pdf>
-Package pdftex.def Info: ../fig/maal2a_eng.pdf  used on input line 82.
-(pdftex.def)             Requested size: 63.60747pt x 28.95811pt.
-<../fig/des3_eng.pdf, id=112, 169.16199pt x 17.8266pt>
-File: ../fig/des3_eng.pdf Graphic file (type pdf)
-<use ../fig/des3_eng.pdf>
-Package pdftex.def Info: ../fig/des3_eng.pdf  used on input line 82.
-(pdftex.def)             Requested size: 169.16156pt x 17.82654pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
-[]\T1/lmr/m/n/10.95 In a lot of coun-tires, comma [][][][][][] is used as dec-i
--mal mark in-stead
- []
-
-[4 <../fig/maal.pdf> <../fig/des1.pdf> <../fig/maal1.pdf> <../fig/des1a.pdf> <.
-./fig/maal1a_eng.pdf> <../fig/des1b_eng.pdf> <../fig/maal1b_eng.pdf> <../fig/de
-s1c_eng.pdf> <../fig/maal2a_eng.pdf> <../fig/des3_eng.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 100--100
-[]\T1/lmr/m/n/10.95 The value of a num-ber is given by the dig-its $\OT1/lmr/m/
-n/10.95 0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 1\OML/lmm/m/it/10.95 ; \OT1/l
-mr/m/n/10.95 2\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 3\OML/lmm/m/it/10.95 ; \
-OT1/lmr/m/n/10.95 4\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 5\OML/lmm/m/it/10.9
-5 ; \OT1/lmr/m/n/10.95 6\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 7\OML/lmm/m/it
-/10.95 ; \OT1/lmr/m/n/10.95 8$
- []
-
-<../fig/maal3_eng.pdf, id=171, 148.45462pt x 142.76335pt>
-File: ../fig/maal3_eng.pdf Graphic file (type pdf)
-<use ../fig/maal3_eng.pdf>
-Package pdftex.def Info: ../fig/maal3_eng.pdf  used on input line 103.
-(pdftex.def)             Requested size: 148.45424pt x 142.76299pt.
-<../fig/titalsys_eng.pdf, id=172, 38.69456pt x 46.06209pt>
-File: ../fig/titalsys_eng.pdf Graphic file (type pdf)
-<use ../fig/titalsys_eng.pdf>
-Package pdftex.def Info: ../fig/titalsys_eng.pdf  used on input line 106.
-(pdftex.def)             Requested size: 38.69446pt x 46.06195pt.
-[5 <../fig/maal3_eng.pdf> <../fig/titalsys_eng.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-[]\T1/lmr/m/n/10.95 Two num-ber lines can be put to-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-\T1/lmr/m/n/10.95 gether to form a \T1/lmr/m/it/10.95 co-or-di-nate sys-tem[]\T
-1/lmr/m/n/10.95 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-\T1/lmr/m/n/10.95 In that case we place one num-ber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-\T1/lmr/m/n/10.95 line \T1/lmr/m/sl/10.95 hor-i-zon-tally \T1/lmr/m/n/10.95 and
- one \T1/lmr/m/sl/10.95 ver-ti-cally\T1/lmr/m/n/10.95 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-\T1/lmr/m/n/10.95 A po-si-tion in a co-or-di-nate sys-tem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]\T1/lmr/m/n/9 In fact, there are a lot of types
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 of co-or-di-nate sys-tems but in this
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 book we'll use the term about
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 the \T1/lmr/m/it/9 carte-sian co-or-di-nate sys-tem\T1/lmr/m/n/9 
-.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 It is named af-ter the french
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 math-e-mati-cian and philoso-pher
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]\T1/lmr/m/n/10.95 The first co-or-di-nate tells how many units to move along
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]\T1/lmr/m/n/10.95 The sec-ond co-or-di-nate tells how many units to move alon
-g
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-\T1/lmr/m/n/10.95 In the fig-ure, the points $\OT1/lmr/m/n/10.95 (2\OML/lmm/m/i
-t/10.95 ;\OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML/l
-mm/m/it/10.95 ;\OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 and $\OT1/lmr/m/n/10.95
- (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$ \T1/lmr/m/n/10.95 are shown. Th
-e
- []
-
-<../fig/kord.pdf, id=195, 168.91104pt x 155.53107pt>
-File: ../fig/kord.pdf Graphic file (type pdf)
-<use ../fig/kord.pdf>
-Package pdftex.def Info: ../fig/kord.pdf  used on input line 121.
-(pdftex.def)             Requested size: 168.91061pt x 155.53067pt.
-[6
-
- <../fig/kord.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
- (./tel_eng.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
-Package rerunfilecheck Info: File `tel_eng.out' has not changed.
-(rerunfilecheck)             Checksum: B8107923AAB19F98A55A21564BFFE783;195.
-
-
-LaTeX Warning: There were undefined references.
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
+ (./sym_eng.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
+Package rerunfilecheck Info: File `sym_eng.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 37903 strings out of 494923
- 748323 string characters out of 6180741
- 841419 words of memory out of 5000000
- 40543 multiletter control sequences out of 15000+600000
- 614469 words of font info for 84 fonts, out of 8000000 for 9000
+ 37619 strings out of 494923
+ 742932 string characters out of 6180741
+ 838287 words of memory out of 5000000
+ 40319 multiletter control sequences out of 15000+600000
+ 563587 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,9n,102p,10509b,845s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmbx9.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></us
-r/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/pub
-lic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share
-/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tel_eng.pdf (6 pages, 312965 bytes).
+ 69i,9n,102p,10505b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
+.pfb>
+Output written on sym_eng.pdf (1 page, 62607 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 17 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

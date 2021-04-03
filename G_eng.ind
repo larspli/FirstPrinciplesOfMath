@@ -10,7 +10,9 @@
   \item angle, \hyperpage{72}
     \subitem right, \hyperpage{73}
     \subitem side, \hyperpage{72}
+    \subitem vertex, \hyperpage{72}
     \subitem vertical, \hyperpage{75}
+  \item arc, \hyperpage{71}
   \item area, \hyperpage{83}
   \item areal
     \subitem til rektangel, \hyperpage{136}
@@ -78,11 +80,11 @@
 
   \indexspace
 
-  \item naturlege tal, \hyperpage{10}
   \item number
     \subitem irrational, \hyperpage{105}
     \subitem rational, \hyperpage{57}
   \item numbers
+    \subitem natural, \hyperpage{10}
     \subitem negative, \hyperpage{59}
     \subitem positive, \hyperpage{59}
     \subitem prim, \hyperpage{27}
@@ -118,6 +120,7 @@
 
   \indexspace
 
+  \item sector, \hyperpage{71}
   \item segment, \hyperpage{69}
     \subitem perpendicular, \hyperpage{73}
   \item side
@@ -143,8 +146,6 @@
 
   \item value, \hyperpage{11}
   \item variabel, \hyperpage{92}
-  \item vinkel
-    \subitem vertex, \hyperpage{72}
 
   \indexspace
 

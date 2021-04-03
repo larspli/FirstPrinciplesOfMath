@@ -1,7 +1,7 @@
 \indexentry{tal|hyperpage}{9}
 \indexentry{equal sign|hyperpage}{9}
 \indexentry{positive integers|hyperpage}{10}
-\indexentry{naturlege tal|hyperpage}{10}
+\indexentry{numbers!natural|hyperpage}{10}
 \indexentry{digits|hyperpage}{11}
 \indexentry{value|hyperpage}{11}
 \indexentry{coordinate system|hyperpage}{14}
@@ -41,10 +41,12 @@
 \indexentry{circle!center|hyperpage}{71}
 \indexentry{radius|hyperpage}{71}
 \indexentry{diameter|hyperpage}{71}
+\indexentry{arc|hyperpage}{71}
+\indexentry{sector|hyperpage}{71}
 \indexentry{parallel|hyperpage}{72}
 \indexentry{angle|hyperpage}{72}
 \indexentry{angle!side|hyperpage}{72}
-\indexentry{vinkel!vertex|hyperpage}{72}
+\indexentry{angle!vertex|hyperpage}{72}
 \indexentry{degree|hyperpage}{73}
 \indexentry{angle!right|hyperpage}{73}
 \indexentry{segment!perpendicular|hyperpage}{73}

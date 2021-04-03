@@ -59,12 +59,13 @@
 \contentsline {section}{\numberline {8.2}L\IeC {\o }sing ved de fire regneartene}{110}{section.8.2}
 \contentsline {subsubsection}{Deling}{113}{subsubsection*.85}
 \contentsline {section}{\numberline {8.3}L\IeC {\o }singsmetodene oppsummert}{117}{section.8.3}
-\contentsline {chapter}{\numberline {9}Funksjonar }{120}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduksjon}{121}{section.9.1}
-\contentsline {section}{\numberline {9.2}Line\IeC {\ae }re funksjoner og grafer}{124}{section.9.2}
-\contentsline {chapter}{\numberline {10}Geometri}{132}{chapter.10}
-\contentsline {section}{\numberline {10.1}Formler for areal og omkrets}{133}{section.10.1}
-\contentsline {section}{\numberline {10.2}Kongruente og formlike trekanter}{143}{section.10.2}
-\contentsline {section}{\numberline {10.3}Forklaringar}{148}{section.10.3}
+\contentsline {section}{\numberline {8.4}Potenslikninger}{120}{section.8.4}
+\contentsline {chapter}{\numberline {9}Funksjonar }{122}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduksjon}{123}{section.9.1}
+\contentsline {section}{\numberline {9.2}Line\IeC {\ae }re funksjoner og grafer}{126}{section.9.2}
+\contentsline {chapter}{\numberline {10}Geometri}{134}{chapter.10}
+\contentsline {section}{\numberline {10.1}Formler for areal og omkrets}{135}{section.10.1}
+\contentsline {section}{\numberline {10.2}Kongruente og formlike trekanter}{145}{section.10.2}
+\contentsline {section}{\numberline {10.3}Forklaringar}{150}{section.10.3}
 
-\contentsline {chapter}{Indeks}{164}{chapter*.103}
+\contentsline {chapter}{Indeks}{166}{chapter*.104}
