@@ -293,35 +293,37 @@ Vi gongar begge sider med fellesnemnaren $ 2x $:
 x&=\frac{17}{2}
 }
 }
-\section{Power equations}
-Let's solve the equation
+\section{Potenslikningar}
+Lat oss løyse likninga
 \[ x^2=9 \]
-This is called a \textit{power equation}\index{power equation}. In general, power equations are difficult to solve applying the four elementary operations only. Regarding power equations, we can raise both sides to the inverse power of the exponent associated with $ x $:
+Dette kallast ei \textit{potenslikning}\index{potenslikning}. Potenlikningar er vanlegvis vanskelege å løyse berre ved hjelp av dei fire rekneartane, så her må vi også nytte oss av potensreglar. Vi opphøg begge sidene av likninga med den omvende brøken\footnote{Hugs at $ 2=\frac{2}{1} $.} til 2:
 \[ \left(x^2\right)^\frac{1}{2}=9^\frac{1}{2} \]
-By \rref{potsomgrunn}, we have
+Av \rref{potsomgrunn} er
 \alg{
 	x^{2\cdot\frac{1}{2}}&=9^\frac{1}{2} \\
 	x&=9^\frac{1}{2}
 }
-Since $ 3^2=9 $, we have $ 9^\frac{1}{2}=3 $. Now observe this: \vsk
+Sidan $ 3^2=9 $, er $ 9^\frac{1}{2}=3 $. No legg vi merke til dette: \vsk
 
-\textit{The principle stated on page \pageref{principle} says we can, like we just did, carry out a mathematical operation on both sides of an equation. However, sticking to this principle does not guarantee that all solutions are found.} \\ \vsk
+\textit{Prinsippet erklært på side \pageref{principle} sier at vi kan, som vi no gjorde, utføre ein matematisk operasjon på begge sider av likninga. Men, å følge dette prinsippet garanterer ikkje at alle løysingar er funne.} \\ \vsk
 
-Concerning our equation, we know that $ {x=3} $ is a solution. For the sake of it, we can confirm this by the calculation
+Når det kjem til vår likning, er $ {x=3} $ ei løysing. For orden si skuld kan vi bekrefte dette med utrekninga
 \[ 3^2=3\cdot3=9 \]
-But we also have
+Men vi har også at
 \[ (-3)^2=(-3)(-3)=9 \]
-Hence, $ -3 $ is also a solution of our original equation!
+Altså er $ -3 $ også ei løysing av likninga vi starta med! \regv
 
-\reg[Power equations]{
-	An eqation which can be written as
+\reg[Potenslikningar]{
+	Ei likning som kan bli skriven som
 	\[ x^a=b \]
-	where $ a $ and $ b $ are constants,
-	is a \textit{power} equation.
+	der $ a $ og $ b $ er konstantar,
+	er ei \textit{potenslikning}. \vsk
+	
+	Likninga har $ a $ forskjellige løysingar.
 } 
 \newpage
 \eks[1]{
-	Solve the equation 
+	Løys likninga
 	\[ x^2+5= 21\]
 	\sv \vs \vs \vs
 	\algv{
@@ -329,37 +331,28 @@ Hence, $ -3 $ is also a solution of our original equation!
 		x^2 &= 21-5\\
 		x^2 &= 16
 	}
-	Since $ {4\cdot4 =16} $ og $ {(-4)\cdot(-4)=16} $, er både $ {x=4} $ og ${ x=-4} $ løsninger av likninga.
+	Sidan $ {4\cdot4 =16} $ og $ {(-4)\cdot(-4)=16} $, har vi at
+	\[ x=4\qquad\vee\qquad x=-4 \]
 }
 \eks[2]{
-	Løys likninga:
-	\[ 5x^3 -35 = 4x^3-8 \]
-	\sv \vs \vs
-	\algv{
-		5x^3 -35 &= 4x^3-8 \\
-		5x^3-4x^3 &= -8+35 \\
-		x^3 &= 27 
-	}
-	Siden $ {3\cdot3\cdot3=27} $, er $ {x=3} $ løsningen av likninga.
+	Løys likninga
+	\[ 3x^2+1=7 \]
+	\sv \vs \vs \vs
+	\alg{
+		3x^2&=7-1 \\
+		3x^2&=6 \\
+		\frac{\cancel{3}x^2}{\cancel{3}}&=\frac{6}{3}\\
+		x^2&=2}
+	Altså er
+	\[ x=\sqrt{2}\qquad\vee\qquad x=-\sqrt{2} \]
 }
-\end{document}
-
-\begin{comment}
-\eks[]{
-Gitt eit trapes med to parallelle sider $ a $ og $ b $ og høgde $ h $. Da er arealet $ A $ gitt som
-\[ A=\frac{(a+b)h}{2} \]
-Løys likninga med hensyn på $ b $.
-
-\sv \vs \vsb
-\alg{
- A&=\frac{(a+b)h}{2} \br
- 2A&=(a+b)h \\
- 2A&=ah+bh \\
- 2A-ah&=bh \\
- \frac{2A-ah}{h}&=b
+\info{Merk}{
+	Sjølv om likninga
+	\[ x^a=b \]
+	har $ a $ løysingar, er ikkje alle naudsynleg \textit{reelle}\footnote{Som vi tidlegare har vore inne på, er \textit{reelle} og \textit{imaginære} tal noko vi ikkje går nærare inn på i denne boka}. I denne boka nøyer vi oss med å finne alle rasjonale eller irrasjonale tal som løyser likninga. For eksempel har likning,
+	\[ x^3=8 \]
+	3 løysingar, men vi nøyer oss med å finne at $ x=2 $ er ei løysing.
 }
-}
-\end{comment}
 \end{document}
 
 

@@ -512,11 +512,11 @@ In the following explanations of term \textsl{ii} and \textsl{iii} from \rref{ko
 \fork{\ref{konsttre} \konsttre}{
 \textbf{Term i}\os
 Given a length $ c $ and two angles $u $ and $ v $.
-We make a segment $ AB $ with length $ c $. Then we dot two angle sides, such that $ \angle {A= u} $ and $ {B=v} $. As long as these angle sides are not parallel, they must intersect in one, and only one, point ($ C $ in the figure). Together with $ A $ and $ B $, this point will form a triangle uniquely determined by $ c $, $ u $ and $ v $.
+We make a segment $ AB $ with length $ c $. Then we dot two angle sides, such that $ \angle {A= u} $ and $ {B=v} $. As long as these angle sides are not parallel, they must intersect in one, and one only, point ($ C $ in the figure). Together with $ A $ and $ B $, this point will form a triangle uniquely determined by $ c $, $ u $ and $ v $.
 \fig{geo13c}	
 	
 \textbf{Term ii}\os
-Given three lengths $ a $, $ b $ and $ c $. We make a segment $ AB $ with length $ c $. Then we make two semi-circles with respective radii $ a $ and $ b $ and centers $ B $ and $ A $. If a triangle $ \triangle ABC $ is to have sides of length $ a $, $ b $ and $ c $, $ C $ must lie on both of the circular arcs. Since the arcs intersect in one point only, $ \triangle ABC $ is uniquely determined by $a$, $ b $ and $ c $.
+Given three lengths $ a $, $ b $ and $ c $. We make a segment $ AB $ with length $ c $. Then we make two semi-circles with respective radii $ a $ and $ b $ and centers $ B $ and $ A $. If a triangle $ \triangle ABC $ is to have sides of length $ a $, $ b $ and $ c $, $ C $ must lie on both of the semi-circles. Since the semi-circles intersect in one point only, $ \triangle ABC $ is uniquely determined by $a$, $ b $ and $ c $.
 \fig{geo13a}	
 
 \textbf{Term iii} \os
@@ -525,7 +525,7 @@ Given two lengths $ b $ and $ c $ and an angel $ u $. We begin as follows:
 	\item We make a segment $ AB $ with length $ c $.
 	\item In $ A $ we draw a semi-circle with radius $ b $. 
 \end{enumerate}
-By placing $ C $ randomly on this circular arc, we get all instances of a triangle $ \triangle ABC $ with sides of length $ {AB=c} $ and $ {AC=b} $. Specifically placing $ C $ on the arc of the semi-circle is equivalent to setting a specific value for $ \angle A $. Now it remains to show that every placement of $ C $ implies an unique length of $ BC $.
+By placing $ C $ randomly on the arc of the semi-circle, we get all instances of a triangle $ \triangle ABC $ with sides of length $ {AB=c} $ and $ {AC=b} $. Specifically placing $ C $ on the arc of the semi-circle is equivalent to setting a specific value of $ \angle A $. Now it remains to show that every placement of $ C $ implies an unique length of $ BC $.
 \fig{geo13b}
 Let $ C_1 $ and $ C_2 $ denote two potential placements of $ C $, where $ C_2 $, along the semicircle, lies closer to $ E $ than $ C_1 $. Now we dot a circular arc with radius $ BC_1 $ and center $ B $. Since the dotted arc and the semi-circle only intersects in $ C_1 $, other points will either lie inside or outside the dotted arc. Necessarily, $ C_2 $ lies outside the dotted arc, and therefore $ BC_2 $ is longer than $ BC_1 $. From this we can conclude that the length of $ BC $ increases as $ C $ moves against $ E $ along the semi-circle. Therefore, specifying $ {\angle A=u} $ yields an unique value of $ BC $, and hence an unique triangle $ \triangle ABC $ where $ AC=b $, $ c=AB $ and $ \angle BAC=u $.
 }\vsk
@@ -540,12 +540,12 @@ If $ \angle A=\angle D $ and $ \angle B=\angle E $, it follows that $ \angle C=\
 
 	
 \textbf{Term ii}\os
-Given two triangles $ \triangle ABC $ and $ \triangle DEF $ where
+Given two triangles $ \triangle ABC $ and $ \triangle DEF $, where
 \begin{equation}
 \dfrac{AC}{DF}=\dfrac{BC}{EF}\qquad,\qquad \angle C = \angle F\label{vilkforma}
 \end{equation}
 \fig{geo12}
-Let $ a=BC $, $ b=AC $, $ d=EF $ and $ e=DF $. We place $ D' $ and $ E' $ on $ AC $ and $ BC $, respectively, such that $ D'C=e $ and $ AB\parallel D'E' $. Then $ \triangle ABC \sim \triangle D'E'C$, and hence
+Let $ a=BC $, $ b=AC $, $ d=EF $ and $ e=DF $. We place $ D' $ and $ E' $ on $ AC $ and $ BC $, respectively, such that $ {D'C=e} $ and $ AB\parallel D'E' $. Then $ \triangle ABC \sim \triangle D'E'C$, and hence
 \alg{
 \frac{E'C}{BC}&=\frac{D'C}{AC}\br
 E'C&=\frac{ae}{b}
@@ -555,7 +555,7 @@ By \eqref{vilkforma},
 Hence $ {E'C = EF} $. From term \textsl{ii} of \rref{kongtre} it now follows that $ \triangle D'E'C\cong\triangle DEF $. This implies that $ \triangle ABC\sim \triangle DEF $.\vsk
 
 \textbf{Term iii}\os
-Given two triangles $ \triangle ABC $ and $ \triangle DEF $ where
+Given two triangles $ \triangle ABC $ and $ \triangle DEF $, where
 \begin{equation}
 \frac{AB}{DE}=\frac{AC}{DF}=\frac{BC}{EF} \label{vilkformb}
 \end{equation}
@@ -568,7 +568,7 @@ By \eqref{vilkformb},
 \alg{
 f&=\frac{ae}{c}
 }
-Hence, the side lengths of $ \triangle D'E'C $ and $ \triangle DEF $ are pairwise equal, and then, from term \textsl{i} of \rref{kongtre}, they are congruent. This means that $ {\triangle ABC \sim \triangle DEF}$.
+Hence, the side lengths of $ \triangle D'E'C $ and $ \triangle DEF $ are pairwise equal, and then, from term \textsl{i} of \rref{kongtre}, they are congruent. This implies that $ {\triangle ABC \sim \triangle DEF}$.
 \fig{geo12b}
 }
 

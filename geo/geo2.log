@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 07:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1988,44 +1988,42 @@ Package pdftex.def Info: ../fig/tri19b.pdf  used on input line 154.
 (pdftex.def)             Requested size: 227.28859pt x 74.17693pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 I kvart til-felle må dei små bo-ge-leng-dene til saman ut-g-j
-ere heile
+\T1/lmr/m/n/10.95 I kvart til-felle må dei små sirkel-bo-gene til saman ut-g-je
+re heile
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 bo-ge-lengda, altså omkrin-sen, til sirke-len. Viss sirke-len
- har ra-dius
+\T1/lmr/m/n/10.95 boga, altså omkrin-sen, til sirke-len. Viss sirke-len har ra-
+dius $\OML/lmm/m/it/10.95 r$\T1/lmr/m/n/10.95 , be-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\OML/lmm/m/it/10.95 r$\T1/lmr/m/n/10.95 , be-tyr dette at sum-men av bo-ge-leng
--dene er $\OT1/lmr/m/n/10.95 2\OML/lmm/m/it/10.95 ^^Yr$\T1/lmr/m/n/10.95 . Og n
-år vi
+\T1/lmr/m/n/10.95 tyr dette at sum-men av bo-gene er $\OT1/lmr/m/n/10.95 2\OML/
+lmm/m/it/10.95 ^^Yr$\T1/lmr/m/n/10.95 . Og når vi har like mange
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 har like mange biter med bo-gen vendt opp som bitar med bo-ge
-n
+\T1/lmr/m/n/10.95 sek-torar med bo-gen vendt opp som sek-torar med bo-gen vend
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-[]\T1/lmr/m/n/10.95 Men jo fleire bitar vi deler sirke-len inn i, jo meir lik-n
-ar sam-
+[]\T1/lmr/m/n/10.95 Men jo fleire sek-torar vi deler sirke-len inn i, jo meir l
+ik-nar sam-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 manset-tinga av bi-tane på eit rek-tan-gel (i fig-uren un-der
- har vi
+\T1/lmr/m/n/10.95 manset-tinga av dei på eit rek-tan-gel (i fig-uren un-der har
+ vi 100
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 100 bitar). Grunnlinja $\OML/lmm/m/it/10.95 g$ \T1/lmr/m/n/10
+\T1/lmr/m/n/10.95 sek-torar). Grunnlinja $\OML/lmm/m/it/10.95 g$ \T1/lmr/m/n/10
 .95 til dette ''rek-tan-gelet'' vil vere tilnærma
  []
 
@@ -3175,7 +3173,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  38224 strings out of 494923
  754064 string characters out of 6180741
- 868842 words of memory out of 5000000
+ 867841 words of memory out of 5000000
  40761 multiletter control sequences out of 15000+600000
  614899 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -3200,7 +3198,7 @@ ts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb>
-Output written on geo2.pdf (27 pages, 822929 bytes).
+Output written on geo2.pdf (27 pages, 822945 bytes).
 PDF statistics:
  660 PDF objects out of 1000 (max. 8388607)
  543 compressed objects within 6 object streams

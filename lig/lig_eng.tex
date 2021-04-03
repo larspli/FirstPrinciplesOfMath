@@ -295,7 +295,7 @@ x&=\frac{17}{2}
 \section{Power equations}
 Let's solve the equation
 \[ x^2=9 \]
-This is called a \textit{power equation}\index{power equation}. In general, power equations are difficult to solve applying the four elementary operations only. Regarding power equations, we can raise both sides to the inverse power of the exponent associated with $ x $:
+This is called a \textit{power equation}\index{power equation}. In general, power equations are difficult to solve applying the four elementary operations only. Applying power-rules, we raise both sides to the power of the inverse of the exponent associated with $ x $:
 \[ \left(x^2\right)^\frac{1}{2}=9^\frac{1}{2} \]
 By \rref{potsomgrunn}, we have
 \alg{
@@ -333,9 +333,25 @@ The equation has $ a $ distinct solutions.
 	Since $ {4\cdot4 =16} $ and $ {(-4)\cdot(-4)=16} $, we have
 	\[ x=4\qquad\vee\qquad x=-4 \]
 }
-\info{Even though the equation
+\eks[2]{
+Solve the equation
+\[ 3x^2+1=7 \]
+\sv \vs \vs \vs
+\alg{
+3x^2&=7-1 \\
+3x^2&=6 \\
+\frac{\cancel{3}x^2}{\cancel{3}}&=\frac{6}{3}\\
+x^2&=2}
+Hence,
+\[ x=\sqrt{2}\qquad\vee\qquad x=-\sqrt{2} \]
+}
+\info{\merk}{
+Although the equation
 \[ x^a=b \]
-}{arg2}
+has $ a $ solutions, they are not necessarily all \textit{real}\footnote{As earlier mentioned, \textit{real} and \textit{imaginary} numbers lies outside the scope of this book}. Concerning this book, it means we settle with finding all rational or irrational numbers which solves the equation. For example,
+\[ x^3=8 \]
+has 3 solutions, but we settle with the solution $ x=2 $.
+}
 \end{document}
 
 
