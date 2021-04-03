@@ -19,7 +19,7 @@ The book is available in two different languages; Norwegian (original) and Engli
 - [Matematikkens byggesteiner (bokmål)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_bm.pdf) 
 - [First Principles of Math (English)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/G_eng.pdf)
 
-The complete file structure is available on GitHub (press the button 'View on GitHub' found on top of the page)
+The complete file structure is available on GitHub (press the button _View on GitHub_ on the top of this page)
 
 
 ### Contact
