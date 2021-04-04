@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  23 FEB 2021 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 10:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1866,19 +1866,18 @@ n viss
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
 \T1/lmr/m/n/10.95 in-ntekt. Hvis du en-der opp med å like boka håper jeg der-fo
-r
+r du
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 du kan donere 50kr via Vipps til 90559730 eller via [][]Pay-P
-al[][].
+\T1/lmr/m/n/10.95 kan donere 50kr via Vipps til 90559730 eller via [][]Pay-Pal[
+][]. Vær
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 Ver ven-leg å markere donasjo-nen med ''Mat-te-bok'' ved bruk
- av
+\T1/lmr/m/n/10.95 vennlig å markere donasjo-nen med ''Mat-te-bok'' ved bruk av
  []
 
 
@@ -1906,10 +1905,10 @@ Package rerunfilecheck Info: File `forord_bm.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 37755 strings out of 494923
- 745174 string characters out of 6180741
- 838297 words of memory out of 5000000
- 40429 multiletter control sequences out of 15000+600000
+ 37757 strings out of 494923
+ 745186 string characters out of 6180741
+ 838296 words of memory out of 5000000
+ 40431 multiletter control sequences out of 15000+600000
  601532 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,7n,102p,10507b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1920,7 +1919,7 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on forord_bm.pdf (3 pages, 237138 bytes).
+Output written on forord_bm.pdf (3 pages, 237692 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
