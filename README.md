@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This book introduces the fundations of mathematics. 
+This book introduces the foundations of mathematics. 
 
 ### Built With
 
