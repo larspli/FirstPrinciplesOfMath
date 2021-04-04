@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1862,8 +1862,8 @@ LaTeX Warning: Reference `Negtal' on page 3 undefined on input line 50.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-[][][][]\T1/lmr/m/n/9 Later on, we'll also se that \T1/lmr/m/it/9 signs \T1/lmr
-/m/n/9 have an im-pact on a num-bers value (see []\T1/lmr/m/sl/9 Chap-ter
+[][][][]\T1/lmr/m/n/9 Later on, we'll also see that \T1/lmr/m/it/9 signs \T1/lm
+r/m/n/9 have an im-pact on a num-bers value (see []\T1/lmr/m/sl/9 Chap-ter
  []
 
 <../fig/tel_eng.pdf, id=79, 99.6222pt x 71.63763pt>
@@ -2088,7 +2088,7 @@ ype1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tel_eng.pdf (6 pages, 312965 bytes).
+Output written on tel_eng.pdf (6 pages, 312967 bytes).
 PDF statistics:
  262 PDF objects out of 1000 (max. 8388607)
  214 compressed objects within 3 object streams

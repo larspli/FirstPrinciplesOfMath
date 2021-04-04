@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1802,8 +1802,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 [][][][]\T1/lmr/m/n/9 To \T1/lmr/m/sl/9 ex-plain \T1/lmr/m/n/9 the rules rather
- than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a deli-bi-rate de-ci-sion. 
-A proof
+ than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a de-lib-er-ate de-ci-sion.
+ A proof
  []
 
 
@@ -1822,8 +1822,8 @@ t dis-ap-pear in the
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]\T1/lmr/m/n/10.95 This book i free of charge but I've used a lot of time and 
-re-
+[]\T1/lmr/m/n/10.95 This book is free of charge but I've used a lot of time and
+ re-
  []
 
 
@@ -1889,7 +1889,7 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on forord_eng.pdf (3 pages, 243107 bytes).
+Output written on forord_eng.pdf (3 pages, 243090 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

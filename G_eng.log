@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 12:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1840,8 +1840,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 [][][][]\T1/lmr/m/n/9 To \T1/lmr/m/sl/9 ex-plain \T1/lmr/m/n/9 the rules rather
- than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a deli-bi-rate de-ci-sion. 
-A proof
+ than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a de-lib-er-ate de-ci-sion.
+ A proof
  []
 
 
@@ -1860,8 +1860,8 @@ t dis-ap-pear in the
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]\T1/lmr/m/n/10.95 This book i free of charge but I've used a lot of time and 
-re-
+[]\T1/lmr/m/n/10.95 This book is free of charge but I've used a lot of time and
+ re-
  []
 
 
@@ -1963,8 +1963,8 @@ ial, in
 
 [10 <./tel/../fig/lin0a.pdf> <./tel/../fig/lin0b.pdf> <./tel/../fig/lin1.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-[][][][]\T1/lmr/m/n/9 Later on, we'll also se that \T1/lmr/m/it/9 signs \T1/lmr
-/m/n/9 have an im-pact on a num-bers value (see [][]\T1/lmr/m/sl/9 Chap-ter
+[][][][]\T1/lmr/m/n/9 Later on, we'll also see that \T1/lmr/m/it/9 signs \T1/lm
+r/m/n/9 have an im-pact on a num-bers value (see [][]\T1/lmr/m/sl/9 Chap-ter
  []
 
 <tel/../fig/tel_eng.pdf, id=387, 99.6222pt x 71.63763pt>
@@ -5782,7 +5782,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_eng.pdf (169 pages, 1500219 bytes).
+Output written on G_eng.pdf (169 pages, 1500195 bytes).
 PDF statistics:
  3199 PDF objects out of 3580 (max. 8388607)
  2733 compressed objects within 28 object streams
