@@ -1,21 +1,95 @@
-\indexentry{tal|hyperpage}{8}
-\indexentry{equal sign|hyperpage}{8}
-\indexentry{positive integers|hyperpage}{9}
-\indexentry{numbers!natural|hyperpage}{9}
-\indexentry{digits|hyperpage}{10}
-\indexentry{value|hyperpage}{10}
-\indexentry{coordinate system|hyperpage}{13}
-\indexentry{point|hyperpage}{13}
-\indexentry{term|hyperpage}{15}
-\indexentry{sum|hyperpage}{15}
-\indexentry{term|hyperpage}{17}
-\indexentry{differanse|hyperpage}{17}
-\indexentry{factor|hyperpage}{19}
-\indexentry{produkt|hyperpage}{19}
-\indexentry{dividend|hyperpage}{22}
-\indexentry{divisor|hyperpage}{22}
-\indexentry{quotient|hyperpage}{22}
-\indexentry{ratio|hyperpage}{22}
-\indexentry{numbers!prim|hyperpage}{26}
-\indexentry{factorization|hyperpage}{26}
-\indexentry{prime factorization|hyperpage}{26}
+\indexentry{tal|hyperpage}{9}
+\indexentry{equal sign|hyperpage}{9}
+\indexentry{positive integers|hyperpage}{10}
+\indexentry{numbers!natural|hyperpage}{10}
+\indexentry{digits|hyperpage}{11}
+\indexentry{value|hyperpage}{11}
+\indexentry{coordinate system|hyperpage}{14}
+\indexentry{point|hyperpage}{14}
+\indexentry{term|hyperpage}{16}
+\indexentry{sum|hyperpage}{16}
+\indexentry{term|hyperpage}{18}
+\indexentry{differanse|hyperpage}{18}
+\indexentry{factor|hyperpage}{20}
+\indexentry{produkt|hyperpage}{20}
+\indexentry{dividend|hyperpage}{23}
+\indexentry{divisor|hyperpage}{23}
+\indexentry{quotient|hyperpage}{23}
+\indexentry{ratio|hyperpage}{23}
+\indexentry{numbers!prim|hyperpage}{27}
+\indexentry{factorization|hyperpage}{27}
+\indexentry{prime factorization|hyperpage}{27}
+\indexentry{fraction|hyperpage}{35}
+\indexentry{numerator|hyperpage}{35}
+\indexentry{denominator|hyperpage}{35}
+\indexentry{fraction!expansion of|hyperpage}{39}
+\indexentry{fraction!simplifying of|hyperpage}{39}
+\indexentry{common denominator|hyperpage}{43}
+\indexentry{cancellation|hyperpage}{51}
+\indexentry{fraction!inverted|hyperpage}{55}
+\indexentry{number!rational|hyperpage}{57}
+\indexentry{numbers!negative|hyperpage}{59}
+\indexentry{numbers!positive|hyperpage}{59}
+\indexentry{length|hyperpage}{59}
+\indexentry{talverdi|hyperpage}{60}
+\indexentry{absolute value|hyperpage}{60}
+\indexentry{sign|hyperpage}{60}
+\indexentry{point|hyperpage}{69}
+\indexentry{line|hyperpage}{69}
+\indexentry{segment|hyperpage}{69}
+\indexentry{circle|hyperpage}{71}
+\indexentry{circle!center|hyperpage}{71}
+\indexentry{radius|hyperpage}{71}
+\indexentry{diameter|hyperpage}{71}
+\indexentry{arc|hyperpage}{71}
+\indexentry{sector|hyperpage}{71}
+\indexentry{parallel|hyperpage}{72}
+\indexentry{angle|hyperpage}{72}
+\indexentry{angle!side|hyperpage}{72}
+\indexentry{angle!vertex|hyperpage}{72}
+\indexentry{degree|hyperpage}{73}
+\indexentry{angle!right|hyperpage}{73}
+\indexentry{segment!perpendicular|hyperpage}{73}
+\indexentry{angle!vertical|hyperpage}{75}
+\indexentry{polygon|hyperpage}{76}
+\indexentry{triangle|hyperpage}{76}
+\indexentry{quadrilateral|hyperpage}{76}
+\indexentry{edge|hyperpage}{76}
+\indexentry{side!of polygon|hyperpage}{76}
+\indexentry{polygon!vertices of|hyperpage}{76}
+\indexentry{base|hyperpage}{77}
+\indexentry{height|hyperpage}{77}
+\indexentry{altitude|hyperpage}{77}
+\indexentry{hypotenuse|hyperpage}{78}
+\indexentry{legs|hyperpage}{78}
+\indexentry{perimeter|hyperpage}{82}
+\indexentry{surface|hyperpage}{83}
+\indexentry{area|hyperpage}{83}
+\indexentry{width|hyperpage}{84}
+\indexentry{length|hyperpage}{84}
+\indexentry{algebra|hyperpage}{92}
+\indexentry{variabel|hyperpage}{92}
+\indexentry{constant|hyperpage}{92}
+\indexentry{base|hyperpage}{97}
+\indexentry{exponent|hyperpage}{97}
+\indexentry{radical sign|hyperpage}{104}
+\indexentry{number!irrational|hyperpage}{105}
+\indexentry{equation|hyperpage}{109}
+\indexentry{power equation|hyperpage}{121}
+\indexentry{function|hyperpage}{124}
+\indexentry{function!graph|hyperpage}{127}
+\indexentry{function!linear|hyperpage}{127}
+\indexentry{interval|hyperpage}{127}
+\indexentry{slope|hyperpage}{129}
+\indexentry{intercept|hyperpage}{129}
+\indexentry{formula|hyperpage}{136}
+\indexentry{areal!til rektangel|hyperpage}{136}
+\indexentry{til trekant|hyperpage}{137}
+\indexentry{til parallellogram|hyperpage}{138}
+\indexentry{areal!til trapes|hyperpage}{139}
+\indexentry{omkrins!til sirkel|hyperpage}{141}
+\indexentry{areal!til sirkel|hyperpage}{142}
+\indexentry{triangle!congruent|hyperpage}{146}
+\indexentry{triangle!similar|hyperpage}{146}
+\indexentry{side!corresponding|hyperpage}{147}
+\indexentry{$ \pi $|hyperpage}{157}
