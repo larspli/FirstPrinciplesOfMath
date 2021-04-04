@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1752,8 +1752,13 @@ LaTeX Info: Redefining \nameref on input line 4.
 \@outlinefile=\write7
 \openout7 = `tel_eng.out'.
 
+
+Overfull \hbox (1.2629pt too wide) in paragraph at lines 6--6
+|[]\T1/lmr/bx/n/14.4 The equal sign, amounts, and num-ber lines| 
+ []
+
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 9.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 9.
@@ -1816,6 +1821,12 @@ File: ../fig/rut1.pdf Graphic file (type pdf)
 <use ../fig/rut1.pdf>
 Package pdftex.def Info: ../fig/rut1.pdf  used on input line 24.
 (pdftex.def)             Requested size: 36.2152pt x 14.72496pt.
+
+Overfull \hbox (23.13902pt too wide) in paragraph at lines 25--26
+\T1/lmr/m/n/10.95 In this way, other num-bers are de-fined by how many one-boxe
+s (ones/units) 
+ []
+
 <../fig/rut2.pdf, id=21, 206.92305pt x 57.40446pt>
 File: ../fig/rut2.pdf Graphic file (type pdf)
 <use ../fig/rut2.pdf>
@@ -1942,8 +1953,8 @@ Package pdftex.def Info: ../fig/des3_eng.pdf  used on input line 82.
 (pdftex.def)             Requested size: 169.16156pt x 17.82654pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
-[]\T1/lmr/m/n/10.95 In a lot of coun-tires, comma [][][][][][] is used as dec-i
--mal mark in-stead
+[]\T1/lmr/m/n/10.95 In a lot of coun-tires, a comma is used in place of the pe-
+riod for
  []
 
 [4 <../fig/maal.pdf> <../fig/des1.pdf> <../fig/maal1.pdf> <../fig/des1a.pdf> <.
@@ -1997,17 +2008,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]\T1/lmr/m/n/9 In fact, there are a lot of types
+[]\T1/lmr/m/n/9 In fact, there are many types of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 of co-or-di-nate sys-tems but in this
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 book we'll use the term about
+\T1/lmr/m/n/9 co-or-di-nate sys-tems, but we'll use
  []
 
 
@@ -2060,7 +2066,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `tel_eng.out' has not changed.
-(rerunfilecheck)             Checksum: B8107923AAB19F98A55A21564BFFE783;195.
+(rerunfilecheck)             Checksum: 49061898B4E785A80C4BB9D4ECF60EED;196.
 
 
 LaTeX Warning: There were undefined references.
@@ -2088,7 +2094,7 @@ ype1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tel_eng.pdf (6 pages, 312967 bytes).
+Output written on tel_eng.pdf (6 pages, 312386 bytes).
 PDF statistics:
  262 PDF objects out of 1000 (max. 8388607)
  214 compressed objects within 3 object streams

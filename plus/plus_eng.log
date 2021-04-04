@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  1 APR 2021 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 20:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1839,20 +1839,19 @@ bers in dif-fer-ent
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 ways, for ex-am-ple is $[]$ and $[]$. In this con-text [][][]
-[][][]
+\T1/lmr/m/n/10.95 ways, for ex-am-ple is $[]$ and $[]$. In this con-text,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 means ''have the same value as''. This is also the case re-ga
-rd-ing
+[][][][][][] \T1/lmr/m/n/10.95 means ''has the same value as''. This is also th
+e case re-gard-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 sub-trac-tion, mul-ti-pli-ca-tion and di-vi-son, which we'll 
-look at in
+\T1/lmr/m/n/10.95 ing sub-trac-tion, mul-ti-pli-ca-tion and di-vi-sion which we
+'ll look at
  []
 
 [2 <../fig/plus2.pdf> <../fig/plus3.pdf>]
@@ -1867,7 +1866,7 @@ Package rerunfilecheck Info: File `plus_eng.out' has not changed.
 Here is how much of TeX's memory you used:
  37760 strings out of 494923
  745560 string characters out of 6180741
- 842373 words of memory out of 5000000
+ 842407 words of memory out of 5000000
  40443 multiletter control sequences out of 15000+600000
  584561 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1879,7 +1878,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on plus_eng.pdf (2 pages, 119857 bytes).
+Output written on plus_eng.pdf (2 pages, 119916 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream

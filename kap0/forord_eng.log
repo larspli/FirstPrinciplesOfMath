@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1803,63 +1803,51 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 [][][][]\T1/lmr/m/n/9 To \T1/lmr/m/sl/9 ex-plain \T1/lmr/m/n/9 the rules rather
  than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a de-lib-er-ate de-ci-sion.
- A proof
+ A proof de-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
-\T1/lmr/m/n/9 de-mands a math-e-mat-i-cal rigour that of-ten forces a lot of as
--sump-tions and def-i-ni-
+\T1/lmr/m/n/9 mands math-e-mat-i-cal rigour that of-ten forces a lot of as-sump
+-tions and def-i-ni-tions
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
-\T1/lmr/m/n/9 tions be-ing stated along the way. This can make the main in-sigh
-t dis-ap-pear in the
+\T1/lmr/m/n/9 along the way. This can make the main in-sight dis-ap-pear in the
+ crowd of de-tails.
  []
 
 [2
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]\T1/lmr/m/n/10.95 This book is free of charge but I've used a lot of time and
- re-
+[]\T1/lmr/m/n/10.95 This book is free of charge; how-ever, I've in-vested a lot
+ of time
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-\T1/lmr/m/n/10.95 sources in cre-at-ing it. I re-ally want to con-tinue cre-at-
-ing books
+\T1/lmr/m/n/10.95 and re-sources in cre-at-ing it. I re-ally want to con-tinue 
+cre-at-ing
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-\T1/lmr/m/n/10.95 which makes math-e-mat-ics avail-able for free, but it can tu
-rn out
+\T1/lmr/m/n/10.95 books which makes math-e-mat-ics avail-able for free, but it 
+can
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-\T1/lmr/m/n/10.95 quite dif-fi-cult if there is no in-come con-nected to it. Th
-ere-fore,
+\T1/lmr/m/n/10.95 turn out to be quite dif-fi-cult if there is no in-come con-n
+ected
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-\T1/lmr/m/n/10.95 if you like this book, I hope you can do-nate a small sum us-
-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]\T1/lmr/m/n/10.95 The book is up-dated as soon as pos-si-ble when er-rors are
- dis-cov-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-\T1/lmr/m/n/10.95 ered. Make sure to once in a while down-load the [][]lat-est 
-ver-sion[][].
+\T1/lmr/m/n/10.95 to it. There-fore, if you like this book, I hope you can do-n
+ate a
  []
 
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
@@ -1889,7 +1877,7 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on forord_eng.pdf (3 pages, 243090 bytes).
+Output written on forord_eng.pdf (3 pages, 242712 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

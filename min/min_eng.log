@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  1 APR 2021 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 20:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1817,26 +1817,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--25
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
-\T1/lmr/m/n/10.95 ''noth-ing''. How-ever, sub-trac-tion gives brings the pos-si
--bil-ity
+\T1/lmr/m/n/10.95 ''noth-ing''. How-ever, sub-trac-tion brings the pos-si-bil-i
+ty of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
-\T1/lmr/m/n/10.95 of ex-press-ing 0 by other num-bers, for ex-am-ple is $[]$ an
-d
+\T1/lmr/m/n/10.95 ex-press-ing 0 by other num-bers, for ex-am-ple $[]$ and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]$\T1/lmr/m/n/10.95 . In many prac-ti-cal sit-u-a-tions, 0 in-di-cates some fo
-rm
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-\T1/lmr/m/n/10.95 of equi-lib-rium, like two op-po-site (in di-rec-tion) forces
- of equal
+[]$\T1/lmr/m/n/10.95 . In many prac-ti-cal sit-u-a-tions, 0 in-di-cates some
  []
 
 [1
@@ -1856,8 +1848,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 29.
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[][][][]\T1/lmr/m/n/9 In fig-ures with num-ber lines the red col-ored ar-rows i
-n-di-cates that one shall start
+[][][][]\T1/lmr/m/n/9 In fig-ures with num-ber lines, the red col-ored ar-rows 
+in-di-cates that you shall start
  []
 
 <../fig/mint.pdf, id=35, 105.50417pt x 37.02834pt>
@@ -1879,14 +1871,13 @@ LaTeX Warning: Reference `Negtal' on page 2 undefined on input line 41.
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []\T1/lmr/m/n/10.95 At first it may seem a bit odd mov-ing in the op-po-site di
--rec-
+-rec-tion
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
-\T1/lmr/m/n/10.95 tion of the way in wich the ar-rows point, as in \T1/lmr/m/sl
-/10.95 Ex-am-ple 1 \T1/lmr/m/n/10.95 og \T1/lmr/m/sl/10.95 2\T1/lmr/m/n/10.95 .
-
+\T1/lmr/m/n/10.95 of the way in wich the ar-rows point, as in \T1/lmr/m/sl/10.9
+5 Ex-am-ple 1 \T1/lmr/m/n/10.95 and \T1/lmr/m/sl/10.95 2\T1/lmr/m/n/10.95 .
  []
 
 [2 <../fig/mint.pdf> <../fig/mint2.pdf>]
@@ -1903,10 +1894,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 37777 strings out of 494923
- 745570 string characters out of 6180741
- 840351 words of memory out of 5000000
- 40449 multiletter control sequences out of 15000+600000
+ 37779 strings out of 494923
+ 745622 string characters out of 6180741
+ 840385 words of memory out of 5000000
+ 40451 multiletter control sequences out of 15000+600000
  604180 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,7n,102p,10509b,841s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1920,7 +1911,7 @@ public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb>
-Output written on min_eng.pdf (2 pages, 201691 bytes).
+Output written on min_eng.pdf (2 pages, 202012 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
