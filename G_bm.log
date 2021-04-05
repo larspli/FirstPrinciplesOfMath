@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1984,20 +1984,9 @@ File: tel/../fig/lin1.pdf Graphic file (type pdf)
 Package pdftex.def Info: tel/../fig/lin1.pdf  used on input line 35.
 (pdftex.def)             Requested size: 126.84357pt x 17.82654pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]\T1/lmr/m/n/10.95 Tall som er et helt an-tall enere kalles \T1/lmr/m/it/10.95
- pos-i-tive[][][][]heltall[]\T1/lmr/m/n/10.95 . De pos-i-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]\T1/lmr/m/n/10.95 Noen for-fattare inklud-erer også 0 i be-grepet pos-i-tive
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 heltal/naturlege tal. I noen sam-men-henger vil dette lønne s
-eg, i
+[]\T1/lmr/m/n/10.95 Noen for-fattare inklud-erer også 0 i be-grepet naturlige t
+al. I noen
  []
 
 [10 <./tel/../fig/lin0a.pdf> <./tel/../fig/lin0b.pdf> <./tel/../fig/lin1.pdf>]
@@ -5723,7 +5712,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_bm.pdf (168 pages, 1497739 bytes).
+Output written on G_bm.pdf (168 pages, 1497713 bytes).
 PDF statistics:
  3194 PDF objects out of 3580 (max. 8388607)
  2729 compressed objects within 28 object streams
