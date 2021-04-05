@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 08:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3220,12 +3220,6 @@ File: geo/../fig/vink2a.pdf Graphic file (type pdf)
 <use geo/../fig/vink2a.pdf>
 Package pdftex.def Info: geo/../fig/vink2a.pdf  used on input line 69.
 (pdftex.def)             Requested size: 90.68858pt x 56.99277pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
-\T1/lmr/m/n/10.95 As long as there are only two seg-ments/lines present, it is 
-also
- []
-
 <geo/../fig/vink2b.pdf, id=1375, 76.19467pt x 51.85373pt>
 File: geo/../fig/vink2b.pdf Graphic file (type pdf)
 <use geo/../fig/vink2b.pdf>
@@ -5714,12 +5708,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
 Package rerunfilecheck Info: File `G_eng.out' has not changed.
-(rerunfilecheck)             Checksum: FF0E391DEF683F8AF073BD1EC1A26A09;3251.
+(rerunfilecheck)             Checksum: 373F5600F8EA3054EC278106DB022AB4;3250.
  ) 
 Here is how much of TeX's memory you used:
  40175 strings out of 494923
  791510 string characters out of 6180741
- 874688 words of memory out of 5000000
+ 874687 words of memory out of 5000000
  41968 multiletter control sequences out of 15000+600000
  666216 words of font info for 121 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -5754,7 +5748,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_eng.pdf (169 pages, 1500100 bytes).
+Output written on G_eng.pdf (169 pages, 1500095 bytes).
 PDF statistics:
  3199 PDF objects out of 3580 (max. 8388607)
  2733 compressed objects within 28 object streams

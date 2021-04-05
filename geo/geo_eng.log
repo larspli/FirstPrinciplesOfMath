@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 09:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1977,12 +1977,6 @@ File: ../fig/vink2a.pdf Graphic file (type pdf)
 <use ../fig/vink2a.pdf>
 Package pdftex.def Info: ../fig/vink2a.pdf  used on input line 69.
 (pdftex.def)             Requested size: 90.68858pt x 56.99277pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
-\T1/lmr/m/n/10.95 As long as there are only two seg-ments/lines present, it is 
-also
- []
-
 <../fig/vink2b.pdf, id=140, 76.19467pt x 51.85373pt>
 File: ../fig/vink2b.pdf Graphic file (type pdf)
 <use ../fig/vink2b.pdf>
@@ -2415,7 +2409,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 403.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
 Package rerunfilecheck Info: File `geo_eng.out' has not changed.
-(rerunfilecheck)             Checksum: 3CDED3BA3589A4265F9744ED858621F9;209.
+(rerunfilecheck)             Checksum: 09E701B172CDC33412B8A53D2E1F96A7;208.
 
 
 LaTeX Warning: There were undefined references.
@@ -2424,7 +2418,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  38165 strings out of 494923
  753813 string characters out of 6180741
- 843735 words of memory out of 5000000
+ 843734 words of memory out of 5000000
  40732 multiletter control sequences out of 15000+600000
  614469 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2445,7 +2439,7 @@ blic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on geo_eng.pdf (21 pages, 433501 bytes).
+Output written on geo_eng.pdf (21 pages, 433492 bytes).
 PDF statistics:
  551 PDF objects out of 1000 (max. 8388607)
  445 compressed objects within 5 object streams

@@ -42,7 +42,7 @@
 \contentsline {chapter}{\numberline {6}Geometry}{68}{chapter.6}
 \contentsline {section}{\numberline {6.1}Terms}{69}{section.6.1}
 \contentsline {subsubsection}{Altitudes and base lines}{77}{subsubsection*.49}
-\contentsline {section}{\numberline {6.2}Attrributes of triangles and quadrilaterals}{78}{section.6.2}
+\contentsline {section}{\numberline {6.2}Attributes of triangles and quadrilaterals}{78}{section.6.2}
 \contentsline {section}{\numberline {6.3}Perimeter}{82}{section.6.3}
 \contentsline {section}{\numberline {6.4}Area}{83}{section.6.4}
 \contentsline {subsubsection}{The area of a rectangle}{83}{subsubsection*.55}
