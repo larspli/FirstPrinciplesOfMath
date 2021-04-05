@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1769,10 +1769,10 @@ File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 18.
-<../fig/neg2.pdf, id=20, 256.07669pt x 25.49525pt>
-File: ../fig/neg2.pdf Graphic file (type pdf)
-<use ../fig/neg2.pdf>
-Package pdftex.def Info: ../fig/neg2.pdf  used on input line 18.
+<../fig/neg2_eng.pdf, id=20, 256.07669pt x 25.49525pt>
+File: ../fig/neg2_eng.pdf Graphic file (type pdf)
+<use ../fig/neg2_eng.pdf>
+Package pdftex.def Info: ../fig/neg2_eng.pdf  used on input line 18.
 (pdftex.def)             Requested size: 256.07607pt x 25.49518pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 19.
 
@@ -1826,7 +1826,7 @@ pos-i-tive
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/neg1.pdf> <../fig/n
-eg2.pdf> <../fig/neg3.pdf>]
+eg2_eng.pdf> <../fig/neg3.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--42
 []\T1/lmr/m/it/10.95 Sign[] \T1/lmr/m/n/10.95 is a col-lec-tive name of [][][][
 ][][] and [][][][][][]. [][][][][][] is the sign of $\OT1/lmr/m/n/10.95 5$ \T1/
@@ -1848,8 +1848,8 @@ Package pdftex.def Info: ../fig/neg6.pdf  used on input line 60.
 (pdftex.def)             Requested size: 117.36818pt x 38.6543pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\T1/lmr/m/n/10.95 Adding a neg-a-tive num-bers is the same as sub-tract-ing t
-he num-
+[]\T1/lmr/m/n/10.95 Adding a neg-a-tive num-ber is the same as sub-tract-ing th
+e num-
  []
 
 
@@ -1881,7 +1881,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Underfull \hbox (badness 10000) in paragraph at lines 88--88
 [][][][]\T1/lmr/m/n/9 Once again, re-call that the red col-ored ar-row in-di-ca
-tes start-ing at the ar-row head,
+tes start-ing at the ar-row-head,
  []
 
 <../fig/neg7.pdf, id=74, 160.04793pt x 38.6544pt>
@@ -2019,8 +2019,8 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  37914 strings out of 494923
- 747563 string characters out of 6180741
- 845502 words of memory out of 5000000
+ 747583 string characters out of 6180741
+ 845535 words of memory out of 5000000
  40549 multiletter control sequences out of 15000+600000
  631622 words of font info for 103 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2035,7 +2035,7 @@ public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb>
-Output written on neg_eng.pdf (9 pages, 238172 bytes).
+Output written on neg_eng.pdf (9 pages, 239206 bytes).
 PDF statistics:
  187 PDF objects out of 1000 (max. 8388607)
  156 compressed objects within 2 object streams

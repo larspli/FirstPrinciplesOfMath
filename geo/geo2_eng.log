@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  3 APR 2021 09:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1994,8 +1994,8 @@ Package pdftex.def Info: ../fig/tri19b.pdf  used on input line 154.
 (pdftex.def)             Requested size: 227.28859pt x 74.17693pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 In each case, the arcs makes up the cir-cum-fer-ence of the c
-ir-cle.
+\T1/lmr/m/n/10.95 In each case, the arcs make up the cir-cum-fer-ence of the ci
+r-cle.
  []
 
 
@@ -2215,17 +2215,17 @@ Package pdftex.def Info: ../fig/tri3b.pdf  used on input line 274.
 (pdftex.def)             Requested size: 196.27278pt x 105.88533pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 274--274
-[]\T1/lmr/m/n/10.95 We ob-ser-vere that $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10
-.95 cor-re-sponds to $\OML/lmm/m/it/10.95 DE$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it
-/10.95 BC$ \T1/lmr/m/n/10.95 to $\OML/lmm/m/it/10.95 EF$ \T1/lmr/m/n/10.95 and 
-$\OML/lmm/m/it/10.95 AC$
+[]\T1/lmr/m/n/10.95 We ob-serve that $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.95
+ cor-re-sponds to $\OML/lmm/m/it/10.95 DE$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it/10
+.95 BC$ \T1/lmr/m/n/10.95 to $\OML/lmm/m/it/10.95 EF$ \T1/lmr/m/n/10.95 and $\O
+ML/lmm/m/it/10.95 AC$ \T1/lmr/m/n/10.95 to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 285--285
-[]\T1/lmr/m/n/10.95 Two tri-anlges $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 AB
-C$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr
-/m/n/10.95 are sim-i-lar if one of these
+[]\T1/lmr/m/n/10.95 Two tri-an-gles $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 A
+BC$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lm
+r/m/n/10.95 are sim-i-lar if one of these
  []
 
 File: ../fig/geo8b.pdf Graphic file (type pdf)
@@ -2297,8 +2297,8 @@ mm/b/it/12 ^^Y$\T1/lmr/bx/n/12 )
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/it/10.95 Here we shall use reg-u-lar poly-gongs along the path to o
-ur wanted
+[]\T1/lmr/m/it/10.95 Here we shall use reg-u-lar poly-gons along the path to ou
+r wanted
  []
 
 
@@ -2343,7 +2343,7 @@ Package pdftex.def Info: ../fig/geo9c.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 Clearly, the cir-cum-fer-ence of the cir-cle is smaller then 
+\T1/lmr/m/n/10.95 Clearly, the cir-cum-fer-ence of the cir-cle is smaller than 
 the
  []
 
@@ -2435,19 +2435,19 @@ Package pdftex.def Info: ../fig/geo9a.pdf  used on input line 465.
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Since a 6-gon has sides of length 1, it is tempt-ing to ex-am
--ine if
+-ine
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 this can help us find the side lengths of other poly-gons. By
- in-
+\T1/lmr/m/n/10.95 if this can help us find the side lengths of other poly-gons.
+ By
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 scrib-ing both a 6-gon and a 12-gon (and also draw-ing a tri-
-an-gle)
+\T1/lmr/m/n/10.95 in-scrib-ing both a 6-gon and a 12-gon (and draw-ing a tri-an
+-gle)
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
@@ -2670,14 +2670,14 @@ e num-ber of sides
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/n/10.95 A com-puter have no prob-lems per-form-ing cal-cu-la-tions[
-][][] on a
+[]\T1/lmr/m/n/10.95 A com-puter has no prob-lems per-form-ing cal-cu-la-tions[]
+[][] on a poly-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 poly-gon with ex-tremely many sides. Cal-cu-lat-ing the perim
-e-ter
+\T1/lmr/m/n/10.95 gon with ex-tremely many sides. Cal-cu-lat-ing the perime-ter
+ of a
  []
 
 
@@ -2724,14 +2724,14 @@ ly-gon
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/n/10.95 For the sake of sim-plic-ity, we shall use ins-bribed squar
-es to il-
+[]\T1/lmr/m/n/10.95 For the sake of sim-plic-ity, we shall use in-scribed squar
+es to il-lus-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 lus-trate the out-line. We draw two cir-cles of ran-dom size,
- but the
+\T1/lmr/m/n/10.95 trate the out-line. We draw two cir-cles of ran-dom size, but
+ the
  []
 
 
@@ -2849,8 +2849,8 @@ dius\T1/lmr/m/n/10.95 . An
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 equiv-a-lent state-ment is that \T1/lmr/m/it/10.95 all ci-cle
-s have the same ra-tio of the
+\T1/lmr/m/n/10.95 equiv-a-lent state-ment is that \T1/lmr/m/it/10.95 all cir-cl
+es have the same ra-tio of
  []
 
 
@@ -2929,8 +2929,8 @@ Package pdftex.def Info: ../fig/sirk2.pdf  used on input line 510.
 (pdftex.def)             Requested size: 64.52087pt x 43.1812pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 510--510
-\T1/lmr/m/n/10.95 The re-marks above is quite easy to prove, but since they are
-
+\T1/lmr/m/n/10.95 The re-marks above are quite easy to prove, but since they ar
+e
  []
 
 
@@ -3075,52 +3075,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 531--531
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 C[]$\T1/lmr/m/n/10.95 , along the semi-cir-cle, lies closer
  to $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 than $\OML/lmm/m/it/10.95 C[]$\T1
-/lmr/m/n/10.95 . Now we dot a
+/lmr/m/n/10.95 . Now we dot
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 cir-cu-lar arc with ra-dius $\OML/lmm/m/it/10.95 BC[]$ \T1/lm
-r/m/n/10.95 and cen-ter $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 . Since the do
-t-ted arc
+\T1/lmr/m/n/10.95 a cir-cu-lar arc with ra-dius $\OML/lmm/m/it/10.95 BC[]$ \T1/
+lmr/m/n/10.95 and cen-ter $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 . Since the 
+dot-ted
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 and the semi-circle only in-ter-sects in $\OML/lmm/m/it/10.95
- C[]$\T1/lmr/m/n/10.95 , other points will ei-ther
+\T1/lmr/m/n/10.95 arc and the semi-circle only in-ter-sects in $\OML/lmm/m/it/1
+0.95 C[]$\T1/lmr/m/n/10.95 , other points will
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 lie in-side or out-side the dot-ted arc. Nec-es-sar-ily, $\OM
-L/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 lies out-side
+\T1/lmr/m/n/10.95 ei-ther lie in-side or out-side the dot-ted arc. Nec-es-sar-i
+ly, $\OML/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 lies
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 the dot-ted arc, and there-fore $\OML/lmm/m/it/10.95 BC[]$ \T
-1/lmr/m/n/10.95 is longer than $\OML/lmm/m/it/10.95 BC[]$\T1/lmr/m/n/10.95 . Fr
-om this
+\T1/lmr/m/n/10.95 out-side the dot-ted arc, and there-fore $\OML/lmm/m/it/10.95
+ BC[]$ \T1/lmr/m/n/10.95 is longer than $\OML/lmm/m/it/10.95 BC[]$\T1/lmr/m/n/1
+0.95 .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 we can con-clude that the length of $\OML/lmm/m/it/10.95 BC$ 
-\T1/lmr/m/n/10.95 in-creases as $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 moves
-
+\T1/lmr/m/n/10.95 From this we can con-clude that the length of $\OML/lmm/m/it/
+10.95 BC$ \T1/lmr/m/n/10.95 in-creases as
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 against $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 along the s
-emi-circle. There-fore, spec-i-fy-ing $[]$
+\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 moves against $\OML/lmm/m/it/10.95 E$ 
+\T1/lmr/m/n/10.95 along the semi-circle. There-fore, spec-i-fy-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 yields an unique value of $\OML/lmm/m/it/10.95 BC$\T1/lmr/m/n
-/10.95 , and hence an unique tri-an-gle
+\T1/lmr/m/n/10.95 ing $[]$ yields a unique value of $\OML/lmm/m/it/10.95 BC$\T1
+/lmr/m/n/10.95 , and hence a unique
  []
 
 [24 <../fig/sirk2.pdf>] [25 <../fig/geo13c.pdf> <../fig/geo13a.pdf>]
@@ -3145,7 +3144,7 @@ m/it/10.95 AC$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it/10.95 BC$\T1/lmr/m/n/10.95
 
 Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \T1/lmr/m/n/10.95 Hence $[]$. From term \T1/lmr/m/sl/10.95 ii \T1/lmr/m/n/10.95
- of [][]\T1/lmr/m/sl/10.95 Rule 0.9[][][] \T1/lmr/m/n/10.95 it now fol-lows tha
+ of [][]\T1/lmr/m/sl/10.95 Rule 0.8[][][] \T1/lmr/m/n/10.95 it now fol-lows tha
 t
  []
 
@@ -3173,7 +3172,7 @@ t/10.95 D[]E[]C$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.9
 
 Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \T1/lmr/m/n/10.95 equal, and then, from term \T1/lmr/m/sl/10.95 i \T1/lmr/m/n/1
-0.95 of [][]\T1/lmr/m/sl/10.95 Rule 0.9[][][]\T1/lmr/m/n/10.95 , they are con-g
+0.95 of [][]\T1/lmr/m/sl/10.95 Rule 0.8[][][]\T1/lmr/m/n/10.95 , they are con-g
 ru-ent.
  []
 
@@ -3199,7 +3198,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  38230 strings out of 494923
  754243 string characters out of 6180741
- 867943 words of memory out of 5000000
+ 867944 words of memory out of 5000000
  40767 multiletter control sequences out of 15000+600000
  614899 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -3224,7 +3223,7 @@ ts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb>
-Output written on geo2_eng.pdf (27 pages, 822340 bytes).
+Output written on geo2_eng.pdf (27 pages, 821981 bytes).
 PDF statistics:
  660 PDF objects out of 1000 (max. 8388607)
  543 compressed objects within 6 object streams

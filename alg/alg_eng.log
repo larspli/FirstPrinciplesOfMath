@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1887,14 +1887,14 @@ ly how to cal-cu-late be-tween the
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--136
-\T1/lmr/m/n/10.95 ex-pres-sion in the paren-the-sis and $\OML/lmm/m/it/10.95 d$
-\T1/lmr/m/n/10.95 , but there is no wrong-doing
+\T1/lmr/m/n/10.95 ex-pres-sion in-side the paren-the-sis and $\OML/lmm/m/it/10.
+95 d$\T1/lmr/m/n/10.95 , but there is no wrong-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \T1/lmr/m/it/10.95 Notice! This ex-am-ple is \T1/lmr/m/sl/10.95 not \T1/lmr/m/i
-t/10.95 ment to show how to han-dle ex-
+t/10.95 meant to show how to han-dle ex-
  []
 
 
@@ -1937,7 +1937,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  37796 strings out of 494923
  745593 string characters out of 6180741
- 846447 words of memory out of 5000000
+ 846480 words of memory out of 5000000
  40454 multiletter control sequences out of 15000+600000
  610206 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1953,7 +1953,7 @@ r/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmsy10.pfb>
-Output written on alg_eng.pdf (5 pages, 243024 bytes).
+Output written on alg_eng.pdf (5 pages, 243047 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream
