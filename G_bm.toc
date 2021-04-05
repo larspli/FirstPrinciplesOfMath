@@ -55,7 +55,7 @@
 \contentsline {section}{\numberline {7.2}Potenser}{97}{section.7.2}
 \contentsline {section}{\numberline {7.3}Irrasjonale tall}{105}{section.7.3}
 \contentsline {chapter}{\numberline {8}Likninger }{108}{chapter.8}
-\contentsline {section}{\numberline {8.1}IIntroduksjon}{109}{section.8.1}
+\contentsline {section}{\numberline {8.1}Introduksjon}{109}{section.8.1}
 \contentsline {section}{\numberline {8.2}L\IeC {\o }sing ved de fire regneartene}{110}{section.8.2}
 \contentsline {subsubsection}{Deling}{113}{subsubsection*.85}
 \contentsline {section}{\numberline {8.3}L\IeC {\o }singsmetodene oppsummert}{117}{section.8.3}
