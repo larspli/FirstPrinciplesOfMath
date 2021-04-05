@@ -9,14 +9,14 @@
 \indexentry{term|hyperpage}{16}
 \indexentry{sum|hyperpage}{16}
 \indexentry{term|hyperpage}{18}
-\indexentry{differanse|hyperpage}{18}
+\indexentry{difference|hyperpage}{18}
 \indexentry{factor|hyperpage}{20}
-\indexentry{produkt|hyperpage}{20}
+\indexentry{product|hyperpage}{20}
 \indexentry{dividend|hyperpage}{23}
 \indexentry{divisor|hyperpage}{23}
 \indexentry{quotient|hyperpage}{23}
 \indexentry{ratio|hyperpage}{23}
-\indexentry{numbers!prim|hyperpage}{27}
+\indexentry{numbers!prime|hyperpage}{27}
 \indexentry{factorization|hyperpage}{27}
 \indexentry{prime factorization|hyperpage}{27}
 \indexentry{fraction|hyperpage}{35}
@@ -68,7 +68,7 @@
 \indexentry{width|hyperpage}{84}
 \indexentry{length|hyperpage}{84}
 \indexentry{algebra|hyperpage}{92}
-\indexentry{variabel|hyperpage}{92}
+\indexentry{variable|hyperpage}{92}
 \indexentry{constant|hyperpage}{92}
 \indexentry{base|hyperpage}{97}
 \indexentry{exponent|hyperpage}{97}
@@ -83,12 +83,13 @@
 \indexentry{slope|hyperpage}{129}
 \indexentry{intercept|hyperpage}{129}
 \indexentry{formula|hyperpage}{136}
-\indexentry{areal!til rektangel|hyperpage}{136}
-\indexentry{til trekant|hyperpage}{137}
-\indexentry{til parallellogram|hyperpage}{138}
-\indexentry{areal!til trapes|hyperpage}{139}
-\indexentry{omkrins!til sirkel|hyperpage}{141}
-\indexentry{areal!til sirkel|hyperpage}{142}
+\indexentry{areal!of a rectangle|hyperpage}{136}
+\indexentry{of a triangle|hyperpage}{137}
+\indexentry{of a parallelogram|hyperpage}{138}
+\indexentry{areal!of a trapezoid|hyperpage}{139}
+\indexentry{perimeter!of a circle|hyperpage}{141}
+\indexentry{circumference|hyperpage}{141}
+\indexentry{areal!of a circle|hyperpage}{142}
 \indexentry{triangle!congruent|hyperpage}{146}
 \indexentry{triangle!similar|hyperpage}{146}
 \indexentry{side!corresponding|hyperpage}{147}

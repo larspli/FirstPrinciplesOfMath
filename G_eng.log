@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1841,13 +1841,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 [][][][]\T1/lmr/m/n/9 To \T1/lmr/m/sl/9 ex-plain \T1/lmr/m/n/9 the rules rather
  than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a de-lib-er-ate de-ci-sion.
- A proof de-
+ A proof
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
-\T1/lmr/m/n/9 mands math-e-mat-i-cal rigour that of-ten forces a lot of as-sump
--tions and def-i-ni-tions
+\T1/lmr/m/n/9 de-mands math-e-mat-i-cal rigor that of-ten forces a lot of as-su
+mp-tions and def-i-ni-tions
  []
 
 
@@ -2036,7 +2036,7 @@ Package pdftex.def Info: tel/../fig/des3_eng.pdf  used on input line 82.
 (pdftex.def)             Requested size: 169.16156pt x 17.82654pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
-[]\T1/lmr/m/n/10.95 In a lot of coun-tires, a comma is used in place of the pe-
+[]\T1/lmr/m/n/10.95 In a lot of coun-tries, a comma is used in place of the pe-
 riod for
  []
 
@@ -2108,12 +2108,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--113
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 It is named af-ter the french
+\T1/lmr/m/n/9 It is named af-ter the French
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 math-e-mati-cian and philoso-pher
+\T1/lmr/m/n/9 math-e-mati-cian and philoso-pher,
  []
 
 
@@ -2261,15 +2261,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
-\T1/lmr/m/n/10.95 of the way in wich the ar-rows point, as in \T1/lmr/m/sl/10.9
-5 Ex-am-ple 1 \T1/lmr/m/n/10.95 and \T1/lmr/m/sl/10.95 2\T1/lmr/m/n/10.95 .
+\T1/lmr/m/n/10.95 of the way in which the ar-rows point, as in \T1/lmr/m/sl/10.
+95 Ex-am-ple 1 \T1/lmr/m/n/10.95 and \T1/lmr/m/sl/10.95 2\T1/lmr/m/n/10.95 .
  []
 
 ) (./gang/gang_eng.tex (./gang/../doc.tex) [19 <./min/../fig/mint.pdf> <./min/.
 ./fig/mint2.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 []\T1/lmr/m/n/10.95 A cal-cu-la-tion in-volv-ing mul-ti-pli-ca-tion in-cludes s
-ev-e-real \T1/lmr/m/it/10.95 fac-tors[]
+ev-eral \T1/lmr/m/it/10.95 fac-tors[]
  []
 
 
@@ -2427,8 +2427,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
 [30]
 Underfull \hbox (badness 10000) in paragraph at lines 128--128
-[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween terms have no im-p
-act on
+[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween terms has no im-pa
+ct on
  []
 
 <rrek/../fig/asso0.pdf, id=728, 273.65237pt x 11.8844pt>
@@ -2438,8 +2438,8 @@ Package pdftex.def Info: rrek/../fig/asso0.pdf  used on input line 135.
 (pdftex.def)             Requested size: 273.6517pt x 11.88435pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween fac-tors have no i
-m-pact
+[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween fac-tors has no im
+-pact on
  []
 
 <rrek/../fig/asso1.pdf, id=729, 71.26625pt x 64.21992pt>
@@ -2459,14 +2459,14 @@ Chapter 4.
 
 ] (./brok/brok_eng.tex (./brok/../doc.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]\T1/lmr/m/n/10.95 A frac-tion[] is a dif-fer-ent way of writ-ing a di-vi-son.
- In a frac-tion
+[]\T1/lmr/m/n/10.95 A frac-tion[] is a dif-fer-ent way of writ-ing a di-vi-sion
+. In a frac-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
-\T1/lmr/m/n/10.95 the div-i-dend is called the \T1/lmr/m/it/10.95 nu-mer-a-tor[
-] \T1/lmr/m/n/10.95 and the di-vi-sor the de-nom-
+\T1/lmr/m/n/10.95 tion the div-i-dend is called the \T1/lmr/m/it/10.95 nu-mer-a
+-tor[] \T1/lmr/m/n/10.95 and the di-vi-sor the
  []
 
 <brok/../fig/br0_nn.pdf, id=765, 97.51431pt x 24.7826pt>
@@ -2616,7 +2616,7 @@ nom-i-
  <./brok/../fig/br4.pdf> <./brok/../fig/br4a.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 [][][][]\T1/lmr/m/n/9 Recall that the red-colored ar-row in-di-cates that you s
-hall start at the ar-row head
+hall start at the ar-row-head
  []
 
 <brok/../fig/br7.pdf, id=923, 142.76335pt x 57.40446pt>
@@ -2643,13 +2643,13 @@ Package pdftex.def Info: brok/../fig/br7ta.pdf  used on input line 165.
 ./brok/../fig/br7ta.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
 []\T1/lmr/m/n/10.95 When cal-cu-lat-ing ad-di-tion/subtraction of frac-tions, w
-e must ex-
+e must
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
-\T1/lmr/m/n/10.95 pand the frac-tions such that they have a de-nom-i-na-tors of
- equal
+\T1/lmr/m/n/10.95 ex-pand the frac-tions such that they have de-nom-i-na-tors o
+f equal
  []
 
 
@@ -2791,8 +2791,8 @@ a-tor by
 
 [49]
 Underfull \hbox (badness 10000) in paragraph at lines 312--312
-[][][][]\T1/lmr/m/n/9 Look at the text box with the ti-tle \T1/lmr/m/it/9 An in
--ter-pre-ta-tion of mul-ti-ply-ing by a frac-tion
+[][][][]\T1/lmr/m/n/9 Look at the text box with the ti-tle ''\T1/lmr/m/it/9 An 
+in-ter-pre-ta-tion of mul-ti-ply-ing by a frac-tion\T1/lmr/m/n/9 ''
  []
 
 
@@ -2876,7 +2876,7 @@ e
 
 Underfull \hbox (badness 10000) in paragraph at lines 472--472
 \T1/lmr/m/sl/10.95 Notice\T1/lmr/m/n/10.95 : Can-cel-ing fac-tors along the way
- saves the labour of
+ saves the la-bor of work-
  []
 
 [56]
@@ -2887,7 +2887,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--477
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 486--486
-[]\T1/lmr/bx/n/10.95 Decimal num-bers with in-fite dig-its in a re-peat-ing
+[]\T1/lmr/bx/n/10.95 Decimal num-bers with in-fi-nite dig-its in a re-peat-ing
  []
 
 
@@ -2908,10 +2908,10 @@ File: neg/../fig/neg1.pdf Graphic file (type pdf)
 <use neg/../fig/neg1.pdf>
 Package pdftex.def Info: neg/../fig/neg1.pdf  used on input line 8.
 (pdftex.def)             Requested size: 126.84357pt x 29.20903pt.
-<neg/../fig/neg2.pdf, id=1155, 256.07669pt x 25.49525pt>
-File: neg/../fig/neg2.pdf Graphic file (type pdf)
-<use neg/../fig/neg2.pdf>
-Package pdftex.def Info: neg/../fig/neg2.pdf  used on input line 18.
+<neg/../fig/neg2_eng.pdf, id=1155, 256.07669pt x 25.49525pt>
+File: neg/../fig/neg2_eng.pdf Graphic file (type pdf)
+<use neg/../fig/neg2_eng.pdf>
+Package pdftex.def Info: neg/../fig/neg2_eng.pdf  used on input line 18.
 (pdftex.def)             Requested size: 256.07607pt x 25.49518pt.
 <neg/../fig/neg3.pdf, id=1156, 245.40685pt x 40.07974pt>
 File: neg/../fig/neg3.pdf Graphic file (type pdf)
@@ -2926,7 +2926,7 @@ pos-i-tive
 
 [59
 
- <./neg/../fig/neg1.pdf> <./neg/../fig/neg2.pdf> <./neg/../fig/neg3.pdf>]
+ <./neg/../fig/neg1.pdf> <./neg/../fig/neg2_eng.pdf> <./neg/../fig/neg3.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--42
 []\T1/lmr/m/it/10.95 Sign[] \T1/lmr/m/n/10.95 is a col-lec-tive name of [][][][
 ][][] and [][][][][][]. [][][][][][] is the sign of $\OT1/lmr/m/n/10.95 5$ \T1/
@@ -2941,8 +2941,8 @@ Package pdftex.def Info: neg/../fig/neg6.pdf  used on input line 60.
 (pdftex.def)             Requested size: 117.36818pt x 38.6543pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\T1/lmr/m/n/10.95 Adding a neg-a-tive num-bers is the same as sub-tract-ing t
-he num-
+[]\T1/lmr/m/n/10.95 Adding a neg-a-tive num-ber is the same as sub-tract-ing th
+e num-
  []
 
 
@@ -2956,7 +2956,7 @@ tion is com-mu-ta-tive. This also ap-plies
  <./neg/../fig/neg6.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 88--88
 [][][][]\T1/lmr/m/n/9 Once again, re-call that the red col-ored ar-row in-di-ca
-tes start-ing at the ar-row head,
+tes start-ing at the ar-row-head,
  []
 
 <neg/../fig/neg7.pdf, id=1202, 160.04793pt x 38.6544pt>
@@ -3693,13 +3693,13 @@ ly how to cal-cu-late be-tween the
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \T1/lmr/m/n/10.95 ex-pres-sion in the paren-the-sis and $\OML/lmm/m/it/10.95 d$
-\T1/lmr/m/n/10.95 , but there is no wrong-doing
+\T1/lmr/m/n/10.95 , but there is no wrong-do-ing
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \T1/lmr/m/it/10.95 Notice! This ex-am-ple is \T1/lmr/m/sl/10.95 not \T1/lmr/m/i
-t/10.95 ment to show how to han-dle ex-
+t/10.95 meant to show how to han-dle ex-
  []
 
 
@@ -3741,8 +3741,8 @@ m/m/it/10.95 n$ \T1/lmr/m/n/10.95 in-stances of $\OML/lmm/m/it/10.95 a$
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[][][][]\T1/lmr/m/n/9 Attention! The ex-am-ples il-lus-trates a para-dox in the
- En-glish lan-guage.
+[][][][]\T1/lmr/m/n/9 Attention! The ex-am-ples il-lus-trate a para-dox in the 
+En-glish lan-guage.
  []
 
 
@@ -3844,13 +3844,13 @@ Overfull \hbox (1.30869pt too wide) in paragraph at lines 37--38
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
 [][][][]\T1/lmr/m/sl/9 Attention! \T1/lmr/m/n/9 This ex-pla-na-tion is good eno
-ugh for the aim of this book but is an
+ugh for the aim of this book but is a
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-\T1/lmr/m/n/9 rather ex-treme sim-pli-fi-ca-tion. Ir-ra-tional num-bers is a ve
-ry com-plex sub-ject, in
+\T1/lmr/m/n/9 rather ex-treme sim-pli-fi-ca-tion. Ir-ra-tional num-bers are a v
+ery com-plex sub-ject, in
  []
 
 
@@ -3893,21 +3893,21 @@ ther
 <lig/../fig/lig.pdf, id=1933, 137.0721pt x 68.78699pt>
 File: lig/../fig/lig.pdf Graphic file (type pdf)
 <use lig/../fig/lig.pdf>
-Package pdftex.def Info: lig/../fig/lig.pdf  used on input line 24.
+Package pdftex.def Info: lig/../fig/lig.pdf  used on input line 23.
 (pdftex.def)             Requested size: 137.07175pt x 68.7868pt.
 <lig/../fig/lig1.pdf, id=1934, 133.97052pt x 80.57101pt>
 File: lig/../fig/lig1.pdf Graphic file (type pdf)
 <use lig/../fig/lig1.pdf>
-Package pdftex.def Info: lig/../fig/lig1.pdf  used on input line 25.
+Package pdftex.def Info: lig/../fig/lig1.pdf  used on input line 24.
 (pdftex.def)             Requested size: 133.97018pt x 80.57082pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 [][][][]\T1/lmr/m/sl/9 Notice\T1/lmr/m/n/9 : In ear-lier fig-ures, there have b
 een a cor-re-spon-dence be-tween the size of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 \T1/lmr/m/n/9 boxes and the (ab-so-lute) value of the num-ber they rep-re-sent.
  This does not ap-ply
  []
@@ -3915,30 +3915,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 <lig/../fig/lig2.pdf, id=1936, 149.87996pt x 43.18132pt>
 File: lig/../fig/lig2.pdf Graphic file (type pdf)
 <use lig/../fig/lig2.pdf>
-Package pdftex.def Info: lig/../fig/lig2.pdf  used on input line 31.
+Package pdftex.def Info: lig/../fig/lig2.pdf  used on input line 30.
 (pdftex.def)             Requested size: 149.87958pt x 43.1812pt.
 <lig/../fig/lig2b.pdf, id=1937, 263.68513pt x 43.18132pt>
 File: lig/../fig/lig2b.pdf Graphic file (type pdf)
 <use lig/../fig/lig2b.pdf>
-Package pdftex.def Info: lig/../fig/lig2b.pdf  used on input line 34.
+Package pdftex.def Info: lig/../fig/lig2b.pdf  used on input line 33.
 (pdftex.def)             Requested size: 263.68448pt x 43.1812pt.
 <lig/../fig/lig2c.pdf, id=1938, 64.52104pt x 43.18132pt>
 File: lig/../fig/lig2c.pdf Graphic file (type pdf)
 <use lig/../fig/lig2c.pdf>
-Package pdftex.def Info: lig/../fig/lig2c.pdf  used on input line 37.
+Package pdftex.def Info: lig/../fig/lig2c.pdf  used on input line 36.
 (pdftex.def)             Requested size: 64.52087pt x 43.1812pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []\T1/lmr/m/n/9 Between the first and sec-ond line it is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 \T1/lmr/m/n/9 com-mon to say that \T1/lmr/m/sl/9 4 has shifted side
  []
 
 
-Overfull \hbox (3.63054pt too wide) in paragraph at lines 45--47
+Overfull \hbox (3.63054pt too wide) in paragraph at lines 44--46
 []$[]$ $[]$ 
  []
 
@@ -3946,7 +3946,7 @@ Overfull \hbox (3.63054pt too wide) in paragraph at lines 45--47
 
  <./lig/../fig/lig.pdf> <./lig/../fig/lig1.pdf> <./lig/../fig/lig2.pdf> <./lig/
 ../fig/lig2b.pdf> <./lig/../fig/lig2c.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
 [][][][]\T1/lmr/m/n/9 Notice that the fig-ure il-lus-trates $[]$ (see [][]\T1/l
 mr/m/sl/9 Sec-tion 5.3[][][]\T1/lmr/m/n/9 ) on the left side. How-
  []
@@ -3954,43 +3954,43 @@ mr/m/sl/9 Sec-tion 5.3[][][]\T1/lmr/m/n/9 ) on the left side. How-
 <lig/../fig/lig4.pdf, id=1988, 213.89912pt x 43.18132pt>
 File: lig/../fig/lig4.pdf Graphic file (type pdf)
 <use lig/../fig/lig4.pdf>
-Package pdftex.def Info: lig/../fig/lig4.pdf  used on input line 50.
+Package pdftex.def Info: lig/../fig/lig4.pdf  used on input line 49.
 (pdftex.def)             Requested size: 213.89859pt x 43.1812pt.
 <lig/../fig/lig5.pdf, id=1989, 356.1606pt x 43.18132pt>
 File: lig/../fig/lig5.pdf Graphic file (type pdf)
 <use lig/../fig/lig5.pdf>
-Package pdftex.def Info: lig/../fig/lig5.pdf  used on input line 53.
+Package pdftex.def Info: lig/../fig/lig5.pdf  used on input line 52.
 (pdftex.def)             Requested size: 356.15971pt x 43.1812pt.
 
-Overfull \hbox (14.72664pt too wide) in paragraph at lines 53--53
+Overfull \hbox (14.72664pt too wide) in paragraph at lines 52--52
  [] 
  []
 
 <lig/../fig/lig5b.pdf, id=1990, 121.42365pt x 43.18132pt>
 File: lig/../fig/lig5b.pdf Graphic file (type pdf)
 <use lig/../fig/lig5b.pdf>
-Package pdftex.def Info: lig/../fig/lig5b.pdf  used on input line 56.
+Package pdftex.def Info: lig/../fig/lig5b.pdf  used on input line 55.
 (pdftex.def)             Requested size: 121.42334pt x 43.1812pt.
 <lig/../fig/lig6.pdf, id=1991, 206.78253pt x 43.18132pt>
 File: lig/../fig/lig6.pdf Graphic file (type pdf)
 <use lig/../fig/lig6.pdf>
-Package pdftex.def Info: lig/../fig/lig6.pdf  used on input line 59.
+Package pdftex.def Info: lig/../fig/lig6.pdf  used on input line 58.
 (pdftex.def)             Requested size: 206.78201pt x 43.1812pt.
 [111 <./lig/../fig/lig4.pdf> <./lig/../fig/lig5.pdf> <./lig/../fig/lig5b.pdf> <
 ./lig/../fig/lig6.pdf>]
 <lig/../fig/lig7.pdf, id=2032, 92.97736pt x 43.18132pt>
 File: lig/../fig/lig7.pdf Graphic file (type pdf)
 <use lig/../fig/lig7.pdf>
-Package pdftex.def Info: lig/../fig/lig7.pdf  used on input line 63.
+Package pdftex.def Info: lig/../fig/lig7.pdf  used on input line 62.
 (pdftex.def)             Requested size: 92.97711pt x 43.1812pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []\T1/lmr/m/n/10.95 To solve an equa-tion, we gather all $\OML/lmm/m/it/10.95 x
 $\T1/lmr/m/n/10.95 -terms and all known terms
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 \T1/lmr/m/n/10.95 on re-spec-tive sides of the equal sign. A term which shifts 
 side,
  []
@@ -3999,82 +3999,83 @@ side,
 <lig/../fig/lig8.pdf, id=2047, 135.6568pt x 28.95819pt>
 File: lig/../fig/lig8.pdf Graphic file (type pdf)
 <use lig/../fig/lig8.pdf>
-Package pdftex.def Info: lig/../fig/lig8.pdf  used on input line 102.
+Package pdftex.def Info: lig/../fig/lig8.pdf  used on input line 101.
 (pdftex.def)             Requested size: 135.65646pt x 28.95811pt.
 <lig/../fig/lig9.pdf, id=2048, 164.10309pt x 29.45003pt>
 File: lig/../fig/lig9.pdf Graphic file (type pdf)
 <use lig/../fig/lig9.pdf>
-Package pdftex.def Info: lig/../fig/lig9.pdf  used on input line 105.
+Package pdftex.def Info: lig/../fig/lig9.pdf  used on input line 104.
 (pdftex.def)             Requested size: 164.10268pt x 29.44994pt.
 <lig/../fig/lig10.pdf, id=2049, 64.52104pt x 28.95819pt>
 File: lig/../fig/lig10.pdf Graphic file (type pdf)
 <use lig/../fig/lig10.pdf>
-Package pdftex.def Info: lig/../fig/lig10.pdf  used on input line 108.
+Package pdftex.def Info: lig/../fig/lig10.pdf  used on input line 107.
 (pdftex.def)             Requested size: 64.52087pt x 28.95811pt.
  [113 <./lig/../fig/lig8.pdf> <./lig/../fig/lig9.pdf> <./lig/../fig/lig10.pdf>]
 <lig/../fig/lig11.pdf, id=2079, 65.70547pt x 28.95819pt>
 File: lig/../fig/lig11.pdf Graphic file (type pdf)
 <use lig/../fig/lig11.pdf>
-Package pdftex.def Info: lig/../fig/lig11.pdf  used on input line 140.
+Package pdftex.def Info: lig/../fig/lig11.pdf  used on input line 139.
 (pdftex.def)             Requested size: 65.7053pt x 28.95811pt.
 <lig/../fig/lig12.pdf, id=2080, 250.64642pt x 28.95819pt>
 File: lig/../fig/lig12.pdf Graphic file (type pdf)
 <use lig/../fig/lig12.pdf>
-Package pdftex.def Info: lig/../fig/lig12.pdf  used on input line 143.
+Package pdftex.def Info: lig/../fig/lig12.pdf  used on input line 142.
 (pdftex.def)             Requested size: 250.6458pt x 28.95811pt.
  [114 <./lig/../fig/lig11.pdf> <./lig/../fig/lig12.pdf>]
 <lig/../fig/lig12b.pdf, id=2110, 108.38493pt x 43.18132pt>
 File: lig/../fig/lig12b.pdf Graphic file (type pdf)
 <use lig/../fig/lig12b.pdf>
-Package pdftex.def Info: lig/../fig/lig12b.pdf  used on input line 146.
+Package pdftex.def Info: lig/../fig/lig12b.pdf  used on input line 145.
 (pdftex.def)             Requested size: 108.38466pt x 43.1812pt.
 <lig/../fig/lig13.pdf, id=2111, 107.2005pt x 43.18132pt>
 File: lig/../fig/lig13.pdf Graphic file (type pdf)
 <use lig/../fig/lig13.pdf>
-Package pdftex.def Info: lig/../fig/lig13.pdf  used on input line 149.
+Package pdftex.def Info: lig/../fig/lig13.pdf  used on input line 148.
 (pdftex.def)             Requested size: 107.20023pt x 43.1812pt.
  [115 <./lig/../fig/lig12b.pdf> <./lig/../fig/lig13.pdf>] [116]
-Overfull \hbox (7.77292pt too wide) in paragraph at lines 192--192
+Overfull \hbox (7.77292pt too wide) in paragraph at lines 191--191
 |[]\T1/lmr/bx/n/14.4 Solving with el-e-men-tary op-er-a-tions sum-ma-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 []\T1/lmr/m/n/10.95 add or sub-tract both sides of an equa-tion by the same
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
-\T1/lmr/m/n/10.95 num-ber. This is equaiva-lent to shift-ing a term from one
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+\T1/lmr/m/n/10.95 num-ber. This is equiv-a-lent to shift-ing a term from one si
+de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 []\T1/lmr/m/n/10.95 multiply or di-vide both sides of an equa-tion by the same
  []
 
 [117
 
 ] [118]
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
 []\T1/lmr/m/n/10.95 To avoid frac-tions, we mul-ti-ply both sides by the com-mo
 n de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--279
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []\T1/lmr/m/n/10.95 Some like to make the rule that ''we can mul-ti-ply or di-v
 ide all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--279
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
 \T1/lmr/m/n/10.95 terms by the same num-ber''. In that case, we could have jump
 ed
  []
 
 [119] [120]
-Overfull \hbox (3.73763pt too wide) in paragraph at lines 307--307
+Overfull \hbox (3.73763pt too wide) in paragraph at lines 306--306
 \T1/lmr/m/it/10.95 stick-ing to this prin-ci-ple does not guar-an-tee that all 
 so-lu-tions are found.  
  []
@@ -4082,21 +4083,21 @@ so-lu-tions are found.
 [121
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 [][][][]\T1/lmr/m/n/9 As ear-lier men-tioned, \T1/lmr/m/it/9 real \T1/lmr/m/n/9
- and \T1/lmr/m/it/9 imag-i-nary \T1/lmr/m/n/9 num-bers lies out-side the scope 
-of
+ and \T1/lmr/m/it/9 imag-i-nary \T1/lmr/m/n/9 num-bers lie out-side the scope o
+f
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 \T1/lmr/m/n/10.95 has $\OML/lmm/m/it/10.95 a$ \T1/lmr/m/n/10.95 so-lu-tions, th
 ey are not nec-es-sar-ily all \T1/lmr/m/it/10.95 real[][][]\T1/lmr/m/n/10.95 . 
 Con-cern-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 \T1/lmr/m/n/10.95 this book, it means we set-tle with find-ing all ra-tio-nal o
 r ir-ra-
  []
@@ -4106,11 +4107,11 @@ Chapter 9.
 (./funk/funk_eng.tex (./funk/../doc.tex) [123
 
 ]
-<funk/../fig/funk1.pdf, id=2178, 251.35907pt x 92.38515pt>
-File: funk/../fig/funk1.pdf Graphic file (type pdf)
-<use funk/../fig/funk1.pdf>
-Package pdftex.def Info: funk/../fig/funk1.pdf  used on input line 10.
-(pdftex.def)             Requested size: 251.35846pt x 92.3849pt.
+<funk/../fig/funk1_eng.pdf, id=2178, 256.22726pt x 92.38515pt>
+File: funk/../fig/funk1_eng.pdf Graphic file (type pdf)
+<use funk/../fig/funk1_eng.pdf>
+Package pdftex.def Info: funk/../fig/funk1_eng.pdf  used on input line 10.
+(pdftex.def)             Requested size: 256.22664pt x 92.3849pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []$[]$ \T1/lmr/m/n/10.95 is the ex-pres-sion of the func-tion ''Num-ber of boxe
@@ -4119,7 +4120,7 @@ s in
 
 [124
 
- <./funk/../fig/funk1.pdf>]
+ <./funk/../fig/funk1_eng.pdf>]
 <funk/../fig/funk1a.pdf, id=2191, 256.05663pt x 104.99225pt>
 File: funk/../fig/funk1a.pdf Graphic file (type pdf)
 <use funk/../fig/funk1a.pdf>
@@ -4160,20 +4161,20 @@ Package pdftex.def Info: funk/../fig/funk6.pdf  used on input line 106.
 (pdftex.def)             Requested size: 113.81493pt x 85.35869pt.
 [128 <./funk/../fig/funk3.pdf>] [129 <./funk/../fig/funk6.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
-[]\T1/lmr/m/n/10.95 To draw the graph of a lin-ear fun-tion, we only need to kn
-ow two
+[]\T1/lmr/m/n/10.95 To draw the graph of a lin-ear func-tion, we only need to k
+now
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10.95 points ly-ing on it. The points are free to choose, there-for
-e, in
+\T1/lmr/m/n/10.95 two points ly-ing on it. The points are free to choose, there
+-fore,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10.95 or-der to make cal-cu-la-tions as sim-ple as pos-si-ble, we s
-tart off by
+\T1/lmr/m/n/10.95 in or-der to make cal-cu-la-tions as sim-ple as pos-si-ble, w
+e start off
  []
 
 
@@ -4209,21 +4210,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--161
 []\T1/lmr/m/n/10.95 Firstly, we find the ex-pres-sion of $\OML/lmm/m/it/10.95 f
 \OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 x\OT1/lmr/m/n/10.95 )$\T1/lmr/m/n/10.95
  . The point $\OT1/lmr/m/n/10.95 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 3)$
- \T1/lmr/m/n/10.95 lies on
+ \T1/lmr/m/n/10.95 lies
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 161--161
-\T1/lmr/m/n/10.95 the graph of $\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (\OML/l
-mm/m/it/10.95 x\OT1/lmr/m/n/10.95 )$ \T1/lmr/m/n/10.95 (also see the fig-ure on
- the next page). It then
+\T1/lmr/m/n/10.95 on the graph of $\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (\OM
+L/lmm/m/it/10.95 x\OT1/lmr/m/n/10.95 )$ \T1/lmr/m/n/10.95 (also see the fig-ure
+ on the next page). It
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 161--161
-\T1/lmr/m/n/10.95 fol-lows that $[]$, and hence $\OT1/lmr/m/n/10.95 3$ \T1/lmr/
-m/n/10.95 is the in-ter-ceptet if $\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (\OM
-L/lmm/m/it/10.95 x\OT1/lmr/m/n/10.95 )$\T1/lmr/m/n/10.95 .
+\T1/lmr/m/n/10.95 then fol-lows that $[]$, and hence $\OT1/lmr/m/n/10.95 3$ \T1
+/lmr/m/n/10.95 is the in-ter-cept of $\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (
+\OML/lmm/m/it/10.95 x\OT1/lmr/m/n/10.95 )$\T1/lmr/m/n/10.95 .
  []
 
 
@@ -4497,8 +4498,8 @@ Package pdftex.def Info: geo/../fig/tri19b.pdf  used on input line 154.
 (pdftex.def)             Requested size: 227.28859pt x 74.17693pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
-\T1/lmr/m/n/10.95 In each case, the arcs makes up the cir-cum-fer-ence of the c
-ir-cle.
+\T1/lmr/m/n/10.95 In each case, the arcs make up the cir-cum-fer-ence of the ci
+r-cle.
  []
 
 
@@ -4707,17 +4708,17 @@ Package pdftex.def Info: geo/../fig/tri3b.pdf  used on input line 274.
 (pdftex.def)             Requested size: 196.27278pt x 105.88533pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 274--274
-[]\T1/lmr/m/n/10.95 We ob-ser-vere that $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10
-.95 cor-re-sponds to $\OML/lmm/m/it/10.95 DE$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it
-/10.95 BC$ \T1/lmr/m/n/10.95 to $\OML/lmm/m/it/10.95 EF$ \T1/lmr/m/n/10.95 and 
-$\OML/lmm/m/it/10.95 AC$
+[]\T1/lmr/m/n/10.95 We ob-serve that $\OML/lmm/m/it/10.95 AB$ \T1/lmr/m/n/10.95
+ cor-re-sponds to $\OML/lmm/m/it/10.95 DE$\T1/lmr/m/n/10.95 , $\OML/lmm/m/it/10
+.95 BC$ \T1/lmr/m/n/10.95 to $\OML/lmm/m/it/10.95 EF$ \T1/lmr/m/n/10.95 and $\O
+ML/lmm/m/it/10.95 AC$ \T1/lmr/m/n/10.95 to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 285--285
-[]\T1/lmr/m/n/10.95 Two tri-anlges $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 AB
-C$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lmr
-/m/n/10.95 are sim-i-lar if one of these
+[]\T1/lmr/m/n/10.95 Two tri-an-gles $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 A
+BC$ \T1/lmr/m/n/10.95 and $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 DEF$ \T1/lm
+r/m/n/10.95 are sim-i-lar if one of these
  []
 
 File: geo/../fig/geo8b.pdf Graphic file (type pdf)
@@ -4790,8 +4791,8 @@ lmm/b/it/12 ^^Y$\T1/lmr/bx/n/12 )
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/it/10.95 Here we shall use reg-u-lar poly-gongs along the path to o
-ur wanted
+[]\T1/lmr/m/it/10.95 Here we shall use reg-u-lar poly-gons along the path to ou
+r wanted
  []
 
 
@@ -4836,7 +4837,7 @@ Package pdftex.def Info: geo/../fig/geo9c.pdf  used on input line 465.
 (pdftex.def)             Requested size: 114.3168pt x 114.3168pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 Clearly, the cir-cum-fer-ence of the cir-cle is smaller then 
+\T1/lmr/m/n/10.95 Clearly, the cir-cum-fer-ence of the cir-cle is smaller than 
 the
  []
 
@@ -4928,19 +4929,19 @@ Package pdftex.def Info: geo/../fig/geo9a.pdf  used on input line 465.
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Since a 6-gon has sides of length 1, it is tempt-ing to ex-am
--ine if
+-ine
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 this can help us find the side lengths of other poly-gons. By
- in-
+\T1/lmr/m/n/10.95 if this can help us find the side lengths of other poly-gons.
+ By
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 scrib-ing both a 6-gon and a 12-gon (and also draw-ing a tri-
-an-gle)
+\T1/lmr/m/n/10.95 in-scrib-ing both a 6-gon and a 12-gon (and draw-ing a tri-an
+-gle)
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.10.
@@ -5163,14 +5164,14 @@ e num-ber of sides
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/n/10.95 A com-puter have no prob-lems per-form-ing cal-cu-la-tions[
-][][] on a
+[]\T1/lmr/m/n/10.95 A com-puter has no prob-lems per-form-ing cal-cu-la-tions[]
+[][] on a poly-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 poly-gon with ex-tremely many sides. Cal-cu-lat-ing the perim
-e-ter
+\T1/lmr/m/n/10.95 gon with ex-tremely many sides. Cal-cu-lat-ing the perime-ter
+ of a
  []
 
 
@@ -5217,14 +5218,14 @@ ly-gon
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/n/10.95 For the sake of sim-plic-ity, we shall use ins-bribed squar
-es to il-
+[]\T1/lmr/m/n/10.95 For the sake of sim-plic-ity, we shall use in-scribed squar
+es to il-lus-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 lus-trate the out-line. We draw two cir-cles of ran-dom size,
- but the
+\T1/lmr/m/n/10.95 trate the out-line. We draw two cir-cles of ran-dom size, but
+ the
  []
 
 
@@ -5342,8 +5343,8 @@ dius\T1/lmr/m/n/10.95 . An
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 equiv-a-lent state-ment is that \T1/lmr/m/it/10.95 all ci-cle
-s have the same ra-tio of the
+\T1/lmr/m/n/10.95 equiv-a-lent state-ment is that \T1/lmr/m/it/10.95 all cir-cl
+es have the same ra-tio of
  []
 
 
@@ -5423,8 +5424,8 @@ Package pdftex.def Info: geo/../fig/sirk2.pdf  used on input line 510.
 (pdftex.def)             Requested size: 64.52087pt x 43.1812pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 510--510
-\T1/lmr/m/n/10.95 The re-marks above is quite easy to prove, but since they are
-
+\T1/lmr/m/n/10.95 The re-marks above are quite easy to prove, but since they ar
+e
  []
 
 
@@ -5569,52 +5570,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 531--531
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \OML/lmm/m/it/10.95 C[]$\T1/lmr/m/n/10.95 , along the semi-cir-cle, lies closer
  to $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 than $\OML/lmm/m/it/10.95 C[]$\T1
-/lmr/m/n/10.95 . Now we dot a
+/lmr/m/n/10.95 . Now we dot
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 cir-cu-lar arc with ra-dius $\OML/lmm/m/it/10.95 BC[]$ \T1/lm
-r/m/n/10.95 and cen-ter $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 . Since the do
-t-ted arc
+\T1/lmr/m/n/10.95 a cir-cu-lar arc with ra-dius $\OML/lmm/m/it/10.95 BC[]$ \T1/
+lmr/m/n/10.95 and cen-ter $\OML/lmm/m/it/10.95 B$\T1/lmr/m/n/10.95 . Since the 
+dot-ted
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 and the semi-circle only in-ter-sects in $\OML/lmm/m/it/10.95
- C[]$\T1/lmr/m/n/10.95 , other points will ei-ther
+\T1/lmr/m/n/10.95 arc and the semi-circle only in-ter-sects in $\OML/lmm/m/it/1
+0.95 C[]$\T1/lmr/m/n/10.95 , other points will
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 lie in-side or out-side the dot-ted arc. Nec-es-sar-ily, $\OM
-L/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 lies out-side
+\T1/lmr/m/n/10.95 ei-ther lie in-side or out-side the dot-ted arc. Nec-es-sar-i
+ly, $\OML/lmm/m/it/10.95 C[]$ \T1/lmr/m/n/10.95 lies
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 the dot-ted arc, and there-fore $\OML/lmm/m/it/10.95 BC[]$ \T
-1/lmr/m/n/10.95 is longer than $\OML/lmm/m/it/10.95 BC[]$\T1/lmr/m/n/10.95 . Fr
-om this
+\T1/lmr/m/n/10.95 out-side the dot-ted arc, and there-fore $\OML/lmm/m/it/10.95
+ BC[]$ \T1/lmr/m/n/10.95 is longer than $\OML/lmm/m/it/10.95 BC[]$\T1/lmr/m/n/1
+0.95 .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 we can con-clude that the length of $\OML/lmm/m/it/10.95 BC$ 
-\T1/lmr/m/n/10.95 in-creases as $\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 moves
-
+\T1/lmr/m/n/10.95 From this we can con-clude that the length of $\OML/lmm/m/it/
+10.95 BC$ \T1/lmr/m/n/10.95 in-creases as
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 against $\OML/lmm/m/it/10.95 E$ \T1/lmr/m/n/10.95 along the s
-emi-circle. There-fore, spec-i-fy-ing $[]$
+\OML/lmm/m/it/10.95 C$ \T1/lmr/m/n/10.95 moves against $\OML/lmm/m/it/10.95 E$ 
+\T1/lmr/m/n/10.95 along the semi-circle. There-fore, spec-i-fy-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/lmr/m/n/10.95 yields an unique value of $\OML/lmm/m/it/10.95 BC$\T1/lmr/m/n
-/10.95 , and hence an unique tri-an-gle
+\T1/lmr/m/n/10.95 ing $[]$ yields a unique value of $\OML/lmm/m/it/10.95 BC$\T1
+/lmr/m/n/10.95 , and hence a unique
  []
 
 [159 <./geo/../fig/sirk2.pdf>] [160 <./geo/../fig/geo13c.pdf> <./geo/../fig/geo
@@ -5708,12 +5708,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
 Package rerunfilecheck Info: File `G_eng.out' has not changed.
-(rerunfilecheck)             Checksum: 373F5600F8EA3054EC278106DB022AB4;3250.
+(rerunfilecheck)             Checksum: F5EBCC907238D1D9906F28DFB642C41C;3251.
  ) 
 Here is how much of TeX's memory you used:
  40175 strings out of 494923
- 791510 string characters out of 6180741
- 874687 words of memory out of 5000000
+ 791550 string characters out of 6180741
+ 874681 words of memory out of 5000000
  41968 multiletter control sequences out of 15000+600000
  666216 words of font info for 121 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -5748,10 +5748,10 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_eng.pdf (169 pages, 1500095 bytes).
+Output written on G_eng.pdf (169 pages, 1499886 bytes).
 PDF statistics:
- 3199 PDF objects out of 3580 (max. 8388607)
- 2733 compressed objects within 28 object streams
+ 3200 PDF objects out of 3580 (max. 8388607)
+ 2734 compressed objects within 28 object streams
  490 named destinations out of 1000 (max. 500000)
  1538 words of extra memory for PDF output out of 10000 (max. 10000000)
 

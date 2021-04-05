@@ -15,9 +15,9 @@
   \item arc, \hyperpage{71}
   \item area, \hyperpage{83}
   \item areal
-    \subitem til rektangel, \hyperpage{136}
-    \subitem til sirkel, \hyperpage{142}
-    \subitem til trapes, \hyperpage{139}
+    \subitem of a circle, \hyperpage{142}
+    \subitem of a rectangle, \hyperpage{136}
+    \subitem of a trapezoid, \hyperpage{139}
 
   \indexspace
 
@@ -28,6 +28,7 @@
   \item cancellation, \hyperpage{51}
   \item circle, \hyperpage{71}
     \subitem center, \hyperpage{71}
+  \item circumference, \hyperpage{141}
   \item common denominator, \hyperpage{43}
   \item constant, \hyperpage{92}
   \item coordinate system, \hyperpage{14}
@@ -37,7 +38,7 @@
   \item degree, \hyperpage{73}
   \item denominator, \hyperpage{35}
   \item diameter, \hyperpage{71}
-  \item differanse, \hyperpage{18}
+  \item difference, \hyperpage{18}
   \item digits, \hyperpage{11}
   \item dividend, \hyperpage{23}
   \item divisor, \hyperpage{23}
@@ -87,25 +88,26 @@
     \subitem natural, \hyperpage{10}
     \subitem negative, \hyperpage{59}
     \subitem positive, \hyperpage{59}
-    \subitem prim, \hyperpage{27}
+    \subitem prime, \hyperpage{27}
   \item numerator, \hyperpage{35}
 
   \indexspace
 
-  \item omkrins
-    \subitem til sirkel, \hyperpage{141}
+  \item of a parallelogram, \hyperpage{138}
+  \item of a triangle, \hyperpage{137}
 
   \indexspace
 
   \item parallel, \hyperpage{72}
   \item perimeter, \hyperpage{82}
+    \subitem of a circle, \hyperpage{141}
   \item point, \hyperpage{14}, \hyperpage{69}
   \item polygon, \hyperpage{76}
     \subitem vertices of, \hyperpage{76}
   \item positive integers, \hyperpage{10}
   \item power equation, \hyperpage{121}
   \item prime factorization, \hyperpage{27}
-  \item produkt, \hyperpage{20}
+  \item product, \hyperpage{20}
 
   \indexspace
 
@@ -136,8 +138,6 @@
   \item tal, \hyperpage{9}
   \item talverdi, \hyperpage{60}
   \item term, \hyperpage{16}, \hyperpage{18}
-  \item til parallellogram, \hyperpage{138}
-  \item til trekant, \hyperpage{137}
   \item triangle, \hyperpage{76}
     \subitem congruent, \hyperpage{146}
     \subitem similar, \hyperpage{146}
@@ -145,7 +145,7 @@
   \indexspace
 
   \item value, \hyperpage{11}
-  \item variabel, \hyperpage{92}
+  \item variable, \hyperpage{92}
 
   \indexspace
 

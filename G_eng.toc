@@ -23,7 +23,7 @@
 \contentsline {subsubsection}{Fractions with equal value}{38}{subsubsection*.22}
 \contentsline {subsubsection}{Expanding}{39}{subsubsection*.23}
 \contentsline {subsubsection}{Simplifying}{39}{subsubsection*.24}
-\contentsline {section}{\numberline {4.3}Addition and subraction}{41}{section.4.3}
+\contentsline {section}{\numberline {4.3}Addition and subtraction}{41}{section.4.3}
 \contentsline {subsubsection}{Equal denominators}{41}{subsubsection*.26}
 \contentsline {section}{\numberline {4.4}Fractions multiplied by integers}{45}{section.4.4}
 \contentsline {section}{\numberline {4.5}Fractions divided by integers}{47}{section.4.5}
@@ -32,7 +32,7 @@
 \contentsline {section}{\numberline {4.6}Fractions multiplied by fractions}{50}{section.4.6}
 \contentsline {section}{\numberline {4.7}Cancelation of fractions}{51}{section.4.7}
 \contentsline {section}{\numberline {4.8}Division by fractions}{54}{section.4.8}
-\contentsline {subsubsection}{Divison by studying the number line}{54}{subsubsection*.35}
+\contentsline {subsubsection}{Division by studying the number line}{54}{subsubsection*.35}
 \contentsline {subsubsection}{A general method}{55}{subsubsection*.36}
 \contentsline {section}{\numberline {4.9}Rational numbers}{57}{section.4.9}
 \contentsline {chapter}{\numberline {5}Negative numbers }{58}{chapter.5}
