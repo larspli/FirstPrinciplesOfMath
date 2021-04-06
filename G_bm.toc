@@ -20,7 +20,7 @@
 \contentsline {subsubsection}{Br\IeC {\o }k p\IeC {\r a} tallinja}{37}{subsubsection*.20}
 \contentsline {subsubsection}{Teller og nevner oppsummert}{37}{subsubsection*.21}
 \contentsline {section}{\numberline {4.2}Verdi, utviding og forkorting av br\IeC {\o }k}{38}{section.4.2}
-\contentsline {subsubsection}{Br\IeC {\o }ker med same verdi}{38}{subsubsection*.23}
+\contentsline {subsubsection}{Br\IeC {\o }ker med samme verdi}{38}{subsubsection*.23}
 \contentsline {subsubsection}{Utviding}{39}{subsubsection*.24}
 \contentsline {subsubsection}{Forkorting}{39}{subsubsection*.25}
 \contentsline {section}{\numberline {4.3}Addisjon og subtraksjon}{41}{section.4.3}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 08:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1806,14 +1806,8 @@ Package pdftex.def Info: ../fig/gang.pdf  used on input line 62.
 (pdftex.def)             Requested size: 82.63852pt x 69.19835pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]\T1/lmr/m/n/10.95 When an ex-pres-sion en-closed by a paren-the-sis is a fac-
-tor, we
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-\T1/lmr/m/n/10.95 can mul-ti-ply the other fac-tors with each term in-side the 
-paren-
+[]\T1/lmr/m/n/10.95 When an ex-pres-sion en-closed by paren-the-ses is a fac-to
+r, we can
  []
 
 [2 <../fig/gang.pdf>]
@@ -1825,7 +1819,7 @@ LaTeX Warning: Reference `Del2' on page 3 undefined on input line 103.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--103
-[]\T1/lmr/m/n/10.95 We in-tro-duced paren-the-sis as an in-di-ca-tor of what to
+[]\T1/lmr/m/n/10.95 We in-tro-duced paren-the-ses as an in-di-ca-tor of what to
  cal-cu-late
  []
 
@@ -1837,14 +1831,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--103
-\T1/lmr/m/n/10.95 tion of paren-the-sis . The rule is es-pe-cially use-ful when
+\T1/lmr/m/n/10.95 tion of paren-the-ses . The rule is es-pe-cially use-ful when
  work-ing
  []
 
 [3]
 Underfull \hbox (badness 10000) in paragraph at lines 128--128
-[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween terms have no im-p
-act on
+[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween terms has no im-pa
+ct on
  []
 
 <../fig/asso0.pdf, id=53, 273.65237pt x 11.8844pt>
@@ -1854,8 +1848,8 @@ Package pdftex.def Info: ../fig/asso0.pdf  used on input line 135.
 (pdftex.def)             Requested size: 273.6517pt x 11.88435pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween fac-tors have no i
-m-pact
+[]\T1/lmr/m/n/10.95 The place-ment of paren-the-ses be-tween fac-tors has no im
+-pact on
  []
 
 <../fig/asso1.pdf, id=54, 71.26625pt x 64.21992pt>
@@ -1885,7 +1879,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  37780 strings out of 494923
  745704 string characters out of 6180741
- 844419 words of memory out of 5000000
+ 844418 words of memory out of 5000000
  40446 multiletter control sequences out of 15000+600000
  581584 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1896,7 +1890,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on rrek_eng.pdf (6 pages, 156104 bytes).
+Output written on rrek_eng.pdf (6 pages, 155977 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream

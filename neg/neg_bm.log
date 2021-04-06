@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  20 MAR 2021 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 08:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1752,10 +1752,10 @@ LaTeX Info: Redefining \nameref on input line 4.
 \@outlinefile=\write7
 \openout7 = `neg_bm.out'.
 
-</home/sindre/G/fig/neg1.pdf, id=19, 126.84389pt x 29.20912pt>
-File: /home/sindre/G/fig/neg1.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/neg1.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/neg1.pdf  used on input line 8.
+<../fig/neg1.pdf, id=19, 126.84389pt x 29.20912pt>
+File: ../fig/neg1.pdf Graphic file (type pdf)
+<use ../fig/neg1.pdf>
+Package pdftex.def Info: ../fig/neg1.pdf  used on input line 8.
 (pdftex.def)             Requested size: 126.84357pt x 29.20903pt.
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 18.
  (/usr/share/texmf/tex/latex/lm/omslmr.fd
@@ -1769,10 +1769,10 @@ File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 18.
-</home/sindre/G/fig/neg2.pdf, id=20, 256.07669pt x 25.49525pt>
-File: /home/sindre/G/fig/neg2.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/neg2.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/neg2.pdf  used on input line 18.
+<../fig/neg2.pdf, id=20, 256.07669pt x 25.49525pt>
+File: ../fig/neg2.pdf Graphic file (type pdf)
+<use ../fig/neg2.pdf>
+Package pdftex.def Info: ../fig/neg2.pdf  used on input line 18.
 (pdftex.def)             Requested size: 256.07607pt x 25.49518pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 19.
 
@@ -1811,10 +1811,10 @@ LaTeX Font Info:    Try loading font information for U+esint on input line 19.
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-</home/sindre/G/fig/neg3.pdf, id=21, 245.40685pt x 40.07974pt>
-File: /home/sindre/G/fig/neg3.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/neg3.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/neg3.pdf  used on input line 24.
+<../fig/neg3.pdf, id=21, 245.40685pt x 40.07974pt>
+File: ../fig/neg3.pdf Graphic file (type pdf)
+<use ../fig/neg3.pdf>
+Package pdftex.def Info: ../fig/neg3.pdf  used on input line 24.
 (pdftex.def)             Requested size: 245.40623pt x 40.07964pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
@@ -1825,8 +1825,8 @@ ve tal-let med
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sindre/G/fig/neg1.pd
-f> </home/sindre/G/fig/neg2.pdf> </home/sindre/G/fig/neg3.pdf>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/neg1.pdf> <../fig/n
+eg2.pdf> <../fig/neg3.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--42
 []\T1/lmr/m/it/10.95 Fortegn[] \T1/lmr/m/n/10.95 er en sam-le-beteg-nelse for [
 ][][][][][] og [][][][][][]. $\OT1/lmr/m/n/10.95 5$ \T1/lmr/m/n/10.95 har [][][
@@ -1841,10 +1841,10 @@ LaTeX Warning: Hyper reference `Addisjon' on page 3 undefined on input line 48.
 
 LaTeX Warning: Reference `Addisjon' on page 3 undefined on input line 48.
 
-</home/sindre/G/fig/neg6.pdf, id=59, 117.36848pt x 38.6544pt>
-File: /home/sindre/G/fig/neg6.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/neg6.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/neg6.pdf  used on input line 60.
+<../fig/neg6.pdf, id=59, 117.36848pt x 38.6544pt>
+File: ../fig/neg6.pdf Graphic file (type pdf)
+<use ../fig/neg6.pdf>
+Package pdftex.def Info: ../fig/neg6.pdf  used on input line 60.
 (pdftex.def)             Requested size: 117.36818pt x 38.6543pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--64
@@ -1866,7 +1866,7 @@ m-mu-ta-tiv. Dette er gjeldende
 
 [3
 
- </home/sindre/G/fig/neg6.pdf>]
+ <../fig/neg6.pdf>]
 
 LaTeX Warning: Hyper reference `Subtraksjon' on page 4 undefined on input line 
 77.
@@ -1884,10 +1884,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 erer at man skal van-dre fra
  []
 
-</home/sindre/G/fig/neg7.pdf, id=74, 160.04793pt x 38.6544pt>
-File: /home/sindre/G/fig/neg7.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/neg7.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/neg7.pdf  used on input line 90.
+<../fig/neg7.pdf, id=74, 160.04793pt x 38.6544pt>
+File: ../fig/neg7.pdf Graphic file (type pdf)
+<use ../fig/neg7.pdf>
+Package pdftex.def Info: ../fig/neg7.pdf  used on input line 90.
 (pdftex.def)             Requested size: 160.04753pt x 38.6543pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 93--93
@@ -1895,7 +1895,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--93
  tal-let
  []
 
-[4 </home/sindre/G/fig/neg7.pdf>]
+[4 <../fig/neg7.pdf>]
 
 LaTeX Warning: Hyper reference `Gonging' on page 5 undefined on input line 107.
 
@@ -1981,19 +1981,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--232
 irker med en kraft
  []
 
-</home/sindre/G/fig/negm1.pdf, id=119, 51.77342pt x 21.8416pt>
-File: /home/sindre/G/fig/negm1.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/negm1.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/negm1.pdf  used on input line 238.
+<../fig/negm1.pdf, id=119, 51.77342pt x 21.8416pt>
+File: ../fig/negm1.pdf Graphic file (type pdf)
+<use ../fig/negm1.pdf>
+Package pdftex.def Info: ../fig/negm1.pdf  used on input line 238.
 (pdftex.def)             Requested size: 51.77328pt x 21.84152pt.
-</home/sindre/G/fig/negm2.pdf, id=120, 88.05899pt x 21.8416pt>
-File: /home/sindre/G/fig/negm2.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/negm2.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/negm2.pdf  used on input line 242.
+<../fig/negm2.pdf, id=120, 88.05899pt x 21.8416pt>
+File: ../fig/negm2.pdf Graphic file (type pdf)
+<use ../fig/negm2.pdf>
+Package pdftex.def Info: ../fig/negm2.pdf  used on input line 242.
 (pdftex.def)             Requested size: 88.05876pt x 21.84152pt.
 [9
 
- </home/sindre/G/fig/negm1.pdf> </home/sindre/G/fig/negm2.pdf>]
+ <../fig/negm1.pdf> <../fig/negm2.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
  (./neg_bm.aux)
@@ -2008,8 +2008,8 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  37892 strings out of 494923
- 747723 string characters out of 6180741
- 846475 words of memory out of 5000000
+ 747375 string characters out of 6180741
+ 846457 words of memory out of 5000000
  40531 multiletter control sequences out of 15000+600000
  610238 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2024,7 +2024,7 @@ public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb>
-Output written on neg_bm.pdf (9 pages, 236448 bytes).
+Output written on neg_bm.pdf (9 pages, 236357 bytes).
 PDF statistics:
  187 PDF objects out of 1000 (max. 8388607)
  156 compressed objects within 2 object streams

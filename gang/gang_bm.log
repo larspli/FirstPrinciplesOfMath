@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  24 FEB 2021 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 07:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1816,30 +1816,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
 er [][][][][][] sym-bo-let for
  []
 
-</home/sindre/G/fig/2t3.pdf, id=11, 217.36206pt x 28.95819pt>
-File: /home/sindre/G/fig/2t3.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/2t3.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/2t3.pdf  used on input line 33.
+<../fig/2t3.pdf, id=11, 217.36206pt x 28.95819pt>
+File: ../fig/2t3.pdf Graphic file (type pdf)
+<use ../fig/2t3.pdf>
+Package pdftex.def Info: ../fig/2t3.pdf  used on input line 33.
 (pdftex.def)             Requested size: 217.36153pt x 28.95811pt.
-</home/sindre/G/fig/3t2.pdf, id=12, 160.45947pt x 43.18132pt>
-File: /home/sindre/G/fig/3t2.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/3t2.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/3t2.pdf  used on input line 35.
+<../fig/3t2.pdf, id=12, 160.45947pt x 43.18132pt>
+File: ../fig/3t2.pdf Graphic file (type pdf)
+<use ../fig/3t2.pdf>
+Package pdftex.def Info: ../fig/3t2.pdf  used on input line 35.
 (pdftex.def)             Requested size: 160.45908pt x 43.1812pt.
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sindre/G/fig/2t3.pdf
-> </home/sindre/G/fig/3t2.pdf>]
-</home/sindre/G/fig/2t4l.pdf, id=43, 212.20279pt x 37.741pt>
-File: /home/sindre/G/fig/2t4l.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/2t4l.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/2t4l.pdf  used on input line 51.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/2t3.pdf> <../fig/3t
+2.pdf>]
+<../fig/2t4l.pdf, id=43, 212.20279pt x 37.741pt>
+File: ../fig/2t4l.pdf Graphic file (type pdf)
+<use ../fig/2t4l.pdf>
+Package pdftex.def Info: ../fig/2t4l.pdf  used on input line 51.
 (pdftex.def)             Requested size: 212.20226pt x 37.74089pt.
-</home/sindre/G/fig/4t2l.pdf, id=44, 212.20279pt x 37.741pt>
-File: /home/sindre/G/fig/4t2l.pdf Graphic file (type pdf)
-<use /home/sindre/G/fig/4t2l.pdf>
-Package pdftex.def Info: /home/sindre/G/fig/4t2l.pdf  used on input line 55.
+<../fig/4t2l.pdf, id=44, 212.20279pt x 37.741pt>
+File: ../fig/4t2l.pdf Graphic file (type pdf)
+<use ../fig/4t2l.pdf>
+Package pdftex.def Info: ../fig/4t2l.pdf  used on input line 55.
 (pdftex.def)             Requested size: 212.20226pt x 37.74089pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--65
@@ -1847,7 +1847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 tt
  []
 
-[2 </home/sindre/G/fig/2t4l.pdf> </home/sindre/G/fig/4t2l.pdf>]
+[2 <../fig/2t4l.pdf> <../fig/4t2l.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []\T1/lmr/m/n/10.95 At gang-ing med pos-i-tive heltal kan ut-trykkes som gjen-t
 att ad-
@@ -1870,8 +1870,8 @@ Package rerunfilecheck Info: File `gang_bm.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  37761 strings out of 494923
- 745708 string characters out of 6180741
- 843374 words of memory out of 5000000
+ 745504 string characters out of 6180741
+ 843355 words of memory out of 5000000
  40440 multiletter control sequences out of 15000+600000
  582852 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1883,7 +1883,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on gang_bm.pdf (3 pages, 126251 bytes).
+Output written on gang_bm.pdf (3 pages, 126405 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream

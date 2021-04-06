@@ -20,7 +20,7 @@ Men svarene blir ikke like! Det er altså behov for å ha noen regler om hva vi 
 	&= 14
 }
 }
-Men hva om vi ønsket å legge saman $ 2 $ og $ 3 $ først, og så gange summen med 4? Å fortelle at noe skal regnes ut først gjør vi ved hjelp av paranteser: \regv
+Men hva om vi ønsket å legge saman $ 2 $ og $ 3 $ først, og så gange summen med 4? Å fortelle at noe skal regnes ut først gjør vi ved hjelp av parenteser: \regv
 \st{\vs
 \alg{
 (2+3)\cdot4&=\text{''Legg sammen 2 og 3, og gang med 4 etterpå''} \\
@@ -31,7 +31,7 @@ Men hva om vi ønsket å legge saman $ 2 $ og $ 3 $ først, og så gange summen 
 
 \reg[Regnerekkefølge \label{rrek}]{ \vspace{-5pt}
 \begin{enumerate}
-	\item Uttrykk med parantes
+	\item Uttrykk med parentes
 	\item Multiplikasjon eller divisjon
 	\item Addisjon eller subtraksjon
 \end{enumerate}
@@ -52,13 +52,13 @@ Regn ut
 	\[ 18:(7-5)-3 \]
 	\sv \vs \vs
 	\algv{
-		&& 18:(7-5)&=18:2-3 &&\text{Parantes} \\
+		&& 18:(7-5)-3&=18:2-3 &&\text{Parantes} \\
 		&&&=9-3 &&\text{Deling} \\
 		&&&=6 &&\text{Addisjon og subtraksjon}
 	}
 }
-\subsection*{Ganging med parantes}
-Kvor mange ruter ser vi i figuren under?
+\subsection*{Ganging med parentes}
+Hvor mange ruter ser vi i figuren under?
 \fig{gang}
 To måter man kan tenke på er disse:
 \begin{enumerate}
@@ -70,7 +70,7 @@ To måter man kan tenke på er disse:
 Av disse to utregningene har vi at
 \[ (2+3)\cdot4 = 2\cdot 4+ 3\cdot4 \]
 \reg[\gangpar \label{gangpar}]{
-Når et parantesuttrykk er en faktor, kan vi gange de andre faktorene med kvart enkelt ledd i parantesuttrykket.	 
+Når et parentesuttrykk er en faktor, kan vi gange de andre faktorene med hvert enkelt ledd i parentesuttrykket.	 
 %\fig{gang1}
 }
 \eks[1]{
@@ -99,7 +99,7 @@ Regn ut $ 12\cdot 3 $.
 }	
 }
 \info{Obs!}{
-Vi introduserte paranteser som ein indikator på hva som skulle regnes ut først, men \rref{gangpar} gir en alternativ og likeverdig betydning av paranteser. Regelen kommer spesielt til nytte i algebraregning (sjå \hrs{Del2}{Del}).
+Vi introduserte parenteser som en indikator på hva som skulle regnes ut først, men \rref{gangpar} gir en alternativ og likeverdig betydning av parenteser. Regelen kommer spesielt til nytte i algebraregning (sjå \hrs{Del2}{Del}).
 }
 \newpage
 \subsubsection{Å gange med 0}
@@ -123,19 +123,19 @@ Sidan $ 0=2-2 $, må dette bety at
 }
 \subsection*{Assosiative lover}
 \reg[Assosiativ lov ved addisjon]{
-Plasseringen av paranteser mellom ledd har ingen påvirkning på summen.
+Plasseringen av parenteser mellom ledd har ingen påvirkning på summen.
 }
 \eks[]{ \vsb \vs
 \alg{
-(2+3)+4&=8 \vn
-2+(3+4)&=8
+(2+3)+4&=5+3=9 \vn
+2+(3+4)&=2+7=9
 }
 \fig{asso0}
 }
 \vsk \vsk
 
 \reg[Assosiativ lov ved multiplikasjon]{
-Plasseringen av paranteser mellom faktorer har ingen påvirkning på produktet.
+Plasseringen av parenteser mellom faktorer har ingen påvirkning på produktet.
 }
 \eks[]{ \vsb \vs
 \alg{
@@ -154,7 +154,7 @@ I motsetning til addisjon og multiplikasjon, er hverken subtraksjon eller divisj
 	(80:10):2&=8:2=4 \\
 	80:(10:2)&=80:5=16
 }
-Vi har sett at parantesene hjelper oss med å si noeo om \textsl{prioriteringen} av regneartene, men det at subtraksjon og divisjon er ikke-assosiative fører til at vi også må ha en regel for hvilken \textsl{retning} vi skal regne i. \regv
+Vi har sett at parentesene hjelper oss med å si noeo om \textsl{prioriteringen} av regneartene, men det at subtraksjon og divisjon er ikke-assosiative fører til at vi også må ha en regel for hvilken \textsl{retning} vi skal regne i. \regv
 
 \reg[Retning på utregninger \label{rret}]{
 Regnearter som ut ifra \rref{rrek} har lik prioritet, skal regnes fra venstre mot høyre.
