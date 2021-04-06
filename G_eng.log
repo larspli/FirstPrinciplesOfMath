@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 23:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2130,10 +2130,10 @@ g
 
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
 \T1/lmr/m/n/10.95 In the fig-ure, the points $\OT1/lmr/m/n/10.95 (2\OML/lmm/m/i
-t/10.95 ;\OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML/l
-mm/m/it/10.95 ;\OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 and $\OT1/lmr/m/n/10.95
- (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$ \T1/lmr/m/n/10.95 are shown. Th
-e
+t/10.95 ; \OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML/
+lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 and $\OT1/lmr/m/n/10.
+95 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$ \T1/lmr/m/n/10.95 are shown. 
+The
  []
 
 <tel/../fig/kord.pdf, id=505, 168.91104pt x 155.53107pt>
@@ -2349,11 +2349,11 @@ File: del/../fig/del1.pdf Graphic file (type pdf)
 <use del/../fig/del1.pdf>
 Package pdftex.def Info: del/../fig/del1.pdf  used on input line 41.
 (pdftex.def)             Requested size: 128.53989pt x 70.62367pt.
-<del/../fig/del2.pdf, id=644, 185.52312pt x 37.02834pt>
+<del/../fig/del2.pdf, id=644, 185.52312pt x 33.94682pt>
 File: del/../fig/del2.pdf Graphic file (type pdf)
 <use del/../fig/del2.pdf>
 Package pdftex.def Info: del/../fig/del2.pdf  used on input line 47.
-(pdftex.def)             Requested size: 185.52264pt x 37.02824pt.
+(pdftex.def)             Requested size: 185.52264pt x 33.94673pt.
 <del/../fig/del1b.pdf, id=645, 171.21968pt x 57.40446pt>
 File: del/../fig/del1b.pdf Graphic file (type pdf)
 <use del/../fig/del1b.pdf>
@@ -2652,39 +2652,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 10.95 63$ \T1/lmr/m/n/10.95 if mul-ti-plied by a
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 []\T1/lmr/m/n/10.95 In \T1/lmr/m/sl/10.95 Ex-am-ple 1 \T1/lmr/m/n/10.95 above, 
 63 is called a \T1/lmr/m/it/10.95 com-mon de-nom-i-na-tor[] \T1/lmr/m/n/10.95 b
 e-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 \T1/lmr/m/n/10.95 cause there ex-ists in-te-gers which, when mul-ti-plied by th
 e orig-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 \T1/lmr/m/n/10.95 Multiplying to-gether the orig-i-nal de-nom-i-na-tors al-ways
  re-sults
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 \T1/lmr/m/n/10.95 in a com-mon de-nom-i-na-tor but one can avoid large num-bers
  by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 $[]$ \T1/lmr/m/n/10.95 is a com-mon de-nom-i-na-tor, but it's worth notic-ing t
 hat
  []
 
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []\T1/lmr/m/n/10.95 All de-nom-i-na-tors can be trans-formed into 8 if mul-ti-p
 lied by a
  []
@@ -2693,10 +2693,10 @@ lied by a
 <brok/../fig/br14.pdf, id=972, 145.44337pt x 51.76338pt>
 File: brok/../fig/br14.pdf Graphic file (type pdf)
 <use brok/../fig/br14.pdf>
-Package pdftex.def Info: brok/../fig/br14.pdf  used on input line 214.
+Package pdftex.def Info: brok/../fig/br14.pdf  used on input line 218.
 (pdftex.def)             Requested size: 145.44301pt x 51.76323pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\T1/lmr/m/n/10.95 When mul-ti-ply-ing a frac-tion by an in-te-ger, we mul-ti-
 ply the
  []
@@ -2704,13 +2704,13 @@ ply the
 [45
 
  <./brok/../fig/br14.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
 []\T1/lmr/m/n/10.95 By [][]\T1/lmr/m/sl/10.95 Rule 4.6[][][] \T1/lmr/m/n/10.95 
 we can make an in-ter-pre-ta-tion of mul-ti-ply-ing by a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
 \T1/lmr/m/n/10.95 frac-tion. For ex-am-ple, mul-ti-ply-ing $\OT1/lmr/m/n/10.95 
 3$ \T1/lmr/m/n/10.95 by $[]$ can be in-ter-preted in
  []
@@ -2719,22 +2719,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--251
 <brok/../fig/br15.pdf, id=994, 78.86464pt x 57.40446pt>
 File: brok/../fig/br15.pdf Graphic file (type pdf)
 <use brok/../fig/br15.pdf>
-Package pdftex.def Info: brok/../fig/br15.pdf  used on input line 263.
+Package pdftex.def Info: brok/../fig/br15.pdf  used on input line 267.
 (pdftex.def)             Requested size: 78.86444pt x 57.4043pt.
 <brok/../fig/br15t.pdf, id=995, 122.67833pt x 35.39223pt>
 File: brok/../fig/br15t.pdf Graphic file (type pdf)
 <use brok/../fig/br15t.pdf>
-Package pdftex.def Info: brok/../fig/br15t.pdf  used on input line 264.
+Package pdftex.def Info: brok/../fig/br15t.pdf  used on input line 268.
 (pdftex.def)             Requested size: 122.67801pt x 35.39212pt.
 <brok/../fig/br15a.pdf, id=996, 228.12227pt x 57.40446pt>
 File: brok/../fig/br15a.pdf Graphic file (type pdf)
 <use brok/../fig/br15a.pdf>
-Package pdftex.def Info: brok/../fig/br15a.pdf  used on input line 266.
+Package pdftex.def Info: brok/../fig/br15a.pdf  used on input line 270.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
 <brok/../fig/br15ta.pdf, id=997, 122.67833pt x 51.76338pt>
 File: brok/../fig/br15ta.pdf Graphic file (type pdf)
 <use brok/../fig/br15ta.pdf>
-Package pdftex.def Info: brok/../fig/br15ta.pdf  used on input line 267.
+Package pdftex.def Info: brok/../fig/br15ta.pdf  used on input line 271.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
  [47
 
@@ -2743,54 +2743,54 @@ Package pdftex.def Info: brok/../fig/br15ta.pdf  used on input line 267.
 <brok/../fig/br5.pdf, id=1027, 84.05402pt x 57.40446pt>
 File: brok/../fig/br5.pdf Graphic file (type pdf)
 <use brok/../fig/br5.pdf>
-Package pdftex.def Info: brok/../fig/br5.pdf  used on input line 275.
+Package pdftex.def Info: brok/../fig/br5.pdf  used on input line 279.
 (pdftex.def)             Requested size: 84.05379pt x 57.4043pt.
 <brok/../fig/br5t.pdf, id=1028, 122.67833pt x 44.94792pt>
 File: brok/../fig/br5t.pdf Graphic file (type pdf)
 <use brok/../fig/br5t.pdf>
-Package pdftex.def Info: brok/../fig/br5t.pdf  used on input line 276.
+Package pdftex.def Info: brok/../fig/br5t.pdf  used on input line 280.
 (pdftex.def)             Requested size: 122.67801pt x 44.9478pt.
 <brok/../fig/br5c.pdf, id=1029, 142.76335pt x 57.40446pt>
 File: brok/../fig/br5c.pdf Graphic file (type pdf)
 <use brok/../fig/br5c.pdf>
-Package pdftex.def Info: brok/../fig/br5c.pdf  used on input line 279.
+Package pdftex.def Info: brok/../fig/br5c.pdf  used on input line 283.
 (pdftex.def)             Requested size: 142.76299pt x 57.4043pt.
 <brok/../fig/br5ct.pdf, id=1030, 122.67833pt x 58.15727pt>
 File: brok/../fig/br5ct.pdf Graphic file (type pdf)
 <use brok/../fig/br5ct.pdf>
-Package pdftex.def Info: brok/../fig/br5ct.pdf  used on input line 280.
+Package pdftex.def Info: brok/../fig/br5ct.pdf  used on input line 284.
 (pdftex.def)             Requested size: 122.67801pt x 58.15712pt.
 <brok/../fig/br5a.pdf, id=1031, 228.12227pt x 57.40446pt>
 File: brok/../fig/br5a.pdf Graphic file (type pdf)
 <use brok/../fig/br5a.pdf>
-Package pdftex.def Info: brok/../fig/br5a.pdf  used on input line 282.
+Package pdftex.def Info: brok/../fig/br5a.pdf  used on input line 286.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
 <brok/../fig/br5at.pdf, id=1032, 122.67833pt x 51.76338pt>
 File: brok/../fig/br5at.pdf Graphic file (type pdf)
 <use brok/../fig/br5at.pdf>
-Package pdftex.def Info: brok/../fig/br5at.pdf  used on input line 283.
+Package pdftex.def Info: brok/../fig/br5at.pdf  used on input line 287.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
  [48 <./brok/../fig/br5.pdf> <./brok/../fig/br5t.pdf> <./brok/../fig/br5c.pdf> 
 <./brok/../fig/br5ct.pdf> <./brok/../fig/br5a.pdf> <./brok/../fig/br5at.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 293--293
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
 []\T1/lmr/m/n/10.95 When di-vid-ing a frac-tion by an in-te-ger, we mul-ti-ply 
 the de-nom-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
 \T1/lmr/m/n/10.95 In that case, there were no need to mul-ti-ply the de-nom-i-n
 a-tor by
  []
 
 [49]
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
 [][][][]\T1/lmr/m/n/9 Look at the text box with the ti-tle ''\T1/lmr/m/it/9 An 
 in-ter-pre-ta-tion of mul-ti-ply-ing by a frac-tion\T1/lmr/m/n/9 ''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--328
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
 []\T1/lmr/m/n/10.95 When mul-ti-ply-ing a frac-tion by a frac-tion, we mul-ti-p
 ly nu-mer-a-
  []
@@ -2800,44 +2800,44 @@ ly nu-mer-a-
 ] [51
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 360--360
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
 []\T1/lmr/m/n/10.95 When mul-ti-pli-ca-tion is ex-clu-sively present in a frac-
 tion, we can
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--389
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
 \T1/lmr/m/sl/10.95 Notice\T1/lmr/m/n/10.95 : If all fac-tors are can-celed in t
 he nu-mer-a-tor or the de-
  []
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
+Underfull \hbox (badness 10000) in paragraph at lines 404--404
 []\T1/lmr/m/n/10.95 The dec-i-mal num-ber $\OT1/lmr/m/n/10.95 0\OML/lmm/m/it/10
 .95 :\OT1/lmr/m/n/10.95 125$ \T1/lmr/m/n/10.95 can be writ-ten as the frac-tion
  $[]$. The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
+Underfull \hbox (badness 10000) in paragraph at lines 404--404
 \T1/lmr/m/n/10.95 is, for the most of us, rather stren-u-ous to carry out. How-
 ever,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--413
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
 \T1/lmr/m/sl/10.95 Aware! \T1/lmr/m/n/10.95 Ze-ros are the only dig-its we can 
 ''can-cel'' this way. For
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--413
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
 \T1/lmr/m/n/10.95 ex-am-ple, $[]$ can-not be sim-pli-fied in any way. Also, we 
 can only
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--413
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
 \T1/lmr/m/n/10.95 ''can-cel'' ze-ros which are right-most sit-u-ated, e.g. we c
 an-not
  []
@@ -2846,46 +2846,46 @@ an-not
 <brok/../fig/br10c4.pdf, id=1110, 238.61145pt x 38.23283pt>
 File: brok/../fig/br10c4.pdf Graphic file (type pdf)
 <use brok/../fig/br10c4.pdf>
-Package pdftex.def Info: brok/../fig/br10c4.pdf  used on input line 419.
+Package pdftex.def Info: brok/../fig/br10c4.pdf  used on input line 423.
 (pdftex.def)             Requested size: 238.61086pt x 38.23271pt.
 <brok/../fig/br10c.pdf, id=1111, 238.61145pt x 65.30397pt>
 File: brok/../fig/br10c.pdf Graphic file (type pdf)
 <use brok/../fig/br10c.pdf>
-Package pdftex.def Info: brok/../fig/br10c.pdf  used on input line 426.
+Package pdftex.def Info: brok/../fig/br10c.pdf  used on input line 430.
 (pdftex.def)             Requested size: 238.61086pt x 65.3038pt.
  [54
 
  <./brok/../fig/br10c4.pdf> <./brok/../fig/br10c.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 444--444
+Underfull \hbox (badness 10000) in paragraph at lines 448--448
 []\T1/lmr/m/n/10.95 When di-vid-ing a num-ber by a frac-tion, we mul-ti-ply the
  num-ber
  []
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 476--476
 \T1/lmr/m/n/10.95 In this case we should also ob-serve that the frac-tion can b
 e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 476--476
 \T1/lmr/m/sl/10.95 Notice\T1/lmr/m/n/10.95 : Can-cel-ing fac-tors along the way
  saves the la-bor of work-
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
 []\T1/lmr/m/n/10.95 Any num-ber which can be ex-pressed as a frac-tion is a \T1
 /lmr/m/it/10.95 ra-tio-nal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 []\T1/lmr/bx/n/10.95 Decimal num-bers with in-fi-nite dig-its in a re-peat-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 [][][][][][][][][][] \T1/lmr/m/n/9 in-di-cates that 3 re-peats in-fi-nite. An-o
 ther way of ex-press-ing this is by
  []
@@ -5742,7 +5742,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_eng.pdf (169 pages, 1500165 bytes).
+Output written on G_eng.pdf (169 pages, 1500908 bytes).
 PDF statistics:
  3200 PDF objects out of 3580 (max. 8388607)
  2734 compressed objects within 28 object streams
