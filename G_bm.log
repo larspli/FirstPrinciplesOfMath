@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 08:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2179,8 +2179,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
-[]\T1/lmr/m/n/10.95 Et punkt skriver vi som to tall inni en parantes. De to tal
--lene
+[]\T1/lmr/m/n/10.95 Et punkt skriver vi som to tall inni en par-entes. De to ta
+l-lene
  []
 
 
@@ -2197,10 +2197,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--122
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
 \T1/lmr/m/n/10.95 I fig-uren ser vi punk-tene $\OT1/lmr/m/n/10.95 (2\OML/lmm/m/
-it/10.95 ;\OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML/
-lmm/m/it/10.95 ;\OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 og $\OT1/lmr/m/n/10.95
- (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$\T1/lmr/m/n/10.95 . Punk-tet der
- ak-
+it/10.95 ; \OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML
+/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 og $\OT1/lmr/m/n/10.
+95 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$\T1/lmr/m/n/10.95 . Punk-tet d
+er
  []
 
 <tel/../fig/kord.pdf, id=505, 168.91104pt x 155.53107pt>
@@ -2402,11 +2402,11 @@ File: del/../fig/del1.pdf Graphic file (type pdf)
 <use del/../fig/del1.pdf>
 Package pdftex.def Info: del/../fig/del1.pdf  used on input line 42.
 (pdftex.def)             Requested size: 128.53989pt x 70.62367pt.
-<del/../fig/del2.pdf, id=646, 185.52312pt x 37.02834pt>
+<del/../fig/del2.pdf, id=646, 185.52312pt x 33.94682pt>
 File: del/../fig/del2.pdf Graphic file (type pdf)
 <use del/../fig/del2.pdf>
 Package pdftex.def Info: del/../fig/del2.pdf  used on input line 48.
-(pdftex.def)             Requested size: 185.52264pt x 37.02824pt.
+(pdftex.def)             Requested size: 185.52264pt x 33.94673pt.
 <del/../fig/del1b.pdf, id=647, 171.21968pt x 57.40446pt>
 File: del/../fig/del1b.pdf Graphic file (type pdf)
 <use del/../fig/del1b.pdf>
@@ -3686,7 +3686,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/lmr/m/n/10.95 Det er også van-lig å ute-late gangetegn der paran-te-sut-try
+\T1/lmr/m/n/10.95 Det er også van-lig å ute-late gangetegn der par-ente-sut-try
 kk er en
  []
 
@@ -3710,7 +3710,7 @@ rekte hvor-dan vi kan regne mel-lom
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\T1/lmr/m/n/10.95 paran-te-sut-trykket og $\OML/lmm/m/it/10.95 d$\T1/lmr/m/n/10
+\T1/lmr/m/n/10.95 par-ente-sut-trykket og $\OML/lmm/m/it/10.95 d$\T1/lmr/m/n/10
 .95 , men det er in-gent-ing som hin-drer oss i å
  []
 
@@ -5724,7 +5724,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_bm.pdf (168 pages, 1498016 bytes).
+Output written on G_bm.pdf (168 pages, 1498371 bytes).
 PDF statistics:
  3194 PDF objects out of 3580 (max. 8388607)
  2729 compressed objects within 28 object streams

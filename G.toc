@@ -30,7 +30,7 @@
 \contentsline {subsubsection}{Tilfellet der tellaren er deleleg med divisoren}{47}{subsubsection*.30}
 \contentsline {subsubsection}{Tilfellet der tellaren ikkje er deleleg divisoren}{48}{subsubsection*.31}
 \contentsline {section}{\numberline {4.6}Br\IeC {\o }k gonga med br\IeC {\o }k}{50}{section.4.6}
-\contentsline {section}{\numberline {4.7}Kansellering av faktorar}{51}{section.4.7}
+\contentsline {section}{\numberline {4.7}Kansellering av faktorer}{51}{section.4.7}
 \contentsline {section}{\numberline {4.8}Deling med br\IeC {\o }k}{54}{section.4.8}
 \contentsline {subsubsection}{Deling ved \IeC {\r a} sj\IeC {\r a} p\IeC {\r a} tallinja}{54}{subsubsection*.35}
 \contentsline {subsubsection}{Ein generell metode}{55}{subsubsection*.36}

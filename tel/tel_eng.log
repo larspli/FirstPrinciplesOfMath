@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 08:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1948,7 +1948,7 @@ Package pdftex.def Info: ../fig/des3_eng.pdf  used on input line 82.
 (pdftex.def)             Requested size: 169.16156pt x 17.82654pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
-[]\T1/lmr/m/n/10.95 In a lot of coun-tires, a comma is used in place of the pe-
+[]\T1/lmr/m/n/10.95 In a lot of coun-tries, a comma is used in place of the pe-
 riod for
  []
 
@@ -2019,12 +2019,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--113
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 It is named af-ter the french
+\T1/lmr/m/n/9 It is named af-ter the French
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/9 math-e-mati-cian and philoso-pher
+\T1/lmr/m/n/9 math-e-mati-cian and philoso-pher,
  []
 
 
@@ -2041,10 +2041,10 @@ g
 
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
 \T1/lmr/m/n/10.95 In the fig-ure, the points $\OT1/lmr/m/n/10.95 (2\OML/lmm/m/i
-t/10.95 ;\OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML/l
-mm/m/it/10.95 ;\OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 and $\OT1/lmr/m/n/10.95
- (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$ \T1/lmr/m/n/10.95 are shown. Th
-e
+t/10.95 ; \OT1/lmr/m/n/10.95 3)$\T1/lmr/m/n/10.95 , $\OT1/lmr/m/n/10.95 (5\OML/
+lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 1)$ \T1/lmr/m/n/10.95 and $\OT1/lmr/m/n/10.
+95 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)$ \T1/lmr/m/n/10.95 are shown. 
+The
  []
 
 <../fig/kord.pdf, id=195, 168.91104pt x 155.53107pt>
@@ -2070,7 +2070,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  37906 strings out of 494923
  748394 string characters out of 6180741
- 841419 words of memory out of 5000000
+ 841418 words of memory out of 5000000
  40546 multiletter control sequences out of 15000+600000
  614469 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2089,7 +2089,7 @@ ype1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tel_eng.pdf (6 pages, 312373 bytes).
+Output written on tel_eng.pdf (6 pages, 312547 bytes).
 PDF statistics:
  262 PDF objects out of 1000 (max. 8388607)
  214 compressed objects within 3 object streams
