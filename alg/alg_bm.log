@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,7 +55,7 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)) (../preamb.tex
+)) (../preamb_bm.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1814,7 +1814,7 @@ e
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/lmr/m/n/10.95 gangeteg-net. Og om man ganger sam-man en bok-stav og et
+\T1/lmr/m/n/10.95 gangeteg-net. Og om man ganger sam-men en bok-stav og et
  []
 
 
@@ -1825,7 +1825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/lmr/m/n/10.95 Det er også van-lig å ute-late gangetegn der paran-te-sut-try
+\T1/lmr/m/n/10.95 Det er også van-lig å ute-late gangetegn der par-ente-sut-try
 kk er en
  []
 
@@ -1869,7 +1869,7 @@ rekte hvor-dan vi kan regne mel-lom
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\T1/lmr/m/n/10.95 paran-te-sut-trykket og $\OML/lmm/m/it/10.95 d$\T1/lmr/m/n/10
+\T1/lmr/m/n/10.95 par-ente-sut-trykket og $\OML/lmm/m/it/10.95 d$\T1/lmr/m/n/10
 .95 , men det er in-gent-ing som hin-drer oss i å
  []
 
@@ -1899,8 +1899,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\T1/lmr/m/it/10.95 man bruke utvidelser av reglane utan en-gang å tenke over de
-t,
+\T1/lmr/m/it/10.95 man bruke utvidelser av re-g-lene uten en-gang å tenke over 
+det, og
  []
 
 [4] [5]
@@ -1917,13 +1917,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 37797 strings out of 494923
- 745716 string characters out of 6180741
- 846408 words of memory out of 5000000
- 40457 multiletter control sequences out of 15000+600000
+ 37795 strings out of 494923
+ 745713 string characters out of 6180741
+ 846381 words of memory out of 5000000
+ 40455 multiletter control sequences out of 15000+600000
  604215 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,9n,102p,10504b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,9n,102p,10507b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -1933,7 +1933,7 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on alg_bm.pdf (5 pages, 200972 bytes).
+Output written on alg_bm.pdf (5 pages, 201195 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream

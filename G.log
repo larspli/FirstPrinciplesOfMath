@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 19:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1882,37 +1882,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\T1/lmr/m/n/10.95 Eg håper også å kunne fort-sette ar-bei-det med å lage lære-b
-øker
+\T1/lmr/m/n/10.95 Eg ønsker å fort-sette ar-bei-det med å lage lære-bøker som e
+r med
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\T1/lmr/m/n/10.95 som er med på å gjere matem-atikk lett tilgjen-ge-leg for all
-e, men
+\T1/lmr/m/n/10.95 på å gjere matem-atikk lett tilgjen-ge-leg for alle, men det 
+kan
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\T1/lmr/m/n/10.95 det kan bli vanske-leg med min-dre ar-bei-det gir ei viss in-
-ntekt.
+\T1/lmr/m/n/10.95 bli vanske-leg med min-dre ar-bei-det gir ei viss in-ntekt. V
+iss du
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\T1/lmr/m/n/10.95 Viss du en-der opp med å like boka, håper eg der-for du kan
+\T1/lmr/m/n/10.95 en-der opp med å like boka, håper eg der-for du kan donere 50
+kr
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\T1/lmr/m/n/10.95 donere 50kr via Vipps til 90559730 eller via [][]Pay-Pal[][].
- Ver ven-leg
+\T1/lmr/m/n/10.95 via Vipps til 90559730 eller via [][]Pay-Pal[][]. Ver ven-leg
+ å markere
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
-\T1/lmr/m/n/10.95 å markere donasjo-nen med ''Mat-te-bok'' ved bruk av Vipps. P
-å
+\T1/lmr/m/n/10.95 donasjo-nen med ''Mat-te-bok'' ved bruk av Vipps. På føre-han
+d
  []
 
 
@@ -5767,7 +5768,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G.pdf (168 pages, 1497843 bytes).
+Output written on G.pdf (168 pages, 1497835 bytes).
 PDF statistics:
  3193 PDF objects out of 3580 (max. 8388607)
  2728 compressed objects within 28 object streams

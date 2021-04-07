@@ -9,7 +9,7 @@ pair C = -A;
 pair D = -B;
 
 dv(A,D,O,red,sc=0.25,l="$\angle AOD$",al=N+0.5W,D=(-2pi,0));
-dv(B,A,O,l="$\angle AOB $",al=0.5N+E);
+dv(B,A,O,l="$\angle BOA $",al=0.5N+E);
 
 draw(B--D);
 draw(A--C);

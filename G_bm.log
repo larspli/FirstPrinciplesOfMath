@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1846,13 +1846,13 @@ is stiller
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--27
 \T1/lmr/m/n/9 sterke matem-a-tiske krav som ofte må de-fineres både på for-hand
- og un-der-veis i
+ og un-der-veis i en
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--27
-\T1/lmr/m/n/9 en ut-led-ning av ein regel, noe som kan føre til at forståelsen 
-av hov-ud-po-enget
+\T1/lmr/m/n/9 ut-led-ning av en regel, noe som kan føre til at forståelsen av h
+ov-ud-po-enget drukner
  []
 
 
@@ -1877,43 +1877,44 @@ per
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 du forstår hvor mykje tid og ressurser jeg har brukt på å lag
-e
+\T1/lmr/m/n/10.95 du forstår hvor mye tid og ressurser jeg har brukt på å lage 
+den.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 den. Jeg håper også å kunne fort-sette ar-bei-det med å lage 
-lære-
+\T1/lmr/m/n/10.95 Jeg ønsker å fort-sette ar-bei-det med å lage lære-bøker som 
+er med
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 bøker som er med på å gjøre matem-atikk lett tilgjen-ge-leg f
-or
+\T1/lmr/m/n/10.95 på å gjøre matem-atikk lett tilgjen-ge-leg for alle, men det 
+kan
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 alle, men det kan bli vanske-lig med min-dre ar-bei-det gir e
-n viss
+\T1/lmr/m/n/10.95 bli vanske-lig med min-dre ar-bei-det gir en viss in-ntekt. H
+vis du
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 in-ntekt. Hvis du en-der opp med å like boka håper jeg der-fo
-r du
+\T1/lmr/m/n/10.95 en-der opp med å like boka, håper jeg der-for du kan donere 5
+0kr
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 kan donere 50kr via Vipps til 90559730 eller via [][]Pay-Pal[
-][]. Vær
+\T1/lmr/m/n/10.95 via Vipps til 90559730 eller via [][]Pay-Pal[][]. Vær vennlig
+ å markere
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/lmr/m/n/10.95 vennlig å markere donasjo-nen med ''Mat-te-bok'' ved bruk av
+\T1/lmr/m/n/10.95 donasjo-nen med ''Mat-te-bok'' ved bruk av Vipps. På for-hand
+
  []
 
 
@@ -2122,7 +2123,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--113
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\T1/lmr/m/n/10.95 kallar vi et \T1/lmr/m/it/10.95 ko-or-di-nat-sys-tem[]\T1/lmr
+\T1/lmr/m/n/10.95 kaller vi et \T1/lmr/m/it/10.95 ko-or-di-nat-sys-tem[]\T1/lmr
 /m/n/10.95 . Vi
  []
 
@@ -2258,14 +2259,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
-\T1/lmr/m/n/10.95 hen-gen vil [][][][][][] bety ''har same verdi som''. Dette g
-jelder også ved
+\T1/lmr/m/n/10.95 hen-gen vil [][][][][][] bety ''har samme verdi som''. Dette 
+gjelder også
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
-\T1/lmr/m/n/10.95 sub-trak-sjon, mul-ti-p-likasjon og di-visjon, som vi skal se
- på i de
+\T1/lmr/m/n/10.95 ved sub-trak-sjon, mul-ti-p-likasjon og di-visjon, som vi ska
+l se på i
  []
 
 ) (./min/min_bm.tex (./min/../doc.tex) [17 <./plus/../fig/plus2.pdf> <./plus/..
@@ -2733,8 +2734,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 257--257
-\T1/lmr/m/n/10.95 ein brøk in-nebærer. For ek-sem-pel, å gange $\OT1/lmr/m/n/10
-.95 3$ \T1/lmr/m/n/10.95 med $[]$ kan tolkes
+\T1/lmr/m/n/10.95 en brøk in-nebærer. For ek-sem-pel, å gange $\OT1/lmr/m/n/10.
+95 3$ \T1/lmr/m/n/10.95 med $[]$ kan tolkes på
  []
 
 [46]
@@ -2982,8 +2983,8 @@ Package pdftex.def Info: neg/../fig/neg7.pdf  used on input line 90.
 (pdftex.def)             Requested size: 160.04753pt x 38.6543pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 93--93
-[]\T1/lmr/m/n/10.95 Å sub-tra-here et neg-a-tivt tall er det sanme som å addere
- tal-let
+[]\T1/lmr/m/n/10.95 Å sub-tra-here et neg-a-tivt tall er det samme som å addere
+ det
  []
 
 [62 <./neg/../fig/neg7.pdf>]
@@ -3003,14 +3004,14 @@ Overfull \hbox (2.63768pt too wide) detected at line 141
 []
  []
 
-[63]
+
 Underfull \hbox (badness 10000) in paragraph at lines 145--145
 []\T1/lmr/m/sl/10.95 Eksempel 2 \T1/lmr/m/n/10.95 og \T1/lmr/m/sl/10.95 Ek-sem-
 pel 3 \T1/lmr/m/n/10.95 på side []63[] il-lus-tr-erer at [][]\T1/lmr/m/sl/10.95
  Regel 2.2[][][]
  []
 
-
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
 []\T1/lmr/m/n/10.95 Tallverdien til fak-torene ganget sam-men gir ver-dien til 
 pro-duk-
@@ -3086,8 +3087,8 @@ ver
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
-\T1/lmr/m/n/10.95 om lin-jer, vil det bli opp til leseren å avg-jere om det sam
-me
+\T1/lmr/m/n/10.95 om lin-jer, vil det bli opp til leseren å avgjøre om det samm
+e
  []
 
 
@@ -3130,18 +3131,18 @@ de
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/lmr/m/n/10.95 Til hvilken tid man snakkar om et linjestykke og hvilken
+[]\T1/lmr/m/n/10.95 Til hvilken tid vi snakkar om et linjestykke og hvilken
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-\T1/lmr/m/n/10.95 tid man snakkar om en lengde vil komme ty-de-leg frem av
+\T1/lmr/m/n/10.95 tid vi snakker om en lengde vil komme ty-delig fram av
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/lmr/m/n/10.95 Å hele tiden måtte ha skrevet ''lengda til $\OML/lmm/m/it/1
-0.95 AB$\T1/lmr/m/n/10.95 '' o.l. ville
+[]\T1/lmr/m/n/10.95 Å hele tiden måtte ha skrevet ''leng-den til $\OML/lmm/m/it
+/10.95 AB$\T1/lmr/m/n/10.95 '' o.l. ville
  []
 
 [70 <./geo/../fig/linjstk3.pdf>]
@@ -3310,8 +3311,7 @@ Package pdftex.def Info: geo/../fig/tri15b.pdf  used on input line 113.
 (pdftex.def)             Requested size: 177.22165pt x 219.04782pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]\T1/lmr/m/n/10.95 Høgde og grunnlinje kan også på lik-nende vis bli brukt i s
-am-
+[]\T1/lmr/m/n/10.95 Høgde og grunnlinje kan også på lik-nende vis bli brukt i
  []
 
 [77 <./geo/../fig/tri15.pdf> <./geo/../fig/tri15b.pdf>]
@@ -3472,8 +3472,8 @@ Overfull \hbox (3.63054pt too wide) in paragraph at lines 232--232
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 239--239
-[]\T1/lmr/m/n/10.95 Kvadratet er både en rombe og et rek-tan-gel, og ''ar-var''
- der-for
+[]\T1/lmr/m/n/10.95 Kvadratet er både en rombe og et rek-tan-gel, og ''arver'' 
+der-for
  []
 
 [79 <./geo/../fig/kant5.pdf> <./geo/../fig/geo10.pdf>]
@@ -3606,28 +3606,28 @@ File: geo/../fig/tri17.pdf Graphic file (type pdf)
 Package pdftex.def Info: geo/../fig/tri17.pdf  used on input line 320.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
 [85 <./geo/../fig/tri16.pdf> <./geo/../fig/tri17.pdf>]
-<geo/../fig/tri18.pdf, id=1644, 209.59303pt x 60.25511pt>
-File: geo/../fig/tri18.pdf Graphic file (type pdf)
-<use geo/../fig/tri18.pdf>
-Package pdftex.def Info: geo/../fig/tri18.pdf  used on input line 328.
-(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
-<geo/../fig/tri18a.pdf, id=1645, 294.95195pt x 97.36375pt>
-File: geo/../fig/tri18a.pdf Graphic file (type pdf)
-<use geo/../fig/tri18a.pdf>
-Package pdftex.def Info: geo/../fig/tri18a.pdf  used on input line 330.
-(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
- [86 <./geo/../fig/tri18.pdf> <./geo/../fig/tri18a.pdf>]
-<geo/../fig/tri20.pdf, id=1663, 142.76335pt x 125.82007pt>
+<geo/../fig/tri20.pdf, id=1644, 142.76335pt x 125.82007pt>
 File: geo/../fig/tri20.pdf Graphic file (type pdf)
 <use geo/../fig/tri20.pdf>
-Package pdftex.def Info: geo/../fig/tri20.pdf  used on input line 355.
+Package pdftex.def Info: geo/../fig/tri20.pdf  used on input line 328.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
-<geo/../fig/tri20a.pdf, id=1664, 142.76335pt x 125.82007pt>
+<geo/../fig/tri20a.pdf, id=1645, 142.76335pt x 125.82007pt>
 File: geo/../fig/tri20a.pdf Graphic file (type pdf)
 <use geo/../fig/tri20a.pdf>
-Package pdftex.def Info: geo/../fig/tri20a.pdf  used on input line 357.
+Package pdftex.def Info: geo/../fig/tri20a.pdf  used on input line 330.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
- [87 <./geo/../fig/tri20.pdf> <./geo/../fig/tri20a.pdf>]
+ [86 <./geo/../fig/tri20.pdf> <./geo/../fig/tri20a.pdf>]
+<geo/../fig/tri18.pdf, id=1663, 209.59303pt x 60.25511pt>
+File: geo/../fig/tri18.pdf Graphic file (type pdf)
+<use geo/../fig/tri18.pdf>
+Package pdftex.def Info: geo/../fig/tri18.pdf  used on input line 341.
+(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
+<geo/../fig/tri18a.pdf, id=1664, 294.95195pt x 97.36375pt>
+File: geo/../fig/tri18a.pdf Graphic file (type pdf)
+<use geo/../fig/tri18a.pdf>
+Package pdftex.def Info: geo/../fig/tri18a.pdf  used on input line 343.
+(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
+ [87 <./geo/../fig/tri18.pdf> <./geo/../fig/tri18a.pdf>]
 Overfull \hbox (15.14331pt too wide) in paragraph at lines 367--368
 []\T1/lmr/m/n/10.95 En av de tre til-fel-lene vi har stud-ert vil alltid gjelde
  for ei valgt grunnlinje 
@@ -3675,7 +3675,7 @@ e
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/lmr/m/n/10.95 gangeteg-net. Og om man ganger sam-man en bok-stav og et
+\T1/lmr/m/n/10.95 gangeteg-net. Og om man ganger sam-men en bok-stav og et
  []
 
 
@@ -3740,8 +3740,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\T1/lmr/m/it/10.95 man bruke utvidelser av reglane utan en-gang å tenke over de
-t,
+\T1/lmr/m/it/10.95 man bruke utvidelser av re-g-lene uten en-gang å tenke over 
+det, og
  []
 
 [95]) (./pot/pot_bm.tex (./pot/../doc.tex) [96]
@@ -3753,7 +3753,7 @@ Package pdftex.def Info: pot/../fig/pot.pdf  used on input line 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--42
 \T1/lmr/m/n/10.95 I pro-gram-mer-ingsspråk brukes gjerne sym-bo-let [][][][][][
-] eller sym-bola
+] eller sym-bo-l-
  []
 
 [97
@@ -3801,19 +3801,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--68
  []
 
 [98] [99] [100] [101] [102] [103] [104]
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []\T1/lmr/m/n/10.95 Verdien til et ir-rasjon-alt tall har uen-delig mange des-i
 -maler med
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 [][][][]\T1/lmr/m/n/9 Strengt tatt er ir-rasjonale tall alle \T1/lmr/m/it/9 ree
 lle \T1/lmr/m/n/9 tall som ikke er rasjonale tall. Men for å
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 \T1/lmr/m/n/9 fork-lare hva \T1/lmr/m/it/9 reelle \T1/lmr/m/n/9 tall er, må vi 
 fork-lare hva \T1/lmr/m/it/9 imag-inære \T1/lmr/m/n/9 tall er, og det har vi va
 lgt
@@ -3830,21 +3830,15 @@ Overfull \hbox (4.6246pt too wide) in paragraph at lines 37--38
  []
 
 
-Overfull \hbox (6.39911pt too wide) in paragraph at lines 40--41
-\T1/lmr/m/n/10.95 som en plasser-ing på en tallinje. Hva de fire reg-n-eartane 
-in-nebærer 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
 [][][][]\T1/lmr/m/it/9 Obs! \T1/lmr/m/n/9 Denne fork-larin-gen er god nok for b
-oka sitt for-mål, men er en ek-strem foren-
+oka sitt for-mål, men er en ek-strem
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-\T1/lmr/m/n/9 kling. Ir-rasjonale tall er et kom-plis-ert tema som mange bøker 
-for avansert matem-
+\T1/lmr/m/n/9 foren-kling. Ir-rasjonale tall er et kom-plis-ert tema som mange 
+bøker for avansert
  []
 
 ) [107]
@@ -4053,8 +4047,8 @@ en
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 280--280
-[]\T1/lmr/m/n/10.95 Mange liker å lage seg ein regel om at ''vi kan gange eller
- dele
+[]\T1/lmr/m/n/10.95 Mange liker å lage seg en regel om at ''vi kan gange eller 
+dele
  []
 
 
@@ -4145,8 +4139,8 @@ Package pdftex.def Info: funk/../fig/funk6.pdf  used on input line 104.
 (pdftex.def)             Requested size: 113.81493pt x 85.35869pt.
 [128 <./funk/../fig/funk6.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 143--143
-[]\T1/lmr/m/n/10.95 For å tegne grafen til ein lineær funksjon trenger vi bare 
-å finne
+[]\T1/lmr/m/n/10.95 For å tegne grafen til en lineær funksjon trenger vi bare å
+ finne
  []
 
 
@@ -5136,7 +5130,7 @@ dette for en
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 mangekant med ek-stremt mange sider. Reg-ner vi oss frem til 
+\T1/lmr/m/n/10.95 mangekant med ek-stremt mange sider. Reg-ner vi oss fram til 
 en
  []
 
@@ -5285,32 +5279,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 465--465
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
 \T1/lmr/m/n/10.95 Da de to sirk-lene våre er helt vilkårlig valgt, har vi nå ko
-m-
+m-met
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 met fram til at \T1/lmr/m/it/10.95 alle sirkler har det samme
- forholdet mel-lom
+\T1/lmr/m/n/10.95 fram til at \T1/lmr/m/it/10.95 alle sirkler har det samme for
+holdet mel-lom omkret-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/it/10.95 omkret-sen og ra-diusen\T1/lmr/m/n/10.95 . En enda meir bruk
-t for-mu-ler-ing er at
+\T1/lmr/m/it/10.95 sen og ra-diusen\T1/lmr/m/n/10.95 . En enda van-ligere for-m
+u-ler-ing er at \T1/lmr/m/it/10.95 alle sirkler
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/it/10.95 alle sirkler har det samme forholdet mel-lom omkret-sen og d
-i-am-
+\T1/lmr/m/it/10.95 har det samme forholdet mel-lom omkret-sen og di-am-e-teren\
+T1/lmr/m/n/10.95 . Vi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/it/10.95 e-teren\T1/lmr/m/n/10.95 . Vi lar $\OML/lmm/m/it/10.95 D$ \T
-1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 d$ \T1/lmr/m/n/10.95 være di-am-e-teren
- til hen-holdsvis sirke-len
+\T1/lmr/m/n/10.95 lar $\OML/lmm/m/it/10.95 D$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/
+it/10.95 d$ \T1/lmr/m/n/10.95 være di-am-e-teren til hen-holdsvis sirke-len med
+ ra-dius
  []
 
 
@@ -5680,17 +5674,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
 Package rerunfilecheck Info: File `G_bm.out' has not changed.
-(rerunfilecheck)             Checksum: E61DF40EB6C007E79ADB3F05E8C26E15;3204.
+(rerunfilecheck)             Checksum: 924A0BEAD4375ABEDA1A3ED56EFAD589;3204.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 40151 strings out of 494923
- 790872 string characters out of 6180741
- 876133 words of memory out of 5000000
- 41946 multiletter control sequences out of 15000+600000
+ 40150 strings out of 494923
+ 790855 string characters out of 6180741
+ 876111 words of memory out of 5000000
+ 41945 multiletter control sequences out of 15000+600000
  644832 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,20n,102p,10502b,1050s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5724,7 +5718,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_bm.pdf (168 pages, 1498364 bytes).
+Output written on G_bm.pdf (168 pages, 1498117 bytes).
 PDF statistics:
  3194 PDF objects out of 3580 (max. 8388607)
  2729 compressed objects within 28 object streams

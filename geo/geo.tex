@@ -16,14 +16,14 @@ Ein rett strek som går mellom to punkt kallar vi eit \textit{linjestykke}\index
 Linjestykket mellom punkta $ A $ og $ B $ skriv vi som $ AB $. \vsk
 
 \info{Merk}{
-Eit linjestykke er eit utklipp (eit stykke) av ei linje, derfor har ei linje og eit linjestykke mange felles eigenskapar. Når vi skriv om linjer, vil det bli opp til lesaren å avgjere om det same gjeld for linjestykker, slik sparar vi oss for heile tida å skrive ''linjer/linjestykker''.
+Eit linjestykke er eit utklipp (eit stykke) av ei linje, derfor har ei linje og eit linjestykke mange felles eigenskapar. Når vi skriv om linjer, vil det bli opp til lesaren å avgjere om det same gjeld for linjestykker, slik sparar vi oss for heile tida å skrive ''linjer/\\linjestykker''.
 }
 \newpage
 \info{Linjestykke eller lengde?}{ 
 \fig{linjstk3}
 Linjestykka $ AB $ og $ CD $ har lik lengde, men dei er ikkje det same linjestykket. Likevel kjem vi til å skrive $ {AB=CD} $. Vi bruker altså dei same namna på linjestykker og lengdene deira (det same gjeld for vinklar og vinkelverdiar, sjå side \pageref{vinklar}\,-\,\pageref{vinkelend}). Dette gjer vi av følgande grunnar:
 \begin{itemize}
-\item Kva tid ein snakkar om eit linjestykke og kva tid ein snakkar om ei lengde vil komme tydeleg fram av samanhengen omgrepet blir brukt i.
+\item Kva tid vi snakkar om eit linjestykke og kva tid vi snakkar om ei lengde vil komme tydeleg fram av samanhengen omgrepet blir brukt i.
 \item Å heile tida måtte ha skrive ''lengda til $ AB $'' o.l. ville gitt mindre leservenlege setningar.
 \end{itemize}
 }
@@ -46,7 +46,7 @@ Vi bruker symbolet \sym{$ \parallel $} for å vise til at to linjer er parallell
 \fig{parl1a}
 
 \textbf{Vinklar} \label{vinklar}\os
-To linjer som ikkje er parallelle, vil før eller sidan krysse kvarandre. Gapet to linjer dannar seg i mellom kallast ein \textit{vinkel}\index{vinkel}. Vinklar teiknar vi som små sirkelboger:
+To linjer som ikkje er parallelle, vil før eller sidan krysse kvarandre. Gapet to linjer dannar seg imellom kallast ein \textit{vinkel}\index{vinkel}. Vinklar teiknar vi som små sirkelboger:
 \fig{vink1}
 Linjene som dannar ein vinkel kallar vi \textit{vinkelbein}\index{vinkelbein}. Punktet der linjene møtast kallar vi \textit{toppunktet}\index{vinkel!toppunkt til} til vinkelen. Ofte bruker vi punktnamn og vinkelsymbolet \sym{$ \angle $} for å gjere tydeleg kva vinkel vi meiner. I figuren under er det slik at
 \begin{itemize}
@@ -213,7 +213,7 @@ Den lengste sida i ein rettvinkla trekant blir gjerne kalla \textit{hypotenus}\i
 }
 \parbox[r][][l]{0.5\linewidth}{
 	\textbf{Rombe} \\
-	Sidene er like lange\\ 
+	Sidene er like lange.\\ 
 }
 
 \parbox[l][][l]{0.5\linewidth}{
@@ -241,9 +241,8 @@ Kvadratet er både ei rombe og eit rektangel, og ''arvar'' derfor eigenskapane t
 
 
 
-
 \reg[\firsum \label{360}]{I ein firkant er summen av vinkelverdiane $ 360^\circ $.
-	\[ \angle A +\angle B + \angle C+\angle D= 180^\circ \]
+	\[ \angle A +\angle B + \angle C+\angle D= 360^\circ \]
 	\fig{kant6}
 }
 \fork{\ref{360} \firsum}{
@@ -327,15 +326,28 @@ Av \rref{arfir} veit vi at arealet til rektangelet er $ {5\cdot 3} $. Arealet ti
 For den blå trekanten er 
 \[\frac{5\cdot3}{2}= \frac{\text{grunnlinje}\cdot \text{høgde}}{2} \]
 \newpage
-\textit{2) Tilfellet der høgda ligg utanfor trekanten} \os
+\textit{2) Tilfellet der høgda ligg inni trekanten, men ikkje har felles endepunkt med grunnlinja} \os
+Trekanten under har grunnlinje 5 og høgde 4.
+\fig{tri20}
+Med denne trekanten (og høgda) som utgangspunkt, dannar vi denne figuren:
+\fig{tri20a}
+Vi legg no merke til at
+\begin{itemize}
+	\item arealet til den raude trekanten utgjer halve arealet til rektangelet som består av den raude og den gule trekanten.
+	\item arealet til den gule trekanten utgjer halve arealet til rektangelet som består av den gule og den grøne trekanten.
+\end{itemize}
+Summen av areala til den gule og den raude trekanten utgjer altså halvparten av arealet til rektangelet som består av alle dei fire farga trekantane. Arealet til dette rektangelet er $ 5\cdot4 $, og da vår opprinnelige trekant (den blå) består av den raude og den oransje trekanten, har vi at
+\[ \text{Arealet til den blå trekanten}=\frac{5\cdot4}{2}=\frac{\text{grunnlinje}\cdot\text{høgde}}{2} \] 
+\newpage
+\textit{3) Tilfellet der høgda ligg utanfor trekanten} \os
 Trekanten under har grunnlinje 4 og høgde 3. 
 \fig{tri18}
 Med denne trekanten som utgangspunkt, dannar vi eit rektangel:
 \fig{tri18a}
 Vi gir no areala følgande namn:
 \alg{
-\text{Arealet til rektangelet}= R \\	\text{Arealet til den blå trekanten} = B\\
-\text{Arealet til den oransje trekanten} = O \\  \text{Arealet til den grøne trekanten} = G
+	\text{Arealet til rektangelet}= R \\	\text{Arealet til den blå trekanten} = B\\
+	\text{Arealet til den oransje trekanten} = O \\  \text{Arealet til den grøne trekanten} = G
 }
 Da har vi at (både den oransje og den grøne trekanten er rettvinkla)
 \alg{
@@ -353,19 +365,6 @@ Legg no merke til at vi kan skrive
 \[ 6=\frac{4\cdot3}{2} \]
 I den blå trekanten gjenkjenner vi dette som 
 \[ \frac{4\cdot3}{2}=\frac{\text{grunnlinje}\cdot\text{høgde}}{2} \]
-\newpage
-\textit{3) Tilfellet der høgda ligg inni trekanten, men ikkje har felles endepunkt med grunnlinja} \os
-Trekanten under har grunnlinje 5 og høgde 4.
-\fig{tri20}
-Med denne trekanten (og høgda) som utgangspunkt, dannar vi denne figuren:
-\fig{tri20a}
-Vi legg no merke til at
-\begin{itemize}
-	\item arealet til den raude trekanten utgjer halve arealet til rektangelet som består av den raude og den oransje trekanten.
-	\item arealet til den gule trekanten utgjer halve arealet til rektangelet som består av den gule og den grøne trekanten.
-\end{itemize}
-Summen av areala til den gule og den raude trekanten utgjer altså halvparten av arealet til rektangelet som består av alle dei fire farga trekantane. Arealet til dette rektangelet er $ 5\cdot4 $, og da vår opprinnelige trekant (den blå) består av den raude og den oransje trekanten, har vi at
-\[ \text{Arealet til den blå trekanten}=\frac{5\cdot4}{2}=\frac{\text{grunnlinje}\cdot\text{høgde}}{2} \] 
 \newpage
 \textit{Alle tilfella oppsummert}\os
 Ein av dei tre tilfella vi har studert vil alltid  gjelde for ei valgt grunnlinje i ein trekant, og alle tilfella resulterte i det same uttrykket.\regv

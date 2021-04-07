@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 APR 2021 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,7 +55,7 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)) (../preamb.tex
+)) (../preamb_bm.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1832,8 +1832,8 @@ ver
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
-\T1/lmr/m/n/10.95 om lin-jer, vil det bli opp til leseren å avg-jere om det sam
-me
+\T1/lmr/m/n/10.95 om lin-jer, vil det bli opp til leseren å avgjøre om det samm
+e
  []
 
 
@@ -1883,18 +1883,18 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 29.
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/lmr/m/n/10.95 Til hvilken tid man snakkar om et linjestykke og hvilken
+[]\T1/lmr/m/n/10.95 Til hvilken tid vi snakkar om et linjestykke og hvilken
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-\T1/lmr/m/n/10.95 tid man snakkar om en lengde vil komme ty-de-leg frem av
+\T1/lmr/m/n/10.95 tid vi snakker om en lengde vil komme ty-delig fram av
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/lmr/m/n/10.95 Å hele tiden måtte ha skrevet ''lengda til $\OML/lmm/m/it/1
-0.95 AB$\T1/lmr/m/n/10.95 '' o.l. ville
+[]\T1/lmr/m/n/10.95 Å hele tiden måtte ha skrevet ''leng-den til $\OML/lmm/m/it
+/10.95 AB$\T1/lmr/m/n/10.95 '' o.l. ville
  []
 
 [2 <../fig/linjstk3.pdf>]
@@ -2062,8 +2062,7 @@ Package pdftex.def Info: ../fig/tri15b.pdf  used on input line 113.
 (pdftex.def)             Requested size: 177.22165pt x 219.04782pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]\T1/lmr/m/n/10.95 Høgde og grunnlinje kan også på lik-nende vis bli brukt i s
-am-
+[]\T1/lmr/m/n/10.95 Høgde og grunnlinje kan også på lik-nende vis bli brukt i
  []
 
 [9 <../fig/tri15.pdf> <../fig/tri15b.pdf>]
@@ -2224,8 +2223,8 @@ Overfull \hbox (3.63054pt too wide) in paragraph at lines 232--232
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 239--239
-[]\T1/lmr/m/n/10.95 Kvadratet er både en rombe og et rek-tan-gel, og ''ar-var''
- der-for
+[]\T1/lmr/m/n/10.95 Kvadratet er både en rombe og et rek-tan-gel, og ''arver'' 
+der-for
  []
 
 [11 <../fig/kant5.pdf> <../fig/geo10.pdf>]
@@ -2363,28 +2362,28 @@ File: ../fig/tri17.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../fig/tri17.pdf  used on input line 320.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
 [17 <../fig/tri16.pdf> <../fig/tri17.pdf>]
-<../fig/tri18.pdf, id=406, 209.59303pt x 60.25511pt>
-File: ../fig/tri18.pdf Graphic file (type pdf)
-<use ../fig/tri18.pdf>
-Package pdftex.def Info: ../fig/tri18.pdf  used on input line 328.
-(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
-<../fig/tri18a.pdf, id=407, 294.95195pt x 97.36375pt>
-File: ../fig/tri18a.pdf Graphic file (type pdf)
-<use ../fig/tri18a.pdf>
-Package pdftex.def Info: ../fig/tri18a.pdf  used on input line 330.
-(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
- [18 <../fig/tri18.pdf> <../fig/tri18a.pdf>]
-<../fig/tri20.pdf, id=426, 142.76335pt x 125.82007pt>
+<../fig/tri20.pdf, id=406, 142.76335pt x 125.82007pt>
 File: ../fig/tri20.pdf Graphic file (type pdf)
 <use ../fig/tri20.pdf>
-Package pdftex.def Info: ../fig/tri20.pdf  used on input line 355.
+Package pdftex.def Info: ../fig/tri20.pdf  used on input line 328.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
-<../fig/tri20a.pdf, id=427, 142.76335pt x 125.82007pt>
+<../fig/tri20a.pdf, id=407, 142.76335pt x 125.82007pt>
 File: ../fig/tri20a.pdf Graphic file (type pdf)
 <use ../fig/tri20a.pdf>
-Package pdftex.def Info: ../fig/tri20a.pdf  used on input line 357.
+Package pdftex.def Info: ../fig/tri20a.pdf  used on input line 330.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
- [19 <../fig/tri20.pdf> <../fig/tri20a.pdf>]
+ [18 <../fig/tri20.pdf> <../fig/tri20a.pdf>]
+<../fig/tri18.pdf, id=426, 209.59303pt x 60.25511pt>
+File: ../fig/tri18.pdf Graphic file (type pdf)
+<use ../fig/tri18.pdf>
+Package pdftex.def Info: ../fig/tri18.pdf  used on input line 341.
+(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
+<../fig/tri18a.pdf, id=427, 294.95195pt x 97.36375pt>
+File: ../fig/tri18a.pdf Graphic file (type pdf)
+<use ../fig/tri18a.pdf>
+Package pdftex.def Info: ../fig/tri18a.pdf  used on input line 343.
+(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
+ [19 <../fig/tri18.pdf> <../fig/tri18a.pdf>]
 Overfull \hbox (15.14331pt too wide) in paragraph at lines 367--368
 []\T1/lmr/m/n/10.95 En av de tre til-fel-lene vi har stud-ert vil alltid gjelde
  for ei valgt grunnlinje 
@@ -2423,20 +2422,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 402.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 402.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 402.
 Package rerunfilecheck Info: File `geo_bm.out' has not changed.
-(rerunfilecheck)             Checksum: 95EA270C6E84E54DDB68782AAB8E4DAC;203.
+(rerunfilecheck)             Checksum: 48533B6BE22EE101B8297017F0D74AA7;203.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 38161 strings out of 494923
- 753566 string characters out of 6180741
- 843817 words of memory out of 5000000
- 40728 multiletter control sequences out of 15000+600000
+ 38159 strings out of 494923
+ 753563 string characters out of 6180741
+ 843816 words of memory out of 5000000
+ 40726 multiletter control sequences out of 15000+600000
  614469 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,11n,102p,10504b,877s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,11n,102p,10507b,877s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texlive/texmf-dist/fonts/ty
@@ -2453,7 +2452,7 @@ blic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on geo_bm.pdf (21 pages, 435065 bytes).
+Output written on geo_bm.pdf (21 pages, 434990 bytes).
 PDF statistics:
  551 PDF objects out of 1000 (max. 8388607)
  445 compressed objects within 5 object streams

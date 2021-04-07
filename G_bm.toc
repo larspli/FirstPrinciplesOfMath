@@ -42,7 +42,7 @@
 \contentsline {chapter}{\numberline {6}Geometri}{68}{chapter.6}
 \contentsline {section}{\numberline {6.1}Begrep}{69}{section.6.1}
 \contentsline {subsubsection}{H\IeC {\o }gde og grunnlinje}{77}{subsubsection*.50}
-\contentsline {section}{\numberline {6.2}Egenskapar for trekanter og firkanter}{78}{section.6.2}
+\contentsline {section}{\numberline {6.2}Egenskaper for trekanter og firkanter}{78}{section.6.2}
 \contentsline {section}{\numberline {6.3}Omkrets}{82}{section.6.3}
 \contentsline {section}{\numberline {6.4}Areal}{83}{section.6.4}
 \contentsline {subsubsection}{Arealet til et rektangel}{83}{subsubsection*.56}

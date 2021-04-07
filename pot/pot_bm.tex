@@ -1,5 +1,5 @@
 \input{../doc}
-\input{../preamb}
+\input{../preamb_bm}
 \begin{document}
 
 \section{\pot \label{Potensar}}
@@ -38,7 +38,7 @@ Hvis $ n $ er et naturlig tall, vil $ a^n $ svare til $ n $ eksemplar av $ a $\\
 		\item ''2 i tredje''
 		\item ''2 opphøyd i 3''
 	\end{itemize}
-I programmeringsspråk brukes gjerne symbolet \sym{\^{}} eller symbola \sym{**} mellom grunntall og eksponent.
+I programmeringsspråk brukes gjerne symbolet \sym{\^{}} eller symbolene \sym{**} mellom grunntall og eksponent.
 }
 \newpage
 \info{Merk}{
@@ -91,7 +91,7 @@ a^5\cdot a^{-7} &= a^{5-7} \\
 } 
 \eks[2]{ \vs \vsb
 \alg{
-\frac{2^{4}\cdot a^{3}}{a^{2}\cdot2^{2}}&=2^{4-2}\cdot a^{3-2}\\
+\frac{2^{4}\cdot a^{7}}{a^{6}\cdot2^{2}}&=2^{4-2}\cdot a^{7-6}\\
 &=2^{2}a \\
 &=4a
 }
@@ -128,7 +128,7 @@ a^{0}=1
 (-b)^{0}=1
 \]}
 \fork{\ref{pota0} \potanull}{
-	Et tall delt på seg sjølv er alltid lik 1, derfor er 
+	Et tall delt på seg selv er alltid lik 1, derfor er 
 	\[
 	\frac{a^{n}}{a^{n}}=1
 	\]
@@ -188,7 +188,8 @@ a^{0}=1
 	\[ \left(\frac{a}{b}\right)^3 \]
 	Vi har at
 	\begin{align*}
-	\left(\frac{a}{b}\right)^3 & =\frac{a\cdot a\cdot a}{b\cdot b\cdot b}\br
+	\left(\frac{a}{b}\right)^3 	&=\frac{a}{b}\cdot \frac{a}{b}\cdot \frac{a}{b}\br
+	& =\frac{a\cdot a\cdot a}{b\cdot b\cdot b}\br
 	& =\frac{a^{3}}{b^{3}}
 	\end{align*}
 }\vsk \vsk
@@ -284,7 +285,7 @@ Verdien til et irrasjonalt tall har uendelig mange desimaler med et ikke-repeter
 }
 \footnotetext{Strengt tatt er irrasjonale tall alle \textit{reelle} tall som ikke er rasjonale tall. Men for å forklare hva \textit{reelle} tall er, må vi forklare hva \textit{imaginære} tall er, og det har vi valgt å ikke gjøre i denne boka. }
 \eks[1]{
-$ \sqrt{2} $ er et irrasjonelt tall.
+$ \sqrt{2} $ er et irrasjonalt tall.
 \[ \sqrt{2}=1.414213562373... \]
 }
 

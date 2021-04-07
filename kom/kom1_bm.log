@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  2 APR 2021 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,7 +55,7 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)) (../preamb.tex
+)) (../preamb_bm.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1806,21 +1806,15 @@ Overfull \hbox (4.6246pt too wide) in paragraph at lines 37--38
  []
 
 
-Overfull \hbox (6.39911pt too wide) in paragraph at lines 40--41
-\T1/lmr/m/n/10.95 som en plasser-ing på en tallinje. Hva de fire reg-n-eartane 
-in-nebærer 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
 [][][][]\T1/lmr/m/it/9 Obs! \T1/lmr/m/n/9 Denne fork-larin-gen er god nok for b
-oka sitt for-mål, men er en ek-strem foren-
+oka sitt for-mål, men er en ek-strem
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-\T1/lmr/m/n/9 kling. Ir-rasjonale tall er et kom-plis-ert tema som mange bøker 
-for avansert matem-
+\T1/lmr/m/n/9 foren-kling. Ir-rasjonale tall er et kom-plis-ert tema som mange 
+bøker for avansert
  []
 
 
@@ -1844,13 +1838,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 37737 strings out of 494923
- 744504 string characters out of 6180741
- 842481 words of memory out of 5000000
- 40399 multiletter control sequences out of 15000+600000
+ 37735 strings out of 494923
+ 744501 string characters out of 6180741
+ 842454 words of memory out of 5000000
+ 40397 multiletter control sequences out of 15000+600000
  608443 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,10n,102p,10505b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,10n,102p,10508b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -1862,7 +1856,7 @@ r/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on kom1_bm.pdf (2 pages, 218110 bytes).
+Output written on kom1_bm.pdf (2 pages, 218049 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams

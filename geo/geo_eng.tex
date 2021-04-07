@@ -240,7 +240,7 @@ The square is both a rhombus and a rectangle, which means it ''inherits'' their 
 
 
 \reg[\firsum \label{360}]{In a quadrilateral, the sum of the angles equals $ 360^\circ $.
-	\[ \angle A +\angle B + \angle C+\angle D= 180^\circ \]
+	\[ \angle A +\angle B + \angle C+\angle D= 360^\circ \]
 	\fig{kant6}
 }
 \fork{\ref{360} \firsum}{
@@ -324,6 +324,19 @@ By \rref{arfir}, the area of the rectangle equals $ {5\cdot 3} $. The area of on
 Regarding the blue triangle we have
 \[\frac{5\cdot3}{2}= \frac{\text{baseline}\cdot \text{height}}{2} \]
 \newpage
+\textit{2) The altitude is placed inside the triangle, but have no common end point with the baseline} \os
+The below triangle has baseline 5 and altitude 4.
+\fig{tri20}
+We make a rectangle containing the blue triangle (split into the red triangle and the yellow triangle):
+\fig{tri20a}
+Observe that
+\begin{itemize}
+	\item the area of the red triangle makes up half the area of the rectangle formed by the red and the yellow triangle.
+	\item the area of the yellow triangle makes up half the area of the rectangle formed by the yellow and the green triangle.
+\end{itemize}
+It now follows that the sum of the areas of the yellow triangle and the red triangle makes up half the area of the rectangle formed by the four colored triangles. The area of this rectangle equals $ 5\cdot4 $, and since our original triangle (the blue) includes the red triangle and the orange triangle, we have
+\[ \text{The area of the blue triangle}=\frac{5\cdot4}{2}=\frac{\text{baseline}\cdot\text{height}}{2} \] 
+\newpage
 \textit{2) The altitude is placed outside the triangle} \os
 The below triangle has baseline 4 and altitude 3. 
 \fig{tri18}
@@ -331,8 +344,8 @@ We now make a rectangle containing the blue triangle:
 \fig{tri18a}
 Now we introduce the following names:
 \alg{
-\text{The area of the rectangle}= R \\	\text{The area of the blue triangle} = B\\
-\text{The area of the orange triangle} = O \\  \text{The area of the green triangle} = G
+	\text{The area of the rectangle}= R \\	\text{The area of the blue triangle} = B\\
+	\text{The area of the orange triangle} = O \\  \text{The area of the green triangle} = G
 }
 We have
 \alg{
@@ -350,19 +363,6 @@ Observe that we can write
 \[ 6=\frac{4\cdot3}{2} \]
 Regarding the blue triangle we recognize this as 
 \[ \frac{4\cdot3}{2}=\frac{\text{base}\cdot\text{height}}{2} \]
-\newpage
-\textit{3) The altitude is placed inside the triangle, but have no common end point with the baseline} \os
-The below triangle has baseline 5 and altitude 4.
-\fig{tri20}
-We make a rectangle containing the blue triangle (split into the red triangle and the yellow triangle):
-\fig{tri20a}
-Observe that
-\begin{itemize}
-	\item the area of the red triangle makes up half the area of the rectangle formed by the red and the orange triangle.
-	\item the area of the yellow triangle makes up half the area of the rectangle formed by the yellow and the green triangle.
-\end{itemize}
-It now follows that the sum of the areas of the yellow triangle and the red triangle makes up half the area of the rectangle formed by the four colored triangles. The area of this rectangle equals $ 5\cdot4 $, and since our original triangle (the blue) includes the red triangle and the orange triangle, we have
-\[ \text{The area of the blue triangle}=\frac{5\cdot4}{2}=\frac{\text{baseline}\cdot\text{height}}{2} \] 
 \newpage
 \textit{The three cases summarized}\os
 For a chosen baseline in a triangle, one of the cases discussed will always be valid. All cases resulted in the same expression for the area of the triangle.\regv
