@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  6 APR 2021 19:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 07:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2163,8 +2163,8 @@ a-tor by
 
 [15]
 Underfull \hbox (badness 10000) in paragraph at lines 316--316
-[][][][]\T1/lmr/m/n/9 Look at the text box with the ti-tle ''\T1/lmr/m/it/9 An 
-in-ter-pre-ta-tion of mul-ti-ply-ing by a frac-tion\T1/lmr/m/n/9 ''
+[][][][]\T1/lmr/m/n/9 Look at the text box ti-tled ''\T1/lmr/m/it/9 An in-ter-p
+re-ta-tion of mul-ti-ply-ing by a frac-tion\T1/lmr/m/n/9 '' on
  []
 
 
@@ -2286,7 +2286,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  38065 strings out of 494923
  750597 string characters out of 6180741
- 844868 words of memory out of 5000000
+ 844867 words of memory out of 5000000
  40639 multiletter control sequences out of 15000+600000
  614469 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2308,7 +2308,7 @@ m/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on brok_eng.pdf (23 pages, 394695 bytes).
+Output written on brok_eng.pdf (23 pages, 394694 bytes).
 PDF statistics:
  524 PDF objects out of 1000 (max. 8388607)
  443 compressed objects within 5 object streams
