@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  4 APR 2021 20:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,7 +55,7 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)) (../preamb.tex
+)) (../preamb_eng.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1803,13 +1803,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 [][][][]\T1/lmr/m/n/9 To \T1/lmr/m/sl/9 ex-plain \T1/lmr/m/n/9 the rules rather
  than \T1/lmr/m/sl/9 prov-ing \T1/lmr/m/n/9 them is a de-lib-er-ate de-ci-sion.
- A proof de-
+ A proof
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
-\T1/lmr/m/n/9 mands math-e-mat-i-cal rigour that of-ten forces a lot of as-sump
--tions and def-i-ni-tions
+\T1/lmr/m/n/9 de-mands math-e-mat-i-cal rigor that of-ten forces a lot of as-su
+mp-tions and def-i-ni-tions
  []
 
 
@@ -1854,22 +1854,22 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
  (./forord_eng.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
 Package rerunfilecheck Info: File `forord_eng.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 37757 strings out of 494923
- 745175 string characters out of 6180741
- 839317 words of memory out of 5000000
- 40430 multiletter control sequences out of 15000+600000
- 601532 words of font info for 81 fonts, out of 8000000 for 9000
+ 37763 strings out of 494923
+ 745265 string characters out of 6180741
+ 839384 words of memory out of 5000000
+ 40436 multiletter control sequences out of 15000+600000
+ 607529 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,7n,102p,10508b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,7n,102p,10512b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
@@ -1877,7 +1877,7 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on forord_eng.pdf (3 pages, 242712 bytes).
+Output written on forord_eng.pdf (3 pages, 244773 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

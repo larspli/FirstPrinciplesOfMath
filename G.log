@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1931,13 +1931,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 51.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Overfull \hbox (29.25928pt too wide) in paragraph at lines 53--53
-|\T1/lmr/bx/n/12 Takk til dei som har komme med gode innspel og ko-r-rek-sjonar
-| 
- []
-
-) (./kap0/sym.tex (./kap0/../doc.tex) [3]) [4
+)) (./kap0/sym.tex (./kap0/../doc.tex)
+[3]) [4
 
 ] (./G.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -5768,7 +5763,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G.pdf (168 pages, 1498324 bytes).
+Output written on G.pdf (168 pages, 1498306 bytes).
 PDF statistics:
  3193 PDF objects out of 3580 (max. 8388607)
  2728 compressed objects within 28 object streams
