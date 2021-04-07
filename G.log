@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1931,8 +1931,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 51.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (./kap0/sym.tex (./kap0/../doc.tex)
-[3]) [4
+)
+Overfull \hbox (29.25928pt too wide) in paragraph at lines 53--53
+|\T1/lmr/bx/n/12 Takk til dei som har komme med gode innspel og ko-r-rek-sjonar
+| 
+ []
+
+) (./kap0/sym.tex (./kap0/../doc.tex) [3]) [4
 
 ] (./G.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2992,7 +2997,7 @@ Package pdftex.def Info: neg/../fig/neg7.pdf  used on input line 90.
 
 Underfull \hbox (badness 10000) in paragraph at lines 93--93
 []\T1/lmr/m/n/10.95 Å sub-tra-here eit neg-a-tivt tal er det same som å addere 
-talet
+det
  []
 
 [62 <./neg/../fig/neg7.pdf>]
@@ -3084,25 +3089,19 @@ Package pdftex.def Info: geo/../fig/linjstk1.pdf  used on input line 15.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []\T1/lmr/m/n/10.95 Eit linjestykke er eit utk-lipp (eit stykke) av ei linje, d
-er-for har
+er-for har ei
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
-\T1/lmr/m/n/10.95 ei linje og eit linjestykke mange felles eigen-ska-par. Når v
-i skriv
+\T1/lmr/m/n/10.95 linje og eit linjestykke mange felles eigen-ska-par. Når vi s
+kriv om
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
-\T1/lmr/m/n/10.95 om lin-jer, vil det bli opp til lesaren å avg-jere om det sam
-e gjeld
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-\T1/lmr/m/n/10.95 for linjestykker, slik sparar vi oss for heile tida å skrive 
-''lin-
+\T1/lmr/m/n/10.95 lin-jer, vil det bli opp til lesaren å avg-jere om det same g
+jeld for
  []
 
 [69
@@ -3139,12 +3138,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/lmr/m/n/10.95 Kva tid ein snakkar om eit linjestykke og kva tid ein
+[]\T1/lmr/m/n/10.95 Kva tid vi snakkar om eit linjestykke og kva tid vi snakkar
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-\T1/lmr/m/n/10.95 snakkar om ei lengde vil komme ty-de-leg fram av saman-
+\T1/lmr/m/n/10.95 om ei lengde vil komme ty-de-leg fram av saman-hen-gen
  []
 
 
@@ -3495,24 +3495,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--240
 <geo/../fig/kant6.pdf, id=1503, 126.96434pt x 106.06625pt>
 File: geo/../fig/kant6.pdf Graphic file (type pdf)
 <use geo/../fig/kant6.pdf>
-Package pdftex.def Info: geo/../fig/kant6.pdf  used on input line 248.
+Package pdftex.def Info: geo/../fig/kant6.pdf  used on input line 247.
 (pdftex.def)             Requested size: 126.96402pt x 106.06598pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 []\T1/lmr/m/n/10.95 Den samla vinkel-sum-men i $\OMS/lmsy/m/n/10.95 4\OML/lmm/m
 /it/10.95 ABD$ \T1/lmr/m/n/10.95 og $\OMS/lmsy/m/n/10.95 4\OML/lmm/m/it/10.95 B
 CD$ \T1/lmr/m/n/10.95 ut-g-jer vinkel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 \T1/lmr/m/n/10.95 sum-men i $\U/msa/m/n/10.95 ^^C\OML/lmm/m/it/10.95 ABCD$\T1/l
 mr/m/n/10.95 . Av [][]\T1/lmr/m/sl/10.95 Regel 6.3[][][] \T1/lmr/m/n/10.95 veit
  vi at vinkel-sum-men i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 \T1/lmr/m/n/10.95 alle trekan-tar er $\OT1/lmr/m/n/10.95 180[]$\T1/lmr/m/n/10.9
 5 , altså er vinkel-sum-men i $\U/msa/m/n/10.95 ^^C\OML/lmm/m/it/10.95 ABCD$ \T
 1/lmr/m/n/10.95 lik
@@ -3521,7 +3521,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 252--252
 <geo/../fig/kant6a.pdf, id=1506, 126.96434pt x 106.06625pt>
 File: geo/../fig/kant6a.pdf Graphic file (type pdf)
 <use geo/../fig/kant6a.pdf>
-Package pdftex.def Info: geo/../fig/kant6a.pdf  used on input line 252.
+Package pdftex.def Info: geo/../fig/kant6a.pdf  used on input line 251.
 (pdftex.def)             Requested size: 126.96402pt x 106.06598pt.
 [80 <./geo/../fig/kant3g.pdf> <./geo/../fig/kant3a.pdf> <./geo/../fig/kant3b.pd
 f> <./geo/../fig/kant3c.pdf> <./geo/../fig/kant3d.pdf> <./geo/../fig/kant3e.pdf
@@ -3530,28 +3530,28 @@ pdf>]
 <geo/../fig/geo1.pdf, id=1542, 71.63763pt x 57.40446pt>
 File: geo/../fig/geo1.pdf Graphic file (type pdf)
 <use geo/../fig/geo1.pdf>
-Package pdftex.def Info: geo/../fig/geo1.pdf  used on input line 255.
+Package pdftex.def Info: geo/../fig/geo1.pdf  used on input line 254.
 (pdftex.def)             Requested size: 71.63744pt x 57.4043pt.
 <geo/../fig/geo1a.pdf, id=1543, 111.4062pt x 100.33485pt>
 File: geo/../fig/geo1a.pdf Graphic file (type pdf)
 <use geo/../fig/geo1a.pdf>
-Package pdftex.def Info: geo/../fig/geo1a.pdf  used on input line 257.
+Package pdftex.def Info: geo/../fig/geo1a.pdf  used on input line 256.
 (pdftex.def)             Requested size: 111.40591pt x 100.3346pt.
 <geo/../fig/tri23a.pdf, id=1544, 114.3171pt x 46.60411pt>
 File: geo/../fig/tri23a.pdf Graphic file (type pdf)
 <use geo/../fig/tri23a.pdf>
-Package pdftex.def Info: geo/../fig/tri23a.pdf  used on input line 273.
+Package pdftex.def Info: geo/../fig/tri23a.pdf  used on input line 272.
 (pdftex.def)             Requested size: 114.3168pt x 46.60397pt.
 <geo/../fig/tri23c.pdf, id=1545, 171.75166pt x 103.60707pt>
 File: geo/../fig/tri23c.pdf Graphic file (type pdf)
 <use geo/../fig/tri23c.pdf>
-Package pdftex.def Info: geo/../fig/tri23c.pdf  used on input line 273.
+Package pdftex.def Info: geo/../fig/tri23c.pdf  used on input line 272.
 (pdftex.def)             Requested size: 171.75122pt x 103.60681pt.
  [82
 
  <./geo/../fig/geo1.pdf> <./geo/../fig/geo1a.pdf> <./geo/../fig/tri23a.pdf> <./
 geo/../fig/tri23c.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 283--283
 []\T1/lmr/m/n/10.95 Vi tenker oss eit kvadrat med side-lengder 1. Dette kallar 
 vi
  []
@@ -3559,17 +3559,17 @@ vi
 <geo/../fig/tri_10.pdf, id=1569, 24.6521pt x 26.23802pt>
 File: geo/../fig/tri_10.pdf Graphic file (type pdf)
 <use geo/../fig/tri_10.pdf>
-Package pdftex.def Info: geo/../fig/tri_10.pdf  used on input line 284.
+Package pdftex.def Info: geo/../fig/tri_10.pdf  used on input line 283.
 (pdftex.def)             Requested size: 24.65202pt x 26.23795pt.
 <geo/../fig/tri11a.pdf, id=1570, 53.10841pt x 40.46117pt>
 File: geo/../fig/tri11a.pdf Graphic file (type pdf)
 <use geo/../fig/tri11a.pdf>
-Package pdftex.def Info: geo/../fig/tri11a.pdf  used on input line 287.
+Package pdftex.def Info: geo/../fig/tri11a.pdf  used on input line 286.
 (pdftex.def)             Requested size: 53.10828pt x 40.46106pt.
 <geo/../fig/tri11.pdf, id=1571, 53.10841pt x 40.46117pt>
 File: geo/../fig/tri11.pdf Graphic file (type pdf)
 <use geo/../fig/tri11.pdf>
-Package pdftex.def Info: geo/../fig/tri11.pdf  used on input line 290.
+Package pdftex.def Info: geo/../fig/tri11.pdf  used on input line 289.
 (pdftex.def)             Requested size: 53.10828pt x 40.46106pt.
 [83
 
@@ -3577,10 +3577,10 @@ Package pdftex.def Info: geo/../fig/tri11.pdf  used on input line 290.
 <geo/../fig/tri12.pdf, id=1593, 96.95221pt x 57.36432pt>
 File: geo/../fig/tri12.pdf Graphic file (type pdf)
 <use geo/../fig/tri12.pdf>
-Package pdftex.def Info: geo/../fig/tri12.pdf  used on input line 301.
+Package pdftex.def Info: geo/../fig/tri12.pdf  used on input line 300.
 (pdftex.def)             Requested size: 96.95195pt x 57.36417pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--302
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []\T1/lmr/m/n/10.95 Ofte blir orda \T1/lmr/m/it/10.95 brei-dde[] \T1/lmr/m/n/10
 .95 og \T1/lmr/m/it/10.95 lengde[] \T1/lmr/m/n/10.95 brukt om grunnlinja og høg
 da i
@@ -3589,21 +3589,21 @@ da i
 <geo/../fig/tri12b.pdf, id=1595, 90.0966pt x 51.84369pt>
 File: geo/../fig/tri12b.pdf Graphic file (type pdf)
 <use geo/../fig/tri12b.pdf>
-Package pdftex.def Info: geo/../fig/tri12b.pdf  used on input line 308.
+Package pdftex.def Info: geo/../fig/tri12b.pdf  used on input line 307.
 (pdftex.def)             Requested size: 90.09637pt x 51.84355pt.
 <geo/../fig/tri12c.pdf, id=1596, 60.25511pt x 71.75809pt>
 File: geo/../fig/tri12c.pdf Graphic file (type pdf)
 <use geo/../fig/tri12c.pdf>
-Package pdftex.def Info: geo/../fig/tri12c.pdf  used on input line 314.
+Package pdftex.def Info: geo/../fig/tri12c.pdf  used on input line 313.
 (pdftex.def)             Requested size: 60.25494pt x 71.7579pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
 [][][][]\T1/lmr/m/sl/9 Merk\T1/lmr/m/n/9 : Leng-dene vi bruker som ek-sem-pel i
  ein figur vil ikkje naudsyn-leg samsvare
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
 \T1/lmr/m/n/9 med leng-dene i ein anna figur. Ei side-lengde lik 1 i ein figur 
 kan altså vere ko-rtare
  []
@@ -3613,42 +3613,42 @@ kan altså vere ko-rtare
 <geo/../fig/tri16.pdf, id=1621, 110.011pt x 71.75809pt>
 File: geo/../fig/tri16.pdf Graphic file (type pdf)
 <use geo/../fig/tri16.pdf>
-Package pdftex.def Info: geo/../fig/tri16.pdf  used on input line 322.
+Package pdftex.def Info: geo/../fig/tri16.pdf  used on input line 321.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
 <geo/../fig/tri17.pdf, id=1622, 110.011pt x 71.75809pt>
 File: geo/../fig/tri17.pdf Graphic file (type pdf)
 <use geo/../fig/tri17.pdf>
-Package pdftex.def Info: geo/../fig/tri17.pdf  used on input line 324.
+Package pdftex.def Info: geo/../fig/tri17.pdf  used on input line 323.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
  [85 <./geo/../fig/tri16.pdf> <./geo/../fig/tri17.pdf>]
-<geo/../fig/tri18.pdf, id=1642, 209.59303pt x 60.25511pt>
-File: geo/../fig/tri18.pdf Graphic file (type pdf)
-<use geo/../fig/tri18.pdf>
-Package pdftex.def Info: geo/../fig/tri18.pdf  used on input line 332.
-(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
-<geo/../fig/tri18a.pdf, id=1643, 294.95195pt x 97.36375pt>
-File: geo/../fig/tri18a.pdf Graphic file (type pdf)
-<use geo/../fig/tri18a.pdf>
-Package pdftex.def Info: geo/../fig/tri18a.pdf  used on input line 334.
-(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
- [86 <./geo/../fig/tri18.pdf> <./geo/../fig/tri18a.pdf>]
-Overfull \hbox (4.57735pt too wide) in paragraph at lines 357--357
-[]\T1/lmr/m/it/10.95 3) Til-fel-let der høgda ligg inni trekan-ten, men ikkje h
+Overfull \hbox (4.57735pt too wide) in paragraph at lines 329--329
+[]\T1/lmr/m/it/10.95 2) Til-fel-let der høgda ligg inni trekan-ten, men ikkje h
 ar felles en-depunkt 
  []
 
-<geo/../fig/tri20.pdf, id=1661, 142.76335pt x 125.82007pt>
+<geo/../fig/tri20.pdf, id=1642, 142.76335pt x 125.82007pt>
 File: geo/../fig/tri20.pdf Graphic file (type pdf)
 <use geo/../fig/tri20.pdf>
-Package pdftex.def Info: geo/../fig/tri20.pdf  used on input line 359.
+Package pdftex.def Info: geo/../fig/tri20.pdf  used on input line 331.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
-<geo/../fig/tri20a.pdf, id=1662, 142.76335pt x 125.82007pt>
+<geo/../fig/tri20a.pdf, id=1643, 142.76335pt x 125.82007pt>
 File: geo/../fig/tri20a.pdf Graphic file (type pdf)
 <use geo/../fig/tri20a.pdf>
-Package pdftex.def Info: geo/../fig/tri20a.pdf  used on input line 361.
+Package pdftex.def Info: geo/../fig/tri20a.pdf  used on input line 333.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
-[87 <./geo/../fig/tri20.pdf> <./geo/../fig/tri20a.pdf>]
-Overfull \hbox (10.88487pt too wide) in paragraph at lines 371--372
+[86 <./geo/../fig/tri20.pdf> <./geo/../fig/tri20a.pdf>]
+<geo/../fig/tri18.pdf, id=1661, 209.59303pt x 60.25511pt>
+File: geo/../fig/tri18.pdf Graphic file (type pdf)
+<use geo/../fig/tri18.pdf>
+Package pdftex.def Info: geo/../fig/tri18.pdf  used on input line 344.
+(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
+<geo/../fig/tri18a.pdf, id=1662, 294.95195pt x 97.36375pt>
+File: geo/../fig/tri18a.pdf Graphic file (type pdf)
+<use geo/../fig/tri18a.pdf>
+Package pdftex.def Info: geo/../fig/tri18a.pdf  used on input line 346.
+(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
+ [87 <./geo/../fig/tri18.pdf> <./geo/../fig/tri18a.pdf>]
+Overfull \hbox (10.88487pt too wide) in paragraph at lines 370--371
 []\T1/lmr/m/n/10.95 Ein av dei tre til-fella vi har stud-ert vil alltid gjelde 
 for ei valgt grunnlinje 
  []
@@ -3656,28 +3656,28 @@ for ei valgt grunnlinje
 <geo/../fig/triar00.pdf, id=1681, 320.26653pt x 65.8962pt>
 File: geo/../fig/triar00.pdf Graphic file (type pdf)
 <use geo/../fig/triar00.pdf>
-Package pdftex.def Info: geo/../fig/triar00.pdf  used on input line 376.
+Package pdftex.def Info: geo/../fig/triar00.pdf  used on input line 375.
 (pdftex.def)             Requested size: 320.26573pt x 65.89603pt.
 
-Overfull \hbox (8.99251pt too wide) in paragraph at lines 376--376
+Overfull \hbox (8.99251pt too wide) in paragraph at lines 375--375
  [] 
  []
 
 <geo/../fig/geo16a.pdf, id=1682, 78.71407pt x 63.22621pt>
 File: geo/../fig/geo16a.pdf Graphic file (type pdf)
 <use geo/../fig/geo16a.pdf>
-Package pdftex.def Info: geo/../fig/geo16a.pdf  used on input line 385.
+Package pdftex.def Info: geo/../fig/geo16a.pdf  used on input line 384.
 (pdftex.def)             Requested size: 78.71387pt x 63.22604pt.
 [88 <./geo/../fig/triar00.pdf> <./geo/../fig/geo16a.pdf>]
 <geo/../fig/geo16b.pdf, id=1700, 102.93457pt x 97.36375pt>
 File: geo/../fig/geo16b.pdf Graphic file (type pdf)
 <use geo/../fig/geo16b.pdf>
-Package pdftex.def Info: geo/../fig/geo16b.pdf  used on input line 395.
+Package pdftex.def Info: geo/../fig/geo16b.pdf  used on input line 394.
 (pdftex.def)             Requested size: 102.93431pt x 97.3635pt.
 <geo/../fig/geo16c.pdf, id=1701, 164.07298pt x 63.22621pt>
 File: geo/../fig/geo16c.pdf Graphic file (type pdf)
 <use geo/../fig/geo16c.pdf>
-Package pdftex.def Info: geo/../fig/geo16c.pdf  used on input line 405.
+Package pdftex.def Info: geo/../fig/geo16c.pdf  used on input line 404.
 (pdftex.def)             Requested size: 164.07257pt x 63.22604pt.
 ) [89 <./geo/../fig/geo16b.pdf> <./geo/../fig/geo16c.pdf>] [90
 
@@ -3828,25 +3828,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
  []
 
 [98] [99] [100] [101] [102] [103]
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 \T1/lmr/m/n/10.95 Symbolet [][][][][][] kallast eit \T1/lmr/m/it/10.95 rot-teik
 n[]\T1/lmr/m/n/10.95 . For ek-spo-nen-ten $[]$ er det
  []
 
 [104]
-Underfull \hbox (badness 10000) in paragraph at lines 289--289
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 []\T1/lmr/m/n/10.95 Verdien til eit ir-rasjon-alt tal har uen-de-leg mange des-
 i-malar med
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
 [][][][]\T1/lmr/m/n/9 Strengt tatt er ir-rasjonale tal alle \T1/lmr/m/it/9 reel
 le \T1/lmr/m/n/9 tal som ikkje er rasjonale tal. Men for å
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
 \T1/lmr/m/n/9 fork-lare kva \T1/lmr/m/it/9 reelle \T1/lmr/m/n/9 tal er, må vi f
 ork-lare kva \T1/lmr/m/it/9 imag-inære \T1/lmr/m/n/9 tal er, og det har vi valg
 t å
@@ -3859,13 +3859,13 @@ t å
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
 [][][][]\T1/lmr/m/it/9 Obs! \T1/lmr/m/n/9 Denne fork-laringa er god nok for bok
-a sitt for-mål, men er ei ek-strem foren-
+a sitt for-mål, men er ei ek-strem
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
-\T1/lmr/m/n/9 kling. Ir-rasjonale tal er eit kom-plis-ert tema som mange bøker 
-for avansert matem-
+\T1/lmr/m/n/9 foren-kling. Ir-rasjonale tal er eit kom-plis-ert tema som mange 
+bøker for avansert
  []
 
 )
@@ -5348,21 +5348,21 @@ holdet mel-lom omkrin-sen
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/it/10.95 og ra-diusen\T1/lmr/m/n/10.95 . Ei enda meir brukt for-mu-le
-r-ing er at \T1/lmr/m/it/10.95 alle sirk-lar
+\T1/lmr/m/it/10.95 og ra-diusen\T1/lmr/m/n/10.95 . Ei enda van-le-gare for-mu-l
+er-ing er at \T1/lmr/m/it/10.95 alle sirk-lar har
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/it/10.95 har det same forholdet mel-lom omkrin-sen og di-am-e-teren\T
-1/lmr/m/n/10.95 . Vi let
+\T1/lmr/m/it/10.95 det same forholdet mel-lom omkrin-sen og di-am-e-teren\T1/lm
+r/m/n/10.95 . Vi let $\OML/lmm/m/it/10.95 D$
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\OML/lmm/m/it/10.95 D$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 d$ \T1/lmr/m/n
-/10.95 vere di-am-e-teren til høvesvis sirke-len med ra-dius $\OML/lmm/m/it/10.
-95 R$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 r$\T1/lmr/m/n/10.95 .
+\T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 d$ \T1/lmr/m/n/10.95 vere di-am-e-ter
+en til høvesvis sirke-len med ra-dius $\OML/lmm/m/it/10.95 R$ \T1/lmr/m/n/10.95
+ og $\OML/lmm/m/it/10.95 r$\T1/lmr/m/n/10.95 . Da
  []
 
 
@@ -5733,7 +5733,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  40136 strings out of 494923
  790408 string characters out of 6180741
- 875870 words of memory out of 5000000
+ 875851 words of memory out of 5000000
  41944 multiletter control sequences out of 15000+600000
  644832 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -5768,7 +5768,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G.pdf (168 pages, 1497835 bytes).
+Output written on G.pdf (168 pages, 1498324 bytes).
 PDF statistics:
  3193 PDF objects out of 3580 (max. 8388607)
  2728 compressed objects within 28 object streams

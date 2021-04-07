@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2958,12 +2958,6 @@ File: neg/../fig/neg7.pdf Graphic file (type pdf)
 <use neg/../fig/neg7.pdf>
 Package pdftex.def Info: neg/../fig/neg7.pdf  used on input line 90.
 (pdftex.def)             Requested size: 160.04753pt x 38.6543pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--93
-[]\T1/lmr/m/n/10.95 Subtracting a neg-a-tive num-ber is the same as adding the 
-num-
- []
-
 [62 <./neg/../fig/neg7.pdf>] [63]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 142.
@@ -3586,28 +3580,28 @@ File: geo/../fig/tri17.pdf Graphic file (type pdf)
 Package pdftex.def Info: geo/../fig/tri17.pdf  used on input line 321.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
  [85 <./geo/../fig/tri16.pdf> <./geo/../fig/tri17.pdf>]
-<geo/../fig/tri18.pdf, id=1642, 209.59303pt x 60.25511pt>
-File: geo/../fig/tri18.pdf Graphic file (type pdf)
-<use geo/../fig/tri18.pdf>
-Package pdftex.def Info: geo/../fig/tri18.pdf  used on input line 329.
-(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
-<geo/../fig/tri18a.pdf, id=1643, 294.95195pt x 97.36375pt>
-File: geo/../fig/tri18a.pdf Graphic file (type pdf)
-<use geo/../fig/tri18a.pdf>
-Package pdftex.def Info: geo/../fig/tri18a.pdf  used on input line 331.
-(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
- [86 <./geo/../fig/tri18.pdf> <./geo/../fig/tri18a.pdf>]
-<geo/../fig/tri20.pdf, id=1661, 142.76335pt x 125.82007pt>
+<geo/../fig/tri20.pdf, id=1642, 142.76335pt x 125.82007pt>
 File: geo/../fig/tri20.pdf Graphic file (type pdf)
 <use geo/../fig/tri20.pdf>
-Package pdftex.def Info: geo/../fig/tri20.pdf  used on input line 356.
+Package pdftex.def Info: geo/../fig/tri20.pdf  used on input line 329.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
-<geo/../fig/tri20a.pdf, id=1662, 142.76335pt x 125.82007pt>
+<geo/../fig/tri20a.pdf, id=1643, 142.76335pt x 125.82007pt>
 File: geo/../fig/tri20a.pdf Graphic file (type pdf)
 <use geo/../fig/tri20a.pdf>
-Package pdftex.def Info: geo/../fig/tri20a.pdf  used on input line 358.
+Package pdftex.def Info: geo/../fig/tri20a.pdf  used on input line 331.
 (pdftex.def)             Requested size: 142.76299pt x 125.81975pt.
- [87 <./geo/../fig/tri20.pdf> <./geo/../fig/tri20a.pdf>]
+ [86 <./geo/../fig/tri20.pdf> <./geo/../fig/tri20a.pdf>]
+<geo/../fig/tri18.pdf, id=1661, 209.59303pt x 60.25511pt>
+File: geo/../fig/tri18.pdf Graphic file (type pdf)
+<use geo/../fig/tri18.pdf>
+Package pdftex.def Info: geo/../fig/tri18.pdf  used on input line 342.
+(pdftex.def)             Requested size: 209.59251pt x 60.25494pt.
+<geo/../fig/tri18a.pdf, id=1662, 294.95195pt x 97.36375pt>
+File: geo/../fig/tri18a.pdf Graphic file (type pdf)
+<use geo/../fig/tri18a.pdf>
+Package pdftex.def Info: geo/../fig/tri18a.pdf  used on input line 344.
+(pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
+ [87 <./geo/../fig/tri18.pdf> <./geo/../fig/tri18a.pdf>]
 <geo/../fig/triar00_eng.pdf, id=1681, 321.78217pt x 65.8962pt>
 File: geo/../fig/triar00_eng.pdf Graphic file (type pdf)
 <use geo/../fig/triar00_eng.pdf>
@@ -3784,31 +3778,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
  []
 
 [98] [99] [100] [101] [102] [103]
-Underfull \hbox (badness 10000) in paragraph at lines 259--259
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
 \T1/lmr/m/n/10.95 The sym-bol [][][][][][] is called the \T1/lmr/m/it/10.95 rad
 -i-cal sign[]\T1/lmr/m/n/10.95 . In the case of an
  []
 
 [104]
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []\T1/lmr/m/n/10.95 A num-ber which is \T1/lmr/m/sl/10.95 not \T1/lmr/m/n/10.95
  a ra-tio-nal num-ber, is an ir-ra-tional num-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []\T1/lmr/m/n/10.95 The value of an ir-ra-tional num-ber are dec-i-mal num-bers
  with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 [][][][]\T1/lmr/m/n/9 Strictly speak-ing, ir-ra-tional num-bers are all \T1/lmr
 /m/it/9 real \T1/lmr/m/n/9 num-bers which are not ra-tio-nal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 \T1/lmr/m/n/9 num-bers. But to ex-plain what \T1/lmr/m/it/9 real \T1/lmr/m/n/9 
 num-bers are, we have to men-tion \T1/lmr/m/it/9 imag-i-nary
  []
@@ -5736,7 +5730,7 @@ e1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on G_eng.pdf (169 pages, 1500997 bytes).
+Output written on G_eng.pdf (169 pages, 1500853 bytes).
 PDF statistics:
  3200 PDF objects out of 3580 (max. 8388607)
  2734 compressed objects within 28 object streams
