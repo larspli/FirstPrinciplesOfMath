@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 20:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 MAY 2021 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2376,11 +2376,11 @@ Package pdftex.def Info: ../fig/tri18a.pdf  used on input line 344.
 (pdftex.def)             Requested size: 294.95122pt x 97.3635pt.
 
 [19 <../fig/tri18.pdf> <../fig/tri18a.pdf>]
-<../fig/triar00_eng.pdf, id=446, 321.78217pt x 65.8962pt>
+<../fig/triar00_eng.pdf, id=446, 321.78217pt x 63.76823pt>
 File: ../fig/triar00_eng.pdf Graphic file (type pdf)
 <use ../fig/triar00_eng.pdf>
 Package pdftex.def Info: ../fig/triar00_eng.pdf  used on input line 373.
-(pdftex.def)             Requested size: 321.78137pt x 65.89603pt.
+(pdftex.def)             Requested size: 321.78137pt x 63.76807pt.
 
 Overfull \hbox (10.50815pt too wide) in paragraph at lines 373--373
  [] 
@@ -2418,7 +2418,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  38165 strings out of 494923
  753813 string characters out of 6180741
- 843735 words of memory out of 5000000
+ 843734 words of memory out of 5000000
  40732 multiletter control sequences out of 15000+600000
  614469 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2439,7 +2439,7 @@ blic/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on geo_eng.pdf (21 pages, 432681 bytes).
+Output written on geo_eng.pdf (21 pages, 432476 bytes).
 PDF statistics:
  551 PDF objects out of 1000 (max. 8388607)
  445 compressed objects within 5 object streams

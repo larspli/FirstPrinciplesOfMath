@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  7 APR 2021 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.11)  5 MAY 2021 07:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2014,7 +2014,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  37914 strings out of 494923
  747583 string characters out of 6180741
- 845534 words of memory out of 5000000
+ 845533 words of memory out of 5000000
  40549 multiletter control sequences out of 15000+600000
  631622 words of font info for 103 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2029,7 +2029,7 @@ public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb>
-Output written on neg_eng.pdf (9 pages, 239058 bytes).
+Output written on neg_eng.pdf (9 pages, 239062 bytes).
 PDF statistics:
  187 PDF objects out of 1000 (max. 8388607)
  156 compressed objects within 2 object streams

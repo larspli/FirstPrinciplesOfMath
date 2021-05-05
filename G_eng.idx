@@ -1,7 +1,7 @@
 \indexentry{tal|hyperpage}{9}
 \indexentry{equal sign|hyperpage}{9}
 \indexentry{positive integers|hyperpage}{10}
-\indexentry{numbers!natural|hyperpage}{10}
+\indexentry{number!natural|hyperpage}{10}
 \indexentry{digits|hyperpage}{11}
 \indexentry{value|hyperpage}{11}
 \indexentry{coordinate system|hyperpage}{14}
@@ -16,7 +16,7 @@
 \indexentry{divisor|hyperpage}{23}
 \indexentry{quotient|hyperpage}{23}
 \indexentry{ratio|hyperpage}{23}
-\indexentry{numbers!prime|hyperpage}{27}
+\indexentry{number!prime|hyperpage}{27}
 \indexentry{factorization|hyperpage}{27}
 \indexentry{prime factorization|hyperpage}{27}
 \indexentry{fraction|hyperpage}{35}
@@ -28,10 +28,11 @@
 \indexentry{cancellation|hyperpage}{51}
 \indexentry{fraction!inverted|hyperpage}{55}
 \indexentry{number!rational|hyperpage}{57}
-\indexentry{numbers!negative|hyperpage}{59}
-\indexentry{numbers!positive|hyperpage}{59}
+\indexentry{number!negative|hyperpage}{59}
+\indexentry{number!positive|hyperpage}{59}
 \indexentry{length|hyperpage}{59}
-\indexentry{talverdi|hyperpage}{60}
+\indexentry{magnitude|hyperpage}{60}
+\indexentry{number!length of|hyperpage}{60}
 \indexentry{absolute value|hyperpage}{60}
 \indexentry{sign|hyperpage}{60}
 \indexentry{point|hyperpage}{69}
