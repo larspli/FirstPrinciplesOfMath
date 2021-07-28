@@ -296,7 +296,7 @@ x&=\frac{17}{2}
 \section{Potenslikningar}
 Lat oss løyse likninga
 \[ x^2=9 \]
-Dette kallast ei \textit{potenslikning}\index{potenslikning}. Potenlikningar er vanlegvis vanskelege å løyse berre ved hjelp av dei fire rekneartane, så her må vi også nytte oss av potensreglar. Vi opphøg begge sidene av likninga med den omvende brøken\footnote{Hugs at $ 2=\frac{2}{1} $.} til 2:
+Dette kallast ei \textit{potenslikning}\index{potenslikning}. Potenslikningar er vanlegvis vanskelege å løyse berre ved hjelp av dei fire rekneartane, så her må vi også nytte oss av potensreglar. Vi opphøg begge sidene av likninga med den omvende brøken\footnote{Hugs at $ 2=\frac{2}{1} $.} til 2:
 \[ \left(x^2\right)^\frac{1}{2}=9^\frac{1}{2} \]
 Av \rref{potsomgrunn} er
 \alg{
@@ -352,6 +352,82 @@ Altså er $ -3 $ også ei løysing av likninga vi starta med! \regv
 	har $ a $ løysingar, er ikkje alle naudsynleg \textit{reelle}\footnote{Som tidlegare nemnd, \textit{reelle} og \textit{imaginære} tal er noko vi ikkje går nærare inn på i denne boka}. I denne boka nøyer vi oss med å finne alle rasjonale eller irrasjonale tal som løyser likninga. For eksempel har likninga
 	\[ x^3=8 \]
 	3 løysingar, men vi nøyer oss med å finne at $ x=2 $ er ei løysing.
+}
+\section{Ulikskapar}
+\subsection{Introduksjon}
+Mens ei likning viser to uttrykk som er like, vil ein \textit{ulikskap}\index{ulikskap} vise to uttrykk som er ulike. For å skrive ulikskapar har vi desse symbola:\regv
+\st{
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{@{}cp{0.4cm}l}
+	$ < $ && ''er mindre enn'' \\
+	$ > $ && ''er større enn'' \\
+	$ \leq $ && ''er mindre enn eller lik'' \\
+	$ \geq $ && ''er større enn eller lik'' \\		
+\end{tabular}
+\renewcommand{\arraystretch}{1}
+} \vsk
+
+Ein ulikskap mellom to tal er avgjort av verdien og forteiknet til tala:\regv
+
+\reg[Uliskapar]{ \vs
+\begin{itemize}
+	\item Eit positivt tal er større enn eit negativt tal.
+	\item For tal med same forteikn, er det talet med størst verdi som er størst.
+	\item 0 er større enn eit kvart negativt tal og mindre enn eit kvart positivt tal.
+\end{itemize}
+}
+\eks[1]{ \vsb
+\[ 9>8 \]
+}
+\eks[2]{ \vsb
+	\[ -9<-8 \]
+}
+\eks[3]{ \vsb
+	\[ -7<1 \]
+}
+\eks[4]{ \vs
+\[ a-3\geq 1  \]
+Undersøk om ulikskapen er sann viss
+\abc{
+\item $ a=5 $
+\item $ a=4 $
+\item $ a=3 $
+}
+\sv
+\abc{
+\item Når $ a=5 $, har vi at
+\alg{
+	5-3 \geq 1 \\
+	2 \geq 1
+}
+Sidan $ 2<1 $, er ulikskapen sann.	
+\item Når $ a=4 $, har vi at
+\alg{
+4-3 \geq 1 \\
+1 \geq 1
+}
+Sidan $ 1=1 $, er ulikskapen sann.
+\item Når $ a=5 $, har vi at
+\alg{
+	5-3 \geq 1 \\
+	2 \geq 1
+}
+Sidan $ 2<1 $, er ulikskapen sann.	
+\item Når $ a=5 $, har vi at
+\alg{
+	5-3 \geq 1 \\
+	2 \geq 1
+}
+Sidan $ 2<1 $, er ulikskapen sann.
+}
+}
+
+\subsection{Løysing av ulikskapar}
+Vi kan løyse ulikskapar ved å bruke metodane fra \rref{lsmlig}, men med eitt unntak; \textsl{om vi gongar eller deler med negative tal, skiftar ulikskapen symbol}. For å forklare kva som skjer, lat oss bruke den enkle ulikskapen 
+\[ 9>8 \]
+Om vi gongar begge sider av ulikskapen med $ -1 $, får vi $ -9 $ på venstre side og $ -8 $ på høgre side. Men $ -9 < -8$. Symbolet fra vår opprinnelege ulikskap har altså endra seg frå \sym{>} til \sym{<}
+\reg[Løysing av ulikskapar]{
+Når ein gongar eller deler begge sider av ein ulikskap med eit negativt tal, vil $ \sym{>} $ endre seg til $ \sym{<} $, og omvend.
 }
 \end{document}
 

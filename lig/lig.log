@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  12 JUL 2021 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  27 JUL 2021 08:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1401,12 +1401,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../fig/lig.pdf, id=42, 137.0721pt x 68.78699pt>
+<../fig/lig.pdf, id=54, 137.0721pt x 68.78699pt>
 File: ../fig/lig.pdf Graphic file (type pdf)
 <use ../fig/lig.pdf>
 Package pdftex.def Info: ../fig/lig.pdf  used on input line 22.
 (pdftex.def)             Requested size: 137.07175pt x 68.7868pt.
-<../fig/lig1.pdf, id=43, 133.97052pt x 80.57101pt>
+<../fig/lig1.pdf, id=55, 133.97052pt x 80.57101pt>
 File: ../fig/lig1.pdf Graphic file (type pdf)
 <use ../fig/lig1.pdf>
 Package pdftex.def Info: ../fig/lig1.pdf  used on input line 23.
@@ -1417,17 +1417,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
  samsvar mel-lom stør-relsen på rutene og
  []
 
-<../fig/lig2.pdf, id=45, 149.87996pt x 43.18132pt>
+<../fig/lig2.pdf, id=57, 149.87996pt x 43.18132pt>
 File: ../fig/lig2.pdf Graphic file (type pdf)
 <use ../fig/lig2.pdf>
 Package pdftex.def Info: ../fig/lig2.pdf  used on input line 29.
 (pdftex.def)             Requested size: 149.87958pt x 43.1812pt.
-<../fig/lig2b.pdf, id=46, 263.68513pt x 43.18132pt>
+<../fig/lig2b.pdf, id=58, 263.68513pt x 43.18132pt>
 File: ../fig/lig2b.pdf Graphic file (type pdf)
 <use ../fig/lig2b.pdf>
 Package pdftex.def Info: ../fig/lig2b.pdf  used on input line 32.
 (pdftex.def)             Requested size: 263.68448pt x 43.1812pt.
-<../fig/lig2c.pdf, id=47, 64.52104pt x 43.18132pt>
+<../fig/lig2c.pdf, id=59, 64.52104pt x 43.18132pt>
 File: ../fig/lig2c.pdf Graphic file (type pdf)
 <use ../fig/lig2c.pdf>
 Package pdftex.def Info: ../fig/lig2c.pdf  used on input line 35.
@@ -1468,7 +1468,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 /lmr/m/sl/9 sek-sjon [][]\T1/lmr/m/n/9 ) på ven-stre side.
  []
 
-<../fig/lig4.pdf, id=111, 213.89912pt x 43.18132pt>
+<../fig/lig4.pdf, id=123, 213.89912pt x 43.18132pt>
 File: ../fig/lig4.pdf Graphic file (type pdf)
 <use ../fig/lig4.pdf>
 Package pdftex.def Info: ../fig/lig4.pdf  used on input line 48.
@@ -1480,7 +1480,7 @@ Overfull \hbox (0.30789pt too wide) in paragraph at lines 49--50
 95 x$ \T1/lmr/m/n/10.95 på begge 
  []
 
-<../fig/lig5.pdf, id=112, 356.1606pt x 43.18132pt>
+<../fig/lig5.pdf, id=124, 356.1606pt x 43.18132pt>
 File: ../fig/lig5.pdf Graphic file (type pdf)
 <use ../fig/lig5.pdf>
 Package pdftex.def Info: ../fig/lig5.pdf  used on input line 51.
@@ -1490,18 +1490,18 @@ Overfull \hbox (14.72664pt too wide) in paragraph at lines 51--51
  [] 
  []
 
-<../fig/lig5b.pdf, id=113, 121.42365pt x 43.18132pt>
+<../fig/lig5b.pdf, id=125, 121.42365pt x 43.18132pt>
 File: ../fig/lig5b.pdf Graphic file (type pdf)
 <use ../fig/lig5b.pdf>
 Package pdftex.def Info: ../fig/lig5b.pdf  used on input line 54.
 (pdftex.def)             Requested size: 121.42334pt x 43.1812pt.
-<../fig/lig6.pdf, id=114, 206.78253pt x 43.18132pt>
+<../fig/lig6.pdf, id=126, 206.78253pt x 43.18132pt>
 File: ../fig/lig6.pdf Graphic file (type pdf)
 <use ../fig/lig6.pdf>
 Package pdftex.def Info: ../fig/lig6.pdf  used on input line 57.
 (pdftex.def)             Requested size: 206.78201pt x 43.1812pt.
 [3 <../fig/lig4.pdf> <../fig/lig5.pdf> <../fig/lig5b.pdf> <../fig/lig6.pdf>]
-<../fig/lig7.pdf, id=156, 92.97736pt x 43.18132pt>
+<../fig/lig7.pdf, id=168, 92.97736pt x 43.18132pt>
 File: ../fig/lig7.pdf Graphic file (type pdf)
 <use ../fig/lig7.pdf>
 Package pdftex.def Info: ../fig/lig7.pdf  used on input line 61.
@@ -1525,17 +1525,17 @@ Overfull \hbox (7.44916pt too wide) in paragraph at lines 98--99
  []
 
 [4 <../fig/lig7.pdf>]
-<../fig/lig8.pdf, id=171, 135.6568pt x 28.95819pt>
+<../fig/lig8.pdf, id=183, 135.6568pt x 28.95819pt>
 File: ../fig/lig8.pdf Graphic file (type pdf)
 <use ../fig/lig8.pdf>
 Package pdftex.def Info: ../fig/lig8.pdf  used on input line 100.
 (pdftex.def)             Requested size: 135.65646pt x 28.95811pt.
-<../fig/lig9.pdf, id=172, 164.10309pt x 29.45003pt>
+<../fig/lig9.pdf, id=184, 164.10309pt x 29.45003pt>
 File: ../fig/lig9.pdf Graphic file (type pdf)
 <use ../fig/lig9.pdf>
 Package pdftex.def Info: ../fig/lig9.pdf  used on input line 103.
 (pdftex.def)             Requested size: 164.10268pt x 29.44994pt.
-<../fig/lig10.pdf, id=173, 64.52104pt x 28.95819pt>
+<../fig/lig10.pdf, id=185, 64.52104pt x 28.95819pt>
 File: ../fig/lig10.pdf Graphic file (type pdf)
 <use ../fig/lig10.pdf>
 Package pdftex.def Info: ../fig/lig10.pdf  used on input line 106.
@@ -1546,7 +1546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--115
  []
 
 [5 <../fig/lig8.pdf> <../fig/lig9.pdf> <../fig/lig10.pdf>]
-<../fig/lig11.pdf, id=204, 65.70547pt x 28.95819pt>
+<../fig/lig11.pdf, id=216, 65.70547pt x 28.95819pt>
 File: ../fig/lig11.pdf Graphic file (type pdf)
 <use ../fig/lig11.pdf>
 Package pdftex.def Info: ../fig/lig11.pdf  used on input line 141.
@@ -1557,18 +1557,18 @@ Overfull \hbox (11.38197pt too wide) in paragraph at lines 142--144
 n-stresida viss vi legg til to ek-sem-plar av $[]$. Likninga 
  []
 
-<../fig/lig12.pdf, id=205, 250.64642pt x 28.95819pt>
+<../fig/lig12.pdf, id=217, 250.64642pt x 28.95819pt>
 File: ../fig/lig12.pdf Graphic file (type pdf)
 <use ../fig/lig12.pdf>
 Package pdftex.def Info: ../fig/lig12.pdf  used on input line 145.
 (pdftex.def)             Requested size: 250.6458pt x 28.95811pt.
 [6 <../fig/lig11.pdf> <../fig/lig12.pdf>]
-<../fig/lig12b.pdf, id=236, 108.38493pt x 43.18132pt>
+<../fig/lig12b.pdf, id=248, 108.38493pt x 43.18132pt>
 File: ../fig/lig12b.pdf Graphic file (type pdf)
 <use ../fig/lig12b.pdf>
 Package pdftex.def Info: ../fig/lig12b.pdf  used on input line 148.
 (pdftex.def)             Requested size: 108.38466pt x 43.1812pt.
-<../fig/lig13.pdf, id=237, 107.2005pt x 43.18132pt>
+<../fig/lig13.pdf, id=249, 107.2005pt x 43.18132pt>
 File: ../fig/lig13.pdf Graphic file (type pdf)
 <use ../fig/lig13.pdf>
 Package pdftex.def Info: ../fig/lig13.pdf  used on input line 151.
@@ -1656,26 +1656,45 @@ l som
  []
 
 [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
+Underfull \hbox (badness 10000) in paragraph at lines 378--378
+[]\T1/lmr/m/n/10.95 For tal med same forteikn, er det talet med størst verdi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--378
+[]\T1/lmr/m/n/10.95 0 er større enn eit kvart neg-a-tivt tal og min-dre enn eit
+
+ []
+
+[14
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
+[]\T1/lmr/m/n/10.95 Når ein gongar eller deler begge sider av ein ulik-skap med
+ eit
+ []
+
+[15] [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 432.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 432.
  (./lig.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 356.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 432.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 432.
 Package rerunfilecheck Info: File `lig.out' has not changed.
-(rerunfilecheck)             Checksum: 6F7BE4F7904E097B0EFEFC5C79F3FAA6;240.
+(rerunfilecheck)             Checksum: FEC776BFF8D80A9CB4ACB6EFE1131099;429.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31460 strings out of 481239
- 617662 string characters out of 5920378
- 935346 words of memory out of 5000000
- 46001 multiletter control sequences out of 15000+600000
+ 31505 strings out of 481239
+ 618402 string characters out of 5920378
+ 938407 words of memory out of 5000000
+ 46029 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,20n,104p,869b,912s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,20n,104p,869b,981s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
@@ -1698,10 +1717,10 @@ blic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on lig.pdf (13 pages, 372133 bytes).
+Output written on lig.pdf (16 pages, 381500 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 35 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 431 PDF objects out of 1000 (max. 8388607)
+ 367 compressed objects within 4 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
