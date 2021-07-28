@@ -369,10 +369,10 @@ Mens ei likning viser to uttrykk som er like, vil ein \textit{ulikskap}\index{ul
 
 Ein ulikskap mellom to tal er avgjort av verdien og forteiknet til tala:\regv
 
-\reg[Uliskapar]{ \vs
+\reg[Ulikskapar]{ \vs
 \begin{itemize}
 	\item Eit positivt tal er større enn eit negativt tal.
-	\item For tal med same forteikn, er det talet med størst verdi som er størst.
+	\item For tal med same forteikn, er det talet med størst\\ absoluttverdi som er størst.
 	\item 0 er større enn eit kvart negativt tal og mindre enn eit kvart positivt tal.
 \end{itemize}
 }
@@ -385,6 +385,7 @@ Ein ulikskap mellom to tal er avgjort av verdien og forteiknet til tala:\regv
 \eks[3]{ \vsb
 	\[ -7<1 \]
 }
+\newpage
 \eks[4]{ \vs
 \[ a-3\geq 1  \]
 Undersøk om ulikskapen er sann viss
@@ -406,28 +407,45 @@ Sidan $ 2<1 $, er ulikskapen sann.
 4-3 \geq 1 \\
 1 \geq 1
 }
-Sidan $ 1=1 $, er ulikskapen sann.
-\item Når $ a=5 $, har vi at
+Sidan 1 er lik 1, er ulikskapen sann.	
+\item Når $ a=3 $, har vi at
 \alg{
-	5-3 \geq 1 \\
-	2 \geq 1
+	3-3 \geq 1 \\
+	0 \geq 1
 }
-Sidan $ 2<1 $, er ulikskapen sann.	
-\item Når $ a=5 $, har vi at
-\alg{
-	5-3 \geq 1 \\
-	2 \geq 1
-}
-Sidan $ 2<1 $, er ulikskapen sann.
+Sidan 0 er mindre enn 1, er ulikskapen usann.
 }
 }
-
+\newpage
 \subsection{Løysing av ulikskapar}
 Vi kan løyse ulikskapar ved å bruke metodane fra \rref{lsmlig}, men med eitt unntak; \textsl{om vi gongar eller deler med negative tal, skiftar ulikskapen symbol}. For å forklare kva som skjer, lat oss bruke den enkle ulikskapen 
 \[ 9>8 \]
-Om vi gongar begge sider av ulikskapen med $ -1 $, får vi $ -9 $ på venstre side og $ -8 $ på høgre side. Men $ -9 < -8$. Symbolet fra vår opprinnelege ulikskap har altså endra seg frå \sym{>} til \sym{<}
+Om vi gongar begge sider av ulikskapen med $ -1 $, får vi $ -9 $ på venstre side og $ -8 $ på høgre side. Men $ {-9 < -8}$. Symbolet fra vår opprinnelege ulikskap har altså endra seg frå \sym{>} til \sym{<}. \regv
+
 \reg[Løysing av ulikskapar]{
-Når ein gongar eller deler begge sider av ein ulikskap med eit negativt tal, vil $ \sym{>} $ endre seg til $ \sym{<} $, og omvend.
+Ulikskapar kan løysast på same måte som likningar, men med eit unntak: Viss ein gongar eller deler begge sider av ein ulikskap med eit negativt tal, vil $ \sym{>} $ endre seg til $ \sym{<} $, og omvend.
+}
+\eks[1]{
+Løys ulikskapen
+\[ 5x-3\geq2x+6 \]
+\sv \vsb \vsb 
+\alg{
+ 5x-3&\geq2x+6 \\
+ 3x&\geq 9 \\
+ x &\geq 3
+}
+}
+\eks[2]{
+Løys ulikskpaen 
+\[ 4x-8\leq6x+12 \]
+\sv \vsb \vsb
+\alg{
+4x-8&\leq6x+12 \\
+-2x&\leq20 \\
+\frac{\cancel{-2}x}{\cancel{-2}}&\geq \frac{20}{-2} \\
+x&\geq -10
+}
+\mer Her kan ein sjølvsagt unngå å dele med $ -2 $ ved å isolere $ x $-ane på høgre side av ulikskapen i staden for venstre.
 }
 \end{document}
 
