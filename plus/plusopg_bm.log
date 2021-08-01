@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  1 AUG 2021 06:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  31 JUL 2021 08:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**plus.tex
-(./plus.tex
+**plusopg_bm.tex
+(./plusopg_bm.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (../doc.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
@@ -55,7 +55,7 @@ File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)) (../preamb.tex
+)) (../preamb_bm.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
@@ -1043,11 +1043,11 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
 )
-\plus@idxfile=\write6
-\openout6 = `plus.idx'.
+\plusopg_bm@idxfile=\write6
+\openout6 = `plusopg_bm.idx'.
 
 
-Writing index file plus.idx
+Writing index file plusopg_bm.idx
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks47
@@ -1079,6 +1079,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitdp@description=\count345
 )
 \c@rg=\count346
+\c@opg=\count347
 
 (/usr/share/texlive/texmf-dist/tex/latex/datetime2/datetime2.sty
 Package: datetime2 2019/11/11 v1.5.5 (NLCT) date and time formats
@@ -1124,8 +1125,8 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen330
-\Hy@linkcounter=\count347
-\Hy@pagecounter=\count348
+\Hy@linkcounter=\count348
+\Hy@pagecounter=\count349
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
@@ -1138,8 +1139,8 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count349
-\pdfmajorversion=\count350
+\Hy@SavedSpaceFactor=\count350
+\pdfmajorversion=\count351
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
 Package hyperref Info: Hyper index ON on input line 4555.
@@ -1147,7 +1148,7 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count351
+\c@Hy@tempcnt=\count352
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
@@ -1163,7 +1164,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count352
+\Fld@menulength=\count353
 \Field@Width=\dimen332
 \Fld@charsize=\dimen333
 Package hyperref Info: Hyper figures OFF on input line 6430.
@@ -1179,9 +1180,9 @@ LaTeX Info: Redefining \pageref on input line 6504.
 (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count353
-\c@Item=\count354
-\c@Hfootnote=\count355
+\Hy@abspage=\count354
+\c@Item=\count355
+\c@Hfootnote=\count356
 )
 Package hyperref Info: Driver: hpdftex.
 
@@ -1191,8 +1192,8 @@ File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count356
-\c@bookmark@seq@number=\count357
+\Fld@listcount=\count357
+\c@bookmark@seq@number=\count358
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -1205,8 +1206,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip135
 )
-(./plus.aux)
-\openout1 = `plus.aux'.
+(./plusopg_bm.aux)
+\openout1 = `plusopg_bm.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -1268,16 +1269,16 @@ Package geometry Warning: The marginal notes overrun the paper.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count358
+\scratchcounter=\count359
 \scratchdimen=\dimen334
 \scratchbox=\box139
-\nofMPsegments=\count359
-\nofMParguments=\count360
+\nofMPsegments=\count360
+\nofMParguments=\count361
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count361
+\MPscratchCnt=\count362
 \MPscratchDim=\dimen335
-\MPnumerator=\count362
-\makeMPintoPDFobject=\count363
+\MPnumerator=\count363
+\makeMPintoPDFobject=\count364
 \everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1314,150 +1315,42 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count364
+\c@section@level=\count365
 )
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
 
-(./plus.out) (./plus.out)
+(./plusopg_bm.out) (./plusopg_bm.out)
 \@outlinefile=\write7
-\openout7 = `plus.out'.
+\openout7 = `plusopg_bm.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
-.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
-.
+ [1
 
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-7.
-
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-7.
-
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 7.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 7.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 7.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+esint on input line 7
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
-File: uesint.fd 
-)
-<../fig/plusm1.pdf, id=11, 85.86078pt x 43.18132pt>
-File: ../fig/plusm1.pdf Graphic file (type pdf)
-<use ../fig/plusm1.pdf>
-Package pdftex.def Info: ../fig/plusm1.pdf  used on input line 9.
-(pdftex.def)             Requested size: 85.86057pt x 43.1812pt.
-<../fig/plusm1a.pdf, id=12, 85.86078pt x 43.18132pt>
-File: ../fig/plusm1a.pdf Graphic file (type pdf)
-<use ../fig/plusm1a.pdf>
-Package pdftex.def Info: ../fig/plusm1a.pdf  used on input line 12.
-(pdftex.def)             Requested size: 85.86057pt x 43.1812pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
-[]\T1/lmr/m/n/10.95 Eit ad-dis-jon-sstykke består av to eller fleire \T1/lmr/m/
-it/10.95 ledd[] \T1/lmr/m/n/10.95 og éin \T1/lmr/m/it/10.95 sum[]\T1/lmr/m/n/10
-.95 . I
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-6.
-(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/plusm1.pdf> <../fig
-/plusm1a.pdf>]
-<../fig/plus2.pdf, id=37, 233.54251pt x 37.741pt>
-File: ../fig/plus2.pdf Graphic file (type pdf)
-<use ../fig/plus2.pdf>
-Package pdftex.def Info: ../fig/plus2.pdf  used on input line 43.
-(pdftex.def)             Requested size: 233.54193pt x 37.74089pt.
-<../fig/plus3.pdf, id=38, 307.45866pt x 37.62054pt>
-File: ../fig/plus3.pdf Graphic file (type pdf)
-<use ../fig/plus3.pdf>
-Package pdftex.def Info: ../fig/plus3.pdf  used on input line 47.
-(pdftex.def)             Requested size: 307.4579pt x 37.62044pt.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 50.
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-[][][][][][][] \T1/lmr/m/n/10.95 gir oss moglegheiten til å ut-trykke tal på ma
-nge forskjel-lige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 må-tar, for ek-sem-pel er $[]$ og $[]$. I denne saman-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 hen-gen vil [][][][][][] bety ''har same verdi som''. Dette g
-jeld også ved
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\T1/lmr/m/n/10.95 sub-trak-sjon, mul-ti-p-likasjon og di-visjon, som vi skal sj
-å på i dei
- []
-
-[2 <../fig/plus2.pdf> <../fig/plus3.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
- (./plus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
-Package rerunfilecheck Info: File `plus.out' has not changed.
-(rerunfilecheck)             Checksum: 4D064E56FAD53526885990794EB95AD5;45.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 11.
+ (./plusopg_bm.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 11.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11.
+Package rerunfilecheck Info: File `plusopg_bm.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31271 strings out of 481239
- 614783 string characters out of 5920378
- 932222 words of memory out of 5000000
- 45870 multiletter control sequences out of 15000+600000
- 586992 words of font info for 71 fonts, out of 8000000 for 9000
+ 30988 strings out of 481239
+ 609110 string characters out of 5920378
+ 924437 words of memory out of 5000000
+ 45646 multiletter control sequences out of 15000+600000
+ 542394 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,9n,104p,870b,887s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/
-share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmro10.pfb>
-Output written on plus.pdf (2 pages, 121953 bytes).
+ 70i,5n,104p,879b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
+public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmr12.pfb>
+Output written on plusopg_bm.pdf (1 page, 57247 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 30 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
