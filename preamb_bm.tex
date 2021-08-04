@@ -76,7 +76,7 @@
 \definecolor{neg}{cmyk}{1,0.,0.,0}
 
 % Lister med bokstavar
-\usepackage{enumitem}
+\usepackage[inline]{enumitem}
 
 \newcounter{rg}
 \numberwithin{rg}{chapter}
@@ -240,6 +240,16 @@
 		#1
 	\end{enumerate}
 }
+\newcommand{\abcn}[1]{
+	\begin{enumerate}[label=\arabic*),leftmargin=18pt]
+		#1
+	\end{enumerate}
+}
+\newcommand{\abch}[1]{
+\hspace{-2pt}	\begin{enumerate*}[label=\alph*), itemjoin=\hspace{1cm}]
+		#1
+	\end{enumerate*}
+}
 \newcommand{\opgt}{\phantomsection \addcontentsline{toc}{section}{Oppgaver} \section*{Oppgaver for kapittel \thechapter}\vs \setcounter{section}{1}}
 \newcounter{opg}
 \numberwithin{opg}{section}
@@ -248,6 +258,9 @@
 \newcommand{\nes}{\stepcounter{section}
 	\setcounter{opg}{0}}
 \newcommand{\opr}[1]{\vspace{3pt}\textbf{\ref{#1}}}
+\newcommand{\oeks}[1]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,colback=white]
+\textit{Eksempel: } #1	  
+\end{tcolorbox}}
 
 %License
 \newcommand{\lic}{\textit{Matematikken sine byggesteiner by Sindre Sogge Heggen is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit\\ 
