@@ -60,12 +60,15 @@
 \contentsline {subsubsection}{Deling}{113}{subsubsection*.84}%
 \contentsline {section}{\numberline {8.3}Løysingsmetodane oppsummert}{117}{section.8.3}%
 \contentsline {section}{\numberline {8.4}Potenslikningar}{120}{section.8.4}%
-\contentsline {chapter}{\numberline {9}Funksjonar }{122}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Introduksjon}{123}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Lineære funksjonar og grafar}{126}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Geometri}{134}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Formlar for areal og omkrins}{135}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Kongruente og formlike trekantar}{145}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Forklaringar}{150}{section.10.3}%
+\contentsline {section}{\numberline {8.5}Ulikskapar}{122}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Introduksjon}{122}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Løysing av ulikskapar}{124}{subsection.8.5.2}%
+\contentsline {chapter}{\numberline {9}Funksjonar }{125}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduksjon}{126}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Lineære funksjonar og grafar}{129}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Geometri}{137}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Formlar for areal og omkrins}{138}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Kongruente og formlike trekantar}{148}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Forklaringar}{153}{section.10.3}%
 
-\contentsline {chapter}{Indeks}{166}{chapter*.103}%
+\contentsline {chapter}{Indeks}{169}{chapter*.105}%

@@ -1,15 +1,15 @@
 \begin{theindex}
 
-  \item $ \pi $, \hyperpage{156}
+  \item $ \pi $, \hyperpage{159}
 
   \indexspace
 
   \item absoluttverdi, \hyperpage{60}
   \item algebra, \hyperpage{92}
   \item areal, \hyperpage{83}
-    \subitem til rektangel, \hyperpage{135}
-    \subitem til sirkel, \hyperpage{141}
-    \subitem til trapes, \hyperpage{138}
+    \subitem til rektangel, \hyperpage{138}
+    \subitem til sirkel, \hyperpage{144}
+    \subitem til trapes, \hyperpage{141}
 
   \indexspace
 
@@ -38,12 +38,12 @@
   \item firkant, \hyperpage{76}
   \item forhold, \hyperpage{23}
   \item forholdstal, \hyperpage{23}
-  \item formel, \hyperpage{135}
+  \item formel, \hyperpage{138}
   \item forteikn, \hyperpage{60}
-  \item funksjon, \hyperpage{123}
-    \subitem grafen til, \hyperpage{126}
-    \subitem lineær, \hyperpage{126}
-  \item funksjonsuttrykk, \hyperpage{123}
+  \item funksjon, \hyperpage{126}
+    \subitem grafen til, \hyperpage{129}
+    \subitem lineær, \hyperpage{129}
+  \item funksjonsuttrykk, \hyperpage{126}
 
   \indexspace
 
@@ -58,7 +58,7 @@
 
   \indexspace
 
-  \item intervall, \hyperpage{126}
+  \item intervall, \hyperpage{129}
 
   \indexspace
 
@@ -66,7 +66,7 @@
   \item kant, \hyperpage{76}
   \item katet, \hyperpage{78}
   \item konstant, \hyperpage{92}
-  \item konstantledd, \hyperpage{128}
+  \item konstantledd, \hyperpage{131}
   \item koordinatsystem, \hyperpage{14}
   \item kvotient, \hyperpage{23}
 
@@ -91,7 +91,7 @@
   \indexspace
 
   \item omkrins, \hyperpage{82}
-    \subitem til sirkel, \hyperpage{140}
+    \subitem til sirkel, \hyperpage{143}
   \item overflate, \hyperpage{83}
 
   \indexspace
@@ -114,11 +114,11 @@
   \item sektor, \hyperpage{71}
   \item side
     \subitem i mangekant, \hyperpage{76}
-    \subitem samsvarande, \hyperpage{146}
+    \subitem samsvarande, \hyperpage{149}
   \item siffer, \hyperpage{11}
   \item sirkel, \hyperpage{71}
     \subitem sentrum i, \hyperpage{71}
-  \item stigingstal, \hyperpage{128}
+  \item stigingstal, \hyperpage{131}
   \item sum, \hyperpage{16}
 
   \indexspace
@@ -131,12 +131,16 @@
     \subitem rasjonalt, \hyperpage{57}
   \item talverdi, \hyperpage{60}
   \item tellar, \hyperpage{35}
-  \item til parallellogram, \hyperpage{137}
-  \item til trekant, \hyperpage{136}
+  \item til parallellogram, \hyperpage{140}
+  \item til trekant, \hyperpage{139}
   \item toppvinkel, \hyperpage{75}
   \item trekant, \hyperpage{76}
-    \subitem formlik, \hyperpage{145}
-    \subitem kongruet, \hyperpage{145}
+    \subitem formlik, \hyperpage{148}
+    \subitem kongruet, \hyperpage{148}
+
+  \indexspace
+
+  \item ulikskap, \hyperpage{122}
 
   \indexspace
 
