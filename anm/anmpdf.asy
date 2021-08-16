@@ -1,6 +1,6 @@
 size(8cm,4.5cm,IgnoreAspect);
 settings.outformat="pdf";
-
+usepackage("icomma");
 usepackage("asycolors");
 import x11colors;
 usepackage("xcolor");
