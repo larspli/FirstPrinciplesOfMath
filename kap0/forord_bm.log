@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  15 AUG 2021 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  18 AUG 2021 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1453,14 +1453,14 @@ e. På
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
-[]\T1/lmr/m/n/10.95 Boka blir op-p-datert så snart som råd et-ter at skrive-fei
-l og lig-
+[]\T1/lmr/m/n/10.95 Boka blir op-p-datert så snart som råd når skrive-feil og l
+ig-nende
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\T1/lmr/m/n/10.95 nende blir op-pdaget. Jeg vil der-for råde alle til å laste n
-ed en ny
+\T1/lmr/m/n/10.95 blir op-pdaget, jeg vil der-for råde alle til å laste ned en 
+ny ver-
  []
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
@@ -1491,7 +1491,7 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on forord_bm.pdf (3 pages, 238738 bytes).
+Output written on forord_bm.pdf (3 pages, 238744 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
