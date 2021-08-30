@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  14 AUG 2021 10:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  30 AUG 2021 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1927,6 +1927,11 @@ kan altså vere ko-rtare
  []
 
 [16 <../fig/tri12.pdf> <../fig/tri12b.pdf> <../fig/tri12c.pdf>]
+Overfull \hbox (2.74152pt too wide) in paragraph at lines 320--321
+[]\T1/lmr/m/n/10.95 La oss finne arealet til ein rettvin-kla trekant med grunnl
+inje $\OT1/lmr/m/n/10.95 5$ \T1/lmr/m/n/10.95 og høgde 
+ []
+
 <../fig/tri16.pdf, id=386, 110.011pt x 71.75809pt>
 File: ../fig/tri16.pdf Graphic file (type pdf)
 <use ../fig/tri16.pdf>
@@ -1937,7 +1942,7 @@ File: ../fig/tri17.pdf Graphic file (type pdf)
 <use ../fig/tri17.pdf>
 Package pdftex.def Info: ../fig/tri17.pdf  used on input line 323.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
- [17 <../fig/tri16.pdf> <../fig/tri17.pdf>]
+[17 <../fig/tri16.pdf> <../fig/tri17.pdf>]
 Overfull \hbox (4.57735pt too wide) in paragraph at lines 329--329
 []\T1/lmr/m/it/10.95 2) Til-fel-let der høgda ligg inni trekan-ten, men ikkje h
 ar felles en-depunkt 
@@ -2033,7 +2038,7 @@ ic/lm/lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/l
 msy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on geo.pdf (21 pages, 434043 bytes).
+Output written on geo.pdf (21 pages, 434044 bytes).
 PDF statistics:
  554 PDF objects out of 1000 (max. 8388607)
  448 compressed objects within 5 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  15 AUG 2021 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  30 AUG 2021 21:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1490,14 +1490,14 @@ e. På
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[]\T1/lmr/m/n/10.95 Boka blir op-p-datert så snart som råd et-ter at skrive-fei
-l og lik-
+[]\T1/lmr/m/n/10.95 Boka blir op-p-datert så snart som råd når skrive-feil og l
+ik-nande
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
-\T1/lmr/m/n/10.95 nande blir op-pdaga, eg vil der-for råde alle til å laste ned
- ein ny
+\T1/lmr/m/n/10.95 blir op-pdaga, eg vil der-for råde alle til å laste ned ein n
+y ver-sjon
  []
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
@@ -3177,6 +3177,11 @@ kan altså vere ko-rtare
 
 [84 <./geo/../fig/tri12.pdf> <./geo/../fig/tri12b.pdf> <./geo/../fig/tri12c.pdf
 >]
+Overfull \hbox (2.74152pt too wide) in paragraph at lines 320--321
+[]\T1/lmr/m/n/10.95 La oss finne arealet til ein rettvin-kla trekant med grunnl
+inje $\OT1/lmr/m/n/10.95 5$ \T1/lmr/m/n/10.95 og høgde 
+ []
+
 <geo/../fig/tri16.pdf, id=1637, 110.011pt x 71.75809pt>
 File: geo/../fig/tri16.pdf Graphic file (type pdf)
 <use geo/../fig/tri16.pdf>
@@ -3187,7 +3192,7 @@ File: geo/../fig/tri17.pdf Graphic file (type pdf)
 <use geo/../fig/tri17.pdf>
 Package pdftex.def Info: geo/../fig/tri17.pdf  used on input line 323.
 (pdftex.def)             Requested size: 110.01073pt x 71.7579pt.
- [85 <./geo/../fig/tri16.pdf> <./geo/../fig/tri17.pdf>]
+[85 <./geo/../fig/tri16.pdf> <./geo/../fig/tri17.pdf>]
 Overfull \hbox (4.57735pt too wide) in paragraph at lines 329--329
 []\T1/lmr/m/it/10.95 2) Til-fel-let der høgda ligg inni trekan-ten, men ikkje h
 ar felles en-depunkt 
@@ -3284,8 +3289,8 @@ te reglar
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\T1/lmr/m/n/10.95 som det er lett å ut-vide også til an-dre til-felle. Lat oss 
-som eit
+\T1/lmr/m/n/10.95 som det er lett å ut-vide også til an-dre til-felle. La oss s
+om eit
  []
 
 
@@ -4591,8 +4596,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 465--465
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 Lat oss kalle side-lengda til 12-kanten for $\OML/lmm/m/it/10
-.95 s[]$ \T1/lmr/m/n/10.95 og side-lengda til 6-
+\T1/lmr/m/n/10.95 La oss kalle side-lengda til 12-kanten for $\OML/lmm/m/it/10.
+95 s[]$ \T1/lmr/m/n/10.95 og side-lengda til 6-
  []
 
 
@@ -4667,9 +4672,9 @@ d
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 dobbelt så mange sider som den an-dre. Lat $\OML/lmm/m/it/10.
-95 s[]$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 høvesv
-is
+\T1/lmr/m/n/10.95 dobbelt så mange sider som den an-dre. La $\OML/lmm/m/it/10.9
+5 s[]$ \T1/lmr/m/n/10.95 og $\OML/lmm/m/it/10.95 s[]$ \T1/lmr/m/n/10.95 høvesvi
+s
  []
 
 
@@ -4907,14 +4912,14 @@ ive
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/lmr/m/n/10.95 Lat oss der-for tenke oss mangekan-tar med så mange sider a
-t
+[]\T1/lmr/m/n/10.95 La oss der-for tenke oss mangekan-tar med så mange sider at
+ vi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
-\T1/lmr/m/n/10.95 vi godtek deira omkrins som lik omkrin-sane til sirk-lane. Om
- vi
+\T1/lmr/m/n/10.95 godtek deira omkrins som lik omkrin-sane til sirk-lane. Om vi
+
  []
 
 
@@ -5318,7 +5323,7 @@ Package rerunfilecheck Info: File `MB.out' has not changed.
 Here is how much of TeX's memory you used:
  34117 strings out of 481239
  666115 string characters out of 5920378
- 963350 words of memory out of 5000000
+ 963344 words of memory out of 5000000
  47826 multiletter control sequences out of 15000+600000
  647263 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5354,7 +5359,7 @@ are/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/symbols/msam10.pfb>
-Output written on MB.pdf (171 pages, 1505858 bytes).
+Output written on MB.pdf (171 pages, 1505778 bytes).
 PDF statistics:
  3241 PDF objects out of 3580 (max. 8388607)
  2773 compressed objects within 28 object streams
