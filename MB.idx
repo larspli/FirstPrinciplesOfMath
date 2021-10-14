@@ -4,93 +4,95 @@
 \indexentry{tal!naturlege|hyperpage}{10}
 \indexentry{siffer|hyperpage}{11}
 \indexentry{verdi|hyperpage}{11}
-\indexentry{koordinatsystem|hyperpage}{14}
-\indexentry{punkt|hyperpage}{14}
-\indexentry{ledd|hyperpage}{16}
-\indexentry{sum|hyperpage}{16}
-\indexentry{ledd|hyperpage}{18}
-\indexentry{differanse|hyperpage}{18}
-\indexentry{faktor|hyperpage}{20}
-\indexentry{produkt|hyperpage}{20}
-\indexentry{dividend|hyperpage}{23}
-\indexentry{divisor|hyperpage}{23}
-\indexentry{kvotient|hyperpage}{23}
-\indexentry{forhold|hyperpage}{23}
-\indexentry{forholdstal|hyperpage}{23}
-\indexentry{primtal|hyperpage}{27}
-\indexentry{faktorisering|hyperpage}{27}
-\indexentry{primtalsfaktorisering|hyperpage}{27}
-\indexentry{brøk|hyperpage}{35}
-\indexentry{tellar|hyperpage}{35}
-\indexentry{nemnar|hyperpage}{35}
-\indexentry{brøk!utviding av|hyperpage}{39}
-\indexentry{brøk!forkorting av|hyperpage}{39}
-\indexentry{fellesnemnar|hyperpage}{44}
-\indexentry{kansellering|hyperpage}{51}
-\indexentry{brøk!omvend|hyperpage}{55}
-\indexentry{tal!rasjonalt|hyperpage}{57}
-\indexentry{tal!negativt|hyperpage}{59}
-\indexentry{tal!positivt|hyperpage}{59}
-\indexentry{lengde|hyperpage}{59}
-\indexentry{talverdi|hyperpage}{60}
-\indexentry{absoluttverdi|hyperpage}{60}
-\indexentry{forteikn|hyperpage}{60}
-\indexentry{punkt|hyperpage}{69}
-\indexentry{linje|hyperpage}{69}
-\indexentry{linjestykke|hyperpage}{69}
-\indexentry{sirkel|hyperpage}{71}
-\indexentry{sirkel!sentrum i|hyperpage}{71}
-\indexentry{radius|hyperpage}{71}
-\indexentry{diameter|hyperpage}{71}
-\indexentry{sektor|hyperpage}{71}
-\indexentry{parallell|hyperpage}{72}
-\indexentry{vinkel|hyperpage}{72}
-\indexentry{vinkelbein|hyperpage}{72}
-\indexentry{vinkel!toppunkt til|hyperpage}{72}
-\indexentry{grad|hyperpage}{73}
-\indexentry{vinkel!rett|hyperpage}{73}
-\indexentry{vinkelrett|hyperpage}{73}
-\indexentry{toppvinkel|hyperpage}{75}
-\indexentry{mangekant|hyperpage}{76}
-\indexentry{trekant|hyperpage}{76}
-\indexentry{firkant|hyperpage}{76}
-\indexentry{kant|hyperpage}{76}
-\indexentry{side!i mangekant|hyperpage}{76}
-\indexentry{mangekant!hjørner i|hyperpage}{76}
-\indexentry{grunnlinje|hyperpage}{77}
-\indexentry{høgde|hyperpage}{77}
-\indexentry{hypotenus|hyperpage}{78}
-\indexentry{katet|hyperpage}{78}
-\indexentry{omkrins|hyperpage}{82}
-\indexentry{overflate|hyperpage}{83}
-\indexentry{areal|hyperpage}{83}
-\indexentry{breidde|hyperpage}{84}
-\indexentry{lengde|hyperpage}{84}
-\indexentry{algebra|hyperpage}{92}
-\indexentry{variabel|hyperpage}{92}
-\indexentry{konstant|hyperpage}{92}
-\indexentry{grunntal|hyperpage}{97}
-\indexentry{eksponent|hyperpage}{97}
-\indexentry{rotteikn|hyperpage}{104}
-\indexentry{tal!irrasjonalt|hyperpage}{105}
-\indexentry{likning|hyperpage}{109}
-\indexentry{potenslikning|hyperpage}{120}
-\indexentry{ulikskap|hyperpage}{122}
-\indexentry{funksjon|hyperpage}{126}
-\indexentry{funksjonsuttrykk|hyperpage}{126}
-\indexentry{funksjon!grafen til|hyperpage}{129}
-\indexentry{funksjon!lineær|hyperpage}{129}
-\indexentry{intervall|hyperpage}{129}
-\indexentry{stigingstal|hyperpage}{131}
-\indexentry{konstantledd|hyperpage}{131}
-\indexentry{formel|hyperpage}{138}
-\indexentry{areal!til rektangel|hyperpage}{138}
-\indexentry{til trekant|hyperpage}{139}
-\indexentry{til parallellogram|hyperpage}{140}
-\indexentry{areal!til trapes|hyperpage}{141}
-\indexentry{omkrins!til sirkel|hyperpage}{143}
-\indexentry{areal!til sirkel|hyperpage}{144}
-\indexentry{trekant!kongruet|hyperpage}{148}
-\indexentry{trekant!formlik|hyperpage}{148}
-\indexentry{side!samsvarande|hyperpage}{149}
-\indexentry{$ \pi $|hyperpage}{159}
+\indexentry{partal|hyperpage}{14}
+\indexentry{oddetal|hyperpage}{14}
+\indexentry{koordinatsystem|hyperpage}{15}
+\indexentry{punkt|hyperpage}{15}
+\indexentry{ledd|hyperpage}{17}
+\indexentry{sum|hyperpage}{17}
+\indexentry{ledd|hyperpage}{19}
+\indexentry{differanse|hyperpage}{19}
+\indexentry{faktor|hyperpage}{21}
+\indexentry{produkt|hyperpage}{21}
+\indexentry{dividend|hyperpage}{24}
+\indexentry{divisor|hyperpage}{24}
+\indexentry{kvotient|hyperpage}{24}
+\indexentry{forhold|hyperpage}{24}
+\indexentry{forholdstal|hyperpage}{24}
+\indexentry{primtal|hyperpage}{28}
+\indexentry{faktorisering|hyperpage}{28}
+\indexentry{primtalsfaktorisering|hyperpage}{28}
+\indexentry{brøk|hyperpage}{36}
+\indexentry{tellar|hyperpage}{36}
+\indexentry{nemnar|hyperpage}{36}
+\indexentry{brøk!utviding av|hyperpage}{40}
+\indexentry{brøk!forkorting av|hyperpage}{40}
+\indexentry{fellesnemnar|hyperpage}{45}
+\indexentry{kansellering|hyperpage}{52}
+\indexentry{brøk!omvend|hyperpage}{56}
+\indexentry{tal!rasjonalt|hyperpage}{58}
+\indexentry{tal!negativt|hyperpage}{60}
+\indexentry{tal!positivt|hyperpage}{60}
+\indexentry{lengde|hyperpage}{60}
+\indexentry{talverdi|hyperpage}{61}
+\indexentry{absoluttverdi|hyperpage}{61}
+\indexentry{forteikn|hyperpage}{61}
+\indexentry{punkt|hyperpage}{70}
+\indexentry{linje|hyperpage}{70}
+\indexentry{linjestykke|hyperpage}{70}
+\indexentry{sirkel|hyperpage}{72}
+\indexentry{sirkel!sentrum i|hyperpage}{72}
+\indexentry{radius|hyperpage}{72}
+\indexentry{diameter|hyperpage}{72}
+\indexentry{sektor|hyperpage}{72}
+\indexentry{parallell|hyperpage}{73}
+\indexentry{vinkel|hyperpage}{73}
+\indexentry{vinkelbein|hyperpage}{73}
+\indexentry{vinkel!toppunkt til|hyperpage}{73}
+\indexentry{grad|hyperpage}{74}
+\indexentry{vinkel!rett|hyperpage}{74}
+\indexentry{vinkelrett|hyperpage}{74}
+\indexentry{toppvinkel|hyperpage}{76}
+\indexentry{mangekant|hyperpage}{77}
+\indexentry{trekant|hyperpage}{77}
+\indexentry{firkant|hyperpage}{77}
+\indexentry{kant|hyperpage}{77}
+\indexentry{side!i mangekant|hyperpage}{77}
+\indexentry{mangekant!hjørner i|hyperpage}{77}
+\indexentry{grunnlinje|hyperpage}{78}
+\indexentry{høgde|hyperpage}{78}
+\indexentry{hypotenus|hyperpage}{79}
+\indexentry{katet|hyperpage}{79}
+\indexentry{omkrins|hyperpage}{83}
+\indexentry{overflate|hyperpage}{84}
+\indexentry{areal|hyperpage}{84}
+\indexentry{breidde|hyperpage}{85}
+\indexentry{lengde|hyperpage}{85}
+\indexentry{algebra|hyperpage}{93}
+\indexentry{variabel|hyperpage}{93}
+\indexentry{konstant|hyperpage}{93}
+\indexentry{grunntal|hyperpage}{98}
+\indexentry{eksponent|hyperpage}{98}
+\indexentry{rotteikn|hyperpage}{105}
+\indexentry{tal!irrasjonalt|hyperpage}{106}
+\indexentry{likning|hyperpage}{110}
+\indexentry{potenslikning|hyperpage}{121}
+\indexentry{ulikskap|hyperpage}{123}
+\indexentry{funksjon|hyperpage}{127}
+\indexentry{funksjonsuttrykk|hyperpage}{127}
+\indexentry{funksjon!grafen til|hyperpage}{130}
+\indexentry{funksjon!lineær|hyperpage}{130}
+\indexentry{intervall|hyperpage}{130}
+\indexentry{stigingstal|hyperpage}{132}
+\indexentry{konstantledd|hyperpage}{132}
+\indexentry{formel|hyperpage}{139}
+\indexentry{areal!til rektangel|hyperpage}{139}
+\indexentry{til trekant|hyperpage}{140}
+\indexentry{til parallellogram|hyperpage}{141}
+\indexentry{areal!til trapes|hyperpage}{142}
+\indexentry{omkrins!til sirkel|hyperpage}{144}
+\indexentry{areal!til sirkel|hyperpage}{145}
+\indexentry{trekant!kongruet|hyperpage}{149}
+\indexentry{trekant!formlik|hyperpage}{149}
+\indexentry{side!samsvarande|hyperpage}{150}
+\indexentry{$ \pi $|hyperpage}{160}
