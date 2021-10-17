@@ -307,4 +307,16 @@ void mksq2(pair A=(0,0), pair B=(1,0), real sc=1, real u=sc, pen p=black, real r
     else sq=(0,0)--sc*nx--sc*nx+u*ny--u*ny--cycle;
     draw(A,rotate(rot)*sq, p);
     }
+
+void mkgrid(int a=0,int b=0){
+	pen p = grey+opacity(0.5);
+	path p1 = (0,0)--(a,0);
+	path p2 = (0,0)--(0,-b);
+	for(int i=0; i<=b;++i){
+		draw(shift(0,-i)*p1,p);
+	}
+	for(int i=0; i<=a;++i){
+		draw(shift(i,0)*p2,p);
+	}
+}    
   

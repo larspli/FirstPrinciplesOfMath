@@ -1,0 +1,4 @@
+
+/rek 
+- legg til forklaring av divisjon med mengder og med tabellmetode
+- legg til kap i engelskversjon
