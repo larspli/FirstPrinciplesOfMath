@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  18 OCT 2021 06:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  18 OCT 2021 06:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**brokopg_bm.tex
-(./brokopg_bm.tex
+**fasit.tex
+(./fasit.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (../doc.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
@@ -55,7 +55,7 @@ File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)) (../preamb_bm.tex
+)) (../preamb.tex
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
@@ -1043,11 +1043,11 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
 )
-\brokopg_bm@idxfile=\write6
-\openout6 = `brokopg_bm.idx'.
+\fasit@idxfile=\write6
+\openout6 = `fasit.idx'.
 
 
-Writing index file brokopg_bm.idx
+Writing index file fasit.idx
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks47
@@ -1206,33 +1206,26 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip135
 )
-(./brokopg_bm.aux
+(./fasit.aux)
+\openout1 = `fasit.aux'.
 
-LaTeX Warning: Label `opgbradandsub' multiply defined.
-
-
-LaTeX Warning: Label `opgbrgongbr' multiply defined.
-
-)
-\openout1 = `brokopg_bm.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 3.
 
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1297,7 +1290,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 4.
+LaTeX Info: Redefining \selectfont on input line 3.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1311,7 +1304,7 @@ Package caption Info: End \AtBeginDocument code.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box140
-Package hyperref Info: Link coloring OFF on input line 4.
+Package hyperref Info: Link coloring OFF on input line 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1324,176 +1317,105 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count365
 )
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
 
-(./brokopg_bm.out) (./brokopg_bm.out)
+(./fasit.out) (./fasit.out)
 \@outlinefile=\write7
-\openout7 = `brokopg_bm.out'.
+\openout7 = `fasit.out'.
+
+
+
+LaTeX Warning: Reference `Brok' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Reference `opgbrforkortmfaktor' on page 1 undefined on input lin
+e 8.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-5.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+6.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-5.
+6.
+
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-15.
+16.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-15.
+16.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <9> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <6> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 15.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+(Font)              <5> on input line 16.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+esint on input line 1
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
- 
- []
 
-<../fig/bropg1.pdf, id=11, 200.45892pt x 17.8266pt>
-File: ../fig/bropg1.pdf Graphic file (type pdf)
-<use ../fig/bropg1.pdf>
-Package pdftex.def Info: ../fig/bropg1.pdf  used on input line 45.
-(pdftex.def)             Requested size: 200.45842pt x 17.82654pt.
-<../fig/bropg2.pdf, id=12, 200.45892pt x 17.8266pt>
-File: ../fig/bropg2.pdf Graphic file (type pdf)
-<use ../fig/bropg2.pdf>
-Package pdftex.def Info: ../fig/bropg2.pdf  used on input line 45.
-(pdftex.def)             Requested size: 200.45842pt x 17.82654pt.
-<../fig/bropg3.pdf, id=13, 200.45892pt x 17.8266pt>
-File: ../fig/bropg3.pdf Graphic file (type pdf)
-<use ../fig/bropg3.pdf>
-Package pdftex.def Info: ../fig/bropg3.pdf  used on input line 45.
-(pdftex.def)             Requested size: 200.45842pt x 17.82654pt.
-<../fig/bropg4.pdf, id=14, 302.89162pt x 17.8266pt>
-File: ../fig/bropg4.pdf Graphic file (type pdf)
-<use ../fig/bropg4.pdf>
-Package pdftex.def Info: ../fig/bropg4.pdf  used on input line 53.
-(pdftex.def)             Requested size: 302.89087pt x 17.82654pt.
-<../fig/bropg5.pdf, id=15, 313.56148pt x 17.8266pt>
-File: ../fig/bropg5.pdf Graphic file (type pdf)
-<use ../fig/bropg5.pdf>
-Package pdftex.def Info: ../fig/bropg5.pdf  used on input line 53.
-(pdftex.def)             Requested size: 313.5607pt x 17.82654pt.
-<../fig/bropg6.pdf, id=16, 277.28593pt x 17.8266pt>
-File: ../fig/bropg6.pdf Graphic file (type pdf)
-<use ../fig/bropg6.pdf>
-Package pdftex.def Info: ../fig/bropg6.pdf  used on input line 53.
-(pdftex.def)             Requested size: 277.28525pt x 17.82654pt.
+LaTeX Warning: Reference `opgbrgongbrfakt' on page 1 undefined on input line 19
+.
+
 [1
 
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../fig/bropg1.pdf> <../fig
-/bropg2.pdf> <../fig/bropg3.pdf> <../fig/bropg4.pdf> <../fig/bropg5.pdf> <../fi
-g/bropg6.pdf>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 59.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 59.
- [2] [3]
-Overfull \hbox (1.42564pt too wide) in paragraph at lines 224--225
-[]  [][]\T1/lmr/m/n/12 f)[]  $[] \OT1/lmr/m/n/12 : 11$[] []\T1/lmr/m/n/12 g)[] 
- $[] \OT1/lmr/m/n/12 : 12$[] []\T1/lmr/m/n/12 h)[]  $[] \OT1/lmr/m/n/12 : 29$[]
- []\T1/lmr/m/n/12 i)[]  $[] \OT1/lmr/m/n/12 : 51$[] []\T1/lmr/m/n/12 j)[]  $[] 
-\OT1/lmr/m/n/12 : 79$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
- 
- []
-
-[4] [5]
-
-LaTeX Warning: Hyper reference `brdeenk' on page 6 undefined on input line 294.
-
-
-
-LaTeX Warning: Reference `brdeenk' on page 6 undefined on input line 294.
-
-
-LaTeX Warning: Hyper reference `brtbr' on page 6 undefined on input line 294.
-
-
-LaTeX Warning: Reference `brtbr' on page 6 undefined on input line 294.
-
-[6]
-
-LaTeX Warning: Hyper reference `delmbr' on page 7 undefined on input line 312.
-
-
-LaTeX Warning: Reference `delmbr' on page 7 undefined on input line 312.
-
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
- (./brokopg_bm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
-Package rerunfilecheck Info: File `brokopg_bm.out' has not changed.
-(rerunfilecheck)             Checksum: 3352E68A8A61B27488E309A841133486;44.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+ (./fasit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package rerunfilecheck Info: File `fasit.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 31489 strings out of 481239
- 616257 string characters out of 5920378
- 938808 words of memory out of 5000000
- 45912 multiletter control sequences out of 15000+600000
- 601982 words of font info for 82 fonts, out of 8000000 for 9000
+ 31166 strings out of 481239
+ 611871 string characters out of 5920378
+ 927276 words of memory out of 5000000
+ 45760 multiletter control sequences out of 15000+600000
+ 571619 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,9n,104p,879b,911s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on brokopg_bm.pdf (7 pages, 206453 bytes).
+ 70i,5n,104p,871b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmr9.pfb>
+Output written on fasit.pdf (1 page, 106599 bytes).
 PDF statistics:
- 328 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
- 171 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

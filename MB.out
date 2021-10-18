@@ -13,55 +13,50 @@
 \BOOKMARK [1][-]{section.3.2}{Reknerekkef\370lge}{chapter.3}% 13
 \BOOKMARK [0][-]{chapter.4}{Utrekningsmetodar }{part.1}% 14
 \BOOKMARK [1][-]{section.4.1}{Addisjon}{chapter.4}% 15
-\BOOKMARK [2][-]{subsection.4.1.1}{Oppstilling}{section.4.1}% 16
-\BOOKMARK [2][-]{subsection.4.1.2}{Tabellmetoden}{section.4.1}% 17
-\BOOKMARK [1][-]{section.4.2}{Subtraksjon}{chapter.4}% 18
-\BOOKMARK [2][-]{subsection.4.2.1}{Oppstilling}{section.4.2}% 19
-\BOOKMARK [2][-]{subsection.4.2.2}{Tabellmetoden}{section.4.2}% 20
-\BOOKMARK [1][-]{section.4.3}{Ganging}{chapter.4}% 21
-\BOOKMARK [2][-]{subsection.4.3.1}{Ganging med 10, 100, 1000 osv.}{section.4.3}% 22
-\BOOKMARK [2][-]{subsection.4.3.2}{Utvida form og kompaktmetoden}{section.4.3}% 23
-\BOOKMARK [1][-]{section.4.4}{Divisjon}{chapter.4}% 24
-\BOOKMARK [2][-]{subsection.4.4.1}{Deling med 10, 100, 1000 osv.}{section.4.4}% 25
-\BOOKMARK [2][-]{subsection.4.4.2}{Oppstilling}{section.4.4}% 26
-\BOOKMARK [2][-]{subsection.4.4.3}{Tabellmetoden}{section.4.4}% 27
-\BOOKMARK [0][-]{chapter.5}{Br\370k}{part.1}% 28
-\BOOKMARK [1][-]{section.5.1}{Introduksjon}{chapter.5}% 29
-\BOOKMARK [1][-]{section.5.2}{Verdi, utviding og forkorting av br\370k}{chapter.5}% 30
-\BOOKMARK [1][-]{section.5.3}{Addisjon og subtraksjon}{chapter.5}% 31
-\BOOKMARK [1][-]{section.5.4}{Br\370k gonga med heiltal}{chapter.5}% 32
-\BOOKMARK [1][-]{section.5.5}{Br\370k delt med heiltal}{chapter.5}% 33
-\BOOKMARK [1][-]{section.5.6}{Br\370k gonga med br\370k}{chapter.5}% 34
-\BOOKMARK [1][-]{section.5.7}{Kansellering av faktorar}{chapter.5}% 35
-\BOOKMARK [1][-]{section.5.8}{Deling med br\370k}{chapter.5}% 36
-\BOOKMARK [1][-]{section.5.9}{Rasjonale tal}{chapter.5}% 37
-\BOOKMARK [0][-]{chapter.6}{Negative tal }{part.1}% 38
-\BOOKMARK [1][-]{section.6.1}{Introduksjon}{chapter.6}% 39
-\BOOKMARK [1][-]{section.6.2}{Dei fire rekneartane med negative tal}{chapter.6}% 40
-\BOOKMARK [1][-]{section.6.3}{Negative tal som mengde}{chapter.6}% 41
-\BOOKMARK [0][-]{chapter.7}{Geometri}{part.1}% 42
-\BOOKMARK [1][-]{section.7.1}{Omgrep}{chapter.7}% 43
-\BOOKMARK [1][-]{section.7.2}{Eigenskapar for trekantar og firkantar}{chapter.7}% 44
-\BOOKMARK [1][-]{section.7.3}{Omkrins}{chapter.7}% 45
-\BOOKMARK [1][-]{section.7.4}{Areal}{chapter.7}% 46
-\BOOKMARK [-1][-]{part.2}{II Algebra og geometri }{}% 47
-\BOOKMARK [0][-]{chapter.8}{Algebra}{part.2}% 48
-\BOOKMARK [1][-]{section.8.1}{Introduksjon}{chapter.8}% 49
-\BOOKMARK [1][-]{section.8.2}{Potensar}{chapter.8}% 50
-\BOOKMARK [1][-]{section.8.3}{Irrasjonale tal}{chapter.8}% 51
-\BOOKMARK [0][-]{chapter.9}{Likningar }{part.2}% 52
-\BOOKMARK [1][-]{section.9.1}{Introduksjon}{chapter.9}% 53
-\BOOKMARK [1][-]{section.9.2}{L\370ysing ved dei fire rekneartane}{chapter.9}% 54
-\BOOKMARK [1][-]{section.9.3}{L\370ysingsmetodane oppsummert}{chapter.9}% 55
-\BOOKMARK [1][-]{section.9.4}{Potenslikningar}{chapter.9}% 56
-\BOOKMARK [1][-]{section.9.5}{Ulikskapar}{chapter.9}% 57
-\BOOKMARK [2][-]{subsection.9.5.1}{Introduksjon}{section.9.5}% 58
-\BOOKMARK [2][-]{subsection.9.5.2}{L\370ysing av ulikskapar}{section.9.5}% 59
-\BOOKMARK [0][-]{chapter.10}{Funksjonar }{part.2}% 60
-\BOOKMARK [1][-]{section.10.1}{Introduksjon}{chapter.10}% 61
-\BOOKMARK [1][-]{section.10.2}{Line\346re funksjonar og grafar}{chapter.10}% 62
-\BOOKMARK [0][-]{chapter.11}{Geometri}{part.2}% 63
-\BOOKMARK [1][-]{section.11.1}{Formlar for areal og omkrins}{chapter.11}% 64
-\BOOKMARK [1][-]{section.11.2}{Kongruente og formlike trekantar}{chapter.11}% 65
-\BOOKMARK [1][-]{section.11.3}{Forklaringar}{chapter.11}% 66
-\BOOKMARK [0][-]{chapter*.111}{Indeks}{part.2}% 67
+\BOOKMARK [1][-]{section.4.2}{Subtraksjon}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.3}{Ganging}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.4}{Divisjon}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.5}{Primtalsfaktorisering }{chapter.4}% 19
+\BOOKMARK [1][-]{section*.31}{Oppgaver}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{Br\370k }{part.1}% 21
+\BOOKMARK [1][-]{section.5.1}{Introduksjon}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.2}{Verdi, utviding og forkorting av br\370k}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.3}{Addisjon og subtraksjon}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.4}{Br\370k gonga med heiltal}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.5}{Br\370k delt med heiltal}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.6}{Br\370k gonga med br\370k}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.7}{Kansellering av faktorar}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.8}{Deling med br\370k}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.9}{Rasjonale tal}{chapter.5}% 30
+\BOOKMARK [1][-]{section*.54}{Oppgaver}{chapter.5}% 31
+\BOOKMARK [0][-]{chapter.6}{Negative tal }{part.1}% 32
+\BOOKMARK [1][-]{section.6.1}{Introduksjon}{chapter.6}% 33
+\BOOKMARK [1][-]{section.6.2}{Dei fire rekneartane med negative tal}{chapter.6}% 34
+\BOOKMARK [1][-]{section.6.3}{Negative tal som mengde}{chapter.6}% 35
+\BOOKMARK [0][-]{chapter.7}{Geometri}{part.1}% 36
+\BOOKMARK [1][-]{section.7.1}{Omgrep}{chapter.7}% 37
+\BOOKMARK [1][-]{section.7.2}{Eigenskapar for trekantar og firkantar}{chapter.7}% 38
+\BOOKMARK [1][-]{section.7.3}{Omkrins}{chapter.7}% 39
+\BOOKMARK [1][-]{section.7.4}{Areal}{chapter.7}% 40
+\BOOKMARK [-1][-]{part.2}{II Algebra og geometri }{}% 41
+\BOOKMARK [0][-]{chapter.8}{Algebra}{part.2}% 42
+\BOOKMARK [1][-]{section.8.1}{Introduksjon}{chapter.8}% 43
+\BOOKMARK [1][-]{section.8.2}{Potensar}{chapter.8}% 44
+\BOOKMARK [1][-]{section.8.3}{Irrasjonale tal}{chapter.8}% 45
+\BOOKMARK [0][-]{chapter.9}{Likningar }{part.2}% 46
+\BOOKMARK [1][-]{section.9.1}{Introduksjon}{chapter.9}% 47
+\BOOKMARK [1][-]{section.9.2}{L\370ysing ved dei fire rekneartane}{chapter.9}% 48
+\BOOKMARK [1][-]{section.9.3}{L\370ysingsmetodane oppsummert}{chapter.9}% 49
+\BOOKMARK [1][-]{section.9.4}{Potenslikningar}{chapter.9}% 50
+\BOOKMARK [1][-]{section.9.5}{Ulikskapar}{chapter.9}% 51
+\BOOKMARK [2][-]{subsection.9.5.1}{Introduksjon}{section.9.5}% 52
+\BOOKMARK [2][-]{subsection.9.5.2}{L\370ysing av ulikskapar}{section.9.5}% 53
+\BOOKMARK [0][-]{chapter.10}{Funksjonar }{part.2}% 54
+\BOOKMARK [1][-]{section.10.1}{Introduksjon}{chapter.10}% 55
+\BOOKMARK [1][-]{section.10.2}{Line\346re funksjonar og grafar}{chapter.10}% 56
+\BOOKMARK [0][-]{chapter.11}{Geometri}{part.2}% 57
+\BOOKMARK [1][-]{section.11.1}{Formlar for areal og omkrins}{chapter.11}% 58
+\BOOKMARK [1][-]{section.11.2}{Kongruente og formlike trekantar}{chapter.11}% 59
+\BOOKMARK [1][-]{section.11.3}{Forklaringar}{chapter.11}% 60
+\BOOKMARK [0][-]{Item.271}{Indeks}{part.2}% 61
+\BOOKMARK [0][-]{chapter*.122}{Indeks}{part.2}% 62

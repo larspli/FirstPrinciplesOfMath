@@ -76,7 +76,7 @@
 \definecolor{neg}{cmyk}{1,0.,0.,0}
 
 % Lister med bokstavar
-\usepackage{enumitem}
+\usepackage[inline]{enumitem}
 
 \newcounter{rg}
 \numberwithin{rg}{chapter}
@@ -243,6 +243,46 @@
 \newcommand{\liknflyt}{Flytting av ledd over likskapsteiknet}
 \newcommand{\funklin}{Lineære funksjonar}
 
+%Opg
+\newcommand{\abc}[1]{
+	\begin{enumerate}[label=\alph*),leftmargin=18pt]
+		#1
+	\end{enumerate}
+}
+\newcommand{\abcs}[2]{
+	\begin{enumerate}[label=\alph*),start=#1,leftmargin=18pt]
+		#2
+	\end{enumerate}
+}
+\newcommand{\abcn}[1]{
+	\begin{enumerate}[label=\arabic*),leftmargin=18pt]
+		#1
+	\end{enumerate}
+}
+\newcommand{\abch}[1]{
+	\hspace{-2pt}	\begin{enumerate*}[label=\alph*), itemjoin=\hspace{1cm}]
+		#1
+	\end{enumerate*}
+}
+\newcommand{\abchs}[2]{
+	\hspace{-2pt}	\begin{enumerate*}[label=\alph*), itemjoin=\hspace{1cm}, start=#1]
+		#2
+	\end{enumerate*}
+}
+
+\newcommand{\opgt}{\phantomsection \addcontentsline{toc}{section}{Oppgaver} \section*{Oppgaver for kapittel \thechapter}\vs \setcounter{section}{1}}
+\newcounter{opg}
+\numberwithin{opg}{section}
+\newcommand{\op}[1]{\vspace{15pt} \refstepcounter{opg}\large \textbf{\color{blue}\theopg} \vspace{2 pt} \label{#1} \\}
+\newcommand{\ekspop}[1]{\vsk\textbf{Gruble \thechapter.#1}\vspace{2 pt} \\}
+\newcommand{\nes}{\stepcounter{section}
+	\setcounter{opg}{0}}
+\newcommand{\opr}[1]{\vspace{3pt}\textbf{\ref{#1}}}
+\newcommand{\oeks}[1]{\begin{tcolorbox}[boxrule=0.3 mm,arc=0mm,colback=white]
+		\textit{Eksempel: } #1	  
+\end{tcolorbox}}
+\newcommand\opgeks[2][]{\begin{tcolorbox}[boxrule=0.1 mm,arc=0mm,enhanced jigsaw,breakable,colback=white] {\footnotesize \textbf{Eksempel #1} \\} \footnotesize #2 \end{tcolorbox}\vspace{-5pt} }
+
 %License
 \newcommand{\lic}{\textit{Matematikken sine byggesteinar by Sindre Sogge Heggen is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit\\ 
 		\net{http://creativecommons.org/licenses/by-nc-sa/4.0/}{http://creativecommons.org/licenses/by-nc-sa/4.0/}}}
@@ -255,12 +295,5 @@
 \newcommand{\refsec}[1]{\hrs{#1}{Seksjon}}
 
 \usepackage{datetime2}
-
-% Opg
-\newcommand{\abc}[1]{
-	\begin{enumerate}[label=\textbf{\alph*}),leftmargin=18pt]
-		#1
-	\end{enumerate}
-}
 
 \usepackage[]{hyperref}
