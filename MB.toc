@@ -88,6 +88,6 @@
 \contentsline {section}{\numberline {11.1}Formlar for areal og omkrins}{166}{section.11.1}%
 \contentsline {section}{\numberline {11.2}Kongruente og formlike trekantar}{176}{section.11.2}%
 \contentsline {section}{\numberline {11.3}Forklaringar}{181}{section.11.3}%
-\contentsline {chapter}{Indeks}{194}{Item.271}%
+\contentsline {chapter}{Fasit}{195}{section*.120}%
 
-\contentsline {chapter}{Indeks}{198}{chapter*.122}%
+\contentsline {chapter}{Indeks}{199}{chapter*.123}%

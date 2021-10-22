@@ -98,6 +98,7 @@
 
 \newcommand{\regv}{\vspace{5pt}}
 \newcommand{\mer}{\textsl{Merk}: }
+\newcommand{\mers}[1]{{\footnotesize \mer #1}}
 \newcommand\vsk{\vspace{11pt}}
 \newcommand\vs{\vspace{-11pt}}
 \newcommand\vsb{\vspace{-16pt}}
@@ -235,6 +236,8 @@
 \newcommand{\artrap}{Arealet til eit trapes}
 \newcommand{\arpar}{Arealet til eit parallellogram}
 \newcommand{\pyt}{Pytagoras' setning}
+\newcommand{\volforml}{Volumet til tredimensjonale former}
+\newcommand{\volkule}{Volumet til ei kule}
 \newcommand{\forform}{Forhold i formlike trekantar}
 \newcommand{\vilkform}{Vilkår i formlike trekantar}
 \newcommand{\omkrsirk}{Omkrinsen til ein sirkel (og $ \bm \pi $)}
@@ -270,6 +273,7 @@
 	\end{enumerate*}
 }
 
+% Oppgaver
 \newcommand{\opgt}{\phantomsection \addcontentsline{toc}{section}{Oppgaver} \section*{Oppgaver for kapittel \thechapter}\vs \setcounter{section}{1}}
 \newcounter{opg}
 \numberwithin{opg}{section}
@@ -282,6 +286,9 @@
 		\textit{Eksempel: } #1	  
 \end{tcolorbox}}
 \newcommand\opgeks[2][]{\begin{tcolorbox}[boxrule=0.1 mm,arc=0mm,enhanced jigsaw,breakable,colback=white] {\footnotesize \textbf{Eksempel #1} \\} \footnotesize #2 \end{tcolorbox}\vspace{-5pt} }
+\newcommand{\rknut}{
+Rekn ut.
+}
 
 %License
 \newcommand{\lic}{\textit{Matematikken sine byggesteinar by Sindre Sogge Heggen is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit\\ 
@@ -290,9 +297,9 @@
 %referances
 \newcommand{\net}[2]{{\color{blue}\href{#1}{#2}}}
 \newcommand{\hrs}[2]{\hyperref[#1]{\color{blue}\textsl{#2 \ref*{#1}}}}
-\newcommand{\rref}[1]{\hrs{#1}{Regel}}
-\newcommand{\refkap}[1]{\hrs{#1}{Kapittel}}
-\newcommand{\refsec}[1]{\hrs{#1}{Seksjon}}
+\newcommand{\rref}[1]{\hrs{#1}{regel}}
+\newcommand{\refkap}[1]{\hrs{#1}{kapittel}}
+\newcommand{\refsec}[1]{\hrs{#1}{seksjon}}
 
 \usepackage{datetime2}
 
