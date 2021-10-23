@@ -1,4 +1,12 @@
+/plus/min/gang/del
+- fiks oppgaver på nynorsk
+
+/geo
+- legg til volum i _eng
 
 /rek 
 - legg til forklaring av divisjon med mengder og med tabellmetode
-- legg til kap i engelskversjon
+- legg til kap i _eng
+
+/funk 
+- fiks oppgaver på nynorsk

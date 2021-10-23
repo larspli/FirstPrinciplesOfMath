@@ -2,7 +2,7 @@ import volkule;
 
 
 draw(scale(a)*unitcircle,blue);
-
+draw(shift(a*(-1,-1))*scale(2a)*unitsquare);
 
 draw(O--A,L="$r$",align=SE);
 draw(O--B,L="$r$",align=SW);

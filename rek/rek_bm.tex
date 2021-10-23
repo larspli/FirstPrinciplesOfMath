@@ -146,7 +146,7 @@ Denne metoden tar utgangspunkt i det éne leddet, og summerer fram til det andre
 } \vsk
 
 \info{Oppstilling versus tabellmetoden}{
-	Ved første øyekast kan kanskje tabellmetoden bare se ut som en innviklet måte å regne addisjon på samenlignet med oppstilling, men med øving vil mange oppdage at tabellmetoden bedrer evnen til hoderegning. Dessuten er metoden å foretrekke når vi regner med tid (se \refsec{regningmedtid}).   
+	Ved første øyekast kan kanskje tabellmetoden bare se ut som en innviklet måte å regne addisjon på samenlignet med oppstilling, men med øving vil mange oppdage at tabellmetoden bedrer evnen til hoderegning. 
 }
 
 \section{Subtraksjon}
@@ -561,6 +561,81 @@ Tabellmetoden baserer seg på divisjon som omvendt operasjon av ganging. For eks
 }
 }
 \end{center}
+
+\section{Primtalsfaktorisering \label{primtalsfakt}}
+\mer Primtala mellom 1-100 finn du på side \pageref{primtalfig}.
+
+
+\begin{center}
+	\parbox{0.35\linewidth}{
+		\eks[1]{
+			$ \colo{84}= \colb{2\cdot2\cdot3\cdot7}$	 \vsk
+			
+			\begin{tabular}{r|r|r}
+				& $ : $&\\ \hline
+				\colo{84}&\colb{2}&\colg{42} \\
+				\colg{42}& \colb{2} &\colg{21} \\ 
+				\colg{21}&\colb{3}&\colb{7}\\
+				\hline
+			\end{tabular}
+	}} \qquad
+	\parbox{0.35\linewidth}{
+		\eks[2]{
+			$ \colo{595}= \colb{5\cdot7\cdot17}$	 \vsk
+			
+			\begin{tabular}{r|r|r}
+				& $ : $&\\ \hline
+				\colo{595}& \colb{5} &\colg{119} \\ 
+				\colg{119}&\colb{7}&\colb{17}\\
+				\hline
+			\end{tabular}
+			\vspace{12pt}
+	}}
+\end{center} 
+
+
+\fork{Eksempel 1}{ \vs
+	\begin{figure}
+		\centering
+		\subfloat[]{
+			\begin{tabular}{r|r|r}
+				& $ : $&\\ \hline
+				\colo{84}&\colb{2}&\colg{42} \\
+				&& \\ 
+				&&\\
+				\hline
+			\end{tabular}
+		} \qquad
+		\subfloat[]{
+			\begin{tabular}{r|r|r}
+				& $ : $&\\ \hline
+				\colo{84}&\colb{2}&\colg{42} \\
+				\colg{42}& \colb{2} &21 \\ 
+				&&\\
+				\hline
+			\end{tabular}
+		}\vsk 
+		
+		\subfloat[]{
+			\begin{tabular}{r|r|r}
+				& $ : $&\\ \hline
+				\colo{84}&\colb{2}&42 \\
+				42& \colb{2} &\colg{21} \\ 
+				\colg{21}&\colb{3}&\colb{7}\\
+				\hline
+			\end{tabular}
+		}
+	\end{figure}
+	\begin{enumerate}[label=(\alph*)]
+		\item Sidan 2 er det første primtallet, undersøker vi om 84 er deleleg med 2. Det er det, fordi $ 84:2=42 $.
+		\item Vi undersøker om også 42 er deleleg med 2. Det er det, fordi $ 42:2=21 $.
+		\item Vi undersøker om også 21 er deleleg med 2. Det er det ikkje, fordi $ {21:2=10,5} $. Derfor går vi over til neste primtall, som er 3. 21 er deleleg med 3 fordi $ 21:3=7 $.
+	\end{enumerate}
+	Sidan 7 er eit primtal, er vi komme i mål.
+}
+\newpage
+\label{primtalfig}
+\fig{primn100}
 
 \end{document}
 

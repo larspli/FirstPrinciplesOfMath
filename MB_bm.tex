@@ -14,10 +14,20 @@
 
 \addtocontents{toc}{\protect\mbox{}\protect\hrulefill\par}
 \chapter{Tallene våre \label{Talavare}}
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.25]{sticks} \\
+	{\footnotesize Bilde fra \net{https://cdn.pixabay.com/photo/2013/08/11/14/46/matchsticks-171578_1280.jpg}{pixabay.com}} 
+\end{figure}
 \newpage
 \import{tel/}{tel_bm}
-%\end{document}
+
 \chapter{De fire regneartene \label{Rekneartane}}
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.38]{wood} \\
+	{\footnotesize Bilde fra \net{https://pxhere.com/en/photo/1143712}{pxhere.com}} 
+\end{figure}
 \newpage
 \import{plus/}{plus_bm}
 \import{min/}{min_bm}
@@ -33,10 +43,19 @@
 \import{fakt/}{fakt_bm}
 \import{rrek/}{rrek_bm}
 
+\chapter{Utrekningsmetodar \label{Utrekning}}
+\newpage
+\import{rek/}{rek}
+\newpage
+\import{rek/}{rekopg}
+
 %% Brok
-\chapter{Brøk}
+\chapter{Brøk \label{Brok}} 
 \newpage
 \import{brok/}{brok_bm}
+\newpage
+\import{brok/}{brokopg_bm}
+
 
 \chapter{Negative tall \label{Negtal}}
 \newpage
@@ -72,6 +91,12 @@
 \import{geo/}{geo2_bm}
 \newpage
 \import{kom/}{kom2_bm}
+
+\newpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Fasit}
+\import{fas/}{fasit}
+
 \import{kap0/}{lit_bm}
 {\printindex \addtocontents{toc}{\protect}
 	\addcontentsline{toc}{chapter}{Indeks}\phantomsection}
@@ -79,14 +104,6 @@
 
 
 \end{document}
-
-
-
-
-
-\end{document}
-
-
 
 
 

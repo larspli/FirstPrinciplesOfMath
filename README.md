@@ -33,8 +33,8 @@ This space includes the complete file structure of the book ready to be compiled
 - G_eng.tex (the book in English)
 
 Building and compiling these files constructs the PDF versions of the book:
-- [Matematikken sine byggesteinar (Norwegian, nynorsk)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/MB.pdf)
-- [Matematikkens byggesteiner (Norwegian, bokmål)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/MB_bm.pdf)
+- [Matematikken sine byggesteinar (Norwegian, nynorsk)](https://drive.google.com/file/d/1tZK9ug5CeKZkH1ra-WCn-NhomIkFOQ8B/view?usp=sharing)
+- [Matematikkens byggesteiner (Norwegian, bokmål)](https://drive.google.com/file/d/14mt8wnInkwo7mCXQOparPMVLEldr7sLo/view?usp=sharing)
 - [First Principles of Math (English)](https://github.com/sindrsh/FirstPrinciplesOfMath/blob/master/FP_eng.pdf)  
 
 <!-- ROADMAP -->

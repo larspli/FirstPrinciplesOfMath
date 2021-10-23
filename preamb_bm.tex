@@ -98,6 +98,7 @@
 
 \newcommand{\regv}{\vspace{5pt}}
 \newcommand{\mer}{\textsl{Merk}: }
+\newcommand{\mers}[1]{{\footnotesize \mer #1}}
 \newcommand\vsk{\vspace{11pt}}
 \newcommand\vs{\vspace{-11pt}}
 \newcommand\vsb{\vspace{-16pt}}
@@ -131,7 +132,7 @@
 \newcommand{\net}[2]{{\color{blue}\href{#1}{#2}}}
 
 \newcommand{\hrs}[2]{\hyperref[#1]{\color{blue}\textsl{#2 \ref*{#1}}}}
-\newcommand{\rref}[1]{\hyperref[#1]{\color{blue}\textsl{Regel \ref*{#1}}}}
+\newcommand{\rref}[1]{\hyperref[#1]{\color{blue}\textsl{regel \ref*{#1}}}}
 
 \newcommand{\sectionbreak}{\clearpage} % New page on each section
 
@@ -208,6 +209,8 @@
 \newcommand{\geofork}{Forklaringar}
 
 % Names of rules
+\newcommand{\gangdestihundre}{Å gange desimaltall med 10, 100 osv.}
+\newcommand{\delmedtihundre}{Deling med 10, 100, 1\,000 osv.}
 \newcommand{\adkom}{Addisjon er kommutativ}
 \newcommand{\gangkom}{Multiplikasjon er kommutativ}
 \newcommand{\brdef}{Brøk som omskriving av delestykke}
@@ -233,6 +236,8 @@
 \newcommand{\artrap}{Arealet til et trapes}
 \newcommand{\arpar}{Arealet til et parallellogram}
 \newcommand{\pyt}{Pytagoras' setning}
+\newcommand{\volforml}{Volumet til tredimensjonale former}
+\newcommand{\volkule}{Volumet til ei kule}
 \newcommand{\forform}{Forhold i formlike trekanter}
 \newcommand{\vilkform}{Vilkår i formlike trekanter}
 \newcommand{\omkrsirk}{Omkretsen til en sirkel (og $ \bm \pi $)}
@@ -280,13 +285,14 @@
 \textit{Eksempel: } #1	  
 \end{tcolorbox}}
 \newcommand\opgeks[2][]{\begin{tcolorbox}[boxrule=0.1 mm,arc=0mm,enhanced jigsaw,breakable,colback=white] {\footnotesize \textbf{Eksempel #1} \\} \footnotesize #2 \end{tcolorbox}\vspace{-5pt} }
+\newcommand{\rknut}{Regn ut.}
 
 %License
 \newcommand{\lic}{\textit{Matematikken sine byggesteiner by Sindre Sogge Heggen is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit\\ 
 		\net{http://creativecommons.org/licenses/by-nc-sa/4.0/}{http://creativecommons.org/licenses/by-nc-sa/4.0/}}}
 
-\newcommand{\refkap}[1]{\hrs{#1}{Kapittel}}
-\newcommand{\refsec}[1]{\hrs{#1}{Seksjon}}
+\newcommand{\refkap}[1]{\hrs{#1}{kapittel}}
+\newcommand{\refsec}[1]{\hrs{#1}{keksjon}}
 
 \usepackage{datetime2}
 \usepackage[]{hyperref}

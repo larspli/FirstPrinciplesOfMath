@@ -106,7 +106,7 @@ Linjestykkene en mangekant består av kalles \textit{kanter}\index{kant} eller \
 Et linjestykke som går mellom to hjørner som ikke hører til samme side av en mangekant kalles en \textit{diagonal}. I figuren under ser vi dia-gonalene $ AC $ og $ BD $.
 \fig{kant7}
 \newpage
-\subsubsection{Høgde og grunnlinje}
+\subsubsection{Høgde og grunnlinje \label{grunnlinje}}
 Når vi i \hrs{Areal}{seksjon} skal finne areal, vil begrepene \textit{grunnlinje}\index{grunnlinje} og \textit{høgde}\index{høgde} være viktige. For å finne en høgde i en trekant, tar vi utgangspunkt i en av sidene. Siden vi velger kaller vi \textit{grunnlinja}. La oss starte med $ AB $ i figuren under som grunnlinje. Da er \textit{høgda} linjestykket som går fra $ AB $ (eventuelt, som her, forlengelsen av $ AB $) til $ C $, og som står vinkelrett på $ AB $.
 \fig{tri15}
 Da det er tre sider vi kan velge som grunnlinje, har en trekant tre høgder.
@@ -398,6 +398,109 @@ Finn arealet til trekanten.
 \algv{
 	\text{Arealet til trekanten}=\frac{7\cdot 3}{2}=\frac{21}{2}
 }
+}
+\section{Tredimensjonal geometri}
+Så langt har vi sett på todimensjonale figurer som trekanter, firkanter, sirkler o.l. Alle todimensjonale figurer kan tegnes inn i et koordinatsystem med to akser.
+\fig{3da}
+For å tegne \textit{tredimensjonale} figurer trengs derimot tre akser:
+\fig{3db}
+Mens et rektangel sies å ha en bredde og en høgde, kan vi si at boksen over har en bredde, en høgde \textsl{og} en lengde (dybde). \vsk
+
+Området som ''ligger utenpå'' en tredimensjonal figur kaller vi \textit{overflaten}. Overflaten til boksen over består av 6 rektangler. Mangekanter som er deler av en overflate kalles \textit{sideflater}.
+
+\reg[Tredimensjonale figurer]{
+	\parbox[l][][l]{0.4\linewidth}{
+		\centering
+		\fig{fprism}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Firkantet prisme}\\
+		Har to like og fire like rektangler som sideflater. Alle sideflatene som er i kontakt, står vinkelrette på hverandre.
+	}
+	\parbox[l][][l]{0.4\linewidth}{
+		\centering
+		\fig{kube}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Kube}\\
+		Firkantet prisme med kvadrater som sideflater.
+	}
+	\parbox[l][][l]{0.4\linewidth}{
+		\centering
+		\fig{tprism}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Trekantet prisme}\\
+		To av sideflatene er like trekanter som er parallelle. Har tre sideflater som er trekanter.
+	}
+	\parbox[l][][l]{0.4\linewidth}{
+		\centering
+		\fig{fpyr}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Firkantet pyramide}\\
+		Har ett rektangel og fire trekanter\\som sideflater.
+	}
+	\parbox[l][][l]{0.4\linewidth}{
+		\centering
+		\fig{tpyr}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Trekantet pyramide}\\
+		Har fire trekanter som sideflater.
+	}
+	\parbox[l][][l]{0.4\linewidth}{
+		\centering
+		\fig{kjegle}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Kjegle}\\
+		En del av overflaten er en sirkel, den resterende delen er en sammenbrettet sektor.
+	}
+	\parbox[l][][l]{0.4\linewidth}{
+	\centering
+	\fig{kule}	
+	}
+	\parbox[r][][l]{0.6\linewidth}{
+		\textbf{Kule}\\
+		Alle punkt på overflaten har lik avstand til sentrum.
+	}
+}
+\newpage
+\info{Tips}{Det er ikke så lett å se for seg hva en \textsl{sammenbrettet sektor} er, men prøv dette: 
+	\begin{enumerate}
+		\item Tegn en sektor på et ark. Klipp ut sektoren, og føy sammen de to kantene på sektoren. Da har du en kjegle uten bunn.
+	\end{enumerate}
+}
+\section{Volum}
+Når vi ønsker å seie noko om kor mykje det er plass til inni ein gjenstand, snakkar vi om \textit{volumet} til den. Som eit mål på volum tenker vi oss ei kube med sidelengde 1.
+\fig{vol1}
+Ei slik kube kan vi kalle 'einarkuba'. Sei vi har ei firkanta prisme med breidde 3, lengde 4 og høgde 2.
+\fig{vol2}
+I denne er det plass til akkurat 24 einarkuber.
+\fig{vol2a}
+Dette kunne vi ha rekna slik:
+\[ 3\cdot 4\cdot 2=24\]
+\reg[Volumet til ei firkanta prisme I]{
+	\fig{vol2c}
+	\[\text{volum}=\text{breidde}\cdot\text{lengde}\cdot\text{høgde} \]
+}
+\newpage
+\subsubsection{Grunnflate}
+For å rekne ut volumet til de mest elementære formene vi har, er det lurt å bruke omgrepet \textit{grunnflate}\index{grunnflate}. Slik som for ei grunnlinje\footnote{Se side \pageref{grunnlinje}.}, er det vårt valg av grunnflate som avgjør hva som er høgda. For prisma fra forrige side er det naturlig å velge den flaten som ligger horisontalt til å vere grunnflata. For å indikere dette skriver man ofte bokstaven $ G $:
+\fig{vol2b}
+Grunnflaten har arealet $ 3\cdot4=12 $, mens høgda er 2. Volumet til hele prismen er grunnflaten sitt areal ganget med høgda:
+\alg{
+	V &= \colb{3\cdot 4} \cdot 2 \\
+	&= \colb{G}\cdot 2\\
+	&= 24
+}
+\reg[Volumet til ei firkanta prisme II]{
+	\fig{vol2d}
+	\[ \text{volum}=G\cdot \text{høgde} \]
+}
+\info{Grunnflaten eller grunnflatearealet?}{
+	I teksten over har vi først kalt selve grunnflaten for $ G $, og så brukt $ G $ for \textsl{grunnflatearealet}. I denne boka er begrepet \textsl{grunnflate} så sterkt knyttet til \textsl{grunnflatearealet} at vi ikke skiller mellom disse to.
 }
 \end{document}
 

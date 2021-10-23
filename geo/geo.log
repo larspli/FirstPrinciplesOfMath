@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  22 OCT 2021 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  23 OCT 2021 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1821,7 +1821,7 @@ CD$ \T1/lmr/m/n/10.95 ut-g-jer vinkel-
 
 Underfull \hbox (badness 10000) in paragraph at lines 251--251
 \T1/lmr/m/n/10.95 sum-men i $\U/msa/m/n/10.95 ^^C\OML/lmm/m/it/10.95 ABCD$\T1/l
-mr/m/n/10.95 . Av [][]\T1/lmr/m/sl/10.95 Regel 0.3[][][] \T1/lmr/m/n/10.95 veit
+mr/m/n/10.95 . Av [][]\T1/lmr/m/sl/10.95 regel 0.3[][][] \T1/lmr/m/n/10.95 veit
  vi at vinkel-sum-men i
  []
 
@@ -2078,11 +2078,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--472
 \T1/lmr/m/n/10.95 resterende de-len er ein saman-bretta
  []
 
-<../fig/kule.pdf, id=498, 56.90259pt x 56.8825pt>
+<../fig/kule.pdf, id=498, 56.90259pt x 56.8524pt>
 File: ../fig/kule.pdf Graphic file (type pdf)
 <use ../fig/kule.pdf>
 Package pdftex.def Info: ../fig/kule.pdf  used on input line 472.
-(pdftex.def)             Requested size: 56.90244pt x 56.88235pt.
+(pdftex.def)             Requested size: 56.90244pt x 56.85225pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 472--472
 []\T1/lmr/m/n/10.95 Alle punkt på over-flata har lik av-s-tand
@@ -2126,7 +2126,7 @@ Overfull \hbox (3.63052pt too wide) in paragraph at lines 472--472
 [22
 
  <../fig/3da.pdf> <../fig/3db.pdf>]
-Overfull \vbox (13.3852pt too high) has occurred while \output is active []
+Overfull \vbox (13.35509pt too high) has occurred while \output is active []
 
 
 [23 <../fig/fprism.pdf> <../fig/kube.pdf> <../fig/tprism.pdf> <../fig/fpyr.pdf>
@@ -2166,17 +2166,12 @@ Package pdftex.def Info: ../fig/vol2c.pdf  used on input line 490.
  [25
 
  <../fig/vol1.pdf> <../fig/vol2.pdf> <../fig/vol2a.pdf> <../fig/vol2c.pdf>]
-Overfull \hbox (2.08449pt too wide) in paragraph at lines 493--494
-\T1/lmr/m/n/10.95 er det vårt valg av grun-n-flate som avg-jer ko-r-leis vi ska
-l rekne ut høgda. 
- []
-
-<../fig/vol2b.pdf, id=568, 112.42pt x 94.33243pt>
+<../fig/vol2b.pdf, id=569, 112.42pt x 94.33243pt>
 File: ../fig/vol2b.pdf Graphic file (type pdf)
 <use ../fig/vol2b.pdf>
 Package pdftex.def Info: ../fig/vol2b.pdf  used on input line 494.
 (pdftex.def)             Requested size: 112.41972pt x 94.33218pt.
-<../fig/vol2d.pdf, id=569, 104.39pt x 64.21992pt>
+<../fig/vol2d.pdf, id=570, 104.39pt x 64.21992pt>
 File: ../fig/vol2d.pdf Graphic file (type pdf)
 <use ../fig/vol2d.pdf>
 Package pdftex.def Info: ../fig/vol2d.pdf  used on input line 504.
@@ -2200,108 +2195,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 507--507
 0.95 grun-n-flatearealet \T1/lmr/m/n/10.95 at vi ikkje skiller
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
-[]\T1/lmr/m/n/10.95 Volumet $\OML/lmm/m/it/10.95 V$ \T1/lmr/m/n/10.95 til ei fi
-rkanta prisme eller ein sylin-der med grun-n-
- []
-
-<../fig/vol3c.pdf, id=570, 117.41869pt x 124.465pt>
-File: ../fig/vol3c.pdf Graphic file (type pdf)
-<use ../fig/vol3c.pdf>
-Package pdftex.def Info: ../fig/vol3c.pdf  used on input line 525.
-(pdftex.def)             Requested size: 82.1925pt x 87.1249pt.
-File: ../fig/vol3c.pdf Graphic file (type pdf)
-<use ../fig/vol3c.pdf>
-Package pdftex.def Info: ../fig/vol3c.pdf  used on input line 525.
-(pdftex.def)             Requested size: 82.1925pt x 87.1249pt.
-<../fig/vol3b.pdf, id=571, 127.45618pt x 127.47626pt>
-File: ../fig/vol3b.pdf Graphic file (type pdf)
-<use ../fig/vol3b.pdf>
-Package pdftex.def Info: ../fig/vol3b.pdf  used on input line 525.
-(pdftex.def)             Requested size: 89.2187pt x 89.23276pt.
-File: ../fig/vol3b.pdf Graphic file (type pdf)
-<use ../fig/vol3b.pdf>
-Package pdftex.def Info: ../fig/vol3b.pdf  used on input line 525.
-(pdftex.def)             Requested size: 89.2187pt x 89.23276pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
-\T1/lmr/m/n/10.95 Volumet $\OML/lmm/m/it/10.95 V$ \T1/lmr/m/n/10.95 til ei kje-
-gle eller ei pyra-mide med grun-n-flate $\OML/lmm/m/it/10.95 G$ \T1/lmr/m/n/10.
-95 og
- []
-
-<../fig/vol3.pdf, id=572, 116.435pt x 102.36243pt>
-File: ../fig/vol3.pdf Graphic file (type pdf)
-<use ../fig/vol3.pdf>
-Package pdftex.def Info: ../fig/vol3.pdf  used on input line 525.
-(pdftex.def)             Requested size: 81.50394pt x 71.6532pt.
-File: ../fig/vol3.pdf Graphic file (type pdf)
-<use ../fig/vol3.pdf>
-Package pdftex.def Info: ../fig/vol3.pdf  used on input line 525.
-(pdftex.def)             Requested size: 81.50394pt x 71.6532pt.
-<../fig/vol3a.pdf, id=573, 114.40742pt x 118.4425pt>
-File: ../fig/vol3a.pdf Graphic file (type pdf)
-<use ../fig/vol3a.pdf>
-Package pdftex.def Info: ../fig/vol3a.pdf  used on input line 525.
-(pdftex.def)             Requested size: 80.08464pt x 82.90916pt.
-File: ../fig/vol3a.pdf Graphic file (type pdf)
-<use ../fig/vol3a.pdf>
-Package pdftex.def Info: ../fig/vol3a.pdf  used on input line 525.
-(pdftex.def)             Requested size: 80.08464pt x 82.90916pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\T1/lmr/m/n/10.95 Formlane frå [][]\T1/lmr/m/sl/10.95 Regel 0.12[][][] \T1/lm
-r/m/n/10.95 gjeld også for pris-mer, sylin-drar, kje-gler
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\T1/lmr/m/n/10.95 og pyra-mider som heller (er skeive). Vis grun-n-flata er pla
-ssert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\T1/lmr/m/n/10.95 ho-rison-talt, er høgda den ver-tikale av-s-tanden mel-lom gr
-un-n-flata
- []
-
-<../fig/vol4.png, id=575, 111.41624pt x 66.2475pt>
-File: ../fig/vol4.png Graphic file (type png)
-<use ../fig/vol4.png>
-Package pdftex.def Info: ../fig/vol4.png  used on input line 530.
-(pdftex.def)             Requested size: 111.41597pt x 66.24733pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\T1/lmr/m/n/10.95 (For spisse gjen-stan-dar som kje-gler og pyra-mider finst de
-t
- []
-
-[26 <../fig/vol2b.pdf> <../fig/vol2d.pdf>] [27 <../fig/vol3c.pdf> <../fig/vol3b
-.pdf> <../fig/vol3.pdf> <../fig/vol3a.pdf> <../fig/vol4.png>]
-<../fig/vol5.pdf, id=610, 200.75pt x 148.53493pt>
-File: ../fig/vol5.pdf Graphic file (type pdf)
-<use ../fig/vol5.pdf>
-Package pdftex.def Info: ../fig/vol5.pdf  used on input line 553.
-(pdftex.def)             Requested size: 200.7495pt x 148.53455pt.
- [28 <../fig/vol5.pdf>]
-<../fig/vol6.pdf, id=625, 102.3825pt x 88.30992pt>
-File: ../fig/vol6.pdf Graphic file (type pdf)
-<use ../fig/vol6.pdf>
-Package pdftex.def Info: ../fig/vol6.pdf  used on input line 575.
-(pdftex.def)             Requested size: 102.38225pt x 88.3097pt.
-<../fig/vol3d.pdf, id=627, 128.03835pt x 127.97812pt>
-File: ../fig/vol3d.pdf Graphic file (type pdf)
-<use ../fig/vol3d.pdf>
-Package pdftex.def Info: ../fig/vol3d.pdf  used on input line 584.
-(pdftex.def)             Requested size: 89.62622pt x 89.58406pt.
- [29 <../fig/vol6.pdf> <../fig/vol3d.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
+[26 <../fig/vol2b.pdf> <../fig/vol2d.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
  (./geo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
 Package rerunfilecheck Info: File `geo.out' has not changed.
 (rerunfilecheck)             Checksum: 06068D628077398451CDBFE9FAD6BAB9;306.
 
@@ -2310,16 +2209,16 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 32032 strings out of 481239
- 628464 string characters out of 5920378
- 933732 words of memory out of 5000000
- 46458 multiletter control sequences out of 15000+600000
+ 31950 strings out of 481239
+ 627048 string characters out of 5920378
+ 934816 words of memory out of 5000000
+ 46402 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,11n,104p,869b,879s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ma
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/shar
+e/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ma
 thit.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share
@@ -2333,10 +2232,10 @@ ic/lm/lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/l
 msy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on geo.pdf (29 pages, 1044937 bytes).
+Output written on geo.pdf (26 pages, 681873 bytes).
 PDF statistics:
- 723 PDF objects out of 1000 (max. 8388607)
- 563 compressed objects within 6 object streams
- 83 named destinations out of 1000 (max. 500000)
- 471 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 659 PDF objects out of 1000 (max. 8388607)
+ 517 compressed objects within 6 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
 
