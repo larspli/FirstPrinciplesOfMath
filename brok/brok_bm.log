@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  20 OCT 2021 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  31 OCT 2021 20:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1574,50 +1574,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--183
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 []\T1/lmr/m/n/10.95 I \T1/lmr/m/sl/10.95 Ek-sem-pel 1 \T1/lmr/m/n/10.95 over bl
 ir 63 kalt en \T1/lmr/m/it/10.95 fellesnevner[]\T1/lmr/m/n/10.95 . Dette fordi 
 det
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 \T1/lmr/m/n/10.95 Hvis vi ganger sam-men alle nevnerene i et reg-nestykke, finn
 er
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 \T1/lmr/m/n/10.95 vi alltid en fellesnevner, men vi sparer oss for store tall o
 m vi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 \T1/lmr/m/n/10.95 Her kan vi bruke fellesnevneren $[]$, men det er bedre å
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
 []\T1/lmr/m/n/10.95 Alle nevn-erne kan bli 8 hvis vi ganger med rett heltall. V
 i
  []
 
 [10]
 
-LaTeX Warning: Hyper reference `Gonging' on page 11 undefined on input line 214
+LaTeX Warning: Hyper reference `Gonging' on page 11 undefined on input line 215
 .
 
 
-LaTeX Warning: Reference `Gonging' on page 11 undefined on input line 214.
+LaTeX Warning: Reference `Gonging' on page 11 undefined on input line 215.
 
 <../fig/br14.pdf, id=266, 145.44337pt x 51.76338pt>
 File: ../fig/br14.pdf Graphic file (type pdf)
 <use ../fig/br14.pdf>
-Package pdftex.def Info: ../fig/br14.pdf  used on input line 220.
+Package pdftex.def Info: ../fig/br14.pdf  used on input line 221.
 (pdftex.def)             Requested size: 145.44301pt x 51.76323pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 []\T1/lmr/m/n/10.95 Når vi ganger en brøk med et heltall, ganger vi heltal-let 
 med
  []
@@ -1625,13 +1625,13 @@ med
 [11
 
  <../fig/br14.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
-[]\T1/lmr/m/n/10.95 Av [][]\T1/lmr/m/sl/10.95 Regel 0.6[][][] \T1/lmr/m/n/10.95
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\T1/lmr/m/n/10.95 Av [][]\T1/lmr/m/sl/10.95 regel 0.6[][][] \T1/lmr/m/n/10.95
  kan vi også danne en tolkn-ing av hva å gange med
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 \T1/lmr/m/n/10.95 en brøk in-nebærer. For ek-sem-pel, å gange $\OT1/lmr/m/n/10.
 95 3$ \T1/lmr/m/n/10.95 med $[]$ kan tolkes på
  []
@@ -1640,22 +1640,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--257
 <../fig/br15.pdf, id=289, 78.86464pt x 57.40446pt>
 File: ../fig/br15.pdf Graphic file (type pdf)
 <use ../fig/br15.pdf>
-Package pdftex.def Info: ../fig/br15.pdf  used on input line 269.
+Package pdftex.def Info: ../fig/br15.pdf  used on input line 270.
 (pdftex.def)             Requested size: 78.86444pt x 57.4043pt.
 <../fig/br15t.pdf, id=290, 122.67833pt x 35.39223pt>
 File: ../fig/br15t.pdf Graphic file (type pdf)
 <use ../fig/br15t.pdf>
-Package pdftex.def Info: ../fig/br15t.pdf  used on input line 270.
+Package pdftex.def Info: ../fig/br15t.pdf  used on input line 271.
 (pdftex.def)             Requested size: 122.67801pt x 35.39212pt.
 <../fig/br15a.pdf, id=291, 228.12227pt x 57.40446pt>
 File: ../fig/br15a.pdf Graphic file (type pdf)
 <use ../fig/br15a.pdf>
-Package pdftex.def Info: ../fig/br15a.pdf  used on input line 272.
+Package pdftex.def Info: ../fig/br15a.pdf  used on input line 273.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
 <../fig/br15ta.pdf, id=292, 122.67833pt x 51.76338pt>
 File: ../fig/br15ta.pdf Graphic file (type pdf)
 <use ../fig/br15ta.pdf>
-Package pdftex.def Info: ../fig/br15ta.pdf  used on input line 273.
+Package pdftex.def Info: ../fig/br15ta.pdf  used on input line 274.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
  [13
 
@@ -1663,66 +1663,66 @@ Package pdftex.def Info: ../fig/br15ta.pdf  used on input line 273.
 <../fig/br5.pdf, id=323, 84.05402pt x 57.40446pt>
 File: ../fig/br5.pdf Graphic file (type pdf)
 <use ../fig/br5.pdf>
-Package pdftex.def Info: ../fig/br5.pdf  used on input line 281.
+Package pdftex.def Info: ../fig/br5.pdf  used on input line 282.
 (pdftex.def)             Requested size: 84.05379pt x 57.4043pt.
 <../fig/br5t.pdf, id=324, 122.67833pt x 44.94792pt>
 File: ../fig/br5t.pdf Graphic file (type pdf)
 <use ../fig/br5t.pdf>
-Package pdftex.def Info: ../fig/br5t.pdf  used on input line 282.
+Package pdftex.def Info: ../fig/br5t.pdf  used on input line 283.
 (pdftex.def)             Requested size: 122.67801pt x 44.9478pt.
 <../fig/br5c.pdf, id=325, 142.76335pt x 57.40446pt>
 File: ../fig/br5c.pdf Graphic file (type pdf)
 <use ../fig/br5c.pdf>
-Package pdftex.def Info: ../fig/br5c.pdf  used on input line 285.
+Package pdftex.def Info: ../fig/br5c.pdf  used on input line 286.
 (pdftex.def)             Requested size: 142.76299pt x 57.4043pt.
 <../fig/br5ct.pdf, id=326, 122.67833pt x 58.15727pt>
 File: ../fig/br5ct.pdf Graphic file (type pdf)
 <use ../fig/br5ct.pdf>
-Package pdftex.def Info: ../fig/br5ct.pdf  used on input line 286.
+Package pdftex.def Info: ../fig/br5ct.pdf  used on input line 287.
 (pdftex.def)             Requested size: 122.67801pt x 58.15712pt.
 <../fig/br5a.pdf, id=327, 228.12227pt x 57.40446pt>
 File: ../fig/br5a.pdf Graphic file (type pdf)
 <use ../fig/br5a.pdf>
-Package pdftex.def Info: ../fig/br5a.pdf  used on input line 288.
+Package pdftex.def Info: ../fig/br5a.pdf  used on input line 289.
 (pdftex.def)             Requested size: 228.1217pt x 57.4043pt.
 <../fig/br5at.pdf, id=328, 122.67833pt x 51.76338pt>
 File: ../fig/br5at.pdf Graphic file (type pdf)
 <use ../fig/br5at.pdf>
-Package pdftex.def Info: ../fig/br5at.pdf  used on input line 289.
+Package pdftex.def Info: ../fig/br5at.pdf  used on input line 290.
 (pdftex.def)             Requested size: 122.67801pt x 51.76323pt.
  [14 <../fig/br5.pdf> <../fig/br5t.pdf> <../fig/br5c.pdf> <../fig/br5ct.pdf> <.
 ./fig/br5a.pdf> <../fig/br5at.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 300--300
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []\T1/lmr/m/n/10.95 Når vi deler en brøk med et heltall, ganger vi nevneren med
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
 \T1/lmr/m/n/10.95 Da ganget vi ikke nevneren med 2, slik [][]\T1/lmr/m/sl/10.95
- Regel 0.7[][][] \T1/lmr/m/n/10.95 tilsier. Om vi
+ regel 0.7[][][] \T1/lmr/m/n/10.95 tilsier. Om vi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
 \T1/lmr/m/n/10.95 De to svarene har altså samme verdi. Saken er at skal vi dele
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
 \T1/lmr/m/n/10.95 en brøk på et heltall, og telleren er delelig med heltal-let,
  kan vi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
 \T1/lmr/m/n/10.95 di-rekte dele telleren på heltal-let. I slike til-feller er d
 et altså ikke
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []\T1/lmr/m/n/10.95 Når vi ganger to brøker med hveran-dre, ganger vi teller me
 d
  []
@@ -1732,13 +1732,13 @@ d
 ] [17
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 367--367
+Underfull \hbox (badness 10000) in paragraph at lines 368--368
 []\T1/lmr/m/n/10.95 Når bare gang-ing er til stede i en brøk, kan vi kansellere
  par av
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--398
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
 \T1/lmr/m/sl/10.95 Merk\T1/lmr/m/n/10.95 : Hvis alle fak-torer er kansellert i 
 teller eller nevner, er
  []
@@ -1746,57 +1746,57 @@ teller eller nevner, er
 [18]
 
 LaTeX Warning: Hyper reference `primtalsfakt' on page 19 undefined on input lin
-e 406.
+e 407.
 
 
-LaTeX Warning: Reference `primtalsfakt' on page 19 undefined on input line 406.
+LaTeX Warning: Reference `primtalsfakt' on page 19 undefined on input line 407.
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 []\T1/lmr/m/n/10.95 Det er ikke alltid like lett å legge merke til en felles fa
 k-tor, slik
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 \T1/lmr/m/n/10.95 vi har gjort i \T1/lmr/m/sl/10.95 Ek-sem-pel 2 \T1/lmr/m/n/10
 .95 og \T1/lmr/m/sl/10.95 Ek-sem-pel 3 \T1/lmr/m/n/10.95 over. Vil man vere hel
 t
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 \T1/lmr/m/n/10.95 sikker på at man ikke har over-sett felles fak-torer, kan man
  alltid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-\T1/lmr/m/n/10.95 prim-tals-fak-toris-ere (se []\T1/lmr/m/sl/10.95 Sek-sjon [][
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\T1/lmr/m/n/10.95 prim-tals-fak-toris-ere (se []\T1/lmr/m/sl/10.95 kek-sjon [][
 ]\T1/lmr/m/n/10.95 ) både teller og nevner. For
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
 \T1/lmr/m/n/10.95 vil for de fleste av oss ta en stund å løse for hand med van-
 lige
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 431--431
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
 \T1/lmr/m/sl/10.95 Obs! \T1/lmr/m/n/10.95 Nuller er de en-este sifrene vi kan '
 'stryke'' på denne måten,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--431
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
 \T1/lmr/m/n/10.95 for ek-sem-pel kan vi ikke forko-rte $[]$ på nokon som helst 
 måte.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--431
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
 \T1/lmr/m/n/10.95 I til-legg kan vi bare ''stryke'' nuller som står som bak-er-
 ste sif-fer,
  []
@@ -1805,35 +1805,35 @@ ste sif-fer,
 <../fig/br10c4.pdf, id=412, 238.61145pt x 38.23283pt>
 File: ../fig/br10c4.pdf Graphic file (type pdf)
 <use ../fig/br10c4.pdf>
-Package pdftex.def Info: ../fig/br10c4.pdf  used on input line 437.
+Package pdftex.def Info: ../fig/br10c4.pdf  used on input line 438.
 (pdftex.def)             Requested size: 238.61086pt x 38.23271pt.
 <../fig/br10c.pdf, id=413, 238.61145pt x 65.30397pt>
 File: ../fig/br10c.pdf Graphic file (type pdf)
 <use ../fig/br10c.pdf>
-Package pdftex.def Info: ../fig/br10c.pdf  used on input line 444.
+Package pdftex.def Info: ../fig/br10c.pdf  used on input line 445.
 (pdftex.def)             Requested size: 238.61086pt x 65.3038pt.
  [21
 
  <../fig/br10c4.pdf> <../fig/br10c.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 462--462
+Underfull \hbox (badness 10000) in paragraph at lines 463--463
 []\T1/lmr/m/n/10.95 Når vi deler et tall med en brøk, ganger vi tal-let med den
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
 \T1/lmr/m/sl/10.95 Merk\T1/lmr/m/n/10.95 : Vi kan spare oss for store tall hvis
  vi kansellerer fak-torer
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 []\T1/lmr/m/n/10.95 Et hvert tall som kan bli skrevet som en brøk med heltalls 
 teller
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--504
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
 [][][][][][][][][][] \T1/lmr/m/n/9 in-dik-erer at 3 fort-set-ter i det uen-deli
 ge. En an-nen måte å in-dikere dette
  []
@@ -1841,11 +1841,11 @@ ge. En an-nen måte å in-dikere dette
 [24
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 506.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 506.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 507.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 507.
  (./brok_bm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 506.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 506.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 507.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 507.
 Package rerunfilecheck Info: File `brok_bm.out' has not changed.
 (rerunfilecheck)             Checksum: D4165300D35159FA36AB319E307C2A59;540.
 
@@ -1854,10 +1854,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31659 strings out of 481239
- 620715 string characters out of 5920378
- 935751 words of memory out of 5000000
- 46147 multiletter control sequences out of 15000+600000
+ 31666 strings out of 481239
+ 620787 string characters out of 5920378
+ 935897 words of memory out of 5000000
+ 46154 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,20n,104p,876b,889s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1879,7 +1879,7 @@ nts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type
 1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on brok_bm.pdf (24 pages, 394856 bytes).
+Output written on brok_bm.pdf (24 pages, 394315 bytes).
 PDF statistics:
  534 PDF objects out of 1000 (max. 8388607)
  452 compressed objects within 5 object streams

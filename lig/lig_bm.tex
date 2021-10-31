@@ -352,6 +352,101 @@ Altså er $ -3 $ også en løsning av likningen vi startet med! \regv
 	\[ x^3=8 \]
 	3 løsninger, men vi nøyer oss med å finne at $ x=2 $ er en løsning.
 }
+
+\section{Ulikheter}
+\subsection{Introduksjon}
+Mens en likning viser to uttrykk som er like, vil en \textit{ulikhet}\index{ulikhet} vise to uttrykk som er ulike. For å skrive ulikheter har vi disse symbolene:\regv
+\st{
+	\renewcommand{\arraystretch}{1.2}
+	\begin{tabular}{@{}cp{0.4cm}l}
+		$ < $ && ''er mindre enn'' \\
+		$ > $ && ''er større enn'' \\
+		$ \leq $ && ''er mindre enn eller lik'' \\
+		$ \geq $ && ''er større enn eller lik'' \\		
+	\end{tabular}
+	\renewcommand{\arraystretch}{1}
+} \vsk
+
+En ulikhet mellom to tal er avgjort av verdien og fortegnet til tallene:\regv
+
+\reg[Ulikskapar]{ \vs
+	\begin{itemize}
+		\item Et positivt tall er større enn et negativt tal.
+		\item For tall med same fortegn, er det tallet med størst\\ absoluttverdi som er størst.
+		\item 0 er større enn et hvert negativt tal og mindre enn et hvert positivt tal.
+	\end{itemize}
+}
+\eks[1]{ \vsb
+	\[ 9>8 \]
+}
+\eks[2]{ \vsb
+	\[ -9<-8 \]
+}
+\eks[3]{ \vsb
+	\[ -7<1 \]
+}
+\newpage
+\eks[4]{ \vs
+	\[ a-3\geq 1  \]
+	Undersøk om ulikheten er er sann viss
+	\abc{
+		\item $ a=5 $
+		\item $ a=4 $
+		\item $ a=3 $
+	}
+	\sv
+	\abc{
+		\item Når $ a=5 $, har vi at
+		\alg{
+			5-3 \geq 1 \\
+			2 \geq 1
+		}
+		Siden $ 2<1 $, er ulikheten sann.	
+		\item Når $ a=4 $, har vi at
+		\alg{
+			4-3 \geq 1 \\
+			1 \geq 1
+		}
+		Siden 1 er lik 1, er ulikheten sann.	
+		\item Når $ a=3 $, har vi at
+		\alg{
+			3-3 \geq 1 \\
+			0 \geq 1
+		}
+		Sidan 0 er mindre enn 1, er ulikheten usann.
+	}
+}
+\newpage
+\subsection{Løysing av ulikskapar}
+Vi kan løse ulikskheter ved å bruke metodene fra \rref{lsmlig}, men med ett unntak; \textsl{om vi ganger eller deler med negative tall, skifter ulikheten symbol}. For å forklare kva som skjer, la oss bruke den enkle ulikheten 
+\[ 9>8 \]
+Om vi ganger begge sider av ulikheten med $ -1 $, får vi $ -9 $ på venstre side og $ -8 $ på høgre side. Men $ {-9 < -8}$. Symbolet fra vår opprinnelege ulikhet har altså endret seg fra \sym{>} til \sym{<}. \regv
+
+\reg[Løsing av ulikheter]{
+	Ulikheter kan løses på same måte som likninger, men med ett unntak: Hvis man gangar eller deler begge sider av en ulikhet med et negativt tal, vil $ \sym{>} $ endre seg til $ \sym{<} $, og omvendt.
+}
+\eks[1]{
+	Løs ulikheten
+	\[ 5x-3\geq2x+6 \]
+	\sv \vsb \vsb 
+	\alg{
+		5x-3&\geq2x+6 \\
+		3x&\geq 9 \\
+		x &\geq 3
+	}
+}
+\eks[2]{
+	Løs ulikheten 
+	\[ 4x-8\leq6x+12 \]
+	\sv \vsb \vsb
+	\alg{
+		4x-8&\leq6x+12 \\
+		-2x&\leq20 \\
+		\frac{\cancel{-2}x}{\cancel{-2}}&\geq \frac{20}{-2} \\
+		x&\geq -10
+	}
+	\mer Her kan vi selvsagt unngå å dele med $ -2 $ ved å isolere $ x $-ene på høgre side av ulikheten i steden for venstre.
+}
 \end{document}
 
 

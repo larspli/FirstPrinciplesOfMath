@@ -8,5 +8,11 @@
 - legg til forklaring av divisjon med mengder og med tabellmetode
 - legg til kap i _eng
 
+/lig 
+- legg til ulikskap i _eng
+
 /funk 
 - fiks oppgaver på nynorsk
+
+
+
