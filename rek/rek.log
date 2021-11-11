@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  23 OCT 2021 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  11 NOV 2021 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1842,11 +1842,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 495--495
 
 LaTeX Warning: Reference `Divisjon' on page 13 undefined on input line 498.
 
-<rekfig/del1.pdf, id=320, 80.16951pt x 68.07433pt>
+<rekfig/del1.pdf, id=320, 80.16951pt x 57.40446pt>
 File: rekfig/del1.pdf Graphic file (type pdf)
 <use rekfig/del1.pdf>
 Package pdftex.def Info: rekfig/del1.pdf  used on input line 508.
-(pdftex.def)             Requested size: 80.1693pt x 68.07414pt.
+(pdftex.def)             Requested size: 80.1693pt x 57.4043pt.
 
 Overfull \hbox (7.8982pt too wide) in paragraph at lines 508--508
  [] 
@@ -1858,65 +1858,92 @@ File: rekfig/del2.pdf Graphic file (type pdf)
 Package pdftex.def Info: rekfig/del2.pdf  used on input line 516.
 (pdftex.def)             Requested size: 102.93431pt x 96.53038pt.
 [13 <./rekfig/del1.pdf> <./rekfig/del2.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+<../fig/delalg.pdf, id=339, 65.94637pt x 57.40446pt>
+File: ../fig/delalg.pdf Graphic file (type pdf)
+<use ../fig/delalg.pdf>
+Package pdftex.def Info: ../fig/delalg.pdf  used on input line 526.
+(pdftex.def)             Requested size: 65.9462pt x 57.4043pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+\T1/lmr/m/n/10.95 Figuren over il-lus-tr-erer mengda 76, som vi skal dele inn i
+ 4 like
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+[]\T1/lmr/m/n/10.95 Vi star-tar med å fordele så mange av tiarane som mog-leg.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+\T1/lmr/m/n/10.95 Av dei 7 tiarane, kan kvar gruppe få 1. Da har vi to-talt
+ []
+
+<../fig/delalga.pdf, id=340, 31.7988pt x 57.40446pt>
+File: ../fig/delalga.pdf Graphic file (type pdf)
+<use ../fig/delalga.pdf>
+Package pdftex.def Info: ../fig/delalga.pdf  used on input line 526.
+(pdftex.def)             Requested size: 31.7987pt x 57.4043pt.
+[14 <../fig/delalg.pdf> <../fig/delalga.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
 []\T1/lmr/m/sl/9 Merk\T1/lmr/m/n/9 : same rek-nestykke
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
 \T1/lmr/m/n/9 som i \T1/lmr/m/sl/9 Ek-sem-pel 2\T1/lmr/m/n/9 , men ei
  []
 
-[14]pdfTeX warning (ext4): destination with the same identifier (name{subfigure
+[15]pdfTeX warning (ext4): destination with the same identifier (name{subfigure
 .1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.636 }
+l.645 }
        pdfTeX warning (ext4): destination with the same identifier (name{subfig
 ure.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.636 }
+l.645 }
        pdfTeX warning (ext4): destination with the same identifier (name{subfig
 ure.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.636 }
+l.645 }
        
-Underfull \hbox (badness 10000) in paragraph at lines 636--636
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
 []\T1/lmr/m/n/10.95 Sidan 2 er det første prim-tal-let, un-der-søker vi om 84 e
 r
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--636
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
 []\T1/lmr/m/n/10.95 Vi un-der-søker om også 42 er dele-leg med 2. Det er det,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--636
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
 []\T1/lmr/m/n/10.95 Vi un-der-søker om også 21 er dele-leg med 2. Det er det
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--636
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
 \T1/lmr/m/n/10.95 ikkje, fordi $[]$. Der-for går vi over til neste prim-
  []
 
-[15
+[16
 
 ]
-<../fig/primn100.pdf, id=354, 228.12227pt x 228.12227pt>
+<../fig/primn100.pdf, id=367, 228.12227pt x 228.12227pt>
 File: ../fig/primn100.pdf Graphic file (type pdf)
 <use ../fig/primn100.pdf>
-Package pdftex.def Info: ../fig/primn100.pdf  used on input line 639.
+Package pdftex.def Info: ../fig/primn100.pdf  used on input line 648.
 (pdftex.def)             Requested size: 228.1217pt x 228.1217pt.
- [16 <../fig/primn100.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
+ [17 <../fig/primn100.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 649.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 649.
  (./rek.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 649.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 649.
 Package rerunfilecheck Info: File `rek.out' has not changed.
 (rerunfilecheck)             Checksum: 05CAFD67992695A9A8951994A7E88B47;241.
 
@@ -1925,10 +1952,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31617 strings out of 481239
- 620273 string characters out of 5920378
- 938671 words of memory out of 5000000
- 46122 multiletter control sequences out of 15000+600000
+ 31632 strings out of 481239
+ 620599 string characters out of 5920378
+ 938646 words of memory out of 5000000
+ 46134 multiletter control sequences out of 15000+600000
  599398 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,12n,104p,869b,1085s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1946,10 +1973,10 @@ public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmsy9.pfb>
-Output written on rek.pdf (16 pages, 270189 bytes).
+Output written on rek.pdf (17 pages, 275187 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 364 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 439 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 

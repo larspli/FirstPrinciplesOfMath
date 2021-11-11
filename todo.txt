@@ -13,6 +13,7 @@
 
 /funk 
 - fiks oppgaver på nynorsk
+- legg til eks[4] paa engelsk
 
 
 
