@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  11 NOV 2021 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  12 NOV 2021 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1325,7 +1325,7 @@ LaTeX Info: Redefining \nameref on input line 4.
 \@outlinefile=\write7
 \openout7 = `rek.out'.
 
-<rekfig/plus1.pdf, id=27, 46.02194pt x 47.44727pt>
+<rekfig/plus1.pdf, id=31, 46.02194pt x 47.44727pt>
 File: rekfig/plus1.pdf Graphic file (type pdf)
 <use rekfig/plus1.pdf>
 Package pdftex.def Info: rekfig/plus1.pdf  used on input line 18.
@@ -1377,32 +1377,32 @@ LaTeX Font Info:    Trying to load font information for U+esint on input line 1
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-<rekfig/plus2.pdf, id=28, 46.02194pt x 47.44727pt>
+<rekfig/plus2.pdf, id=32, 46.02194pt x 47.44727pt>
 File: rekfig/plus2.pdf Graphic file (type pdf)
 <use rekfig/plus2.pdf>
 Package pdftex.def Info: rekfig/plus2.pdf  used on input line 26.
 (pdftex.def)             Requested size: 46.02182pt x 47.44714pt.
-<rekfig/plus3.pdf, id=29, 46.02194pt x 47.44727pt>
+<rekfig/plus3.pdf, id=33, 46.02194pt x 47.44727pt>
 File: rekfig/plus3.pdf Graphic file (type pdf)
 <use rekfig/plus3.pdf>
 Package pdftex.def Info: rekfig/plus3.pdf  used on input line 33.
 (pdftex.def)             Requested size: 46.02182pt x 47.44714pt.
-<rekfig/plus4.pdf, id=30, 57.40446pt x 47.44727pt>
+<rekfig/plus4.pdf, id=34, 57.40446pt x 47.44727pt>
 File: rekfig/plus4.pdf Graphic file (type pdf)
 <use rekfig/plus4.pdf>
 Package pdftex.def Info: rekfig/plus4.pdf  used on input line 40.
 (pdftex.def)             Requested size: 57.4043pt x 47.44714pt.
-<rekfig/plus1a.pdf, id=31, 46.02194pt x 47.44727pt>
+<rekfig/plus1a.pdf, id=35, 46.02194pt x 47.44727pt>
 File: rekfig/plus1a.pdf Graphic file (type pdf)
 <use rekfig/plus1a.pdf>
 Package pdftex.def Info: rekfig/plus1a.pdf  used on input line 55.
 (pdftex.def)             Requested size: 46.02182pt x 47.44714pt.
-<rekfig/plus1b.pdf, id=32, 46.02194pt x 47.44727pt>
+<rekfig/plus1b.pdf, id=36, 46.02194pt x 47.44727pt>
 File: rekfig/plus1b.pdf Graphic file (type pdf)
 <use rekfig/plus1b.pdf>
 Package pdftex.def Info: rekfig/plus1b.pdf  used on input line 55.
 (pdftex.def)             Requested size: 46.02182pt x 47.44714pt.
-<rekfig/plus1c.pdf, id=33, 46.02194pt x 47.44727pt>
+<rekfig/plus1c.pdf, id=37, 46.02194pt x 47.44727pt>
 File: rekfig/plus1c.pdf Graphic file (type pdf)
 <use rekfig/plus1c.pdf>
 Package pdftex.def Info: rekfig/plus1c.pdf  used on input line 55.
@@ -1419,7 +1419,7 @@ with the same identifier (name{subfigure.1.1}) has been already used, duplicate
                    \relax 
 l.69 }
        \vsk
-<rekfig/plus2a.pdf, id=101, 46.02194pt x 47.44727pt>
+<rekfig/plus2a.pdf, id=105, 46.02194pt x 47.44727pt>
 File: rekfig/plus2a.pdf Graphic file (type pdf)
 <use rekfig/plus2a.pdf>
 Package pdftex.def Info: rekfig/plus2a.pdf  used on input line 69.
@@ -1430,7 +1430,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
                    \relax 
 l.69 }
        \vsk
-<rekfig/plus2b.pdf, id=102, 46.02194pt x 47.44727pt>
+<rekfig/plus2b.pdf, id=106, 46.02194pt x 47.44727pt>
 File: rekfig/plus2b.pdf Graphic file (type pdf)
 <use rekfig/plus2b.pdf>
 Package pdftex.def Info: rekfig/plus2b.pdf  used on input line 69.
@@ -1441,7 +1441,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
                    \relax 
 l.69 }
        \vsk
-<rekfig/plus2c.pdf, id=103, 46.02194pt x 47.44727pt>
+<rekfig/plus2c.pdf, id=107, 46.02194pt x 47.44727pt>
 File: rekfig/plus2c.pdf Graphic file (type pdf)
 <use rekfig/plus2c.pdf>
 Package pdftex.def Info: rekfig/plus2c.pdf  used on input line 69.
@@ -1525,22 +1525,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--151
  []
 
 [3]
-<rekfig/min1.pdf, id=141, 46.02194pt x 47.44727pt>
+<rekfig/min1.pdf, id=145, 46.02194pt x 47.44727pt>
 File: rekfig/min1.pdf Graphic file (type pdf)
 <use rekfig/min1.pdf>
 Package pdftex.def Info: rekfig/min1.pdf  used on input line 163.
 (pdftex.def)             Requested size: 46.02182pt x 47.44714pt.
-<rekfig/min2.pdf, id=142, 34.64944pt x 47.44727pt>
+<rekfig/min2.pdf, id=146, 34.64944pt x 47.44727pt>
 File: rekfig/min2.pdf Graphic file (type pdf)
 <use rekfig/min2.pdf>
 Package pdftex.def Info: rekfig/min2.pdf  used on input line 170.
 (pdftex.def)             Requested size: 34.64934pt x 47.44714pt.
-<rekfig/min3.pdf, id=143, 46.02194pt x 47.44727pt>
+<rekfig/min3.pdf, id=147, 46.02194pt x 47.44727pt>
 File: rekfig/min3.pdf Graphic file (type pdf)
 <use rekfig/min3.pdf>
 Package pdftex.def Info: rekfig/min3.pdf  used on input line 177.
 (pdftex.def)             Requested size: 46.02182pt x 47.44714pt.
-<rekfig/min4.pdf, id=144, 57.40446pt x 47.44727pt>
+<rekfig/min4.pdf, id=148, 57.40446pt x 47.44727pt>
 File: rekfig/min4.pdf Graphic file (type pdf)
 <use rekfig/min4.pdf>
 Package pdftex.def Info: rekfig/min4.pdf  used on input line 184.
@@ -1551,7 +1551,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
                    \relax 
 l.200 }
        
-<rekfig/min1a.pdf, id=145, 46.02194pt x 47.44727pt>
+<rekfig/min1a.pdf, id=149, 46.02194pt x 47.44727pt>
 File: rekfig/min1a.pdf Graphic file (type pdf)
 <use rekfig/min1a.pdf>
 Package pdftex.def Info: rekfig/min1a.pdf  used on input line 200.
@@ -1562,7 +1562,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
                    \relax 
 l.200 }
        
-<rekfig/min1b.pdf, id=146, 46.02194pt x 47.44727pt>
+<rekfig/min1b.pdf, id=150, 46.02194pt x 47.44727pt>
 File: rekfig/min1b.pdf Graphic file (type pdf)
 <use rekfig/min1b.pdf>
 Package pdftex.def Info: rekfig/min1b.pdf  used on input line 200.
@@ -1573,7 +1573,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
                    \relax 
 l.200 }
        
-<rekfig/min1c.pdf, id=147, 46.02194pt x 47.44727pt>
+<rekfig/min1c.pdf, id=151, 46.02194pt x 47.44727pt>
 File: rekfig/min1c.pdf Graphic file (type pdf)
 <use rekfig/min1c.pdf>
 Package pdftex.def Info: rekfig/min1c.pdf  used on input line 200.
@@ -1588,7 +1588,7 @@ ready used, duplicate ignored
                    \relax 
 l.213 }
        
-<rekfig/min2a.pdf, id=215, 34.64944pt x 47.44727pt>
+<rekfig/min2a.pdf, id=219, 34.64944pt x 47.44727pt>
 File: rekfig/min2a.pdf Graphic file (type pdf)
 <use rekfig/min2a.pdf>
 Package pdftex.def Info: rekfig/min2a.pdf  used on input line 213.
@@ -1599,7 +1599,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
                    \relax 
 l.213 }
        
-<rekfig/min2b.pdf, id=216, 34.64944pt x 47.44727pt>
+<rekfig/min2b.pdf, id=220, 34.64944pt x 47.44727pt>
 File: rekfig/min2b.pdf Graphic file (type pdf)
 <use rekfig/min2b.pdf>
 Package pdftex.def Info: rekfig/min2b.pdf  used on input line 213.
@@ -1743,12 +1743,12 @@ LaTeX Warning: Hyper reference `gangpar' on page 9 undefined on input line 394.
 
 LaTeX Warning: Reference `gangpar' on page 9 undefined on input line 394.
 
-<rekfig/gang1.pdf, id=273, 80.16951pt x 65.94637pt>
+<rekfig/gang1.pdf, id=277, 80.16951pt x 65.94637pt>
 File: rekfig/gang1.pdf Graphic file (type pdf)
 <use rekfig/gang1.pdf>
 Package pdftex.def Info: rekfig/gang1.pdf  used on input line 400.
 (pdftex.def)             Requested size: 80.1693pt x 65.9462pt.
-<rekfig/gfleirsif.pdf, id=274, 227.62039pt x 81.5045pt>
+<rekfig/gfleirsif.pdf, id=278, 227.62039pt x 81.5045pt>
 File: rekfig/gfleirsif.pdf Graphic file (type pdf)
 <use rekfig/gfleirsif.pdf>
 Package pdftex.def Info: rekfig/gfleirsif.pdf  used on input line 406.
@@ -1764,7 +1764,7 @@ Overfull \hbox (0.51714pt too wide) in paragraph at lines 438--439
  utvida 
  []
 
-<rekfig/gfleirsifa.pdf, id=293, 74.58865pt x 66.75941pt>
+<rekfig/gfleirsifa.pdf, id=297, 74.58865pt x 66.75941pt>
 File: rekfig/gfleirsifa.pdf Graphic file (type pdf)
 <use rekfig/gfleirsifa.pdf>
 Package pdftex.def Info: rekfig/gfleirsifa.pdf  used on input line 445.
@@ -1842,7 +1842,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 495--495
 
 LaTeX Warning: Reference `Divisjon' on page 13 undefined on input line 498.
 
-<rekfig/del1.pdf, id=320, 80.16951pt x 57.40446pt>
+<rekfig/del1.pdf, id=324, 80.16951pt x 57.40446pt>
 File: rekfig/del1.pdf Graphic file (type pdf)
 <use rekfig/del1.pdf>
 Package pdftex.def Info: rekfig/del1.pdf  used on input line 508.
@@ -1852,45 +1852,101 @@ Overfull \hbox (7.8982pt too wide) in paragraph at lines 508--508
  [] 
  []
 
-<rekfig/del2.pdf, id=321, 102.93457pt x 96.53064pt>
+<rekfig/del2.pdf, id=325, 102.93457pt x 96.53064pt>
 File: rekfig/del2.pdf Graphic file (type pdf)
 <use rekfig/del2.pdf>
 Package pdftex.def Info: rekfig/del2.pdf  used on input line 516.
 (pdftex.def)             Requested size: 102.93431pt x 96.53038pt.
-[13 <./rekfig/del1.pdf> <./rekfig/del2.pdf>]
-<../fig/delalg.pdf, id=339, 65.94637pt x 57.40446pt>
+[13 <./rekfig/del1.pdf> <./rekfig/del2.pdf>]pdfTeX warning (ext4): destination 
+with the same identifier (name{subfigure.1.1}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.540 }
+       
+<../fig/delalg.pdf, id=343, 83.01012pt x 57.40446pt>
 File: ../fig/delalg.pdf Graphic file (type pdf)
 <use ../fig/delalg.pdf>
-Package pdftex.def Info: ../fig/delalg.pdf  used on input line 526.
-(pdftex.def)             Requested size: 65.9462pt x 57.4043pt.
+Package pdftex.def Info: ../fig/delalg.pdf  used on input line 540.
+(pdftex.def)             Requested size: 83.0099pt x 57.4043pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.540 }
+       
+<../fig/delalg0.pdf, id=344, 68.78699pt x 137.0721pt>
+File: ../fig/delalg0.pdf Graphic file (type pdf)
+<use ../fig/delalg0.pdf>
+Package pdftex.def Info: ../fig/delalg0.pdf  used on input line 540.
+(pdftex.def)             Requested size: 68.7868pt x 137.07175pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--526
-\T1/lmr/m/n/10.95 Figuren over il-lus-tr-erer mengda 76, som vi skal dele inn i
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+\T1/lmr/m/n/10.95 Figuren over il-lus-tr-erer mengda 92, som vi skal dele inn i
  4 like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--526
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
 []\T1/lmr/m/n/10.95 Vi star-tar med å fordele så mange av tiarane som mog-leg.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--526
-\T1/lmr/m/n/10.95 Av dei 7 tiarane, kan kvar gruppe få 1. Da har vi to-talt
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+\T1/lmr/m/n/10.95 Av dei 9 tiarane, kan kvar gruppe få 2. Da har vi to-talt
  []
 
-<../fig/delalga.pdf, id=340, 31.7988pt x 57.40446pt>
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.540 }
+       
+<../fig/delalgaa.pdf, id=345, 14.725pt x 57.40446pt>
+File: ../fig/delalgaa.pdf Graphic file (type pdf)
+<use ../fig/delalgaa.pdf>
+Package pdftex.def Info: ../fig/delalgaa.pdf  used on input line 540.
+(pdftex.def)             Requested size: 14.72496pt x 57.4043pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.540 }
+       
+<../fig/delalga.pdf, id=346, 68.78699pt x 137.0721pt>
 File: ../fig/delalga.pdf Graphic file (type pdf)
 <use ../fig/delalga.pdf>
-Package pdftex.def Info: ../fig/delalga.pdf  used on input line 526.
-(pdftex.def)             Requested size: 31.7987pt x 57.4043pt.
-[14 <../fig/delalg.pdf> <../fig/delalga.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Package pdftex.def Info: ../fig/delalga.pdf  used on input line 540.
+(pdftex.def)             Requested size: 68.7868pt x 137.07175pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+[]\T1/lmr/m/n/10.95 Vi står no ig-jen med 1 tiar og 2 einarar, altså 12 einarar
+.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+\T1/lmr/m/n/10.95 Av dei 12 einarane, kan kvar gruppe få 3. Da har vi to-talt
+ []
+
+<../fig/delalgb.pdf, id=347, 68.78699pt x 137.0721pt>
+File: ../fig/delalgb.pdf Graphic file (type pdf)
+<use ../fig/delalgb.pdf>
+Package pdftex.def Info: ../fig/delalgb.pdf  used on input line 540.
+(pdftex.def)             Requested size: 68.7868pt x 137.07175pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+[]\T1/lmr/m/n/10.95 No er heile mengda 92 fordelt, og da er vi fer-dige med
+ []
+
+[14 <../fig/delalg.pdf> <../fig/delalg0.pdf> <../fig/delalgaa.pdf> <../fig/dela
+lga.pdf> <../fig/delalgb.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
 []\T1/lmr/m/sl/9 Merk\T1/lmr/m/n/9 : same rek-nestykke
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
 \T1/lmr/m/n/9 som i \T1/lmr/m/sl/9 Ek-sem-pel 2\T1/lmr/m/n/9 , men ei
  []
 
@@ -1898,69 +1954,228 @@ Underfull \hbox (badness 10000) in paragraph at lines 572--572
 .1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.645 }
+l.637 }
        pdfTeX warning (ext4): destination with the same identifier (name{subfig
 ure.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.645 }
+l.637 }
        pdfTeX warning (ext4): destination with the same identifier (name{subfig
 ure.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.645 }
+l.637 }
+       pdfTeX warning (ext4): destination with the same identifier (name{subfig
+ure.1.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.637 }
        
-Underfull \hbox (badness 10000) in paragraph at lines 645--645
+Underfull \hbox (badness 10000) in paragraph at lines 637--637
+[]\T1/lmr/m/n/10.95 Vi gongar 10 med 4, som er lik 40. Da har vi så langt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--637
+[]\T1/lmr/m/n/10.95 Vi gongar 10 med 4, som er lik 40. Da har vi så langt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--637
+[]\T1/lmr/m/n/10.95 Vi gongar 3 med 4, som er lik 12. Da har vi komme til
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+[]\T1/lmr/m/n/10.95 I starten er det lurt å sjå tilbake på utrekningar gjort me
+d
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+\T1/lmr/m/n/10.95 tabell-me-to-den for å tenke over om ein kunne valt tal på ei
+n be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+\T1/lmr/m/n/10.95 tre måte. For ek-sem-pel, i \T1/lmr/m/sl/10.95 Ek-sem-pel 1 \
+T1/lmr/m/n/10.95 over kunne vi starta med
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+\T1/lmr/m/n/10.95 å gonge med 20. Dette er om-lag like enkelt som å gonge med 1
+0,
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
+[]\T1/lmr/m/n/10.95 Det største heil-talet vi kan gonge med 4 utan at pro-duk-t
+et blir
+ []
+
+<../fig/mod1.pdf, id=384, 171.21968pt x 57.40446pt>
+File: ../fig/mod1.pdf Graphic file (type pdf)
+<use ../fig/mod1.pdf>
+Package pdftex.def Info: ../fig/mod1.pdf  used on input line 654.
+(pdftex.def)             Requested size: 171.21925pt x 57.4043pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--665
+[]\T1/lmr/m/n/10.95 Det største heil-talet vi kan gonge med 3 utan at pro-duk-t
+et blir
+ []
+
+<../fig/mod2.pdf, id=385, 164.10309pt x 85.86078pt>
+File: ../fig/mod2.pdf Graphic file (type pdf)
+<use ../fig/mod2.pdf>
+Package pdftex.def Info: ../fig/mod2.pdf  used on input line 665.
+(pdftex.def)             Requested size: 164.10268pt x 85.86057pt.
+[17 <../fig/mod1.pdf> <../fig/mod2.pdf>]
+<rekfig/mod3.pdf, id=405, 80.16951pt x 57.40446pt>
+File: rekfig/mod3.pdf Graphic file (type pdf)
+<use rekfig/mod3.pdf>
+Package pdftex.def Info: rekfig/mod3.pdf  used on input line 690.
+(pdftex.def)             Requested size: 80.1693pt x 57.4043pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--695
+[]\T1/lmr/m/n/10.95 Viss vi ut-fører ein \T1/lmr/m/it/10.95 modulo-operasjon\T1
+/lmr/m/n/10.95 , finn vi resten i eit de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--695
+\T1/lmr/m/n/10.95 lestykke. Dette blir ofte vist ved forko-rtinga [][][][][][].
+ For ek-sem-pel
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
+95.
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 695--695
+\T1/lmr/m/n/10.95 I til-legg til [][][][][][], blir også [][][][][][] og [][][]
+[][][] brukt som sym-bol for
+ []
+
+[18 <./rekfig/mod3.pdf>]
+
+LaTeX Warning: Hyper reference `delmbr' on page 19 undefined on input line 722.
+
+
+
+LaTeX Warning: Reference `delmbr' on page 19 undefined on input line 722.
+
+
+LaTeX Warning: Hyper reference `gangpar' on page 19 undefined on input line 722
+.
+
+
+LaTeX Warning: Reference `gangpar' on page 19 undefined on input line 722.
+
+[19]
+<rekfig/deldes1.pdf, id=424, 89.74529pt x 80.16951pt>
+File: rekfig/deldes1.pdf Graphic file (type pdf)
+<use rekfig/deldes1.pdf>
+Package pdftex.def Info: rekfig/deldes1.pdf  used on input line 747.
+(pdftex.def)             Requested size: 89.74506pt x 80.1693pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]\T1/lmr/m/n/10.95 Sidan vi deler med 4, er det snakk om å fordele 11 likt i 4
+ grup-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]\T1/lmr/m/n/10.95 8 av dei 11 einarane kan vi fordele likt i 4 grup-per. Da h
+ar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]\T1/lmr/m/n/10.95 28 av dei 30 tide-lane kan vi fordele likt i 4 grup-per. Da
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+\T1/lmr/m/n/10.95 har vi ig-jen 2 tide-lar. Dette er det same som 20 hun-drede-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]\T1/lmr/m/n/10.95 Heile mengda 11 er no fordelt, og da er vi fer-dige med
+ []
+
+[20 <./rekfig/deldes1.pdf>]pdfTeX warning (ext4): destination with the same ide
+ntifier (name{subfigure.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.829 }
+       pdfTeX warning (ext4): destination with the same identifier (name{subfig
+ure.1.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.829 }
+       pdfTeX warning (ext4): destination with the same identifier (name{subfig
+ure.1.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.829 }
+       
+Underfull \hbox (badness 10000) in paragraph at lines 829--829
 []\T1/lmr/m/n/10.95 Sidan 2 er det første prim-tal-let, un-der-søker vi om 84 e
 r
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 645--645
+Underfull \hbox (badness 10000) in paragraph at lines 829--829
 []\T1/lmr/m/n/10.95 Vi un-der-søker om også 42 er dele-leg med 2. Det er det,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 645--645
+Underfull \hbox (badness 10000) in paragraph at lines 829--829
 []\T1/lmr/m/n/10.95 Vi un-der-søker om også 21 er dele-leg med 2. Det er det
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 645--645
+Underfull \hbox (badness 10000) in paragraph at lines 829--829
 \T1/lmr/m/n/10.95 ikkje, fordi $[]$. Der-for går vi over til neste prim-
  []
 
-[16
+[21
 
 ]
-<../fig/primn100.pdf, id=367, 228.12227pt x 228.12227pt>
+<../fig/primn100.pdf, id=441, 228.12227pt x 228.12227pt>
 File: ../fig/primn100.pdf Graphic file (type pdf)
 <use ../fig/primn100.pdf>
-Package pdftex.def Info: ../fig/primn100.pdf  used on input line 648.
+Package pdftex.def Info: ../fig/primn100.pdf  used on input line 832.
 (pdftex.def)             Requested size: 228.1217pt x 228.1217pt.
- [17 <../fig/primn100.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 649.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 649.
+ [22 <../fig/primn100.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 833.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 833.
  (./rek.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 649.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 649.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 833.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 833.
 Package rerunfilecheck Info: File `rek.out' has not changed.
-(rerunfilecheck)             Checksum: 05CAFD67992695A9A8951994A7E88B47;241.
+(rerunfilecheck)             Checksum: F0087233709CE36EB71E2D52A5A02F6B;326.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31632 strings out of 481239
- 620599 string characters out of 5920378
- 938646 words of memory out of 5000000
- 46134 multiletter control sequences out of 15000+600000
- 599398 words of font info for 82 fonts, out of 8000000 for 9000
+ 31759 strings out of 481239
+ 622741 string characters out of 5920378
+ 938687 words of memory out of 5000000
+ 46235 multiletter control sequences out of 15000+600000
+ 609960 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,12n,104p,869b,1085s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ma
 thit.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
@@ -1969,14 +2184,16 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmsy9.pfb>
-Output written on rek.pdf (17 pages, 275187 bytes).
+public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmtt10.pfb>
+Output written on rek.pdf (22 pages, 350851 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 375 compressed objects within 4 object streams
- 67 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 525 PDF objects out of 1000 (max. 8388607)
+ 445 compressed objects within 5 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 

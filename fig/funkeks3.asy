@@ -1,7 +1,6 @@
-import "../inh" as inh;
-import "../drwgrph" as grph;
-size(6 cm, 7 cm, keepAspect=false);
-defaultpen(fontsize(8pt));
+import "inh" as inh;
+import "drwgrph" as grph;
+size(10 cm, 16 cm, keepAspect=false);
 
 real f(real x){return 4*x+3;}
 int a = -6;

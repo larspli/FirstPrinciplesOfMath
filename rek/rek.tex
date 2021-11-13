@@ -516,29 +516,44 @@ Divisjon med oppstilling baserer seg på divisjon tolka som inndeling av mengder
 }
 \end{center}
 \newpage
-\fork{Eksempel 1}{
-\fig{delalg}
-Figuren over illustrerer mengda 76, som vi skal dele inn i 4 like store grupper. 
+\fork{Eksempel 1}{ \vs \vs
+\begin{figure}
+	\centering
+	\subfloat{\includegraphics{\asym{delalg}}}
+	\qquad \subfloat{\includegraphics[angle=90]{\asym{delalg0}}}
+\end{figure}
+Figuren over illustrerer mengda 92, som vi skal dele inn i 4 like store grupper. 
 \begin{itemize}
-	\item Vi startar med å fordele så mange av tiarane som mogleg. Av dei 7 tiarane, kan kvar gruppe få 1. Da har vi totalt tatt vekk 4 tiarar.
-	\fig{delalga}
+	\item Vi startar med å fordele så mange av tiarane som mogleg. Av dei 9 tiarane, kan kvar gruppe få 2. Da har vi totalt fordelt $ 2\cdot 4=8 $ tiarar.
+\begin{figure}
+	\centering
+	\subfloat{\includegraphics{\asym{delalgaa}}}
+	\qquad \subfloat{\includegraphics[angle=90]{\asym{delalga}}}
+\end{figure}
+\item Vi står no igjen med 1 tiar og 2 einarar, altså 12 einarar. Av dei 12 einarane, kan kvar gruppe få 3. Da har vi totalt fordelt $ 3\cdot 4= 12 $ einarar.
+\begin{figure}
+	\centering
+	\includegraphics[angle=90]{\asym{delalgb}}
+\end{figure}
+\item No er heile mengda 92 fordelt, og da er vi ferdige med utrekninga. I kvar gruppe endte vi opp med mengda 23.
 \end{itemize}
 }
 \newpage
 \subsubsection{Tabellmetoden}
-Tabellmetoden baserer seg på divisjon som omvend operasjon av gonging. For eksempel er svaret på spørsmålet ''Kva er $ {76:4} $'' det same som svaret på spørsmålet ''Kva tal må eg gonge 4 med for å få 76?''. På same vis som for tabellmetoden ved subtraksjon er det opp til ein sjølv å velge passande tal for å nå målet.
+Tabellmetoden baserer seg på divisjon som omvend operasjon av gonging. For eksempel er svaret på spørsmålet ''Kva er $ {76:4} $'' det same som svaret på spørsmålet ''Kva tal må eg gonge 4 med for å få 76?''. På same vis som for tabellmetoden ved subtraksjon, er det opp til ein sjølv å velge passande tal for å nå målet.
 \begin{center}
 	\parbox{0.35\linewidth}{
 		\eks[1]{
-			$ \colg{76}:\colb{4}=\colo{19} $	 \vsk
+			$ \colg{92}:\colb{4}=\colo{23} $	 \vsk
 			
 			\begin{tabular}{r|r|r}
 				$ \cdot\, \colb{4} $&\\ \hline
 				10&40&40 \\
-				9& 36 &\colg{76} \\ \hline
-				\colo{19}&
+				10&40&80 \\
+				3& 12 &\colg{92} \\ \hline
+				\colo{23}&
 			\end{tabular}
-		\vspace{42pt}
+		\vspace{28pt}
 	}} \qquad
 \parbox{0.35\linewidth}{
 	\eks[2]{
@@ -571,6 +586,175 @@ Tabellmetoden baserer seg på divisjon som omvend operasjon av gonging. For ekse
 }
 }
 \end{center}
+\newpage
+\fork{Eksempel 1}{
+Sidan vi skal dele \colg{92} med \colb{4}, gongar vi med \colb{4} fram til vi når \colg{92}.
+\begin{figure}
+	\centering
+	\subfloat[]{
+		\begin{tabular}{r|r|r}
+			$ \cdot\, \colb{4} $&\\ \hline
+			10&40&40 \\
+			&& \\
+			& &\\ \hline
+			&
+		\end{tabular}	
+	} \qquad
+\subfloat[]{
+	\begin{tabular}{r|r|r}
+		$ \cdot\, \colb{4} $&\\ \hline
+		10&40&40 \\
+		10&40&80 \\
+		&  & \\ \hline
+		&
+	\end{tabular}	
+} \\
+\subfloat[]{
+	\begin{tabular}{r|r|r}
+		$ \cdot\, \colb{4} $&\\ \hline
+		10&40&40 \\
+		10&40&80 \\
+		3& 12 &\colg{92} \\ \hline
+		&
+	\end{tabular}	
+} \qquad
+\subfloat[]{
+	\begin{tabular}{r|r|r}
+		$ \cdot\, \colb{4} $&\\ \hline
+		10&40&40 \\
+		10&40&80 \\
+		3& 12 &\colg{92} \\ \hline
+		\colo{23}&
+	\end{tabular}	
+}
+\end{figure}
+\begin{enumerate}[label=(\alph*)]
+	\item Vi gongar 10 med 4, som er lik 40. Da har vi så langt komme til 40.
+	\item Vi gongar 10 med 4, som er lik 40. Da har vi så langt komme til $ {40+40=80} $.
+	\item Vi gongar 3 med 4, som er lik 12. Da har vi komme til $ {80+12=92} $, som var målet.
+	\item Vi legg saman tala vi gonga med, og får $ {10+10+3=23} $.
+\end{enumerate}
+}
+\info{Tips}{
+Det kan vere lurt å sjå tilbake på utrekningar gjort med tabellmetoden for å tenke over om ein kunne valt tal på ein betre måte. For eksempel, i \textsl{Eksempel 1} over kunne vi starta med å gonge med 20. Dette er omlag like enkelt som å gonge med 10, og det ville ha bringa oss nærare målet.
+}
+\newpage
+\subsubsection{Divisjon med rest}
+Det er langt ifrå alltid at svaret ved divisjon blir eit heiltal. Ein måte å uttrykke slike svar på, er å ved å bruke omgrepet \textit{rest}\index{rest}. Omgrepet er best forklart ved eksempel: \regv
+\eks[1]{
+Rekn ut $ 11:4 $ med rest.
+
+\sv
+Det største heiltalet vi kan gonge med 4 utan at produktet blir større enn
+11, er 2. $ {2\cdot 4 = 8} $, så da har vi $ 11-8=3 $ i rest.
+\[ 11= \colb{2}\cdot 4 +\colc{3} \]	
+\fig{mod1}
+Dette betyr at
+\[ 11:4 =\text{\colb{2} og \colc{3} i rest}\]
+}
+\eks[2]{
+	Rekn ut $ 19:3 $ med rest.
+	
+	\sv
+	Det største heiltalet vi kan gonge med 3 utan at produktet blir større enn
+	19, er 6. $ {6\cdot 3 = 18} $, så da har vi $ 19-8=1 $ i rest.
+	\[ 19= \colb{6}\cdot 3 +\colc{1} \]	
+	\fig{mod2}
+	Dette betyr at
+	\[ 19:3 =\text{\colb{6} og \colc{1} i rest}\]
+}
+\newpage
+\eks[3]{
+Rekn ut $ 94:4 $ med rest.
+
+\sv
+\metode{Med oppstilling}{3.75cm}
+\[ 94:4 = \text{23 og 2 i rest} \]
+\begin{figure}
+	\centering
+	\includegraphics[]{rekfig/mod3}
+\end{figure}
+\mers{Da det blir feil å bruke \sym{$ = $} i figuren over, har vi valt å bruke \sym{$  \rightarrow$}. 
+}\vsk 
+
+\metode{Med tabellmetoden}{3.75cm}
+\[ 94:4 = \text{23 og 2 i rest} \]
+\begin{center}
+		\begin{tabular}{r|r|r}
+		$ \cdot\, 4$&\\ \hline
+		20&80&80 \\
+		3& 12 &92 \\ \hline
+		23&
+	\end{tabular} \qquad $ 94-92=2 $
+\end{center}
+}
+\spr{
+Viss vi utfører ein \textit{modulo-operasjon}, finn vi resten i eit delestykke. Dette blir ofte vist ved forkortinga \sym{mod}. For eksempel er
+\[ 11\text{ mod } 4= 3\qquad , \qquad 19\text{ mod 3} =1 \]
+I tillegg til \sym{\texttt{mod}}, blir også \sym{\texttt{\%}} og \sym{{\texttt{\string \\}}} brukt som symbol for denne operasjonen i programmeringsspråk.
+}
+\newpage
+\subsubsection{Divisjon med blanda tal som svar}
+\eks[1]{
+Rekn ut $ 11:4 $. Skriv svaret som eit blanda tal.
+
+\sv \vsb
+\[ 11:4 = \text{2 og 3 i rest}=2+\frac{3}{4} \]
+}
+\eks[2]{
+Rekn ut $ 19:3 $. Skriv svaret som eit blanda tal.
+
+\sv \vsb
+\[ 19:3=\text{6 og 1 i rest}=6+\frac{1}{3} \]
+}
+\fork{Eksempel 1}{
+Vi startar med å legge merke til at $ 4=\frac{4}{1} $. Dette betyr at
+\[ 11:4 = 11:\frac{4}{1} \]
+Av \rref{delmbr} har vi at
+\[ 11:\frac{4}{1} = 11\cdot \frac{1}{4} \]
+Vidare er $ 11=2\cdot 4+ 3 $, og da er
+\[ 11\cdot \frac{1}{4}=(2\cdot 4+3)\cdot\frac{1}{4} \]
+Av \rref{gangpar} har vi at
+\alg{
+(2\cdot 4+3)\cdot\frac{1}{4}&=2\cdot4\cdot\frac{1}{4}+3\cdot \frac{1}{4} \\
+&= 2+\frac{3}{4}
+}
+}
+\newpage
+\subsection{Divisjon med desimaltal som svar}
+\eks[1]{
+Rekn ut $ 11:4 $. Oppgi svaret som desimaltal.	
+
+\sv
+
+\metode{Med oppstilling}{3.75cm} \vs
+\[ 11:4=2,75 \]
+\begin{figure}
+	\centering
+	\includegraphics{rekfig/deldes1}
+\end{figure}
+\metode{Med tabellmetoden}{3.75cm} \vs
+\[ 11:4 = 2,75\]
+\begin{center}
+	\begin{tabular}{r|r|r}
+		$ \cdot\, 4$&\\ \hline
+		2&8&8 \\
+		0,5& 2 &10 \\
+		0,25& 1 &11\\ \hline
+		2,75&
+	\end{tabular}
+\end{center}
+}
+\fork{Eksempel 1; oppstilling}{
+Sidan vi deler med 4, er det snakk om å fordele 11 likt i 4 grupper.
+\begin{itemize}
+	\item 8 av dei 11 einarane kan vi fordele likt i 4 grupper. Da har vi igjen 3 einarar. Dette er det same som 30 tidelar.
+	\item 28 av dei 30 tidelane kan vi fordele likt i 4 grupper. Da har vi igjen 2 tidelar. Dette er det same som 20 hundredelar.
+	\item 20 av dei 20 hundredelane kan vi fordele likt i 4 grupper.
+	\item Heile mengda 11 er no fordelt, og da er vi ferdige med utrekninga.
+\end{itemize}
+}
+\newpage
 
 \section{Primtalsfaktorisering \label{primtalsfakt}}
 \mer Primtala mellom 1-100 finn du på side \pageref{primtalfig}.

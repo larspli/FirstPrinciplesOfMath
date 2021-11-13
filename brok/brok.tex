@@ -170,7 +170,7 @@ Det vi har gjort, er å utvide begge brøkane slik at dei har same nemnar, nemle
 \frac{3}{5}-\frac{1}{2}&=\frac{6}{10}-\frac{5}{10}\br
 &=\frac{1}{10}
 }
-\reg[Addisjon/subtraksjon av brøkar med ulik\\ nemnar]{
+\reg[Addisjon/subtraksjon av brøkar med ulik\\ nemnar \label{braduliknemn}]{
 Når vi reknar addisjon/subtraksjon mellom brøkar med ulik nemnar, må vi utvide brøkane slik at dei har lik nemnar, for så å bruke \rref{bradliknemn}.
 }
 \eks[1]{
@@ -504,8 +504,49 @@ Eit kvart tal som kan bli skriven som ein brøk med heiltals tellar og nemnar, e
 	For eksempel $ 0,2=\frac{1}{5} $.
 	\item \textbf{Desimaltal med repeterande desimalmønster} \\
 	For eksempel \footnote{\sym{$ \bar{3} $} indikerer at 3 fortsett i det uendelege. Ein annan måte å indikere dette på er å bruke symbolet \sym{...}\,. Altså er $ 0,08\bar{3}=0,08333333 ... $} $ 0,08\bar{3}=\frac{1}{12} $. 
-\end{itemize}}
+\end{itemize}} \vsk
 
+\reg[Blanda tal\index{tal!blanda}]{
+Om vi adderer eit heiltal med ein brøk der tellaren er mindre enn nemnaren, får vi eit \textit{blanda tal}.
+}
+\eks[1]{
+Tre forskjellige blanda tal:
+\[   2+\dfrac{5}{7} \qquad\qquad
+ 8+\dfrac{2}{7} \qquad\qquad
+ \dfrac{1}{10}+4  \]
+}
+\info{Obs!}{
+I mange bøker vil du finne tal som dei fra \textsl{Eksempel 1} over skrivne slik
+\[   2\dfrac{5}{7} \qquad\qquad
+8\dfrac{2}{7} \qquad\qquad
+4\dfrac{1}{10}  \]
+}
+\newpage
+\eks[2]{
+Skriv om brøken $ \frac{17}{3} $ til eit blanda tal.
+
+\sv 
+Vi legg merke til at tellaren er 17 og nemnaren er 3. Det største heiltalet vi kan gonge med 3 utan at produktet blir større enn 17, er 5. Altså kan vi skrive
+\alg{
+\frac{17}{\colb{3}}&=\frac{5\cdot\colb{3}+2}{\colb{3}}\br
+&= \frac{5\cdot\colb{\cancel{3}}}{\colb{\cancel{3}}}+\frac{2}{\colb{3}} \\
+&=5+\frac{2}{3}
+}
+}
+\eks[3]{
+Skriv om $ 3+\frac{4}{5} $ til ein brøk.
+
+\sv
+
+Vi har at $ 3=\frac{3}{1} $, altså er
+\[ 3+\frac{4}{5}=\frac{3}{1}+\frac{4}{5} \]
+Vidare har vi at\footnote{Sjå \rref{braduliknemn}.}
+\alg{
+\frac{3}{1}+\frac{4}{5}&= \frac{3\cdot5}{1\cdot5}+\frac{4}{5} \br
+&= \frac{15}{5}+\frac{4}{5}\br
+&= \frac{19}{5}
+}
+}
 \end{document}
 
 

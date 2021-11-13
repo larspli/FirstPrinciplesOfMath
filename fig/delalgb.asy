@@ -4,7 +4,7 @@ import figs;
 unitsize(0.2 cm);
 
 real d = 0.5;
-real a = 4+d;
+real a = 5+2*d;
 real h = 12;
 real dx = 1+d;
 path b = box((-1,-1),(a-1,h-1));
@@ -19,10 +19,10 @@ void grp(int n, int m=0, real x=0, real y=0) {
 	draw(shift((x,y))*b);
 }
 
-grp(1,9,0,0);
-grp(1,9,a,0);
-grp(1,9,0,h);
-grp(1,9,a,h);
+grp(2,3,0,0);
+grp(2,3,a,0);
+grp(2,3,0,h);
+grp(2,3,a,h);
 
 
 

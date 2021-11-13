@@ -169,7 +169,7 @@ Det vi har gjort, er å utvide begge brøkene slik at de har samme nevner, nemli
 \frac{3}{5}-\frac{1}{2}&=\frac{6}{10}-\frac{5}{10}\br
 &=\frac{1}{10}
 }
-\reg[Addisjon/subtraksjon av brøkar med ulik\\ nevner]{
+\reg[Addisjon/subtraksjon av brøkar med ulik\\ nevner \label{braduliknemn}]{
 Når vi regner addisjon/subtraksjon mellom brøker med ulik nevner, må vi utvide brøkene slik at de har lik nevner, for så å bruke \rref{bradliknemn}.
 }
 \eks[1]{
@@ -502,8 +502,49 @@ Et hvert tall som kan bli skrevet som en brøk med heltalls teller og nevner, er
 	For eksempel $ 0,2=\frac{1}{5} $.
 	\item \textbf{Desimaltall med repeterende desimalmønster} \\
 	For eksempel \footnote{\sym{$ \bar{3} $} indikerer at 3 fortsetter i det uendelige. En annen måte å indikere dette på er å bruke symbolet \sym{...}\,. Altså er $ 0,08\bar{3}=0,08333333 ... $} $ 0,08\bar{3}=\frac{1}{12} $. 
-\end{itemize}}
+\end{itemize}} \vsk
 
+\reg[Blanda tal\index{tal!blanda}]{
+	Om vi adderer et heltal med en brøk der telleren er mindre enn nevneren, får vi et \textit{blanda tall}.
+}
+\eks[1]{
+	Tre forskjellige blanda tall:
+	\[   2+\dfrac{5}{7} \qquad\qquad
+	8+\dfrac{2}{7} \qquad\qquad
+	\dfrac{1}{10}+4  \]
+}
+\info{Obs!}{
+	I mange bøker vil du finne tall som dem fra \textsl{Eksempel 1} over skrevet slik
+	\[   2\dfrac{5}{7} \qquad\qquad
+	8\dfrac{2}{7} \qquad\qquad
+	4\dfrac{1}{10}  \]
+}
+\newpage
+\eks[2]{
+	Skriv om brøken $ \frac{17}{3} $ til et blanda tall.
+	
+	\sv 
+	Vi legger merke til at telleren er 17 og nevneren er 3. Det største heltalet vi kan gange med 3 utan at produktet blir større enn 17, er 5. Altså kan vi skrive
+	\alg{
+		\frac{17}{\colb{3}}&=\frac{5\cdot\colb{3}+2}{\colb{3}}\br
+		&= \frac{5\cdot\colb{\cancel{3}}}{\colb{\cancel{3}}}+\frac{2}{\colb{3}} \\
+		&=5+\frac{2}{3}
+	}
+}
+\eks[3]{
+	Skriv om $ 3+\frac{4}{5} $ til en brøk.
+	
+	\sv
+	
+	Vi har at $ 3=\frac{3}{1} $, altså er
+	\[ 3+\frac{4}{5}=\frac{3}{1}+\frac{4}{5} \]
+	Videre har vi at\footnote{Se \rref{braduliknemn}.}
+	\alg{
+		\frac{3}{1}+\frac{4}{5}&= \frac{3\cdot5}{1\cdot5}+\frac{4}{5} \br
+		&= \frac{15}{5}+\frac{4}{5}\br
+		&= \frac{19}{5}
+	}
+}
 \end{document}
 
 
