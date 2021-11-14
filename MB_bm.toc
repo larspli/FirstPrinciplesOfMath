@@ -92,10 +92,10 @@
 \contentsline {section}{\numberline {10.1}Introduksjon}{171}{section.10.1}%
 \contentsline {section}{\numberline {10.2}Lineære funksjoner og grafer}{174}{section.10.2}%
 \contentsline {section}{Oppgaver}{182}{section*.117}%
-\contentsline {chapter}{\numberline {11}Geometri}{184}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Formler for areal og omkrets}{185}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Kongruente og formlike trekanter}{198}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Forklaringar}{203}{section.11.3}%
-\contentsline {chapter}{Fasit}{222}{section*.132}%
+\contentsline {chapter}{\numberline {11}Geometri}{188}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Formler for areal og omkrets}{189}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Kongruente og formlike trekanter}{202}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Forklaringar}{207}{section.11.3}%
+\contentsline {chapter}{Fasit}{226}{section*.132}%
 
-\contentsline {chapter}{Indeks}{226}{chapter*.135}%
+\contentsline {chapter}{Indeks}{230}{chapter*.135}%

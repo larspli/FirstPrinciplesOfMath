@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  12 NOV 2021 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  14 NOV 2021 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1987,26 +1987,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--637
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 640--640
-[]\T1/lmr/m/n/10.95 I starten er det lurt å sjå tilbake på utrekningar gjort me
-d
+[]\T1/lmr/m/n/10.95 Det kan vere lurt å sjå tilbake på utrekningar gjort med ta
+bell-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 640--640
-\T1/lmr/m/n/10.95 tabell-me-to-den for å tenke over om ein kunne valt tal på ei
-n be-
+\T1/lmr/m/n/10.95 me-to-den for å tenke over om ein kunne valt tal på ein be-tr
+e
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 640--640
-\T1/lmr/m/n/10.95 tre måte. For ek-sem-pel, i \T1/lmr/m/sl/10.95 Ek-sem-pel 1 \
-T1/lmr/m/n/10.95 over kunne vi starta med
+\T1/lmr/m/n/10.95 måte. For ek-sem-pel, i \T1/lmr/m/sl/10.95 Ek-sem-pel 1 \T1/l
+mr/m/n/10.95 over kunne vi starta med å
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 640--640
-\T1/lmr/m/n/10.95 å gonge med 20. Dette er om-lag like enkelt som å gonge med 1
-0,
+\T1/lmr/m/n/10.95 gonge med 20. Dette er om-lag like enkelt som å gonge med 10,
+
  []
 
 [16]
@@ -2190,7 +2190,7 @@ lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmtt10.pfb>
-Output written on rek.pdf (22 pages, 350851 bytes).
+Output written on rek.pdf (22 pages, 350869 bytes).
 PDF statistics:
  525 PDF objects out of 1000 (max. 8388607)
  445 compressed objects within 5 object streams
