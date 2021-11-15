@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  23 OCT 2021 12:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  15 NOV 2021 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3129,10 +3129,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 32054 strings out of 481239
- 628329 string characters out of 5920378
- 959344 words of memory out of 5000000
- 46458 multiletter control sequences out of 15000+600000
+ 32055 strings out of 481239
+ 628335 string characters out of 5920378
+ 959385 words of memory out of 5000000
+ 46459 multiletter control sequences out of 15000+600000
  617330 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,20n,104p,870b,997s stack positions out of 5000i,500n,10000p,200000b,80000s
