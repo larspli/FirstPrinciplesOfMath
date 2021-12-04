@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  14 OCT 2021 10:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  16 NOV 2021 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1437,7 +1437,7 @@ LaTeX Warning: Reference `adkom' on page 3 undefined on input line 74.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]\T1/lmr/m/sl/10.95 Regel [][] \T1/lmr/m/n/10.95 erk-lærer at ad-dis-jon er ko
+[]\T1/lmr/m/sl/10.95 regel [][] \T1/lmr/m/n/10.95 erk-lærer at ad-dis-jon er ko
 m-mu-ta-tiv. Dette er gjeldende
  []
 
@@ -1507,7 +1507,7 @@ LaTeX Warning: Reference `gangkom' on page 5 undefined on input line 145.
 
 Underfull \hbox (badness 10000) in paragraph at lines 145--145
 []\T1/lmr/m/sl/10.95 Eksempel 2 \T1/lmr/m/n/10.95 og \T1/lmr/m/sl/10.95 Ek-sem-
-pel 3 \T1/lmr/m/n/10.95 på side []5[] il-lus-tr-erer at []\T1/lmr/m/sl/10.95 Re
+pel 3 \T1/lmr/m/n/10.95 på side []5[] il-lus-tr-erer at []\T1/lmr/m/sl/10.95 re
 gel [][] \T1/lmr/m/n/10.95 også
  []
 
@@ -1583,10 +1583,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31431 strings out of 481239
- 616706 string characters out of 5920378
- 937392 words of memory out of 5000000
- 45985 multiletter control sequences out of 15000+600000
+ 31440 strings out of 481239
+ 616777 string characters out of 5920378
+ 937602 words of memory out of 5000000
+ 45994 multiletter control sequences out of 15000+600000
  612669 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,14n,104p,1030b,914s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1601,7 +1601,7 @@ texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 r9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pf
 b>
-Output written on neg_bm.pdf (9 pages, 236341 bytes).
+Output written on neg_bm.pdf (9 pages, 236017 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  159 compressed objects within 2 object streams
