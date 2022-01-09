@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  31 OCT 2021 20:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  5 JAN 2022 06:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1674,10 +1674,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31539 strings out of 481239
- 618593 string characters out of 5920378
- 936629 words of memory out of 5000000
- 46063 multiletter control sequences out of 15000+600000
+ 31540 strings out of 481239
+ 618599 string characters out of 5920378
+ 936659 words of memory out of 5000000
+ 46064 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,20n,104p,875b,912s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1703,7 +1703,7 @@ blic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on lig_bm.pdf (16 pages, 381863 bytes).
+Output written on lig_bm.pdf (16 pages, 381864 bytes).
 PDF statistics:
  429 PDF objects out of 1000 (max. 8388607)
  365 compressed objects within 4 object streams
