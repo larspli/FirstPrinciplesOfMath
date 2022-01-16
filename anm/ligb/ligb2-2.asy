@@ -2,7 +2,7 @@ import "../anmpdf.asy" as anm;
 import liginh;
 defaultpen(fontsize(10 pt));
 
-label((-3.65,1.8),"\textit{Eksempel 1}",blue+fontsize(8pt),align=E);
+label((-3.65,1.8),"\textit{Eksempel 2}",blue+fontsize(8pt),align=E);
 
 
 label("$=$", (x, eq_y));

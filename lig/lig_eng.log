@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  5 JAN 2022 06:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  16 JAN 2022 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1583,60 +1583,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--198
 
 [9
 
-] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+]
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+\T1/lmr/m/sl/9 Notice\T1/lmr/m/n/9 : In the other ex-am-ples, we have cho-sen t
+o col-lect the in-stances of $\OML/lmm/m/it/9 x$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+\T1/lmr/m/n/9 on the left side of the equa-tion but we can just as well col-lec
+t them on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+\T1/lmr/m/n/9 right side. By do-ing that here, we have avoided cal-cu-la-tions 
+with neg-a-tive
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 []\T1/lmr/m/n/10.95 To avoid frac-tions, we mul-ti-ply both sides by the com-mo
 n de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 []\T1/lmr/m/n/10.95 Some like to make the rule that ''we can mul-ti-ply or di-v
 ide all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 \T1/lmr/m/n/10.95 terms by the same num-ber''. In that case, we could have jump
 ed
  []
 
-[11] [12]
+[11]
 
-LaTeX Warning: Hyper reference `potsomgrunn' on page 13 undefined on input line
- 299.
+LaTeX Warning: Hyper reference `potsomgrunn' on page 12 undefined on input line
+ 297.
 
 
-LaTeX Warning: Reference `potsomgrunn' on page 13 undefined on input line 299.
+LaTeX Warning: Reference `potsomgrunn' on page 12 undefined on input line 297.
 
-[13
+[12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 353--353
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
 [][][][]\T1/lmr/m/n/9 As ear-lier men-tioned, \T1/lmr/m/it/9 real \T1/lmr/m/n/9
  and \T1/lmr/m/it/9 imag-i-nary \T1/lmr/m/n/9 num-bers lie out-side the scope o
 f
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--353
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
 \T1/lmr/m/n/10.95 has $\OML/lmm/m/it/10.95 a$ \T1/lmr/m/n/10.95 so-lu-tions, th
 ey are not nec-es-sar-ily all \T1/lmr/m/it/10.95 real[][][]\T1/lmr/m/n/10.95 . 
 Con-cern-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--353
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
 \T1/lmr/m/n/10.95 this book, it means we set-tle with find-ing all ra-tio-nal o
 r ir-ra-
  []
 
-[14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
+[13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
  (./lig_eng.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 354.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 354.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 352.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
 Package rerunfilecheck Info: File `lig_eng.out' has not changed.
 (rerunfilecheck)             Checksum: 2F7BC2DEC6D11DB852292A49A663F44E;258.
 
@@ -1645,13 +1663,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31468 strings out of 481239
- 617792 string characters out of 5920378
- 935583 words of memory out of 5000000
+ 31467 strings out of 481239
+ 617785 string characters out of 5920378
+ 935584 words of memory out of 5000000
  46008 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,20n,104p,877b,910s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,20n,104p,877b,912s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
@@ -1674,10 +1692,10 @@ blic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on lig_eng.pdf (14 pages, 371560 bytes).
+Output written on lig_eng.pdf (13 pages, 371193 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 387 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 34 named destinations out of 1000 (max. 500000)
  130 words of extra memory for PDF output out of 10000 (max. 10000000)
 

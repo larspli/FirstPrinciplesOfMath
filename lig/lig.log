@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  5 JAN 2022 06:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  16 JAN 2022 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1604,7 +1604,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--202
 
 [9
 
-] [10]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+\T1/lmr/m/sl/9 Merk\T1/lmr/m/n/9 : I dei an-dre ek-sem-pla har vi valgt å samle
+ $\OML/lmm/m/it/9 x$\T1/lmr/m/n/9 -ane på ven-stre side av
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+\T1/lmr/m/n/9 likninga, men ein kan likså gjerne samle dei på hø-gre side. Ved 
+å gjere det
+ []
+
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []\T1/lmr/m/n/10.95 Får å un-ngå brøkar, gongar vi begge sider med fellesnemnar
 en
@@ -1638,26 +1650,26 @@ LaTeX Warning: Reference `potsomgrunn' on page 12 undefined on input line 301.
 [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 355--355
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 [][][][]\T1/lmr/m/n/9 Som ti-dle-gare nemnd, \T1/lmr/m/it/9 reelle \T1/lmr/m/n/
 9 og \T1/lmr/m/it/9 imag-inære \T1/lmr/m/n/9 tal er noko vi ikkje går nærare
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--355
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \T1/lmr/m/n/10.95 har $\OML/lmm/m/it/10.95 a$ \T1/lmr/m/n/10.95 løysin-gar, er 
 ikkje alle naudsyn-leg \T1/lmr/m/it/10.95 reelle[][][]\T1/lmr/m/n/10.95 . I den
 ne boka
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--355
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \T1/lmr/m/n/10.95 nøyer vi oss med å finne alle rasjonale eller ir-rasjonale ta
 l som
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 378--378
+Underfull \hbox (badness 10000) in paragraph at lines 377--377
 []\T1/lmr/m/n/10.95 0 er større enn eit kvart neg-a-tivt tal og min-dre enn eit
 
  []
@@ -1665,29 +1677,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 378--378
 [14
 
 ] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 []\T1/lmr/m/n/10.95 Ulikskapar kan løysast på same måte som likningar, men med
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 \T1/lmr/m/n/10.95 eit un-ntak: Viss ein gongar eller deler begge sider av ein u
 lik-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--449
+Underfull \hbox (badness 10000) in paragraph at lines 448--448
 \T1/lmr/m/sl/10.95 Merk\T1/lmr/m/n/10.95 : Her kan ein sjølvsagt un-ngå å dele 
 med $\OMS/lmsy/m/n/10.95 ^^@\OT1/lmr/m/n/10.95 2$ \T1/lmr/m/n/10.95 ved å isol-
 ere
  []
 
 [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 450.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 450.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
  (./lig.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 450.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 450.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
 Package rerunfilecheck Info: File `lig.out' has not changed.
 (rerunfilecheck)             Checksum: FEC776BFF8D80A9CB4ACB6EFE1131099;429.
 
@@ -1698,7 +1710,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  31538 strings out of 481239
  618514 string characters out of 5920378
- 936609 words of memory out of 5000000
+ 936610 words of memory out of 5000000
  46063 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1725,7 +1737,7 @@ blic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on lig.pdf (16 pages, 381969 bytes).
+Output written on lig.pdf (16 pages, 382554 bytes).
 PDF statistics:
  430 PDF objects out of 1000 (max. 8388607)
  366 compressed objects within 4 object streams

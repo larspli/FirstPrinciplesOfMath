@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  11 NOV 2021 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  16 JAN 2022 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1606,10 +1606,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31435 strings out of 481239
- 617018 string characters out of 5920378
- 934616 words of memory out of 5000000
- 45992 multiletter control sequences out of 15000+600000
+ 31436 strings out of 481239
+ 617024 string characters out of 5920378
+ 934647 words of memory out of 5000000
+ 45993 multiletter control sequences out of 15000+600000
  618695 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,10n,104p,876b,995s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1630,7 +1630,7 @@ f/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on funk_bm.pdf (12 pages, 334235 bytes).
+Output written on funk_bm.pdf (12 pages, 334234 bytes).
 PDF statistics:
  267 PDF objects out of 1000 (max. 8388607)
  220 compressed objects within 3 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  5 JAN 2022 06:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.9)  16 JAN 2022 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1586,20 +1586,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--201
 
 [9
 
-] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
-[]\T1/lmr/m/n/10.95 Får å un-ngå brøker, ganger vi begge sider med fellesnevner
-en
+]
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+\T1/lmr/m/sl/9 Merk\T1/lmr/m/n/9 : I de an-dre ek-sem-p-lene har vi valgt å sam
+le $\OML/lmm/m/it/9 x$\T1/lmr/m/n/9 -ene på ven-stre side av
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+\T1/lmr/m/n/9 liknin-gen, men vi kan likså gjerne samle dem på hø-gre side. Ved
+ å gjøre det
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
 []\T1/lmr/m/n/10.95 Mange liker å lage seg en regel om at ''vi kan gange eller 
 dele
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
 \T1/lmr/m/n/10.95 alle ledd med det samme tal-let''. I ek-sem-pelet over kunne 
 vi da
  []
@@ -1607,34 +1613,34 @@ vi da
 [11]
 
 LaTeX Warning: Hyper reference `potsomgrunn' on page 12 undefined on input line
- 300.
+ 299.
 
 
-LaTeX Warning: Reference `potsomgrunn' on page 12 undefined on input line 300.
+LaTeX Warning: Reference `potsomgrunn' on page 12 undefined on input line 299.
 
 [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 [][][][]\T1/lmr/m/n/9 Som nevnt, \T1/lmr/m/it/9 reelle \T1/lmr/m/n/9 og \T1/lmr
 /m/it/9 imag-inære \T1/lmr/m/n/9 tall er noe vi ikke går nærmere inn på i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 \T1/lmr/m/n/10.95 har $\OML/lmm/m/it/10.95 a$ \T1/lmr/m/n/10.95 løs-ningar, er 
 ikke alle nød-vendigvis \T1/lmr/m/it/10.95 reelle[][][]\T1/lmr/m/n/10.95 . I de
 nne boka
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 \T1/lmr/m/n/10.95 nøyer vi oss med å finne alle rasjonale eller ir-rasjonale ta
 ll som
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 378--378
+Underfull \hbox (badness 10000) in paragraph at lines 377--377
 []\T1/lmr/m/n/10.95 0 er større enn et hvert neg-a-tivt tal og min-dre enn et h
 vert
  []
@@ -1642,30 +1648,30 @@ vert
 [14
 
 ] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 []\T1/lmr/m/n/10.95 Ulikheter kan løses på same måte som likninger, men med ett
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 \T1/lmr/m/n/10.95 un-ntak: Hvis man gan-gar eller deler begge sider av en ulikh
 et
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--449
+Underfull \hbox (badness 10000) in paragraph at lines 448--448
 \T1/lmr/m/sl/10.95 Merk\T1/lmr/m/n/10.95 : Her kan vi selvsagt un-ngå å dele me
 d $\OMS/lmsy/m/n/10.95 ^^@\OT1/lmr/m/n/10.95 2$ \T1/lmr/m/n/10.95 ved å isol-er
 e
  []
 
 [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 450.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 450.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
  (./lig_bm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 450.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 450.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
 Package rerunfilecheck Info: File `lig_bm.out' has not changed.
 (rerunfilecheck)             Checksum: D3D92F0F6D4C7DDBD63E7BB1D3422EC5;425.
 
@@ -1676,7 +1682,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  31540 strings out of 481239
  618599 string characters out of 5920378
- 936659 words of memory out of 5000000
+ 936660 words of memory out of 5000000
  46064 multiletter control sequences out of 15000+600000
  616900 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1703,7 +1709,7 @@ blic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb>
-Output written on lig_bm.pdf (16 pages, 381864 bytes).
+Output written on lig_bm.pdf (16 pages, 382369 bytes).
 PDF statistics:
  429 PDF objects out of 1000 (max. 8388607)
  365 compressed objects within 4 object streams
