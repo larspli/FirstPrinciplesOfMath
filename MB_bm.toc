@@ -8,7 +8,7 @@
 \contentsline {chapter}{\numberline {2}De fire regneartene }{17}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Addisjon}{18}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Subtraksjon}{20}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Multiplikasjon (Gonging) }{22}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Multiplikasjon (Ganging) }{22}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Divisjon (deling)}{25}{section.2.4}%
 \contentsline {section}{Oppgaver}{27}{section*.9}%
 \contentsline {chapter}{\numberline {3}Faktorisering og regnerekkefølge}{31}{chapter.3}%
@@ -57,13 +57,13 @@
 \contentsline {subsubsection}{Oppstilling}{95}{subsubsection*.64}%
 \contentsline {subsubsection}{Tabellmetoden}{97}{subsubsection*.65}%
 \contentsline {subsubsection}{Divisjon med rest}{99}{subsubsection*.66}%
-\contentsline {subsubsection}{Divisjon med blanda tall som svar}{101}{subsubsection*.67}%
+\contentsline {subsubsection}{Divisjon med blandet tall som svar}{101}{subsubsection*.67}%
 \contentsline {subsection}{\numberline {6.4.1}Divisjon med desimaltall som svar}{102}{subsection.6.4.1}%
-\contentsline {section}{\numberline {6.5}Primtalsfaktorisering }{103}{section.6.5}%
+\contentsline {section}{\numberline {6.5}Primtallsfaktorisering }{103}{section.6.5}%
 \contentsline {section}{Oppgaver}{105}{section*.68}%
 \contentsline {chapter}{\numberline {7}Geometri}{108}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Begrep}{109}{section.7.1}%
-\contentsline {subsubsection}{Høgde og grunnlinje }{117}{subsubsection*.70}%
+\contentsline {subsubsection}{Høyde og grunnlinje }{117}{subsubsection*.70}%
 \contentsline {section}{\numberline {7.2}Egenskaper for trekanter og firkanter}{118}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Omkrets}{122}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Areal}{123}{section.7.4}%
@@ -87,7 +87,7 @@
 \contentsline {section}{\numberline {9.4}Potenslikninger}{165}{section.9.4}%
 \contentsline {section}{\numberline {9.5}Ulikheter}{167}{section.9.5}%
 \contentsline {subsection}{\numberline {9.5.1}Introduksjon}{167}{subsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.5.2}Løysing av ulikskapar}{169}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.2}Løsing av ulikheter}{169}{subsection.9.5.2}%
 \contentsline {chapter}{\numberline {10}Funksjoner }{170}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Introduksjon}{171}{section.10.1}%
 \contentsline {section}{\numberline {10.2}Lineære funksjoner og grafer}{174}{section.10.2}%
@@ -95,7 +95,7 @@
 \contentsline {chapter}{\numberline {11}Geometri}{188}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Formler for areal og omkrets}{189}{section.11.1}%
 \contentsline {section}{\numberline {11.2}Kongruente og formlike trekanter}{202}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Forklaringar}{207}{section.11.3}%
+\contentsline {section}{\numberline {11.3}Forklaringer}{207}{section.11.3}%
 \contentsline {chapter}{Fasit}{226}{section*.132}%
 
 \contentsline {chapter}{Indeks}{230}{chapter*.135}%
